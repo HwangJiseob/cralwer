@@ -1,0 +1,113 @@
+[INFO|CRAWLER.py] 2020-11-14 13:57:53,321 > 작업완료된 강의 객체 목록 다운로드 시작
+[INFO|CRAWLER.py] 2020-11-14 13:57:55,215 > 작업완료된 강의 객체 목록 다운로드 완료
+[INFO|CRAWLER.py] 2020-11-14 13:57:57,322 > 20181-글로벌인재대학-GLC공통교과과정 수집 시작
+[INFO|CRAWLER.py] 2020-11-14 13:57:57,962 > 15 rows in 1-15 of 20
+[INFO|CRAWLER.py] 2020-11-14 13:57:57,994 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-14 13:57:58,514 > 15 rows in 1-15 of 20
+[INFO|CRAWLER.py] 2020-11-14 13:57:58,606 > GCE1101-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:57:58,644 > GCI1101-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:57:58,682 > GCK1101-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:57:58,826 > GLD1005-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:57:58,865 > GLD1005-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:57:58,905 > GLD1006-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:57:58,944 > GLD1006-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:57:59,009 > GLD1008-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:01,571 > 5 rows in 16-20 of 20
+[INFO|CRAWLER.py] 2020-11-14 13:58:01,607 > GLD1009-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:01,644 > GLD1106-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:01,675 > GLD1106-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:01,706 > GCI1102-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:01,737 > GCK1103-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:03,774 > GLC공통교과과정 탐색 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:03,775 > 20181-글로벌인재대학-GLD공통교과과정 수집 시작
+[INFO|CRAWLER.py] 2020-11-14 13:58:04,363 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-14 13:58:14,908 > No caution link in 0th row
+[INFO|CRAWLER.py] 2020-11-14 13:58:15,415 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-14 13:58:15,416 > No caution in pages
+[INFO|CRAWLER.py] 2020-11-14 13:58:15,933 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-14 13:58:17,962 > GLD공통교과과정 탐색 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:17,962 > 20181-글로벌인재대학-글로벌인재학부-국제통상전공 수집 시작
+[INFO|CRAWLER.py] 2020-11-14 13:58:18,589 > 15 rows in 1-15 of 21
+[INFO|CRAWLER.py] 2020-11-14 13:58:18,620 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:19,139 > 15 rows in 1-15 of 21
+[INFO|CRAWLER.py] 2020-11-14 13:58:19,175 > GIC2201-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:19,214 > GCI2204-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:19,256 > GIC2203-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:19,293 > GIC2205-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:19,333 > GIC2207-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:19,371 > GIC2209-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:19,410 > GIC2210-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:19,449 > GIC2301-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:19,489 > GIC2303-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:19,527 > GIC3201-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:19,566 > GIC3202-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:19,603 > GIC3203-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:19,645 > GIC3204-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:19,682 > GIC3205-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:19,721 > GIC3206-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:22,274 > 6 rows in 16-21 of 21
+[INFO|CRAWLER.py] 2020-11-14 13:58:22,304 > GIC3302-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:24,365 > GIC3303-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:58:26,424 > GIC3208-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:58:28,476 > GIC4302-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:58:30,531 > GIC4303-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:58:32,587 > GIC4304-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:58:34,619 > 글로벌인재학부-국제통상전공 탐색 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:34,619 > 20181-글로벌인재대학-글로벌인재학부-한국문화전공 수집 시작
+[INFO|CRAWLER.py] 2020-11-14 13:58:35,212 > 15 rows in 1-15 of 16
+[INFO|CRAWLER.py] 2020-11-14 13:58:35,238 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:35,754 > 15 rows in 1-15 of 16
+[INFO|CRAWLER.py] 2020-11-14 13:58:37,822 > GCE2007-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:58:39,895 > GCE2008-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:58:41,954 > GCE2009-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:58:44,028 > GCE2101-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:58:44,070 > GCI2204-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:58:46,161 > GCK2101-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:58:48,234 > GKC2103-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:58:50,308 > GKC2105-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:58:52,372 > GKC3101-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:58:54,446 > GKC3102-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:58:56,509 > GKC3103-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:58:58,581 > GKC3108-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:59:00,638 > GKC4101-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:59:02,702 > GKC4102-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:59:04,765 > GKC4103-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:59:07,330 > 1 rows in 16-16 of 16
+[INFO|CRAWLER.py] 2020-11-14 13:59:09,389 > GKC4104-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:59:11,416 > 글로벌인재학부-한국문화전공 탐색 완료
+[INFO|CRAWLER.py] 2020-11-14 13:59:11,416 > 20181-글로벌인재대학-글로벌인재학부-한국언어문화교육전공 수집 시작
+[INFO|CRAWLER.py] 2020-11-14 13:59:12,045 > 8 rows in 1-8 of 8
+[INFO|CRAWLER.py] 2020-11-14 13:59:12,072 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-14 13:59:12,588 > 8 rows in 1-8 of 8
+[INFO|CRAWLER.py] 2020-11-14 13:59:12,625 > GCE2008-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:59:12,666 > GCE2101-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:59:12,706 > GCE2007-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:59:12,747 > GCE2009-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:59:12,790 > GCK2101-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 13:59:14,856 > GKE3105-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:59:16,911 > GKE3106-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:59:18,973 > GKE4102-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-14 13:59:20,993 > 글로벌인재학부-한국언어문화교육전공 탐색 완료
+[INFO|CRAWLER.py] 2020-11-14 13:59:20,993 > 20181-글로벌인재대학-글로벌인재학부-문화·미디어전공 수집 시작
+[INFO|CRAWLER.py] 2020-11-14 13:59:21,580 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-14 13:59:32,098 > No caution link in 0th row
+[INFO|CRAWLER.py] 2020-11-14 13:59:32,604 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-14 13:59:32,604 > No caution in pages
+[INFO|CRAWLER.py] 2020-11-14 13:59:33,121 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-14 13:59:35,142 > 글로벌인재학부-문화·미디어전공 탐색 완료
+[INFO|CRAWLER.py] 2020-11-14 13:59:35,142 > 20181-글로벌인재대학-글로벌인재학부-바이오생활공학전공 수집 시작
+[INFO|CRAWLER.py] 2020-11-14 13:59:35,726 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-14 13:59:46,243 > No caution link in 0th row
+[INFO|CRAWLER.py] 2020-11-14 13:59:46,750 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-14 13:59:46,750 > No caution in pages
+[INFO|CRAWLER.py] 2020-11-14 13:59:47,265 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-14 13:59:49,286 > 글로벌인재학부-바이오생활공학전공 탐색 완료
+[INFO|CRAWLER.py] 2020-11-14 13:59:49,286 > 20181-글로벌인재대학-글로벌인재학부-응용정보공학전공 수집 시작
+[INFO|CRAWLER.py] 2020-11-14 13:59:49,872 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-14 14:00:00,381 > No caution link in 0th row
+[INFO|CRAWLER.py] 2020-11-14 14:00:00,888 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-14 14:00:00,888 > No caution in pages
+[INFO|CRAWLER.py] 2020-11-14 14:00:01,403 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-14 14:00:03,424 > 글로벌인재학부-응용정보공학전공 탐색 완료
+[INFO|CRAWLER.py] 2020-11-14 14:00:03,424 > 글로벌인재대학 수집 완료
+[INFO|CRAWLER.py] 2020-11-14 14:00:03,425 > FINISHED_LECT_OBJs에 20181-SEARCH 전부 등록 완료

@@ -1,0 +1,366 @@
+[INFO|test.py] 2020-11-12 19:58:23,041 > 20202-글로벌인재대학-GLC공통교과과정 수집 시작
+[INFO|test.py] 2020-11-12 19:58:23,676 > 15 rows in 1-15 of 62
+[INFO|test.py] 2020-11-12 19:58:23,710 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 19:58:24,230 > 15 rows in 1-15 of 62
+[INFO|test.py] 2020-11-12 19:58:26,174 > 15 rows in 16-30 of 62
+[INFO|test.py] 2020-11-12 19:58:28,071 > 15 rows in 31-45 of 62
+[INFO|test.py] 2020-11-12 19:58:30,152 > GLC1201-01-00 cleared
+[INFO|test.py] 2020-11-12 19:58:32,220 > GLC1203-01-00 cleared
+[INFO|test.py] 2020-11-12 19:58:34,300 > GLC1208-01-00 cleared
+[INFO|test.py] 2020-11-12 19:58:36,416 > GLC1220-01-00 cleared
+[INFO|test.py] 2020-11-12 19:58:38,178 > 15 rows in 46-60 of 62
+[INFO|test.py] 2020-11-12 19:58:40,073 > 2 rows in 61-62 of 62
+[INFO|test.py] 2020-11-12 19:58:42,132 > YCA1101-12-00 cleared
+[INFO|test.py] 2020-11-12 19:58:44,189 > YCA1102-13-00 cleared
+[INFO|test.py] 2020-11-12 19:58:45,227 > GLC공통교과과정 탐색 완료
+[INFO|test.py] 2020-11-12 19:58:45,227 > 20202-글로벌인재대학-GLD공통교과과정 수집 시작
+[INFO|test.py] 2020-11-12 19:58:45,855 > 9 rows in 1-9 of 9
+[INFO|test.py] 2020-11-12 19:58:45,886 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 19:58:46,403 > 9 rows in 1-9 of 9
+[INFO|test.py] 2020-11-12 19:58:48,580 > GLD1204-01-00 cleared
+[INFO|test.py] 2020-11-12 19:58:50,713 > UCC1106-05-00 cleared
+[INFO|test.py] 2020-11-12 19:58:51,734 > GLD공통교과과정 탐색 완료
+[INFO|test.py] 2020-11-12 19:58:51,734 > 20202-글로벌인재대학-글로벌인재학부-국제통상전공 수집 시작
+[INFO|test.py] 2020-11-12 19:58:52,325 > 15 rows in 1-15 of 22
+[INFO|test.py] 2020-11-12 19:58:52,353 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 19:58:52,869 > 15 rows in 1-15 of 22
+[INFO|test.py] 2020-11-12 19:58:54,938 > GIC1101-01-00 cleared
+[INFO|test.py] 2020-11-12 19:58:57,006 > GIC2201-01-00 cleared
+[INFO|test.py] 2020-11-12 19:58:59,104 > GIC2203-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:01,181 > GIC2204-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:03,244 > GIC2205-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:05,330 > GIC2207-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:07,397 > GIC2209-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:09,486 > GIC2211-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:11,572 > GIC2304-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:13,633 > GIC2305-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:15,719 > GIC3202-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:17,821 > GIC3205-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:19,907 > GIC3209-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:21,998 > GIC3210-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:24,077 > GIC3211-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:25,648 > 7 rows in 16-22 of 22
+[INFO|test.py] 2020-11-12 19:59:27,716 > GIC3304-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:29,794 > GIC3305-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:31,862 > GIC3208-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:33,928 > GIC3208-02-00 cleared
+[INFO|test.py] 2020-11-12 19:59:35,990 > GIC4301-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:38,057 > GIC4304-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:40,116 > GIC4307-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:41,147 > 글로벌인재학부-국제통상전공 탐색 완료
+[INFO|test.py] 2020-11-12 19:59:41,147 > 20202-글로벌인재대학-글로벌인재학부-한국문화전공 수집 시작
+[INFO|test.py] 2020-11-12 19:59:41,774 > 15 rows in 1-15 of 17
+[INFO|test.py] 2020-11-12 19:59:41,803 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 19:59:42,319 > 15 rows in 1-15 of 17
+[INFO|test.py] 2020-11-12 19:59:42,346 > GLD1204-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|test.py] 2020-11-12 19:59:44,412 > GKE1001-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:46,494 > GCM2003-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:48,558 > GCM2004-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:50,641 > GCM2005-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:52,708 > GKE2302-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:54,791 > GKE2102-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:56,874 > GCM2017-01-00 cleared
+[INFO|test.py] 2020-11-12 19:59:58,958 > GCM3002-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:01,031 > GCM3003-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:03,108 > GCM3004-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:05,177 > GCM3014-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:07,253 > GCM3021-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:09,328 > GKE3401-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:11,395 > GCM4003-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:12,959 > 2 rows in 16-17 of 17
+[INFO|test.py] 2020-11-12 20:00:15,022 > GCM4007-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:17,107 > GCM4008-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:18,134 > 글로벌인재학부-한국문화전공 탐색 완료
+[INFO|test.py] 2020-11-12 20:00:18,134 > 20202-글로벌인재대학-글로벌인재학부-한국언어문화교육전공 수집 시작
+[INFO|test.py] 2020-11-12 20:00:18,760 > 9 rows in 1-9 of 9
+[INFO|test.py] 2020-11-12 20:00:18,787 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 20:00:19,303 > 9 rows in 1-9 of 9
+[INFO|test.py] 2020-11-12 20:00:19,330 > GKE1001-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|test.py] 2020-11-12 20:00:19,359 > GKE2302-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|test.py] 2020-11-12 20:00:19,392 > GKE2102-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|test.py] 2020-11-12 20:00:19,423 > GKE3401-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|test.py] 2020-11-12 20:00:21,503 > GKE3103-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:23,580 > GKE3104-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:25,652 > GKE3102-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:27,732 > GKE4103-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:29,798 > GKE4102-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:30,819 > 글로벌인재학부-한국언어문화교육전공 탐색 완료
+[INFO|test.py] 2020-11-12 20:00:30,819 > 20202-글로벌인재대학-글로벌인재학부-문화·미디어전공 수집 시작
+[INFO|test.py] 2020-11-12 20:00:31,406 > 15 rows in 1-15 of 32
+[INFO|test.py] 2020-11-12 20:00:31,433 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 20:00:31,958 > 15 rows in 1-15 of 32
+[INFO|test.py] 2020-11-12 20:00:34,032 > GCM1003-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:36,110 > GCM1004-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:38,187 > GCM1004-02-00 cleared
+[INFO|test.py] 2020-11-12 20:00:40,264 > GCM2007-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:42,329 > GCM2011-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:44,394 > GCM2011-02-00 cleared
+[INFO|test.py] 2020-11-12 20:00:44,427 > GCM2003-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|test.py] 2020-11-12 20:00:44,459 > GCM2004-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|test.py] 2020-11-12 20:00:44,488 > GCM2005-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|test.py] 2020-11-12 20:00:46,576 > GCM2010-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:48,654 > GCM2012-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:50,732 > GCM2015-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:52,810 > GCM2016-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:52,843 > GCM2017-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|test.py] 2020-11-12 20:00:52,876 > GCM3002-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|test.py] 2020-11-12 20:00:54,456 > 15 rows in 16-30 of 32
+[INFO|test.py] 2020-11-12 20:00:54,488 > GCM3003-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|test.py] 2020-11-12 20:00:54,520 > GCM3004-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|test.py] 2020-11-12 20:00:56,588 > GCM3007-01-00 cleared
+[INFO|test.py] 2020-11-12 20:00:58,653 > GCM3010-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:00,734 > GCM3011-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:02,806 > GCM3012-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:02,837 > GCM3014-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|test.py] 2020-11-12 20:01:04,915 > GCM3015-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:06,993 > GCM3016-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:09,080 > GCM3018-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:11,152 > GCM3019-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:13,236 > GCM3020-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:13,269 > GCM3021-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|test.py] 2020-11-12 20:01:15,345 > GCM3022-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:15,379 > GCM4003-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|test.py] 2020-11-12 20:01:16,920 > 2 rows in 31-32 of 32
+[INFO|test.py] 2020-11-12 20:01:16,945 > GCM4007-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|test.py] 2020-11-12 20:01:16,973 > GCM4008-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|test.py] 2020-11-12 20:01:18,010 > 글로벌인재학부-문화·미디어전공 탐색 완료
+[INFO|test.py] 2020-11-12 20:01:18,010 > 20202-글로벌인재대학-글로벌인재학부-바이오생활공학전공 수집 시작
+[INFO|test.py] 2020-11-12 20:01:18,636 > 5 rows in 1-5 of 5
+[INFO|test.py] 2020-11-12 20:01:18,665 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 20:01:19,181 > 5 rows in 1-5 of 5
+[INFO|test.py] 2020-11-12 20:01:21,238 > GBL1002-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:23,301 > GBL2006-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:25,364 > GBL2007-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:27,428 > GBL2008-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:29,493 > GBL2003-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:30,513 > 글로벌인재학부-바이오생활공학전공 탐색 완료
+[INFO|test.py] 2020-11-12 20:01:30,513 > 20202-글로벌인재대학-글로벌인재학부-응용정보공학전공 수집 시작
+[INFO|test.py] 2020-11-12 20:01:31,102 > 6 rows in 1-6 of 6
+[INFO|test.py] 2020-11-12 20:01:31,128 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 20:01:31,644 > 6 rows in 1-6 of 6
+[INFO|test.py] 2020-11-12 20:01:33,706 > GAI1001-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:35,773 > GAI2006-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:37,840 > GAI2008-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:39,906 > GAI2007-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:41,969 > GAI2005-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:44,036 > GAI2009-01-00 cleared
+[INFO|test.py] 2020-11-12 20:01:45,063 > 글로벌인재학부-응용정보공학전공 탐색 완료
+[INFO|test.py] 2020-11-12 20:01:45,063 > 글로벌인재대학 수집 완료
+[INFO|test.py] 2020-11-12 20:01:45,063 > 20202-의과대학-의학전공 수집 시작
+[INFO|test.py] 2020-11-12 20:01:45,702 > 15 rows in 1-15 of 154
+[INFO|test.py] 2020-11-12 20:01:45,722 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 20:01:46,241 > 15 rows in 1-15 of 154
+[INFO|test.py] 2020-11-12 20:01:48,165 > 15 rows in 16-30 of 154
+[INFO|test.py] 2020-11-12 20:01:50,047 > 15 rows in 31-45 of 154
+[INFO|test.py] 2020-11-12 20:01:51,951 > 15 rows in 46-60 of 154
+[INFO|test.py] 2020-11-12 20:01:53,832 > 15 rows in 61-75 of 154
+[INFO|test.py] 2020-11-12 20:01:55,710 > 15 rows in 76-90 of 154
+[INFO|test.py] 2020-11-12 20:01:57,596 > 15 rows in 91-105 of 154
+[INFO|test.py] 2020-11-12 20:01:59,479 > 15 rows in 106-120 of 154
+[INFO|test.py] 2020-11-12 20:02:01,363 > 15 rows in 121-135 of 154
+[INFO|test.py] 2020-11-12 20:02:03,248 > 15 rows in 136-150 of 154
+[INFO|test.py] 2020-11-12 20:02:05,120 > 4 rows in 151-154 of 154
+[INFO|test.py] 2020-11-12 20:02:06,247 > 의학전공 탐색 완료
+[INFO|test.py] 2020-11-12 20:02:06,248 > 20202-의과대학-의예과 수집 시작
+[INFO|test.py] 2020-11-12 20:02:06,871 > 15 rows in 1-15 of 21
+[INFO|test.py] 2020-11-12 20:02:06,891 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 20:02:07,406 > 15 rows in 1-15 of 21
+[INFO|test.py] 2020-11-12 20:02:09,318 > 6 rows in 16-21 of 21
+[INFO|test.py] 2020-11-12 20:02:10,493 > 의예과 탐색 완료
+[INFO|test.py] 2020-11-12 20:02:10,494 > 의과대학 수집 완료
+[INFO|test.py] 2020-11-12 20:02:10,494 > 20202-치과대학-치의학전공 수집 시작
+[INFO|test.py] 2020-11-12 20:02:11,104 > 15 rows in 1-15 of 74
+[INFO|test.py] 2020-11-12 20:02:11,211 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 20:02:11,728 > 15 rows in 1-15 of 74
+[INFO|test.py] 2020-11-12 20:02:13,644 > 15 rows in 16-30 of 74
+[INFO|test.py] 2020-11-12 20:02:15,530 > 15 rows in 31-45 of 74
+[INFO|test.py] 2020-11-12 20:02:17,407 > 15 rows in 46-60 of 74
+[INFO|test.py] 2020-11-12 20:02:19,283 > 14 rows in 61-74 of 74
+[INFO|test.py] 2020-11-12 20:02:20,626 > 치의학전공 탐색 완료
+[INFO|test.py] 2020-11-12 20:02:20,626 > 20202-치과대학-치의예과 수집 시작
+[INFO|test.py] 2020-11-12 20:02:21,249 > 7 rows in 1-7 of 7
+[INFO|test.py] 2020-11-12 20:02:21,268 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 20:02:21,785 > 7 rows in 1-7 of 7
+[INFO|test.py] 2020-11-12 20:02:22,973 > 치의예과 탐색 완료
+[INFO|test.py] 2020-11-12 20:02:22,974 > 치과대학 수집 완료
+[INFO|test.py] 2020-11-12 20:02:22,974 > 20202-간호대학-간호학(2-4학년) 수집 시작
+[INFO|test.py] 2020-11-12 20:02:23,582 > 15 rows in 1-15 of 35
+[INFO|test.py] 2020-11-12 20:02:23,602 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 20:02:24,118 > 15 rows in 1-15 of 35
+[INFO|test.py] 2020-11-12 20:02:26,043 > 15 rows in 16-30 of 35
+[INFO|test.py] 2020-11-12 20:02:27,919 > 5 rows in 31-35 of 35
+[INFO|test.py] 2020-11-12 20:02:29,069 > 간호학(2-4학년) 탐색 완료
+[INFO|test.py] 2020-11-12 20:02:29,069 > 20202-간호대학-RN-BSN 수집 시작
+[INFO|test.py] 2020-11-12 20:02:29,658 > 8 rows in 1-8 of 8
+[INFO|test.py] 2020-11-12 20:02:29,680 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 20:02:30,196 > 8 rows in 1-8 of 8
+[INFO|test.py] 2020-11-12 20:02:31,405 > RN-BSN 탐색 완료
+[INFO|test.py] 2020-11-12 20:02:31,405 > 간호대학 수집 완료
+[INFO|test.py] 2020-11-12 20:02:31,406 > 20202-Study Abroad Course-Undergraduate 수집 시작
+[INFO|test.py] 2020-11-12 20:02:32,010 > 15 rows in 1-15 of 36
+[INFO|test.py] 2020-11-12 20:02:32,034 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 20:02:32,551 > 15 rows in 1-15 of 36
+[INFO|test.py] 2020-11-12 20:02:34,647 > IEE1061-01-00 cleared
+[INFO|test.py] 2020-11-12 20:02:36,741 > IEE1062-01-00 cleared
+[INFO|test.py] 2020-11-12 20:02:38,828 > IEE1063-01-00 cleared
+[INFO|test.py] 2020-11-12 20:02:40,892 > IEE1101-01-00 cleared
+[INFO|test.py] 2020-11-12 20:02:42,964 > IEE1154-01-00 cleared
+[INFO|test.py] 2020-11-12 20:02:45,035 > IEE1154-02-00 cleared
+[INFO|test.py] 2020-11-12 20:02:57,104 > IEE2021-01-00 cleared
+[INFO|test.py] 2020-11-12 20:02:59,176 > IEE2060-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:01,242 > IEE2083-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:03,312 > IEE2084-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:05,379 > IEE2086-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:07,451 > IEE3103-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:19,515 > IEE3107-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:21,579 > IEE3108-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:23,642 > IEE3116-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:25,226 > 15 rows in 16-30 of 36
+[INFO|test.py] 2020-11-12 20:03:27,293 > IEE3121-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:29,361 > IEE3149-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:31,429 > IEE3300-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:33,491 > IEE3300-02-00 cleared
+[INFO|test.py] 2020-11-12 20:03:35,564 > IEE3300-03-00 cleared
+[INFO|test.py] 2020-11-12 20:03:37,627 > IEE3315-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:39,698 > IEE3317-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:41,760 > IEE3317-02-00 cleared
+[INFO|test.py] 2020-11-12 20:03:43,820 > IEE3325-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:45,880 > IEE3326-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:47,937 > IEE3329-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:49,997 > IEE3341-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:52,046 > IEE3341-02-00 cleared
+[INFO|test.py] 2020-11-12 20:03:54,099 > IEE3341-03-00 cleared
+[INFO|test.py] 2020-11-12 20:03:56,156 > IEE3371-01-00 cleared
+[INFO|test.py] 2020-11-12 20:03:57,706 > 6 rows in 31-36 of 36
+[INFO|test.py] 2020-11-12 20:03:59,767 > IEE3371-02-00 cleared
+[INFO|test.py] 2020-11-12 20:04:01,826 > IEE3372-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:03,894 > IEE3579-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:05,950 > IEE3581-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:08,015 > IEE3583-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:10,083 > IEE3159-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:11,132 > Undergraduate 탐색 완료
+[INFO|test.py] 2020-11-12 20:04:11,133 > 20202-Study Abroad Course-Graduate 수집 시작
+[INFO|test.py] 2020-11-12 20:04:11,763 > 15 rows in 1-15 of 127
+[INFO|test.py] 2020-11-12 20:04:11,795 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 20:04:12,313 > 15 rows in 1-15 of 127
+[INFO|test.py] 2020-11-12 20:04:14,420 > ARC7000-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:16,715 > CLL7515-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:18,312 > 15 rows in 16-30 of 127
+[INFO|test.py] 2020-11-12 20:04:20,483 > CSE5810-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:22,537 > CSE5950-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:24,594 > ECO6101-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:26,647 > ECO6112-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:28,699 > ECO6771-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:30,807 > EEE6112-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:32,856 > ELL7282-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:34,447 > 15 rows in 31-45 of 127
+[INFO|test.py] 2020-11-12 20:04:36,357 > 15 rows in 46-60 of 127
+[INFO|test.py] 2020-11-12 20:04:38,434 > ISC6051-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:40,500 > ISC6076-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:42,613 > ISC6138-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:44,737 > ISC6157-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:46,793 > ISC6159-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:48,839 > ISC6167-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:50,924 > ISC6173-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:52,492 > 15 rows in 61-75 of 127
+[INFO|test.py] 2020-11-12 20:04:54,548 > ISC6179-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:56,596 > ISC6210-01-00 cleared
+[INFO|test.py] 2020-11-12 20:04:58,644 > ISE6002-01-00 cleared
+[INFO|test.py] 2020-11-12 20:05:00,700 > ISF6023-01-00 cleared
+[INFO|test.py] 2020-11-12 20:05:02,759 > ISF6035-01-00 cleared
+[INFO|test.py] 2020-11-12 20:05:04,814 > ISF6036-01-00 cleared
+[INFO|test.py] 2020-11-12 20:05:06,866 > ISF6037-01-00 cleared
+[INFO|test.py] 2020-11-12 20:05:08,951 > ISF6048-01-00 cleared
+[INFO|test.py] 2020-11-12 20:05:11,012 > ISF6049-01-00 cleared
+[INFO|test.py] 2020-11-12 20:05:13,066 > ISF6052-01-00 cleared
+[INFO|test.py] 2020-11-12 20:05:15,114 > ISK6017-01-00 cleared
+[INFO|test.py] 2020-11-12 20:05:16,751 > 15 rows in 76-90 of 127
+[INFO|test.py] 2020-11-12 20:05:18,804 > ISM6018-01-00 cleared
+[INFO|test.py] 2020-11-12 20:05:21,012 > MAT6010-01-00 cleared
+[INFO|test.py] 2020-11-12 20:05:22,719 > 15 rows in 91-105 of 127
+[INFO|test.py] 2020-11-12 20:05:24,837 > MEU5028-01-00 cleared
+[INFO|test.py] 2020-11-12 20:05:27,072 > MEU6505-01-00 cleared
+[INFO|test.py] 2020-11-12 20:05:28,680 > 15 rows in 106-120 of 127
+[INFO|test.py] 2020-11-12 20:05:30,758 > MUS6001-01-00 cleared
+[INFO|test.py] 2020-11-12 20:05:32,813 > MUS6001-05-00 cleared
+[INFO|test.py] 2020-11-12 20:05:34,866 > MUS6001-09-00 cleared
+[INFO|test.py] 2020-11-12 20:05:36,922 > MUS6001-11-00 cleared
+[INFO|test.py] 2020-11-12 20:05:38,979 > MUS6001-12-00 cleared
+[INFO|test.py] 2020-11-12 20:05:41,035 > MUS6001-14-00 cleared
+[INFO|test.py] 2020-11-12 20:05:43,091 > MUS6001-15-00 cleared
+[INFO|test.py] 2020-11-12 20:05:45,223 > POL7140-01-00 cleared
+[INFO|test.py] 2020-11-12 20:05:46,859 > 7 rows in 121-127 of 127
+[INFO|test.py] 2020-11-12 20:05:48,967 > STA6220-01-00 cleared
+[INFO|test.py] 2020-11-12 20:06:01,058 > YJD7414-01-00 cleared
+[INFO|test.py] 2020-11-12 20:06:03,116 > YJD7811-01-00 cleared
+[INFO|test.py] 2020-11-12 20:06:04,182 > Graduate 탐색 완료
+[INFO|test.py] 2020-11-12 20:06:04,183 > 20202-Study Abroad Course-Korean Language 수집 시작
+[INFO|test.py] 2020-11-12 20:06:04,808 > 10 rows in 1-10 of 10
+[INFO|test.py] 2020-11-12 20:06:14,829 > No caution link in 0th row
+[INFO|test.py] 2020-11-12 20:06:15,337 > 10 rows in 1-10 of 10
+[INFO|test.py] 2020-11-12 20:06:25,348 > No caution link in 1th row
+[INFO|test.py] 2020-11-12 20:06:25,855 > 10 rows in 1-10 of 10
+[INFO|test.py] 2020-11-12 20:06:35,885 > No caution link in 2th row
+[INFO|test.py] 2020-11-12 20:06:36,392 > 10 rows in 1-10 of 10
+[INFO|test.py] 2020-11-12 20:06:46,417 > No caution link in 3th row
+[INFO|test.py] 2020-11-12 20:06:46,924 > 10 rows in 1-10 of 10
+[INFO|test.py] 2020-11-12 20:06:56,974 > No caution link in 4th row
+[INFO|test.py] 2020-11-12 20:06:57,480 > 10 rows in 1-10 of 10
+[INFO|test.py] 2020-11-12 20:07:07,500 > No caution link in 5th row
+[INFO|test.py] 2020-11-12 20:07:08,006 > 10 rows in 1-10 of 10
+[INFO|test.py] 2020-11-12 20:07:18,018 > No caution link in 6th row
+[INFO|test.py] 2020-11-12 20:07:18,525 > 10 rows in 1-10 of 10
+[INFO|test.py] 2020-11-12 20:07:28,547 > No caution link in 7th row
+[INFO|test.py] 2020-11-12 20:07:29,055 > 10 rows in 1-10 of 10
+[INFO|test.py] 2020-11-12 20:07:39,069 > No caution link in 8th row
+[INFO|test.py] 2020-11-12 20:07:39,577 > 10 rows in 1-10 of 10
+[INFO|test.py] 2020-11-12 20:07:49,630 > No caution link in 9th row
+[INFO|test.py] 2020-11-12 20:07:50,138 > 10 rows in 1-10 of 10
+[INFO|test.py] 2020-11-12 20:08:00,148 > No caution link in 10th row
+[INFO|test.py] 2020-11-12 20:08:00,654 > 10 rows in 1-10 of 10
+[INFO|test.py] 2020-11-12 20:08:00,654 > No caution in pages
+[INFO|test.py] 2020-11-12 20:08:01,172 > 10 rows in 1-10 of 10
+[INFO|test.py] 2020-11-12 20:08:03,260 > KLI1001-02-00 cleared
+[INFO|test.py] 2020-11-12 20:08:05,324 > KLI1002-01-00 cleared
+[INFO|test.py] 2020-11-12 20:08:07,390 > KLI1003-01-00 cleared
+[INFO|test.py] 2020-11-12 20:08:09,453 > KLI1004-01-00 cleared
+[INFO|test.py] 2020-11-12 20:08:11,513 > KLI1005-01-00 cleared
+[INFO|test.py] 2020-11-12 20:08:23,687 > KLI1006-01-00 cleared
+[INFO|test.py] 2020-11-12 20:08:25,750 > IEE1011-01-00 cleared
+[INFO|test.py] 2020-11-12 20:08:37,824 > IEE1012-01-00 cleared
+[INFO|test.py] 2020-11-12 20:08:49,887 > IEE1013-01-00 cleared
+[INFO|test.py] 2020-11-12 20:08:50,913 > Korean Language 탐색 완료
+[INFO|test.py] 2020-11-12 20:08:50,913 > Study Abroad Course 수집 완료
+[INFO|test.py] 2020-11-12 20:08:50,914 > 20202-국내교환대학-이화여자대학교 수집 시작
+[INFO|test.py] 2020-11-12 20:08:51,550 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 20:09:01,564 > No caution link in 0th row
+[INFO|test.py] 2020-11-12 20:09:02,070 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 20:09:02,070 > No caution in pages
+[INFO|test.py] 2020-11-12 20:09:02,589 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 20:09:03,608 > 이화여자대학교 탐색 완료
+[INFO|test.py] 2020-11-12 20:09:03,609 > 20202-국내교환대학-서강대학교 수집 시작
+[INFO|test.py] 2020-11-12 20:09:04,193 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 20:09:14,196 > No caution link in 0th row
+[INFO|test.py] 2020-11-12 20:09:14,703 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 20:09:14,703 > No caution in pages
+[INFO|test.py] 2020-11-12 20:09:15,219 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 20:09:16,238 > 서강대학교 탐색 완료
+[INFO|test.py] 2020-11-12 20:09:16,239 > 20202-국내교환대학-고려대학교 수집 시작
+[INFO|test.py] 2020-11-12 20:09:16,823 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 20:09:26,838 > No caution link in 0th row
+[INFO|test.py] 2020-11-12 20:09:27,345 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 20:09:27,346 > No caution in pages
+[INFO|test.py] 2020-11-12 20:09:27,860 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 20:09:28,880 > 고려대학교 탐색 완료
+[INFO|test.py] 2020-11-12 20:09:28,880 > 국내교환대학 수집 완료
+[INFO|test.py] 2020-11-12 20:09:28,881 > 20202-공통-창업,현장실습 수집 시작
+[INFO|test.py] 2020-11-12 20:09:29,481 > 6 rows in 1-6 of 6
+[INFO|test.py] 2020-11-12 20:09:29,513 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 20:09:30,030 > 6 rows in 1-6 of 6
+[INFO|test.py] 2020-11-12 20:09:32,195 > U0019-01-00 cleared
+[INFO|test.py] 2020-11-12 20:09:34,298 > U0020-01-00 cleared
+[INFO|test.py] 2020-11-12 20:09:36,378 > U0021-01-00 cleared
+[INFO|test.py] 2020-11-12 20:09:38,442 > U0022-01-00 cleared
+[INFO|test.py] 2020-11-12 20:09:39,463 > 창업,현장실습 탐색 완료
+[INFO|test.py] 2020-11-12 20:09:39,463 > 공통 수집 완료
+[INFO|test.py] 2020-11-12 20:09:39,464 > FINISHED_LECT_OBJs에 공통 전부 등록 완료

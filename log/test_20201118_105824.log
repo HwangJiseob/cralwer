@@ -1,0 +1,103 @@
+[INFO|CRAWLER.py] 2020-11-18 10:58:31,318 > 작업완료된 강의 객체 목록 다운로드 시작
+[INFO|CRAWLER.py] 2020-11-18 10:58:56,613 > 작업완료된 강의 객체 목록 다운로드 완료
+[INFO|CRAWLER.py] 2020-11-18 10:58:58,883 > 20202-약학대학-약학전공 수집 시작
+[INFO|CRAWLER.py] 2020-11-18 10:58:59,533 > 15 rows in 1-15 of 29
+[INFO|CRAWLER.py] 2020-11-18 10:58:59,573 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:00,093 > 15 rows in 1-15 of 29
+[INFO|CRAWLER.py] 2020-11-18 10:59:00,167 > PHM3006-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:00,237 > PHM3008-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:00,287 > PHM3009-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:00,387 > PHM3015-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:00,434 > PHM3104-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:00,484 > PHM3023-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:00,533 > PHM3024-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:00,580 > PHM3025-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:00,628 > PHM3027-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:00,676 > PHM3028-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:00,724 > PHM3029-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:03,311 > 14 rows in 16-29 of 29
+[INFO|CRAWLER.py] 2020-11-18 10:59:03,359 > PHM3026-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:03,405 > PHM3054-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:03,453 > PHM4130-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:03,500 > PHM4100-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:03,551 > PHM4100-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:03,597 > PHM4110-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:03,642 > PHM4110-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:03,691 > PHM4120-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:03,739 > PHM4320-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:03,785 > PHM3032-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:03,832 > PHM3058-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:03,880 > PHM3105-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:03,927 > PHM3049-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:14,522 > PHM3050-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:16,582 > 약학전공 탐색 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:16,582 > 약학대학 수집 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:16,582 > 20202-의과대학-의학전공 수집 시작
+[INFO|CRAWLER.py] 2020-11-18 10:59:17,225 > 15 rows in 1-15 of 154
+[INFO|CRAWLER.py] 2020-11-18 10:59:17,247 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-18 10:59:17,767 > 15 rows in 1-15 of 154
+[INFO|CRAWLER.py] 2020-11-18 10:59:20,716 > 15 rows in 16-30 of 154
+[INFO|CRAWLER.py] 2020-11-18 10:59:23,633 > 15 rows in 31-45 of 154
+[INFO|CRAWLER.py] 2020-11-18 10:59:26,587 > 15 rows in 46-60 of 154
+[INFO|CRAWLER.py] 2020-11-18 10:59:29,540 > 15 rows in 61-75 of 154
+[INFO|CRAWLER.py] 2020-11-18 10:59:50,617 > Traceback (most recent call last):
+  File "C:\Python38\lib\site-packages\urllib3\connection.py", line 159, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Python38\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Python38\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] 연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python38\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Python38\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Python38\lib\http\client.py", line 1255, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Python38\lib\http\client.py", line 1301, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Python38\lib\http\client.py", line 1250, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Python38\lib\http\client.py", line 1010, in _send_output
+    self.send(msg)
+  File "C:\Python38\lib\http\client.py", line 950, in send
+    self.connect()
+  File "C:\Python38\lib\site-packages\urllib3\connection.py", line 187, in connect
+    conn = self._new_conn()
+  File "C:\Python38\lib\site-packages\urllib3\connection.py", line 171, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001C76EF943D0>: Failed to establish a new connection: [WinError 10060] 연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Python38\lib\site-packages\urllib3\connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "C:\Python38\lib\site-packages\urllib3\util\retry.py", line 439, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='ysweb.yonsei.ac.kr', port=8888): Max retries exceeded with url: /curri120601/curri_pop_mileage_result01.jsp (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C76EF943D0>: Failed to establish a new connection: [WinError 10060] 연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:/Users/user/Desktop/ToyProject/YonseiTotto/DataCleanser/CRAWLER.py", line 393, in <module>
+    req = requests.get(RESULT_URL, headers=HEADERS, data=data) # json=data로 할 때는 왜 안 될까.
+  File "C:\Python38\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Python38\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='ysweb.yonsei.ac.kr', port=8888): Max retries exceeded with url: /curri120601/curri_pop_mileage_result01.jsp (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C76EF943D0>: Failed to establish a new connection: [WinError 10060] 연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다'))
+
+[INFO|CRAWLER.py] 2020-11-18 10:59:50,632 > FINISHED_LECT_OBJs에 20202-ALL 전부 등록 완료

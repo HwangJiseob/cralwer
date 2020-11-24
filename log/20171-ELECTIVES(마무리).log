@@ -1,0 +1,1007 @@
+[INFO|CRAWLER.py] 2020-11-13 22:58:55,854 > 작업완료된 강의 객체 목록 다운로드 시작
+[INFO|CRAWLER.py] 2020-11-13 22:59:14,015 > 작업완료된 강의 객체 목록 다운로드 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:19,588 > 20171-공통기초(10~18학번)-채플 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 22:59:20,234 > 10 rows in 1-10 of 10
+[INFO|CRAWLER.py] 2020-11-13 22:59:20,268 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:20,787 > 10 rows in 1-10 of 10
+[INFO|CRAWLER.py] 2020-11-13 22:59:20,829 > YCA1003-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:20,877 > YCA1003-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:20,925 > YCA1003-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:20,978 > YCA1003-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:21,028 > YCA1003-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:21,074 > YCA1007-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:21,128 > YCA1007-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:21,184 > YCA1007-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:21,247 > YCA1007-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:21,306 > YCA1007-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:23,333 > 채플 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:23,333 > 20171-공통기초(10~18학번)-기독교의이해 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 22:59:23,924 > 6 rows in 1-6 of 6
+[INFO|CRAWLER.py] 2020-11-13 22:59:23,948 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:24,466 > 6 rows in 1-6 of 6
+[INFO|CRAWLER.py] 2020-11-13 22:59:24,503 > YCA1101-10-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:24,538 > YCA1101-11-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:24,583 > YCA1101-12-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:24,630 > YCA1102-14-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:24,670 > YCA1102-15-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:24,709 > YCA1103-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:26,733 > 기독교의이해 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:26,733 > 20171-공통기초(10~18학번)-대학영어 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 22:59:27,323 > 15 rows in 1-15 of 22
+[INFO|CRAWLER.py] 2020-11-13 22:59:27,348 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:27,867 > 15 rows in 1-15 of 22
+[INFO|CRAWLER.py] 2020-11-13 22:59:27,900 > YCC1001-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:27,934 > YCC1001-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:27,976 > YCC1001-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:28,013 > YCC1001-07-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:28,049 > YCC1001-08-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:28,165 > YCC1002-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:28,205 > YCC1002-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:28,241 > YCC1101-57-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:28,277 > YCC1101-58-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:28,315 > YCC1101-59-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:28,354 > YCC1101-60-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:28,389 > YCC1102-34-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:30,962 > 7 rows in 16-22 of 22
+[INFO|CRAWLER.py] 2020-11-13 22:59:30,998 > YCC1102-35-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:31,037 > YCC1102-36-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:31,072 > YCC1102-37-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:31,107 > YCC1201-12-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:31,167 > YCC1202-23-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:33,228 > 대학영어 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:33,228 > 20171-공통기초(10~18학번)-글쓰기 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 22:59:33,859 > 8 rows in 1-8 of 8
+[INFO|CRAWLER.py] 2020-11-13 22:59:33,884 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:34,403 > 8 rows in 1-8 of 8
+[INFO|CRAWLER.py] 2020-11-13 22:59:34,437 > YCB1101-79-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:34,476 > YCB1101-80-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:34,511 > YCB1101-81-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:34,546 > YCB1101-82-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:34,581 > YCB1101-83-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:34,618 > YCB1101-84-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:34,656 > YCB1101-85-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:34,692 > YCB1101-86-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:36,717 > 글쓰기 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:36,717 > 공통기초(10~18학번) 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:36,718 > 20171-필수교양(10~18학번)-문학과예술 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 22:59:37,352 > 13 rows in 1-13 of 13
+[INFO|CRAWLER.py] 2020-11-13 22:59:37,379 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:37,902 > 13 rows in 1-13 of 13
+[INFO|CRAWLER.py] 2020-11-13 22:59:37,943 > UCJ1104-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:37,985 > UCB1107-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:38,027 > UCB1110-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:38,085 > UCE1105-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:38,139 > UCE1105-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:38,184 > UCE1107-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:38,227 > UCE1108-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:38,272 > YCD1001-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:38,318 > YCD1101-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:38,362 > YCD1201-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:38,407 > YCD1351-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:38,465 > YCD1602-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:38,512 > YCD1652-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:40,540 > 문학과예술 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:40,540 > 20171-필수교양(10~18학번)-인간과역사 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 22:59:41,163 > 15 rows in 1-15 of 15
+[INFO|CRAWLER.py] 2020-11-13 22:59:41,189 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:41,709 > 15 rows in 1-15 of 15
+[INFO|CRAWLER.py] 2020-11-13 22:59:41,747 > ANT1001-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:41,798 > UCB1101-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:41,842 > UCB1103-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:41,888 > UCB1105-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:41,939 > UCD1102-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:41,986 > UCD1102-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:42,032 > UCD1107-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:42,081 > UCE1102-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:42,124 > YCE1201-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:42,167 > YCE1252-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:42,212 > YCE1255-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:42,268 > YCE1601-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:42,311 > YCE1603-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:42,360 > YCE1604-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:42,408 > YCE1607-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:44,434 > 인간과역사 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:44,435 > 20171-필수교양(10~18학번)-언어와표현 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 22:59:45,056 > 15 rows in 1-15 of 53
+[INFO|CRAWLER.py] 2020-11-13 22:59:45,081 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:45,598 > 15 rows in 1-15 of 53
+[INFO|CRAWLER.py] 2020-11-13 22:59:45,641 > UCB1109-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:45,685 > YCF1201-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:45,732 > YCF1201-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:45,774 > YCF1201-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:45,816 > YCF1201-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:45,858 > YCF1201-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:45,902 > YCF1201-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:45,947 > YCF1202-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:45,990 > YCF1202-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:46,034 > YCF1203-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:46,079 > YCF1301-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:46,123 > YCF1301-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:46,168 > YCF1301-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:46,209 > YCF1301-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:46,257 > YCF1302-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:48,840 > 15 rows in 16-30 of 53
+[INFO|CRAWLER.py] 2020-11-13 22:59:48,883 > YCF1302-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:48,926 > YCF1302-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:48,965 > YCF1303-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:49,011 > YCF1351-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:49,056 > YCF1351-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:49,100 > YCF1351-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:49,144 > YCF1351-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:49,190 > YCF1352-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:49,233 > YCF1352-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:49,277 > YCF1353-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:49,319 > YCF1402-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:49,362 > YCF1403-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:49,404 > YCF1405-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:49,447 > YCF1406-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:49,491 > YCF1407-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:52,065 > 15 rows in 31-45 of 53
+[INFO|CRAWLER.py] 2020-11-13 22:59:52,108 > YCF1451-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:52,152 > YCF1451-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:52,199 > YCF1452-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:52,241 > YCF1453-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:52,285 > YCF1501-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:52,329 > YCF1501-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:52,376 > YCF1502-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:52,419 > YCF1502-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:52,462 > YCF1503-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:52,507 > YCF1551-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 22:59:52,550 > YCF1551-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:03,137 > YCF1552-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:03,180 > YCF1552-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:13,772 > YCF1553-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:13,817 > YCF1601-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:16,391 > 8 rows in 46-53 of 53
+[INFO|CRAWLER.py] 2020-11-13 23:00:16,436 > YCF1603-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:16,485 > YCF1603-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:16,529 > YCF1604-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:16,572 > YCF1605-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:16,653 > YCF1607-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:16,702 > YCF1651-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:16,752 > YCF1652-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:16,801 > YCF1652-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:18,853 > 언어와표현 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:18,853 > 20171-필수교양(10~18학번)-가치와윤리 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:00:19,483 > 15 rows in 1-15 of 19
+[INFO|CRAWLER.py] 2020-11-13 23:00:19,507 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:20,027 > 15 rows in 1-15 of 19
+[INFO|CRAWLER.py] 2020-11-13 23:00:20,068 > PHI1002-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:20,122 > UCB1104-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:20,169 > YCG1002-01-01: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:20,212 > YCG1002-01-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:20,253 > YCG1002-01-03: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:20,296 > YCG1002-01-04: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:20,340 > YCG1002-01-05: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:20,387 > YCG1002-01-06: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:20,432 > YCG1002-01-07: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:20,475 > YCG1002-01-08: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:20,518 > YCG1002-01-09: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:20,560 > YCG1002-01-10: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:20,603 > YCG1701-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:20,646 > YCG1702-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:20,709 > YCG1852-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:23,264 > 4 rows in 16-19 of 19
+[INFO|CRAWLER.py] 2020-11-13 23:00:23,302 > YCG1999-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:23,341 > YCG1999-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:23,378 > YCG1999-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:23,416 > YCG1999-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:25,448 > 가치와윤리 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:25,448 > 20171-필수교양(10~18학번)-국가와사회공동체 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:00:26,074 > 12 rows in 1-12 of 12
+[INFO|CRAWLER.py] 2020-11-13 23:00:26,099 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:26,615 > 12 rows in 1-12 of 12
+[INFO|CRAWLER.py] 2020-11-13 23:00:26,652 > EDU2002-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:26,695 > SOC1002-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:26,734 > SOC1002-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:26,773 > SOC1004-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:26,817 > UCD1101-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:26,860 > UCD1104-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:26,909 > UCD1105-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:26,968 > YCH1302-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:27,020 > YCH1601-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:27,075 > YCH1602-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:27,141 > YCH1606-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:27,184 > YCH1999-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:29,210 > 국가와사회공동체 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:29,210 > 20171-필수교양(10~18학번)-지역사회와세계 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:00:29,825 > 13 rows in 1-13 of 13
+[INFO|CRAWLER.py] 2020-11-13 23:00:29,850 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:30,367 > 13 rows in 1-13 of 13
+[INFO|CRAWLER.py] 2020-11-13 23:00:30,410 > ECO1001-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:30,458 > ECO1001-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:30,501 > ECO1001-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:30,544 > ECO1001-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:30,587 > UCD1103-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:30,643 > UCD1106-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:30,689 > UCF1101-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:30,732 > YCI1001-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:30,775 > YCI1002-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:30,826 > YCI1201-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:30,869 > YCI1701-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:30,916 > YCI1851-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:30,972 > YCI1853-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:32,999 > 지역사회와세계 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:32,999 > 20171-필수교양(10~18학번)-논리와수리 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:00:33,626 > 15 rows in 1-15 of 43
+[INFO|CRAWLER.py] 2020-11-13 23:00:33,655 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:34,175 > 15 rows in 1-15 of 43
+[INFO|CRAWLER.py] 2020-11-13 23:00:34,217 > ENG1108-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:34,262 > ENG1108-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:34,304 > ENG1108-03-01: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:34,346 > ENG1108-03-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:34,389 > ENG1108-04-01: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:34,431 > ENG1108-04-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:34,473 > ENG1108-05-01: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:34,519 > ENG1108-05-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:34,560 > ENG1108-06-01: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:34,602 > ENG1108-06-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:34,644 > ENG1108-07-01: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:34,689 > ENG1108-07-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:34,731 > ENG1108-08-01: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:45,281 > ENG1108-08-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:45,325 > MAT1001-01-01: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:47,916 > 15 rows in 16-30 of 43
+[INFO|CRAWLER.py] 2020-11-13 23:00:47,957 > MAT1001-01-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:47,998 > MAT1002-01-01: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:48,039 > MAT1002-01-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:48,082 > MAT1011-01-01: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:48,123 > MAT1011-01-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:48,168 > MAT1012-01-01: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:48,210 > MAT1012-01-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:48,253 > STA1001-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:48,296 > STA1001-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:48,339 > STA1001-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:48,386 > STA1001-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:48,433 > STA1001-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:48,478 > STA1001-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:48,523 > STA1001-07-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:48,562 > STA1001-08-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:51,136 > 13 rows in 31-43 of 43
+[INFO|CRAWLER.py] 2020-11-13 23:00:51,182 > YCJ1001-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:51,226 > YCJ1402-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:51,271 > BIZ1101-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:51,308 > BIZ1101-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:51,345 > BIZ1101-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:51,381 > BIZ1101-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:51,421 > BIZ1101-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:51,456 > BIZ1101-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:51,493 > BIZ1101-07-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:51,542 > OMA1002-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:51,581 > STA2105-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:51,627 > STA2105-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:51,671 > STA2105-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:53,726 > 논리와수리 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:53,727 > 20171-필수교양(10~18학번)-자연과우주 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:00:54,357 > 15 rows in 1-15 of 16
+[INFO|CRAWLER.py] 2020-11-13 23:00:54,382 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:54,901 > 15 rows in 1-15 of 16
+[INFO|CRAWLER.py] 2020-11-13 23:00:54,944 > CHE1001-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:54,988 > CHE1011-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:55,029 > PHY1001-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:00:55,072 > PHY1001-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:05,671 > PHY1002-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:05,716 > PHY1011-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:05,761 > PHY1011-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:05,805 > PHY1011-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:05,849 > PHY1012-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:05,900 > UCC1102-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:05,957 > UCC1105-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:06,013 > UCC1106-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:06,062 > UCC1106-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:06,110 > UCC1107-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:06,156 > CHE1003-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:08,717 > 1 rows in 16-16 of 16
+[INFO|CRAWLER.py] 2020-11-13 23:01:10,771 > 자연과우주 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:10,772 > 20171-필수교양(10~18학번)-생명과환경 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:01:11,397 > 14 rows in 1-14 of 14
+[INFO|CRAWLER.py] 2020-11-13 23:01:11,423 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:11,938 > 14 rows in 1-14 of 14
+[INFO|CRAWLER.py] 2020-11-13 23:01:11,977 > BIO1001-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:12,019 > BIO1001-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:12,063 > BIO1008-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:12,106 > BIO1011-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:22,664 > BIO1012-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:22,704 > STS3105-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:22,749 > UCC1104-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:22,792 > UCC1109-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:22,832 > UCC1113-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:22,877 > UCH1103-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:22,920 > UCH1104-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:22,970 > YCL1201-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:23,018 > YCL1601-01-01: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:23,062 > YCL1601-01-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:25,089 > 생명과환경 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:25,089 > 20171-필수교양(10~18학번)-소프트웨어 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:01:25,709 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-13 23:01:36,213 > No caution link in 0th row
+[INFO|CRAWLER.py] 2020-11-13 23:01:36,725 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-13 23:01:36,725 > No caution in pages
+[INFO|CRAWLER.py] 2020-11-13 23:01:37,243 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-13 23:01:39,265 > 소프트웨어 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:39,266 > 필수교양(10~18학번) 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:39,266 > 20171-선택교양(10~18학번)-Freshman Seminars 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:01:39,895 > 1 rows in 1-1 of 1
+[INFO|CRAWLER.py] 2020-11-13 23:01:39,919 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:40,435 > 1 rows in 1-1 of 1
+[INFO|CRAWLER.py] 2020-11-13 23:01:42,481 > Freshman Seminars 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:42,481 > 20171-선택교양(10~18학번)-Gateway to College 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:01:43,057 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-13 23:01:53,610 > No caution link in 0th row
+[INFO|CRAWLER.py] 2020-11-13 23:01:54,122 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-13 23:01:54,123 > No caution in pages
+[INFO|CRAWLER.py] 2020-11-13 23:01:54,641 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-13 23:01:56,663 > Gateway to College 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:01:56,663 > 20171-선택교양(10~18학번)-Residential Education 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:01:57,282 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-13 23:02:07,788 > No caution link in 0th row
+[INFO|CRAWLER.py] 2020-11-13 23:02:08,296 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-13 23:02:08,296 > No caution in pages
+[INFO|CRAWLER.py] 2020-11-13 23:02:08,811 > 0 rows in 1-0 of 0
+[INFO|CRAWLER.py] 2020-11-13 23:02:10,839 > Residential Education 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:10,839 > 20171-선택교양(10~18학번)-역사·철학영역 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:02:11,464 > 15 rows in 1-15 of 20
+[INFO|CRAWLER.py] 2020-11-13 23:02:11,485 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:12,004 > 15 rows in 1-15 of 20
+[INFO|CRAWLER.py] 2020-11-13 23:02:12,047 > UCG1145-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:12,087 > UCG1104-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:12,127 > UCG1106-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:12,173 > UCG1107-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:12,217 > UCG1107-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:12,258 > UCG1108-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:12,303 > UCG1109-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:12,344 > UCG1112-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:12,383 > UCG1116-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:12,434 > UCG1117-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:12,473 > UCG1118-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:12,512 > UCG1122-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:12,558 > UCG1130-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:12,601 > UCG1139-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:12,641 > UCG1140-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:15,205 > 5 rows in 16-20 of 20
+[INFO|CRAWLER.py] 2020-11-13 23:02:15,245 > UCG1142-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:15,288 > UCG1131-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:15,333 > UCG1131-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:15,378 > UCG1131-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:15,420 > UCG1131-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:17,450 > 역사·철학영역 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:17,450 > 20171-선택교양(10~18학번)-과학·기술영역 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:02:18,088 > 15 rows in 1-15 of 15
+[INFO|CRAWLER.py] 2020-11-13 23:02:18,113 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:18,634 > 15 rows in 1-15 of 15
+[INFO|CRAWLER.py] 2020-11-13 23:02:18,677 > UCF1103-01-01: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:18,727 > UCF1103-01-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:18,766 > UCF1103-01-03: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:18,805 > UCF1103-01-04: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:18,843 > UCH1102-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:18,882 > UCH1114-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:18,920 > UCH1115-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:18,961 > UCH1117-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:18,999 > UCH1117-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:19,040 > UCH1117-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:19,087 > UCH1117-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:19,129 > UCH1117-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:19,169 > UCH1121-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:19,209 > UCH1123-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:19,257 > UCH1135-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:21,285 > 과학·기술영역 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:21,285 > 20171-선택교양(10~18학번)-사회·윤리영역 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:02:21,911 > 15 rows in 1-15 of 36
+[INFO|CRAWLER.py] 2020-11-13 23:02:21,946 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:22,464 > 15 rows in 1-15 of 36
+[INFO|CRAWLER.py] 2020-11-13 23:02:22,501 > UCI2001-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:22,539 > UCI2001-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:22,581 > UCI2001-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:22,619 > UCI2001-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:33,193 > UCI2001-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:33,235 > UCI2001-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:33,273 > UCI2001-07-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:33,312 > UCI2001-08-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:33,353 > UCI2001-09-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:33,392 > UCI2001-10-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:33,433 > UCI2001-11-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:33,473 > UCI2001-12-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:33,511 > UCI2001-13-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:33,553 > UCI2001-14-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:33,591 > UCI2001-15-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:36,172 > 15 rows in 16-30 of 36
+[INFO|CRAWLER.py] 2020-11-13 23:02:36,211 > UCI2001-16-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:36,277 > UCI2001-18-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:36,339 > UCI2001-20-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:36,379 > UCI1155-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:36,425 > UCI1162-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:36,475 > UCI1164-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:36,516 > UCI1101-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:36,554 > UCI1103-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:47,132 > UCI1104-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:47,170 > UCI1105-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:47,209 > UCI1109-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:47,252 > UCI1122-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:47,293 > UCI1123-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:49,860 > 6 rows in 31-36 of 36
+[INFO|CRAWLER.py] 2020-11-13 23:02:49,899 > UCI1124-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:02:49,938 > UCI1133-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:00,514 > UCI1137-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:00,553 > UCI1140-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:00,592 > UCI1142-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:00,629 > UCI1152-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:02,681 > 사회·윤리영역 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:02,682 > 20171-선택교양(10~18학번)-인문·예술영역 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:03:03,301 > 15 rows in 1-15 of 25
+[INFO|CRAWLER.py] 2020-11-13 23:03:03,327 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:03,845 > 15 rows in 1-15 of 25
+[INFO|CRAWLER.py] 2020-11-13 23:03:03,884 > UCJ1135-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:03,927 > UCJ1135-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:03,967 > UCJ1135-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:04,013 > UCJ1136-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:04,053 > UCJ1107-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:04,093 > UCJ1107-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:04,139 > UCJ1108-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:04,182 > UCJ1108-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:04,221 > UCJ1109-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:04,261 > UCJ1110-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:04,309 > UCJ1111-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:04,352 > UCJ1111-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:04,393 > UCJ1112-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:04,433 > UCJ1113-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:04,474 > UCJ1113-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:07,043 > 10 rows in 16-25 of 25
+[INFO|CRAWLER.py] 2020-11-13 23:03:07,084 > UCJ1116-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:07,123 > UCJ1116-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:07,162 > UCJ1116-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:07,201 > UCJ1102-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:07,242 > UCJ1117-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:07,281 > UCJ1119-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:07,323 > UCJ1122-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:07,368 > UCJ1124-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:07,407 > UCJ1131-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:07,446 > UCJ1132-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:09,485 > 인문·예술영역 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:09,485 > 20171-선택교양(10~18학번)-세계문화·언어영역 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:03:10,114 > 15 rows in 1-15 of 36
+[INFO|CRAWLER.py] 2020-11-13 23:03:10,140 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:10,658 > 15 rows in 1-15 of 36
+[INFO|CRAWLER.py] 2020-11-13 23:03:10,697 > UCK1104-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:10,737 > UCK1104-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:10,780 > UCK1105-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:10,820 > UCK1105-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:10,860 > UCK1106-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:10,900 > UCK1110-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:10,940 > UCK1111-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:10,984 > UCK1111-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:11,023 > UCK1113-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:11,063 > UCK1114-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:11,103 > UCK1114-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:11,142 > UCK1117-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:11,189 > UCK1119-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:11,229 > UCK1124-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:11,268 > UCK1125-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:13,835 > 15 rows in 16-30 of 36
+[INFO|CRAWLER.py] 2020-11-13 23:03:24,406 > UCK1126-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:24,450 > UCK1127-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:24,490 > UCK1128-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:24,531 > UCK1129-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:24,571 > UCK1132-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:24,611 > UCK1135-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:24,651 > UCK1143-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:24,692 > UCK1143-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:24,732 > UCK1144-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:24,773 > UCK1147-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:24,815 > UCK1148-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:24,857 > UCK1149-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:24,900 > UCK1150-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:24,941 > UCK1151-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:24,985 > UCK1153-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:27,551 > 6 rows in 31-36 of 36
+[INFO|CRAWLER.py] 2020-11-13 23:03:27,588 > UCK1154-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:27,622 > UCK1156-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:27,662 > UCK1157-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:27,695 > UCK1158-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:27,730 > UCK1159-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:27,763 > UCK1161-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:29,804 > 세계문화·언어영역 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:29,805 > 20171-선택교양(10~18학번)-생활·건강영역 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:03:30,426 > 15 rows in 1-15 of 92
+[INFO|CRAWLER.py] 2020-11-13 23:03:30,457 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:30,977 > 15 rows in 1-15 of 92
+[INFO|CRAWLER.py] 2020-11-13 23:03:31,018 > UCL1101-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:31,065 > UCL1101-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:31,106 > UCL1101-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:31,148 > UCL1101-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:31,191 > UCL1101-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:31,235 > UCL1101-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:31,275 > UCL1102-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:31,318 > UCL1102-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:31,358 > UCL1103-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:31,400 > UCL1103-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:31,448 > UCL1103-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:31,489 > UCL1103-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:31,532 > UCL1103-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:31,572 > UCL1103-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:31,612 > UCL1103-07-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:34,191 > 15 rows in 16-30 of 92
+[INFO|CRAWLER.py] 2020-11-13 23:03:34,232 > UCL1104-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:34,268 > UCL1104-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:34,303 > UCL1104-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:34,344 > UCL1104-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:34,384 > UCL1105-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:34,426 > UCL1105-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:34,465 > UCL1105-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:34,506 > UCL1105-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:34,561 > UCL1105-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:34,606 > UCL1105-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:34,647 > UCL1105-07-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:34,688 > UCL1105-08-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:34,729 > UCL1105-09-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:34,766 > UCL1105-10-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:34,808 > UCL1106-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:37,382 > 15 rows in 31-45 of 92
+[INFO|CRAWLER.py] 2020-11-13 23:03:37,426 > UCL1106-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:37,470 > UCL1108-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:37,519 > UCL1108-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:37,564 > UCL1108-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:37,611 > UCL1109-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:37,653 > UCL1109-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:37,692 > UCL1109-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:37,736 > UCL1109-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:37,778 > UCL1109-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:37,819 > UCL1109-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:37,859 > UCL1110-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:37,904 > UCL1111-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:37,944 > UCL1111-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:37,985 > UCL1111-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:38,026 > UCL1111-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:40,610 > 15 rows in 46-60 of 92
+[INFO|CRAWLER.py] 2020-11-13 23:03:40,652 > UCL1111-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:40,691 > UCL1111-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:40,731 > UCL1111-07-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:40,775 > UCL1112-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:40,817 > UCL1112-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:40,859 > UCL1115-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:40,899 > UCL1115-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:40,939 > UCL1116-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:40,984 > UCL1118-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:41,025 > UCL1119-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:41,079 > UCL1119-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:41,128 > UCL1119-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:41,174 > UCL1121-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:41,217 > UCL1121-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:41,258 > UCL1121-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:43,841 > 15 rows in 61-75 of 92
+[INFO|CRAWLER.py] 2020-11-13 23:03:43,884 > UCL1121-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:43,924 > UCL1124-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:43,965 > UCL1127-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:44,030 > UCL1127-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:44,081 > UCL1207-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:44,131 > UCL1207-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:44,177 > UCL1209-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:44,223 > UCL1210-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:44,272 > UCL1212-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:44,315 > UCL1214-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:44,356 > UCL1215-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:44,399 > UCL1215-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:44,442 > UCL1215-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:44,486 > UCL1215-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:44,528 > UCL1215-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:47,108 > 15 rows in 76-90 of 92
+[INFO|CRAWLER.py] 2020-11-13 23:03:47,148 > UCL1216-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:47,191 > UCL1217-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:47,231 > UCL1218-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:47,271 > UCL1219-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:47,311 > UCL1219-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:47,354 > UCL1220-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:47,395 > UCL1222-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:47,438 > UCL1222-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:47,478 > UCL1223-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:47,518 > UCL1223-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:47,564 > UCL1202-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:47,615 > UCL1203-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:47,662 > UCL1203-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:47,705 > UCL1204-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:47,748 > UCL1201-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:50,306 > 2 rows in 91-92 of 92
+[INFO|CRAWLER.py] 2020-11-13 23:03:50,346 > UCL1201-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:50,386 > UCL1205-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:52,425 > 생활·건강영역 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:52,425 > 선택교양(10~18학번) 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:52,425 > 20171-(~2018학번)국제캠퍼스-공통기초-채플 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:03:53,056 > 12 rows in 1-12 of 12
+[INFO|CRAWLER.py] 2020-11-13 23:03:53,079 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:53,595 > 12 rows in 1-12 of 12
+[INFO|CRAWLER.py] 2020-11-13 23:03:53,635 > YCA1001-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:53,674 > YCA1001-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:53,706 > YCA1001-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:53,737 > YCA1001-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:53,768 > YCA1001-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:53,832 > YCA1005-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:53,872 > YCA1005-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:53,905 > YCA1005-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:53,936 > YCA1005-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:53,996 > YCA1005-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:56,022 > 공통기초-채플 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:56,022 > 20171-(~2018학번)국제캠퍼스-공통기초-기독교의이해 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:03:56,637 > 15 rows in 1-15 of 26
+[INFO|CRAWLER.py] 2020-11-13 23:03:56,664 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:57,182 > 15 rows in 1-15 of 26
+[INFO|CRAWLER.py] 2020-11-13 23:03:57,211 > YCA1101-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:57,242 > YCA1101-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:57,272 > YCA1101-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:57,311 > YCA1101-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:57,343 > YCA1101-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:57,375 > YCA1101-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:57,405 > YCA1101-07-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:57,445 > YCA1101-08-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:57,489 > YCA1101-09-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:57,521 > YCA1102-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:57,553 > YCA1102-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:57,587 > YCA1102-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:57,618 > YCA1102-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:03:57,649 > YCA1102-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:00,249 > 11 rows in 16-26 of 26
+[INFO|CRAWLER.py] 2020-11-13 23:04:00,283 > YCA1102-07-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:00,340 > YCA1102-09-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:00,404 > YCA1102-11-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:00,447 > YCA1102-12-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:00,478 > YCA1102-13-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:00,510 > YCA1103-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:00,602 > YCA1103-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:02,641 > 공통기초-기독교의이해 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:02,641 > 20171-(~2018학번)국제캠퍼스-공통기초-글쓰기 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:04:03,265 > 15 rows in 1-15 of 84
+[INFO|CRAWLER.py] 2020-11-13 23:04:13,782 > No caution link in 0th row
+[INFO|CRAWLER.py] 2020-11-13 23:04:14,289 > 15 rows in 1-15 of 84
+[INFO|CRAWLER.py] 2020-11-13 23:04:14,317 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:14,834 > 15 rows in 1-15 of 84
+[INFO|CRAWLER.py] 2020-11-13 23:04:14,917 > YCB1001-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:14,948 > YCB1001-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:15,076 > YCB1101-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:17,792 > 15 rows in 16-30 of 84
+[INFO|CRAWLER.py] 2020-11-13 23:04:17,993 > YCB1101-20-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:18,067 > YCB1101-23-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:20,691 > 15 rows in 31-45 of 84
+[INFO|CRAWLER.py] 2020-11-13 23:04:20,720 > YCB1101-27-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:20,968 > YCB1101-38-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:20,997 > YCB1101-39-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:21,051 > YCB1101-41-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:23,613 > 15 rows in 46-60 of 84
+[INFO|CRAWLER.py] 2020-11-13 23:04:26,511 > 15 rows in 61-75 of 84
+[INFO|CRAWLER.py] 2020-11-13 23:04:26,855 > YCB1101-71-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:29,400 > 9 rows in 76-84 of 84
+[INFO|CRAWLER.py] 2020-11-13 23:04:29,529 > YCB1101-76-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:29,579 > YCB1101-78-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:31,661 > 공통기초-글쓰기 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:31,661 > 20171-(~2018학번)국제캠퍼스-공통기초-대학영어 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:04:32,286 > 15 rows in 1-15 of 150
+[INFO|CRAWLER.py] 2020-11-13 23:04:32,311 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:32,829 > 15 rows in 1-15 of 150
+[INFO|CRAWLER.py] 2020-11-13 23:04:32,858 > YCC1001-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:32,912 > YCC1001-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:33,061 > YCC1002-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:33,141 > YCC1101-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:33,221 > YCC1101-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:35,787 > 15 rows in 16-30 of 150
+[INFO|CRAWLER.py] 2020-11-13 23:04:35,909 > YCC1101-11-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:38,714 > 15 rows in 31-45 of 150
+[INFO|CRAWLER.py] 2020-11-13 23:04:38,745 > YCC1101-22-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:39,045 > YCC1101-34-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:41,671 > 15 rows in 46-60 of 150
+[INFO|CRAWLER.py] 2020-11-13 23:04:41,822 > YCC1101-42-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:42,051 > YCC1101-51-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:44,627 > 15 rows in 61-75 of 150
+[INFO|CRAWLER.py] 2020-11-13 23:04:44,684 > YCC1101-53-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:47,573 > 15 rows in 76-90 of 150
+[INFO|CRAWLER.py] 2020-11-13 23:04:47,656 > YCC1102-09-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:47,762 > YCC1102-13-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:50,534 > 15 rows in 91-105 of 150
+[INFO|CRAWLER.py] 2020-11-13 23:04:50,689 > YCC1102-27-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:50,746 > YCC1102-29-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:50,825 > YCC1102-32-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:53,508 > 15 rows in 106-120 of 150
+[INFO|CRAWLER.py] 2020-11-13 23:04:53,544 > YCC1102-41-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:53,851 > YCC1201-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:56,483 > 15 rows in 121-135 of 150
+[INFO|CRAWLER.py] 2020-11-13 23:04:56,593 > YCC1201-07-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:56,703 > YCC1201-11-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:56,793 > YCC1202-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:04:59,476 > 15 rows in 136-150 of 150
+[INFO|CRAWLER.py] 2020-11-13 23:04:59,716 > YCC1202-16-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:01,915 > 공통기초-대학영어 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:01,915 > 20171-(~2018학번)국제캠퍼스-필수교양-문학과예술 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:05:02,568 > 7 rows in 1-7 of 7
+[INFO|CRAWLER.py] 2020-11-13 23:05:02,594 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:03,112 > 7 rows in 1-7 of 7
+[INFO|CRAWLER.py] 2020-11-13 23:05:03,143 > UCE1105-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:03,176 > UCE1105-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:03,213 > UCE1108-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:03,247 > YCD1602-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:13,820 > YCD1999-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:13,880 > YCD1999-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:15,908 > 필수교양-문학과예술 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:15,908 > 20171-(~2018학번)국제캠퍼스-필수교양-인간과역사 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:05:16,533 > 15 rows in 1-15 of 16
+[INFO|CRAWLER.py] 2020-11-13 23:05:16,558 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:17,076 > 15 rows in 1-15 of 16
+[INFO|CRAWLER.py] 2020-11-13 23:05:17,116 > ANT1001-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:17,154 > PHI1001-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:17,193 > PSY2103-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:17,226 > UCB1103-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:17,266 > UCB1103-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:17,299 > UCB1105-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:17,333 > UCD1102-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:17,367 > YCE1203-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:17,401 > YCE1251-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:17,439 > YCE1551-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:17,472 > YCE1605-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:17,506 > YCE1998-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:17,540 > YCE1998-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:17,597 > YCE1999-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:20,158 > 1 rows in 16-16 of 16
+[INFO|CRAWLER.py] 2020-11-13 23:05:22,209 > 필수교양-인간과역사 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:22,209 > 20171-(~2018학번)국제캠퍼스-필수교양-언어와표현 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:05:22,838 > 15 rows in 1-15 of 34
+[INFO|CRAWLER.py] 2020-11-13 23:05:22,867 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:23,385 > 15 rows in 1-15 of 34
+[INFO|CRAWLER.py] 2020-11-13 23:05:23,446 > YCF1201-08-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:23,503 > YCF1201-10-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:23,560 > YCF1201-12-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:23,592 > YCF1202-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:23,726 > YCF1302-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:23,758 > YCF1302-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:23,791 > YCF1303-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:26,399 > 15 rows in 16-30 of 34
+[INFO|CRAWLER.py] 2020-11-13 23:05:26,432 > YCF1351-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:26,474 > YCF1352-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:26,506 > YCF1404-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:26,541 > YCF1407-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:26,624 > YCF1451-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:26,663 > YCF1452-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:26,695 > YCF1501-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:26,759 > YCF1501-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:26,793 > YCF1502-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:26,825 > YCF1551-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:29,442 > 4 rows in 31-34 of 34
+[INFO|CRAWLER.py] 2020-11-13 23:05:29,478 > YCF1603-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:40,075 > YCF1605-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:40,107 > YCF1652-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:42,164 > 필수교양-언어와표현 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:42,165 > 20171-(~2018학번)국제캠퍼스-필수교양-가치와윤리 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:05:42,792 > 6 rows in 1-6 of 6
+[INFO|CRAWLER.py] 2020-11-13 23:05:42,819 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:43,336 > 6 rows in 1-6 of 6
+[INFO|CRAWLER.py] 2020-11-13 23:05:43,365 > YCG1004-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:53,941 > YCG1402-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:53,973 > YCG1601-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:54,006 > YCG1804-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:54,038 > YCG1998-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:54,071 > YCG1999-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:56,096 > 필수교양-가치와윤리 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:56,097 > 20171-(~2018학번)국제캠퍼스-필수교양-국가와사회공동체 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:05:56,726 > 3 rows in 1-3 of 3
+[INFO|CRAWLER.py] 2020-11-13 23:05:56,754 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:57,272 > 3 rows in 1-3 of 3
+[INFO|CRAWLER.py] 2020-11-13 23:05:57,327 > UCD1101-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:59,373 > 필수교양-국가와사회공동체 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:05:59,373 > 20171-(~2018학번)국제캠퍼스-필수교양-지역사회와세계 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:05:59,980 > 14 rows in 1-14 of 14
+[INFO|CRAWLER.py] 2020-11-13 23:06:00,003 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:00,520 > 14 rows in 1-14 of 14
+[INFO|CRAWLER.py] 2020-11-13 23:06:00,555 > ECO1001-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:00,588 > ECO1001-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:00,622 > ECO1001-07-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:00,662 > ECO1001-08-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:00,703 > ECO1001-09-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:00,744 > ECO1001-10-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:00,777 > ECO1002-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:00,811 > ECO1002-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:00,844 > ECO1002-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:00,884 > ECO1002-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:00,919 > UCD1106-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:00,953 > YCI1301-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:00,988 > YCI1901-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:01,022 > YCI1998-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:03,047 > 필수교양-지역사회와세계 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:03,047 > 20171-(~2018학번)국제캠퍼스-필수교양-논리와수리 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:06:03,665 > 15 rows in 1-15 of 53
+[INFO|CRAWLER.py] 2020-11-13 23:06:03,696 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:04,214 > 15 rows in 1-15 of 53
+[INFO|CRAWLER.py] 2020-11-13 23:06:04,271 > MAT1001-02-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:04,328 > MAT1001-03-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:04,385 > MAT1001-04-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:04,444 > MAT1001-05-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:04,509 > MAT1001-06-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:04,568 > MAT1011-02-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:07,222 > 15 rows in 16-30 of 53
+[INFO|CRAWLER.py] 2020-11-13 23:06:07,251 > MAT1011-04-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:07,311 > MAT1011-05-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:07,419 > MAT1011-07-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:07,571 > MAT1011-10-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:10,209 > 15 rows in 31-45 of 53
+[INFO|CRAWLER.py] 2020-11-13 23:06:10,314 > MAT1011-13-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:10,397 > MAT1016-01-01: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:10,429 > MAT1016-01-02: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:10,488 > STA1001-09-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:10,546 > STA1001-11-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:10,579 > STA1001-12-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:10,612 > STA1001-13-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:10,645 > STA1001-14-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:13,217 > 8 rows in 46-53 of 53
+[INFO|CRAWLER.py] 2020-11-13 23:06:13,250 > STA1001-15-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:13,281 > STA1001-16-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:13,324 > STA1001-17-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:13,356 > UCC1111-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:13,389 > YCJ1301-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:13,491 > YCJ1998-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:15,534 > 필수교양-논리와수리 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:15,534 > 20171-(~2018학번)국제캠퍼스-필수교양-자연과우주 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:06:16,164 > 15 rows in 1-15 of 62
+[INFO|CRAWLER.py] 2020-11-13 23:06:16,205 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:16,724 > 15 rows in 1-15 of 62
+[INFO|CRAWLER.py] 2020-11-13 23:06:16,828 > CHE1001-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:16,861 > CHE1001-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:16,896 > CHE1001-07-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:16,950 > CHE1001-09-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:17,114 > CHE1011-07-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:19,712 > 15 rows in 16-30 of 62
+[INFO|CRAWLER.py] 2020-11-13 23:06:19,771 > CHE1011-10-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:19,803 > CHE1011-11-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:19,884 > CHE1011-14-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:20,108 > PHY1001-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:22,691 > 15 rows in 31-45 of 62
+[INFO|CRAWLER.py] 2020-11-13 23:06:22,751 > PHY1001-07-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:22,783 > PHY1001-08-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:22,864 > PHY1011-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:22,898 > PHY1011-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:22,958 > PHY1011-07-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:25,690 > 15 rows in 46-60 of 62
+[INFO|CRAWLER.py] 2020-11-13 23:06:25,825 > PHY1011-18-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:25,938 > UCC1106-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:25,971 > UCC1106-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:26,005 > UCC1106-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:26,040 > YCK1998-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:26,074 > YCK1998-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:26,112 > YCK1998-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:26,146 > YCK1998-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:28,706 > 2 rows in 61-62 of 62
+[INFO|CRAWLER.py] 2020-11-13 23:06:30,798 > 필수교양-자연과우주 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:30,798 > 20171-(~2018학번)국제캠퍼스-필수교양-생명과환경 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:06:31,424 > 15 rows in 1-15 of 18
+[INFO|CRAWLER.py] 2020-11-13 23:06:31,449 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:31,966 > 15 rows in 1-15 of 18
+[INFO|CRAWLER.py] 2020-11-13 23:06:32,048 > BIO1008-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:32,155 > BIO1011-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:32,187 > BIO1011-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:32,372 > YCL1203-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:34,921 > 3 rows in 16-18 of 18
+[INFO|CRAWLER.py] 2020-11-13 23:06:34,948 > YCL1401-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:34,979 > YCL1998-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:45,530 > YCL1999-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:47,570 > 필수교양-생명과환경 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:47,570 > 20171-(~2018학번)국제캠퍼스-필수교양-소프트웨어 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:06:48,198 > 8 rows in 1-8 of 8
+[INFO|CRAWLER.py] 2020-11-13 23:06:48,223 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:48,741 > 8 rows in 1-8 of 8
+[INFO|CRAWLER.py] 2020-11-13 23:06:48,771 > YCS1001-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:48,853 > YCS1001-04-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:48,912 > YCS1001-06-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:48,944 > YCS1001-07-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:50,990 > 필수교양-소프트웨어 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:50,991 > 20171-(~2018학번)국제캠퍼스-선택교양-일반 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:06:51,584 > 15 rows in 1-15 of 20
+[INFO|CRAWLER.py] 2020-11-13 23:06:51,607 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:52,125 > 15 rows in 1-15 of 20
+[INFO|CRAWLER.py] 2020-11-13 23:06:52,155 > UCG1131-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:52,214 > UCG1131-07-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:52,294 > UCI1163-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:52,325 > UCI1165-01-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:52,356 > UCJ1113-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:52,412 > UCJ1116-05-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:52,443 > UCL1203-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:52,475 > UCL1204-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:52,513 > UCG1107-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:52,545 > UCJ1119-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:52,576 > UCK1105-03-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:55,133 > 5 rows in 16-20 of 20
+[INFO|CRAWLER.py] 2020-11-13 23:06:55,168 > UCK1106-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:06:55,200 > UCK1124-02-00: 중복된 강의 객체. caution 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:07:07,774 > UCK1125-02-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:07:09,865 > 선택교양-일반 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:07:09,865 > 20171-(~2018학번)국제캠퍼스-선택교양-RC SE (HE1) 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:07:10,494 > 15 rows in 1-15 of 42
+[INFO|CRAWLER.py] 2020-11-13 23:07:10,519 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:07:11,039 > 15 rows in 1-15 of 42
+[INFO|CRAWLER.py] 2020-11-13 23:07:13,087 > UCR1001-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:07:15,162 > UCR1001-03-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:07:17,234 > UCR1001-05-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:07:20,060 > 15 rows in 16-30 of 42
+[INFO|CRAWLER.py] 2020-11-13 23:07:22,203 > UCR1001-20-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:07:24,280 > UCR1001-22-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:07:26,331 > UCR1001-23-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:07:28,389 > UCR1001-24-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:07:30,490 > UCR1001-27-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:07:32,596 > UCR1001-30-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:07:35,172 > 12 rows in 31-42 of 42
+[INFO|CRAWLER.py] 2020-11-13 23:07:37,231 > UCR1001-31-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:07:39,286 > UCR1001-32-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:07:41,392 > UCR1001-35-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:07:43,441 > UCR1001-36-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:07:45,494 > UCR1001-37-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:07:47,667 > 선택교양-RC SE (HE1) 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:07:47,668 > 20171-(~2018학번)국제캠퍼스-선택교양-RC HE2 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:07:48,296 > 15 rows in 1-15 of 26
+[INFO|CRAWLER.py] 2020-11-13 23:07:58,833 > No caution link in 0th row
+[INFO|CRAWLER.py] 2020-11-13 23:07:59,341 > 15 rows in 1-15 of 26
+[INFO|CRAWLER.py] 2020-11-13 23:07:59,367 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:07:59,885 > 15 rows in 1-15 of 26
+[INFO|CRAWLER.py] 2020-11-13 23:08:01,992 > UCR1002-03-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:04,122 > UCR1002-07-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:06,174 > UCR1002-08-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:08,229 > UCR1002-09-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:10,334 > UCR1002-12-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:12,388 > UCR1002-13-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:14,444 > UCR1002-14-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:16,503 > UCR1002-15-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:19,071 > 11 rows in 16-26 of 26
+[INFO|CRAWLER.py] 2020-11-13 23:08:21,125 > UCR1002-16-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:23,176 > UCR1002-17-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:25,228 > UCR1002-18-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:27,288 > UCR1002-19-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:29,349 > UCR1002-20-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:31,402 > UCR1002-21-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:33,455 > UCR1002-22-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:35,555 > UCR1002-25-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:37,612 > UCR1002-26-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:39,654 > 선택교양-RC HE2 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:08:39,655 > 20171-(~2018학번)국제캠퍼스-선택교양-RC HE3 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:08:40,288 > 15 rows in 1-15 of 50
+[INFO|CRAWLER.py] 2020-11-13 23:08:40,312 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:08:40,831 > 15 rows in 1-15 of 50
+[INFO|CRAWLER.py] 2020-11-13 23:08:42,883 > UCR1003-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:44,940 > UCR1003-02-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:46,993 > UCR1003-03-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:49,047 > UCR1003-04-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:51,136 > UCR1003-06-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:53,287 > UCR1003-10-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:55,371 > UCR1003-12-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:57,430 > UCR1003-13-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:08:59,506 > UCR1003-15-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:02,084 > 15 rows in 16-30 of 50
+[INFO|CRAWLER.py] 2020-11-13 23:09:04,139 > UCR1003-16-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:06,222 > UCR1003-18-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:08,279 > UCR1003-19-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:10,334 > UCR1003-20-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:12,437 > UCR1003-23-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:14,520 > UCR1003-25-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:16,673 > UCR1003-30-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:19,252 > 15 rows in 31-45 of 50
+[INFO|CRAWLER.py] 2020-11-13 23:09:21,311 > UCR1003-31-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:23,367 > UCR1003-32-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:25,419 > UCR1003-33-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:27,478 > UCR1003-34-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:29,532 > UCR1003-35-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:31,583 > UCR1003-36-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:33,638 > UCR1003-37-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:35,697 > UCR1003-38-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:37,751 > UCR1003-39-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:39,820 > UCR1003-40-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:41,878 > UCR1003-41-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:43,931 > UCR1003-42-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:46,046 > UCR1003-45-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:48,613 > 5 rows in 46-50 of 50
+[INFO|CRAWLER.py] 2020-11-13 23:09:50,696 > UCR1003-47-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:52,754 > UCR1003-48-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:54,809 > UCR1003-49-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:56,866 > UCR1003-50-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:09:58,902 > 선택교양-RC HE3 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:09:58,903 > 20171-(~2018학번)국제캠퍼스-의예과(1학년) 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:09:59,535 > 11 rows in 1-11 of 11
+[INFO|CRAWLER.py] 2020-11-13 23:09:59,562 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:10:00,080 > 11 rows in 1-11 of 11
+[INFO|CRAWLER.py] 2020-11-13 23:10:02,161 > MED1101-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-13 23:10:04,411 > 의예과(1학년) 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:10:04,411 > 20171-(~2018학번)국제캠퍼스-치의예과(1학년) 수집 시작
+[INFO|CRAWLER.py] 2020-11-13 23:10:05,034 > 15 rows in 1-15 of 15
+[INFO|CRAWLER.py] 2020-11-13 23:10:05,059 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:10:05,578 > 15 rows in 1-15 of 15
+[INFO|CRAWLER.py] 2020-11-13 23:10:07,997 > 치의예과(1학년) 탐색 완료
+[INFO|CRAWLER.py] 2020-11-13 23:10:07,997 > (~2018학번)국제캠퍼스 수집 완료
+[INFO|CRAWLER.py] 2020-11-13 23:10:07,998 > FINISHED_LECT_OBJs에 20171-ELECTIVES 전부 등록 완료

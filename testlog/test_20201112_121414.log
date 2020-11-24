@@ -1,0 +1,2356 @@
+[INFO|test.py] 2020-11-12 12:14:21,514 > 20202-문과대학-문과대학 공통 수집 시작
+[INFO|test.py] 2020-11-12 12:14:22,157 > 9 rows in 1-9 of 9
+[INFO|test.py] 2020-11-12 12:14:22,195 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:14:22,714 > 9 rows in 1-9 of 9
+[INFO|test.py] 2020-11-12 12:14:24,775 > TTP3829-01-00 cleared
+[INFO|test.py] 2020-11-12 12:14:26,861 > HUM2037-01-00 cleared
+[INFO|test.py] 2020-11-12 12:14:28,947 > HUM2038-01-00 cleared
+[INFO|test.py] 2020-11-12 12:14:31,022 > HUM2046-01-00 cleared
+[INFO|test.py] 2020-11-12 12:14:33,105 > HUM2047-01-00 cleared
+[INFO|test.py] 2020-11-12 12:14:35,171 > HUM2048-01-00 cleared
+[INFO|test.py] 2020-11-12 12:14:37,244 > HUM2049-01-00 cleared
+[INFO|test.py] 2020-11-12 12:14:39,331 > HUM3001-01-00 cleared
+[INFO|test.py] 2020-11-12 12:14:41,407 > HUM3007-01-00 cleared
+[INFO|test.py] 2020-11-12 12:14:42,434 > 문과대학 공통 탐색 완료
+[INFO|test.py] 2020-11-12 12:14:42,434 > 20202-문과대학-국어국문학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:14:43,068 > 15 rows in 1-15 of 33
+[INFO|test.py] 2020-11-12 12:14:43,092 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:14:43,611 > 15 rows in 1-15 of 33
+[INFO|test.py] 2020-11-12 12:14:45,689 > KOR1001-01-00 cleared
+[INFO|test.py] 2020-11-12 12:14:47,775 > KOR1101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:14:49,891 > KOR1102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:14:51,971 > KOR1106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:14:54,038 > KOR2002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:14:56,102 > KOR2002-02-00 cleared
+[INFO|test.py] 2020-11-12 12:14:58,165 > KOR2002-03-00 cleared
+[INFO|test.py] 2020-11-12 12:15:00,233 > KOR2002-04-00 cleared
+[INFO|test.py] 2020-11-12 12:15:02,298 > KOR2002-05-00 cleared
+[INFO|test.py] 2020-11-12 12:15:04,369 > KOR2002-06-00 cleared
+[INFO|test.py] 2020-11-12 12:15:06,430 > KOR2002-07-00 cleared
+[INFO|test.py] 2020-11-12 12:15:08,497 > KOR2301-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:10,566 > KOR2306-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:12,663 > KOR2308-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:14,731 > KOR2309-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:16,328 > 15 rows in 16-30 of 33
+[INFO|test.py] 2020-11-12 12:15:18,413 > KOR2312-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:20,497 > KOR2509-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:22,577 > KOR3301-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:24,666 > KOR3310-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:26,734 > KOR3315-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:28,805 > KOR3402-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:30,891 > KOR3414-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:32,961 > KOR3501-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:35,030 > KOR3512-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:37,109 > KOR3513-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:39,195 > KOR3516-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:41,267 > KOR3521-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:43,334 > KOR3525-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:45,425 > KOR3526-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:47,529 > KOR3529-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:49,076 > 3 rows in 31-33 of 33
+[INFO|test.py] 2020-11-12 12:15:51,143 > KOR4601-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:53,204 > TTP3801-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:55,283 > KOR4410-01-00 cleared
+[INFO|test.py] 2020-11-12 12:15:56,330 > 국어국문학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:15:56,330 > 20202-문과대학-사학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:15:56,966 > 15 rows in 1-15 of 22
+[INFO|test.py] 2020-11-12 12:15:56,994 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:15:57,510 > 15 rows in 1-15 of 22
+[INFO|test.py] 2020-11-12 12:15:59,582 > HIS2702-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:01,672 > HIS2401-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:03,742 > HIS2701-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:05,823 > HIS2003-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:07,891 > HIS2103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:09,970 > HIS2703-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:12,049 > HIS3110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:14,129 > HIS3111-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:16,211 > HIS3117-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:18,305 > HIS3402-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:20,380 > HIS3403-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:22,461 > HIS3416-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:24,546 > HIS3426-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:26,632 > HIS3701-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:28,726 > HIS3733-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:30,310 > 7 rows in 16-22 of 22
+[INFO|test.py] 2020-11-12 12:16:32,406 > HIS3986-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:34,481 > HIS3991-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:36,549 > HIS4402-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:38,617 > HIS4804-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:40,684 > HIS4807-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:42,761 > HIS4810-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:44,848 > HIS4811-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:45,888 > 사학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:16:45,888 > 20202-문과대학-철학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:16:46,520 > 15 rows in 1-15 of 18
+[INFO|test.py] 2020-11-12 12:16:46,548 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:16:47,066 > 15 rows in 1-15 of 18
+[INFO|test.py] 2020-11-12 12:16:49,154 > PHI1001-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:51,223 > PHI1002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:53,300 > PHI2151-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:55,406 > PHI2259-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:57,490 > PHI2261-01-00 cleared
+[INFO|test.py] 2020-11-12 12:16:59,552 > PHI2260-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:01,664 > PHI3274-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:03,772 > PHI3281-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:05,887 > PHI4266-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:07,957 > PHI3208-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:10,059 > PHI3264-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:12,136 > PHI3270-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:14,211 > PHI3271-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:16,277 > PHI4209-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:18,348 > PHI4256-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:19,901 > 3 rows in 16-18 of 18
+[INFO|test.py] 2020-11-12 12:17:21,974 > PHI4262-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:24,063 > PHI4265-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:26,151 > PHI4267-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:27,195 > 철학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:17:27,196 > 20202-문과대학-문헌정보학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:17:27,839 > 14 rows in 1-14 of 14
+[INFO|test.py] 2020-11-12 12:17:27,868 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:17:28,387 > 14 rows in 1-14 of 14
+[INFO|test.py] 2020-11-12 12:17:30,480 > LIS1102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:32,542 > LIS2001-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:34,617 > LIS2601-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:36,687 > LIS2805-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:38,752 > LIS2806-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:40,816 > LIS3304-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:42,888 > LIS3605-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:44,979 > LIS3612-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:47,048 > LIS3806-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:49,126 > LIS3814-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:51,211 > LIS4302-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:53,278 > LIS4701-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:55,357 > LIS4704-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:57,444 > LIS4801-01-00 cleared
+[INFO|test.py] 2020-11-12 12:17:58,465 > 문헌정보학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:17:58,465 > 20202-문과대학-심리학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:17:59,070 > 15 rows in 1-15 of 19
+[INFO|test.py] 2020-11-12 12:17:59,099 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:17:59,617 > 15 rows in 1-15 of 19
+[INFO|test.py] 2020-11-12 12:18:01,684 > PSY4125-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:03,826 > PSY2103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:05,907 > PSY2104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:07,976 > PSY2104-02-00 cleared
+[INFO|test.py] 2020-11-12 12:18:10,042 > PSY2001-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:12,157 > PSY3113-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:14,246 > PSY3122-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:16,330 > PSY3122-02-00 cleared
+[INFO|test.py] 2020-11-12 12:18:18,402 > PSY3122-03-00 cleared
+[INFO|test.py] 2020-11-12 12:18:20,488 > PSY3103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:22,610 > PSY3126-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:24,731 > PSY3133-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:26,845 > PSY3163-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:28,930 > PSY3168-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:31,089 > PSY4121-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:32,660 > 4 rows in 16-19 of 19
+[INFO|test.py] 2020-11-12 12:18:34,750 > PSY4127-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:36,834 > PSY4141-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:38,897 > PSY4132-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:40,980 > PSY4130-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:42,025 > 심리학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:18:42,025 > 20202-문과대학-중어중문학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:18:42,654 > 15 rows in 1-15 of 22
+[INFO|test.py] 2020-11-12 12:18:42,680 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:18:43,195 > 15 rows in 1-15 of 22
+[INFO|test.py] 2020-11-12 12:18:45,272 > CLL2101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:47,359 > CLL2002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:49,425 > CLL2306-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:51,501 > CLL2401-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:53,581 > CLL2603-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:55,682 > CLL3302-01-00 cleared
+[INFO|test.py] 2020-11-12 12:18:57,763 > CLL3302-02-00 cleared
+[INFO|test.py] 2020-11-12 12:18:59,834 > CLL3406-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:01,908 > CLL3409-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:04,037 > CLL3410-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:06,104 > CLL3502-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:08,175 > CLL3605-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:10,248 > CLL3607-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:12,315 > CLL3603-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:13,876 > 7 rows in 16-22 of 22
+[INFO|test.py] 2020-11-12 12:19:15,940 > CLL3611-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:18,014 > CLL4301-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:20,086 > CLL4304-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:22,164 > CLL4304-02-00 cleared
+[INFO|test.py] 2020-11-12 12:19:24,243 > CLL4604-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:26,324 > CLL4608-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:28,386 > TTP3802-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:29,444 > 중어중문학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:19:29,444 > 20202-문과대학-영어영문학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:19:30,073 > 15 rows in 1-15 of 47
+[INFO|test.py] 2020-11-12 12:19:30,099 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:19:30,617 > 15 rows in 1-15 of 47
+[INFO|test.py] 2020-11-12 12:19:32,721 > ELL2101-02-00 cleared
+[INFO|test.py] 2020-11-12 12:19:34,799 > ELL2501-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:36,892 > ELL2001-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:38,963 > ELL2001-02-00 cleared
+[INFO|test.py] 2020-11-12 12:19:41,029 > ELL2001-03-00 cleared
+[INFO|test.py] 2020-11-12 12:19:43,109 > ELL2002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:45,193 > ELL2002-02-00 cleared
+[INFO|test.py] 2020-11-12 12:19:47,269 > ELL2002-03-00 cleared
+[INFO|test.py] 2020-11-12 12:19:49,342 > ELL2003-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:51,442 > ELL2003-02-00 cleared
+[INFO|test.py] 2020-11-12 12:19:53,512 > ELL2003-03-00 cleared
+[INFO|test.py] 2020-11-12 12:19:55,579 > ELL2004-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:57,649 > ELL2005-01-00 cleared
+[INFO|test.py] 2020-11-12 12:19:59,712 > ELL2005-02-00 cleared
+[INFO|test.py] 2020-11-12 12:20:01,294 > 15 rows in 16-30 of 47
+[INFO|test.py] 2020-11-12 12:20:03,365 > ELL2005-03-00 cleared
+[INFO|test.py] 2020-11-12 12:20:05,416 > ELL2005-04-00 cleared
+[INFO|test.py] 2020-11-12 12:20:07,488 > ELL2504-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:09,581 > ELL3701-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:11,655 > ELL3302-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:13,715 > ELL3308-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:15,795 > ELL3601-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:17,869 > ELL3707-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:19,939 > ELL3802-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:22,012 > ELL3902-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:24,092 > ELL4305-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:26,157 > ELL3407-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:28,259 > ELL3909-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:30,326 > ELL3912-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:31,918 > 15 rows in 31-45 of 47
+[INFO|test.py] 2020-11-12 12:20:33,976 > ELL3913-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:36,043 > ELL3914-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:38,126 > ELL3918-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:40,201 > ELL3921-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:42,297 > ELL4302-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:44,382 > ELL4909-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:46,443 > ELL4911-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:48,527 > ELL4912-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:50,601 > ELL4913-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:52,669 > ELL4919-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:54,728 > ELL4921-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:56,801 > ELL3401-01-00 cleared
+[INFO|test.py] 2020-11-12 12:20:58,867 > ELL3603-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:00,927 > ELL4301-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:02,990 > ELL4904-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:04,531 > 2 rows in 46-47 of 47
+[INFO|test.py] 2020-11-12 12:21:06,611 > ELL4915-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:08,685 > TTP3803-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:09,737 > 영어영문학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:21:09,738 > 20202-문과대학-독어독문학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:21:10,378 > 14 rows in 1-14 of 14
+[INFO|test.py] 2020-11-12 12:21:10,410 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:21:10,925 > 14 rows in 1-14 of 14
+[INFO|test.py] 2020-11-12 12:21:12,998 > GER2118-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:15,083 > GER2115-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:17,173 > GER3139-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:19,255 > GER3140-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:21,336 > GER2109-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:23,411 > GER2112-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:25,488 > GER3138-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:27,557 > GER3107-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:29,629 > GER3113-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:31,698 > GER3121-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:33,779 > GER3124-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:35,851 > GER3129-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:37,918 > GER3144-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:50,025 > GER4117-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:51,051 > 독어독문학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:21:51,052 > 20202-문과대학-불어불문학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:21:51,684 > 15 rows in 1-15 of 16
+[INFO|test.py] 2020-11-12 12:21:51,711 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:21:52,229 > 15 rows in 1-15 of 16
+[INFO|test.py] 2020-11-12 12:21:54,327 > FRE2102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:56,411 > FRE2108-01-00 cleared
+[INFO|test.py] 2020-11-12 12:21:58,483 > FRE2109-01-00 cleared
+[INFO|test.py] 2020-11-12 12:22:00,554 > FRE2109-02-00 cleared
+[INFO|test.py] 2020-11-12 12:22:12,640 > FRE2110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:22:14,703 > FRE2111-01-00 cleared
+[INFO|test.py] 2020-11-12 12:22:16,770 > FRE2112-01-00 cleared
+[INFO|test.py] 2020-11-12 12:22:18,839 > FRE3107-01-00 cleared
+[INFO|test.py] 2020-11-12 12:22:20,923 > FRE3110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:22:22,986 > FRE3114-01-00 cleared
+[INFO|test.py] 2020-11-12 12:22:25,060 > FRE3115-01-00 cleared
+[INFO|test.py] 2020-11-12 12:22:27,129 > FRE3120-01-00 cleared
+[INFO|test.py] 2020-11-12 12:22:29,199 > FRE4103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:22:31,266 > FRE4109-01-00 cleared
+[INFO|test.py] 2020-11-12 12:22:33,332 > FRE4117-01-00 cleared
+[INFO|test.py] 2020-11-12 12:22:34,897 > 1 rows in 16-16 of 16
+[INFO|test.py] 2020-11-12 12:22:46,973 > TTP3805-01-00 cleared
+[INFO|test.py] 2020-11-12 12:22:48,006 > 불어불문학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:22:48,006 > 20202-문과대학-노어노문학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:22:48,637 > 15 rows in 1-15 of 16
+[INFO|test.py] 2020-11-12 12:22:48,665 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:22:49,183 > 15 rows in 1-15 of 16
+[INFO|test.py] 2020-11-12 12:22:51,247 > RUS2106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:22:53,315 > RUS2106-02-00 cleared
+[INFO|test.py] 2020-11-12 12:22:55,400 > RUS2112-01-00 cleared
+[INFO|test.py] 2020-11-12 12:22:57,468 > RUS2104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:22:59,538 > RUS2104-02-00 cleared
+[INFO|test.py] 2020-11-12 12:23:01,606 > RUS2130-01-00 cleared
+[INFO|test.py] 2020-11-12 12:23:03,690 > RUS2135-01-00 cleared
+[INFO|test.py] 2020-11-12 12:23:05,753 > RUS2136-01-00 cleared
+[INFO|test.py] 2020-11-12 12:23:07,829 > RUS3106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:23:09,900 > RUS3104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:23:11,986 > RUS3110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:23:14,061 > RUS3113-01-00 cleared
+[INFO|test.py] 2020-11-12 12:23:16,153 > RUS3136-01-00 cleared
+[INFO|test.py] 2020-11-12 12:23:18,217 > RUS4108-01-00 cleared
+[INFO|test.py] 2020-11-12 12:23:20,284 > RUS4115-01-00 cleared
+[INFO|test.py] 2020-11-12 12:23:21,849 > 1 rows in 16-16 of 16
+[INFO|test.py] 2020-11-12 12:23:23,916 > RUS4116-01-00 cleared
+[INFO|test.py] 2020-11-12 12:23:24,955 > 노어노문학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:23:24,955 > 문과대학 수집 완료
+[INFO|test.py] 2020-11-12 12:23:24,956 > 20202-상경대학-상경대학 공통 수집 시작
+[INFO|test.py] 2020-11-12 12:23:25,593 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:23:35,629 > No caution link in 0th row
+[INFO|test.py] 2020-11-12 12:23:36,136 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:23:36,136 > No caution in pages
+[INFO|test.py] 2020-11-12 12:23:36,652 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:23:37,672 > 상경대학 공통 탐색 완료
+[INFO|test.py] 2020-11-12 12:23:37,672 > 20202-상경대학-경제학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:23:38,258 > 15 rows in 1-15 of 70
+[INFO|test.py] 2020-11-12 12:23:38,286 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:23:38,802 > 15 rows in 1-15 of 70
+[INFO|test.py] 2020-11-12 12:23:40,915 > ECO1101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:23:43,003 > ECO1101-02-00 cleared
+[INFO|test.py] 2020-11-12 12:23:45,093 > ECO1101-03-00 cleared
+[INFO|test.py] 2020-11-12 12:23:47,165 > ECO1101-04-00 cleared
+[INFO|test.py] 2020-11-12 12:23:49,251 > ECO1101-05-00 cleared
+[INFO|test.py] 2020-11-12 12:23:51,332 > ECO1101-06-00 cleared
+[INFO|test.py] 2020-11-12 12:23:53,437 > ECO1103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:23:55,518 > ECO1103-02-00 cleared
+[INFO|test.py] 2020-11-12 12:23:57,623 > ECO1103-03-00 cleared
+[INFO|test.py] 2020-11-12 12:23:59,713 > ECO1103-04-00 cleared
+[INFO|test.py] 2020-11-12 12:24:01,790 > ECO1103-05-00 cleared
+[INFO|test.py] 2020-11-12 12:24:03,866 > ECO1103-06-00 cleared
+[INFO|test.py] 2020-11-12 12:24:05,922 > ECO1103-07-00 cleared
+[INFO|test.py] 2020-11-12 12:24:08,046 > ECO1104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:24:09,624 > 15 rows in 16-30 of 70
+[INFO|test.py] 2020-11-12 12:24:11,691 > ECO1104-02-00 cleared
+[INFO|test.py] 2020-11-12 12:24:13,814 > ECO1104-03-00 cleared
+[INFO|test.py] 2020-11-12 12:24:15,900 > ECO1104-04-00 cleared
+[INFO|test.py] 2020-11-12 12:24:17,982 > ECO1104-05-00 cleared
+[INFO|test.py] 2020-11-12 12:24:20,039 > ECO1104-06-00 cleared
+[INFO|test.py] 2020-11-12 12:24:22,093 > ECO1104-07-00 cleared
+[INFO|test.py] 2020-11-12 12:24:24,165 > ECO2101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:24:26,279 > ECO2101-02-00 cleared
+[INFO|test.py] 2020-11-12 12:24:28,362 > ECO2101-03-00 cleared
+[INFO|test.py] 2020-11-12 12:24:30,435 > ECO2101-04-00 cleared
+[INFO|test.py] 2020-11-12 12:24:32,504 > ECO2101-05-00 cleared
+[INFO|test.py] 2020-11-12 12:24:34,583 > ECO2101-06-00 cleared
+[INFO|test.py] 2020-11-12 12:24:36,638 > ECO2101-07-00 cleared
+[INFO|test.py] 2020-11-12 12:24:38,740 > ECO2101-09-00 cleared
+[INFO|test.py] 2020-11-12 12:24:40,823 > ECO2102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:24:42,387 > 15 rows in 31-45 of 70
+[INFO|test.py] 2020-11-12 12:24:44,480 > ECO2102-02-00 cleared
+[INFO|test.py] 2020-11-12 12:24:46,556 > ECO2102-03-00 cleared
+[INFO|test.py] 2020-11-12 12:24:48,659 > ECO2102-04-00 cleared
+[INFO|test.py] 2020-11-12 12:24:50,757 > ECO2102-05-00 cleared
+[INFO|test.py] 2020-11-12 12:24:52,833 > ECO2102-06-00 cleared
+[INFO|test.py] 2020-11-12 12:24:54,913 > ECO2102-07-00 cleared
+[INFO|test.py] 2020-11-12 12:24:56,980 > ECO2002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:24:59,063 > ECO2114-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:01,213 > ECO3132-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:03,367 > ECO3101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:05,590 > ECO3101-02-00 cleared
+[INFO|test.py] 2020-11-12 12:25:07,662 > ECO3101-03-00 cleared
+[INFO|test.py] 2020-11-12 12:25:09,753 > ECO3103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:11,853 > ECO3104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:13,967 > ECO3104-02-00 cleared
+[INFO|test.py] 2020-11-12 12:25:15,554 > 15 rows in 46-60 of 70
+[INFO|test.py] 2020-11-12 12:25:17,660 > ECO3108-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:19,744 > ECO3110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:21,874 > ECO3110-02-00 cleared
+[INFO|test.py] 2020-11-12 12:25:24,009 > ECO3114-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:26,102 > ECO3116-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:28,234 > ECO3119-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:30,394 > ECO3123-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:32,476 > ECO3128-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:34,622 > ECO3130-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:36,783 > ECO3130-02-00 cleared
+[INFO|test.py] 2020-11-12 12:25:38,924 > ECO3131-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:41,024 > ECO3133-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:43,139 > ECO3133-02-00 cleared
+[INFO|test.py] 2020-11-12 12:25:45,315 > ECO3134-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:47,373 > ECO3134-02-00 cleared
+[INFO|test.py] 2020-11-12 12:25:48,934 > 10 rows in 61-70 of 70
+[INFO|test.py] 2020-11-12 12:25:51,004 > ECO3137-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:53,145 > ECO3140-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:55,252 > ECO3164-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:57,320 > ECO4104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:25:59,433 > ECO4110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:01,558 > ECO4115-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:03,658 > ECO4116-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:05,750 > ECO4118-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:07,841 > ECO4122-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:09,951 > ECO4862-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:10,996 > 경제학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:26:10,996 > 20202-상경대학-응용통계학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:26:11,624 > 15 rows in 1-15 of 26
+[INFO|test.py] 2020-11-12 12:26:11,653 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:26:12,170 > 15 rows in 1-15 of 26
+[INFO|test.py] 2020-11-12 12:26:14,275 > STA1002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:16,363 > STA1002-02-00 cleared
+[INFO|test.py] 2020-11-12 12:26:18,469 > STA2102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:20,572 > STA2102-02-00 cleared
+[INFO|test.py] 2020-11-12 12:26:22,721 > STA2104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:24,829 > STA2104-02-00 cleared
+[INFO|test.py] 2020-11-12 12:26:26,948 > STA2105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:29,056 > STA2105-02-00 cleared
+[INFO|test.py] 2020-11-12 12:26:31,124 > STA2105-03-00 cleared
+[INFO|test.py] 2020-11-12 12:26:33,223 > STA2005-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:35,297 > STA2005-02-00 cleared
+[INFO|test.py] 2020-11-12 12:26:37,433 > STA3109-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:39,014 > 11 rows in 16-26 of 26
+[INFO|test.py] 2020-11-12 12:26:41,274 > STA3126-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:43,389 > STA3107-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:45,531 > STA3111-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:47,658 > STA3125-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:49,826 > STA3140-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:51,929 > STA4116-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:54,011 > STA3102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:56,096 > STA3105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:26:58,206 > STA3108-01-00 cleared
+[INFO|test.py] 2020-11-12 12:27:00,323 > STA3110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:27:02,401 > STA4111-01-00 cleared
+[INFO|test.py] 2020-11-12 12:27:03,442 > 응용통계학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:27:03,442 > 20202-상경대학-상경계열 수집 시작
+[INFO|test.py] 2020-11-12 12:27:04,073 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:27:14,088 > No caution link in 0th row
+[INFO|test.py] 2020-11-12 12:27:14,600 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:27:14,600 > No caution in pages
+[INFO|test.py] 2020-11-12 12:27:15,119 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:27:16,144 > 상경계열 탐색 완료
+[INFO|test.py] 2020-11-12 12:27:16,144 > 상경대학 수집 완료
+[INFO|test.py] 2020-11-12 12:27:16,144 > 20202-경영대학-경영학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:27:16,765 > 15 rows in 1-15 of 114
+[INFO|test.py] 2020-11-12 12:27:16,793 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:27:17,309 > 15 rows in 1-15 of 114
+[INFO|test.py] 2020-11-12 12:27:19,436 > BIZ1101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:27:21,524 > BIZ1101-02-00 cleared
+[INFO|test.py] 2020-11-12 12:27:23,590 > BIZ1101-03-00 cleared
+[INFO|test.py] 2020-11-12 12:27:25,726 > BIZ1101-04-00 cleared
+[INFO|test.py] 2020-11-12 12:27:27,885 > BIZ1101-05-00 cleared
+[INFO|test.py] 2020-11-12 12:27:30,053 > BIZ1101-06-00 cleared
+[INFO|test.py] 2020-11-12 12:27:32,199 > BIZ1102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:27:34,284 > BIZ1102-02-00 cleared
+[INFO|test.py] 2020-11-12 12:27:36,380 > BIZ1102-03-00 cleared
+[INFO|test.py] 2020-11-12 12:27:38,521 > BIZ1102-04-00 cleared
+[INFO|test.py] 2020-11-12 12:27:40,583 > BIZ1102-05-00 cleared
+[INFO|test.py] 2020-11-12 12:27:42,652 > BIZ1102-06-00 cleared
+[INFO|test.py] 2020-11-12 12:27:44,229 > 15 rows in 16-30 of 114
+[INFO|test.py] 2020-11-12 12:27:46,350 > BIZ2119-01-00 cleared
+[INFO|test.py] 2020-11-12 12:27:48,442 > BIZ2119-02-00 cleared
+[INFO|test.py] 2020-11-12 12:27:50,553 > BIZ2119-03-00 cleared
+[INFO|test.py] 2020-11-12 12:27:52,618 > BIZ2119-04-00 cleared
+[INFO|test.py] 2020-11-12 12:27:54,742 > BIZ2119-05-00 cleared
+[INFO|test.py] 2020-11-12 12:27:56,836 > BIZ2119-06-00 cleared
+[INFO|test.py] 2020-11-12 12:27:58,929 > BIZ2120-01-00 cleared
+[INFO|test.py] 2020-11-12 12:28:01,018 > BIZ2120-02-00 cleared
+[INFO|test.py] 2020-11-12 12:28:03,132 > BIZ2120-03-00 cleared
+[INFO|test.py] 2020-11-12 12:28:05,265 > BIZ2120-04-00 cleared
+[INFO|test.py] 2020-11-12 12:28:07,350 > BIZ2120-05-00 cleared
+[INFO|test.py] 2020-11-12 12:28:09,448 > BIZ2121-01-00 cleared
+[INFO|test.py] 2020-11-12 12:28:11,522 > BIZ2121-02-00 cleared
+[INFO|test.py] 2020-11-12 12:28:13,109 > 15 rows in 31-45 of 114
+[INFO|test.py] 2020-11-12 12:28:15,179 > BIZ2121-03-00 cleared
+[INFO|test.py] 2020-11-12 12:28:17,315 > BIZ2121-04-00 cleared
+[INFO|test.py] 2020-11-12 12:28:19,428 > BIZ2121-05-00 cleared
+[INFO|test.py] 2020-11-12 12:28:21,529 > BIZ2121-06-00 cleared
+[INFO|test.py] 2020-11-12 12:28:23,594 > BIZ2122-01-00 cleared
+[INFO|test.py] 2020-11-12 12:28:25,695 > BIZ2122-02-00 cleared
+[INFO|test.py] 2020-11-12 12:28:27,799 > BIZ2122-03-00 cleared
+[INFO|test.py] 2020-11-12 12:28:29,877 > BIZ2122-04-00 cleared
+[INFO|test.py] 2020-11-12 12:28:31,965 > BIZ2122-05-00 cleared
+[INFO|test.py] 2020-11-12 12:28:34,070 > BIZ2122-06-00 cleared
+[INFO|test.py] 2020-11-12 12:28:36,128 > BIZ2001-01-00 cleared
+[INFO|test.py] 2020-11-12 12:28:38,187 > BIZ2003-01-00 cleared
+[INFO|test.py] 2020-11-12 12:28:40,246 > BIZ2003-02-00 cleared
+[INFO|test.py] 2020-11-12 12:28:52,326 > BIZ2003-03-00 cleared
+[INFO|test.py] 2020-11-12 12:28:54,396 > BIZ2003-04-00 cleared
+[INFO|test.py] 2020-11-12 12:28:55,983 > 15 rows in 46-60 of 114
+[INFO|test.py] 2020-11-12 12:28:58,056 > BIZ2003-05-00 cleared
+[INFO|test.py] 2020-11-12 12:29:00,183 > BIZ2125-01-00 cleared
+[INFO|test.py] 2020-11-12 12:29:02,285 > BIZ3108-01-00 cleared
+[INFO|test.py] 2020-11-12 12:29:04,435 > BIZ3108-04-00 cleared
+[INFO|test.py] 2020-11-12 12:29:06,558 > BIZ3108-05-00 cleared
+[INFO|test.py] 2020-11-12 12:29:08,642 > BIZ3147-01-00 cleared
+[INFO|test.py] 2020-11-12 12:29:10,727 > BIZ3147-02-00 cleared
+[INFO|test.py] 2020-11-12 12:29:12,806 > BIZ3147-03-00 cleared
+[INFO|test.py] 2020-11-12 12:29:14,926 > BIZ3147-04-00 cleared
+[INFO|test.py] 2020-11-12 12:29:16,998 > BIZ3147-05-00 cleared
+[INFO|test.py] 2020-11-12 12:29:19,100 > BIZ3147-06-00 cleared
+[INFO|test.py] 2020-11-12 12:29:21,160 > BIZ3189-01-00 cleared
+[INFO|test.py] 2020-11-12 12:29:23,247 > BIZ3189-02-00 cleared
+[INFO|test.py] 2020-11-12 12:29:24,813 > 15 rows in 61-75 of 114
+[INFO|test.py] 2020-11-12 12:29:26,883 > BIZ3189-03-00 cleared
+[INFO|test.py] 2020-11-12 12:29:28,958 > BIZ3189-04-00 cleared
+[INFO|test.py] 2020-11-12 12:29:31,118 > BIZ3189-05-00 cleared
+[INFO|test.py] 2020-11-12 12:29:33,199 > BIZ2113-01-00 cleared
+[INFO|test.py] 2020-11-12 12:29:35,340 > BIZ3105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:29:37,504 > BIZ3105-02-00 cleared
+[INFO|test.py] 2020-11-12 12:29:39,623 > BIZ3107-01-00 cleared
+[INFO|test.py] 2020-11-12 12:29:41,749 > BIZ3109-01-00 cleared
+[INFO|test.py] 2020-11-12 12:29:43,867 > BIZ3109-02-00 cleared
+[INFO|test.py] 2020-11-12 12:29:45,968 > BIZ3110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:29:48,048 > BIZ3119-01-00 cleared
+[INFO|test.py] 2020-11-12 12:29:50,147 > BIZ3119-02-00 cleared
+[INFO|test.py] 2020-11-12 12:29:52,279 > BIZ3120-01-00 cleared
+[INFO|test.py] 2020-11-12 12:29:54,391 > BIZ3120-02-00 cleared
+[INFO|test.py] 2020-11-12 12:29:56,457 > BIZ3125-01-00 cleared
+[INFO|test.py] 2020-11-12 12:29:58,046 > 15 rows in 76-90 of 114
+[INFO|test.py] 2020-11-12 12:30:00,115 > BIZ3125-02-00 cleared
+[INFO|test.py] 2020-11-12 12:30:02,203 > BIZ3126-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:04,301 > BIZ3126-02-00 cleared
+[INFO|test.py] 2020-11-12 12:30:06,381 > BIZ3134-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:08,442 > BIZ3134-02-00 cleared
+[INFO|test.py] 2020-11-12 12:30:10,520 > BIZ3134-03-00 cleared
+[INFO|test.py] 2020-11-12 12:30:12,578 > BIZ3134-04-00 cleared
+[INFO|test.py] 2020-11-12 12:30:14,648 > BIZ3135-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:16,753 > BIZ3136-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:18,848 > BIZ3136-02-00 cleared
+[INFO|test.py] 2020-11-12 12:30:20,924 > BIZ3136-03-00 cleared
+[INFO|test.py] 2020-11-12 12:30:23,028 > BIZ3148-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:25,172 > BIZ3155-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:27,237 > BIZ3158-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:29,336 > BIZ3162-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:30,900 > 15 rows in 91-105 of 114
+[INFO|test.py] 2020-11-12 12:30:33,010 > BIZ3175-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:35,087 > BIZ3197-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:37,177 > BIZ3198-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:39,257 > BIZ3198-02-00 cleared
+[INFO|test.py] 2020-11-12 12:30:41,345 > BIZ4115-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:43,460 > BIZ4122-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:45,569 > BIZ4123-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:47,663 > BIZ4129-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:49,754 > BIZ4139-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:51,878 > BIZ4147-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:53,952 > BIZ4148-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:56,068 > BIZ4150-01-00 cleared
+[INFO|test.py] 2020-11-12 12:30:58,155 > BIZ4151-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:00,256 > BIZ4157-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:02,344 > BIZ4159-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:03,920 > 9 rows in 106-114 of 114
+[INFO|test.py] 2020-11-12 12:31:05,990 > BIZ4167-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:08,076 > BIZ4180-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:10,149 > BIZ4183-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:12,216 > BIZ4183-02-00 cleared
+[INFO|test.py] 2020-11-12 12:31:14,300 > BIZ4189-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:16,369 > BIZ4190-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:18,459 > BIZ4194-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:20,559 > BIZ4197-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:22,638 > BIZ4177-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:23,681 > 경영학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:31:23,682 > 경영대학 수집 완료
+[INFO|test.py] 2020-11-12 12:31:23,682 > 20202-이과대학-이과대학 공통 수집 시작
+[INFO|test.py] 2020-11-12 12:31:24,319 > 5 rows in 1-5 of 5
+[INFO|test.py] 2020-11-12 12:31:24,351 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:31:24,866 > 5 rows in 1-5 of 5
+[INFO|test.py] 2020-11-12 12:31:26,926 > SCI2001-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:29,018 > SCI2002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:31,113 > MAT2002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:33,187 > MAT2002-02-00 cleared
+[INFO|test.py] 2020-11-12 12:31:35,248 > SCI3005-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:36,269 > 이과대학 공통 탐색 완료
+[INFO|test.py] 2020-11-12 12:31:36,269 > 20202-이과대학-수학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:31:36,858 > 15 rows in 1-15 of 22
+[INFO|test.py] 2020-11-12 12:31:36,885 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:31:37,400 > 15 rows in 1-15 of 22
+[INFO|test.py] 2020-11-12 12:31:39,473 > MAT3104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:41,535 > MAT3104-02-00 cleared
+[INFO|test.py] 2020-11-12 12:31:43,623 > MAT2103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:45,705 > MAT3120-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:47,790 > MAT3120-02-00 cleared
+[INFO|test.py] 2020-11-12 12:31:49,866 > MAT3123-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:51,967 > MAT3105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:54,041 > MAT2105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:56,107 > MAT3101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:31:58,180 > MAT3102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:00,255 > MAT3110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:02,333 > MAT3110-02-00 cleared
+[INFO|test.py] 2020-11-12 12:32:04,429 > MAT3985-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:06,504 > MAT3112-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:08,588 > MAT3113-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:10,149 > 7 rows in 16-22 of 22
+[INFO|test.py] 2020-11-12 12:32:12,206 > MAT3117-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:14,272 > MAT3118-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:16,333 > MAT3119-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:18,408 > MAT4106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:20,463 > MAT4108-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:22,518 > MAT4120-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:24,582 > TTP4009-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:25,621 > 수학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:32:25,621 > 20202-이과대학-물리학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:32:26,240 > 15 rows in 1-15 of 15
+[INFO|test.py] 2020-11-12 12:32:26,266 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:32:26,780 > 15 rows in 1-15 of 15
+[INFO|test.py] 2020-11-12 12:32:28,878 > PHY3111-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:30,962 > PHY2104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:33,027 > PHY2106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:35,115 > PHY3113-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:37,201 > PHY3102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:39,285 > PHY3104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:41,370 > PHY3106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:43,436 > PHY3108-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:45,497 > PHY3114-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:47,564 > PHY4102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:49,628 > PHY4108-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:51,695 > PHY4109-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:53,764 > PHY4116-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:55,832 > PHY4117-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:57,898 > PHY4206-01-00 cleared
+[INFO|test.py] 2020-11-12 12:32:58,924 > 물리학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:32:58,925 > 20202-이과대학-화학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:32:59,543 > 15 rows in 1-15 of 19
+[INFO|test.py] 2020-11-12 12:32:59,573 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:33:00,090 > 15 rows in 1-15 of 19
+[INFO|test.py] 2020-11-12 12:33:02,165 > CHE3115-01-00 cleared
+[INFO|test.py] 2020-11-12 12:33:04,223 > CHE3115-02-00 cleared
+[INFO|test.py] 2020-11-12 12:33:06,300 > CHE3115-03-00 cleared
+[INFO|test.py] 2020-11-12 12:33:08,388 > CHE2103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:33:10,457 > CHE3110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:33:12,531 > CHE3110-02-00 cleared
+[INFO|test.py] 2020-11-12 12:33:24,610 > CHE3110-03-00 cleared
+[INFO|test.py] 2020-11-12 12:33:26,714 > CHE3110-04-00 cleared
+[INFO|test.py] 2020-11-12 12:33:28,806 > CHE3102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:33:30,880 > CHE3117-01-00 cleared
+[INFO|test.py] 2020-11-12 12:33:32,950 > CHE3117-02-00 cleared
+[INFO|test.py] 2020-11-12 12:33:35,012 > CHE3117-03-00 cleared
+[INFO|test.py] 2020-11-12 12:33:37,104 > CHE3112-01-00 cleared
+[INFO|test.py] 2020-11-12 12:33:39,186 > CHE3103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:33:41,261 > CHE3106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:33:42,830 > 4 rows in 16-19 of 19
+[INFO|test.py] 2020-11-12 12:33:44,909 > CHE4107-01-00 cleared
+[INFO|test.py] 2020-11-12 12:33:46,987 > CHE4103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:33:49,067 > CHE4105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:33:51,134 > CHE4110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:33:52,172 > 화학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:33:52,172 > 20202-이과대학-지구시스템과학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:33:52,801 > 11 rows in 1-11 of 11
+[INFO|test.py] 2020-11-12 12:33:52,829 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:33:53,344 > 11 rows in 1-11 of 11
+[INFO|test.py] 2020-11-12 12:33:55,414 > ESS1105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:33:57,481 > ESS2110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:33:59,546 > ESS2102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:01,619 > ESS2112-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:03,684 > ESS3105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:05,769 > ESS3115-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:07,841 > ESS3120-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:09,914 > ESS3122-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:12,002 > ESS3127-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:14,079 > ESS4126-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:16,143 > ESS4116-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:17,168 > 지구시스템과학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:34:17,168 > 20202-이과대학-천문우주학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:34:17,801 > 11 rows in 1-11 of 11
+[INFO|test.py] 2020-11-12 12:34:17,830 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:34:18,347 > 11 rows in 1-11 of 11
+[INFO|test.py] 2020-11-12 12:34:20,412 > AST1003-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:22,500 > AST2105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:24,568 > AST2106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:26,636 > AST3105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:28,712 > AST3106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:40,782 > AST3107-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:42,849 > AST3108-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:44,909 > AST4109-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:46,972 > AST4104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:49,033 > AST4105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:51,099 > AST4106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:52,122 > 천문우주학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:34:52,122 > 20202-이과대학-대기과학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:34:52,742 > 11 rows in 1-11 of 11
+[INFO|test.py] 2020-11-12 12:34:52,771 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:34:53,290 > 11 rows in 1-11 of 11
+[INFO|test.py] 2020-11-12 12:34:55,378 > ATM2109-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:57,455 > ATM2102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:34:59,529 > ATM2104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:35:01,608 > ATM3108-01-00 cleared
+[INFO|test.py] 2020-11-12 12:35:03,683 > ATM4101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:35:05,762 > ATM4102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:35:07,835 > ATM4110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:35:09,916 > ATM4111-01-00 cleared
+[INFO|test.py] 2020-11-12 12:35:11,994 > ATM3111-01-00 cleared
+[INFO|test.py] 2020-11-12 12:35:14,056 > ATM3113-01-00 cleared
+[INFO|test.py] 2020-11-12 12:35:16,124 > ATM4105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:35:17,151 > 대기과학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:35:17,151 > 20202-이과대학-의예과(~2011) 수집 시작
+[INFO|test.py] 2020-11-12 12:35:17,779 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:35:27,811 > No caution link in 0th row
+[INFO|test.py] 2020-11-12 12:35:28,317 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:35:28,317 > No caution in pages
+[INFO|test.py] 2020-11-12 12:35:28,835 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:35:29,857 > 의예과(~2011) 탐색 완료
+[INFO|test.py] 2020-11-12 12:35:29,857 > 20202-이과대학-치의예과(~2011) 수집 시작
+[INFO|test.py] 2020-11-12 12:35:30,442 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:35:40,467 > No caution link in 0th row
+[INFO|test.py] 2020-11-12 12:35:40,973 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:35:40,973 > No caution in pages
+[INFO|test.py] 2020-11-12 12:35:41,489 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:35:42,508 > 치의예과(~2011) 탐색 완료
+[INFO|test.py] 2020-11-12 12:35:42,509 > 20202-이과대학-자연과학부 수집 시작
+[INFO|test.py] 2020-11-12 12:35:43,090 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:35:53,115 > No caution link in 0th row
+[INFO|test.py] 2020-11-12 12:35:53,622 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:35:53,622 > No caution in pages
+[INFO|test.py] 2020-11-12 12:35:54,137 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:35:55,157 > 자연과학부 탐색 완료
+[INFO|test.py] 2020-11-12 12:35:55,157 > 이과대학 수집 완료
+[INFO|test.py] 2020-11-12 12:35:55,158 > 20202-공과대학-공과대학공통 수집 시작
+[INFO|test.py] 2020-11-12 12:35:55,757 > 15 rows in 1-15 of 41
+[INFO|test.py] 2020-11-12 12:35:55,786 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:35:56,301 > 15 rows in 1-15 of 41
+[INFO|test.py] 2020-11-12 12:35:58,380 > MAT2016-01-01 cleared
+[INFO|test.py] 2020-11-12 12:36:00,470 > MAT2016-01-02 cleared
+[INFO|test.py] 2020-11-12 12:36:02,569 > ENG2000-01-00 cleared
+[INFO|test.py] 2020-11-12 12:36:04,685 > ENG2009-01-00 cleared
+[INFO|test.py] 2020-11-12 12:36:06,753 > ENG2113-01-00 cleared
+[INFO|test.py] 2020-11-12 12:36:08,852 > ENG2114-01-00 cleared
+[INFO|test.py] 2020-11-12 12:36:20,944 > ENG2116-01-00 cleared
+[INFO|test.py] 2020-11-12 12:36:23,274 > ENG3405-01-00 cleared
+[INFO|test.py] 2020-11-12 12:36:25,405 > ENG1108-01-01 cleared
+[INFO|test.py] 2020-11-12 12:36:27,480 > ENG1108-01-02 cleared
+[INFO|test.py] 2020-11-12 12:36:29,556 > ENG1108-02-01 cleared
+[INFO|test.py] 2020-11-12 12:36:31,632 > ENG1108-02-02 cleared
+[INFO|test.py] 2020-11-12 12:36:33,699 > ENG1108-03-01 cleared
+[INFO|test.py] 2020-11-12 12:36:35,272 > 15 rows in 16-30 of 41
+[INFO|test.py] 2020-11-12 12:36:37,325 > ENG1108-03-02 cleared
+[INFO|test.py] 2020-11-12 12:36:39,382 > ENG1108-04-01 cleared
+[INFO|test.py] 2020-11-12 12:36:41,436 > ENG1108-04-02 cleared
+[INFO|test.py] 2020-11-12 12:36:43,530 > ENG1108-06-01 cleared
+[INFO|test.py] 2020-11-12 12:36:45,599 > ENG1108-06-02 cleared
+[INFO|test.py] 2020-11-12 12:36:47,788 > ENG3002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:36:49,871 > ENG3007-01-00 cleared
+[INFO|test.py] 2020-11-12 12:36:51,961 > ENG3009-01-00 cleared
+[INFO|test.py] 2020-11-12 12:36:54,100 > ENG3011-01-00 cleared
+[INFO|test.py] 2020-11-12 12:37:06,203 > ENG2112-01-00 cleared
+[INFO|test.py] 2020-11-12 12:37:08,289 > MAT2011-01-01 cleared
+[INFO|test.py] 2020-11-12 12:37:10,377 > MAT2011-01-02 cleared
+[INFO|test.py] 2020-11-12 12:37:12,456 > MAT2011-02-01 cleared
+[INFO|test.py] 2020-11-12 12:37:14,544 > MAT2011-02-02 cleared
+[INFO|test.py] 2020-11-12 12:37:16,126 > 11 rows in 31-41 of 41
+[INFO|test.py] 2020-11-12 12:37:18,210 > MAT2013-01-01 cleared
+[INFO|test.py] 2020-11-12 12:37:20,297 > MAT2013-02-01 cleared
+[INFO|test.py] 2020-11-12 12:37:22,382 > MAT3114-01-01 cleared
+[INFO|test.py] 2020-11-12 12:37:24,470 > MAT3114-02-01 cleared
+[INFO|test.py] 2020-11-12 12:37:36,567 > ENG2005-01-00 cleared
+[INFO|test.py] 2020-11-12 12:37:38,645 > ENG2007-01-00 cleared
+[INFO|test.py] 2020-11-12 12:37:40,729 > ENG3016-01-00 cleared
+[INFO|test.py] 2020-11-12 12:37:42,812 > ENG3017-01-00 cleared
+[INFO|test.py] 2020-11-12 12:37:44,989 > ENG3014-01-00 cleared
+[INFO|test.py] 2020-11-12 12:37:47,110 > ENG4005-01-00 cleared
+[INFO|test.py] 2020-11-12 12:37:48,162 > 공과대학공통 탐색 완료
+[INFO|test.py] 2020-11-12 12:37:48,162 > 20202-공과대학-화공생명공학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:37:48,790 > 15 rows in 1-15 of 29
+[INFO|test.py] 2020-11-12 12:37:48,822 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:37:49,340 > 15 rows in 1-15 of 29
+[INFO|test.py] 2020-11-12 12:37:51,398 > DAA2210-01-00 cleared
+[INFO|test.py] 2020-11-12 12:37:53,462 > DAA2210-02-00 cleared
+[INFO|test.py] 2020-11-12 12:37:55,522 > DAA2210-03-00 cleared
+[INFO|test.py] 2020-11-12 12:37:57,595 > MAT2017-01-01 cleared
+[INFO|test.py] 2020-11-12 12:37:59,685 > MAT2017-01-02 cleared
+[INFO|test.py] 2020-11-12 12:38:01,752 > MAT2017-02-01 cleared
+[INFO|test.py] 2020-11-12 12:38:03,829 > MAT2017-02-02 cleared
+[INFO|test.py] 2020-11-12 12:38:05,942 > DAA2240-01-00 cleared
+[INFO|test.py] 2020-11-12 12:38:08,013 > DAA2240-02-00 cleared
+[INFO|test.py] 2020-11-12 12:38:10,098 > DAA3220-01-00 cleared
+[INFO|test.py] 2020-11-12 12:38:12,214 > DAA3220-02-00 cleared
+[INFO|test.py] 2020-11-12 12:38:14,296 > DAA3620-01-00 cleared
+[INFO|test.py] 2020-11-12 12:38:16,382 > DAA2130-01-00 cleared
+[INFO|test.py] 2020-11-12 12:38:18,461 > DAA4320-01-00 cleared
+[INFO|test.py] 2020-11-12 12:38:20,594 > DAA4320-02-00 cleared
+[INFO|test.py] 2020-11-12 12:38:22,186 > 14 rows in 16-29 of 29
+[INFO|test.py] 2020-11-12 12:38:24,252 > DAA2230-01-00 cleared
+[INFO|test.py] 2020-11-12 12:38:26,317 > DAA2230-02-00 cleared
+[INFO|test.py] 2020-11-12 12:38:28,384 > DAA2230-03-00 cleared
+[INFO|test.py] 2020-11-12 12:38:30,451 > DAA2230-04-00 cleared
+[INFO|test.py] 2020-11-12 12:38:32,522 > DAA3610-01-00 cleared
+[INFO|test.py] 2020-11-12 12:38:34,615 > DAA3660-01-00 cleared
+[INFO|test.py] 2020-11-12 12:38:36,697 > DAA3660-02-00 cleared
+[INFO|test.py] 2020-11-12 12:38:38,786 > DAA3720-01-00 cleared
+[INFO|test.py] 2020-11-12 12:38:40,918 > DAA4350-01-00 cleared
+[INFO|test.py] 2020-11-12 12:38:42,985 > DAA3740-01-00 cleared
+[INFO|test.py] 2020-11-12 12:38:45,083 > DAA3750-01-00 cleared
+[INFO|test.py] 2020-11-12 12:38:47,173 > DAA3790-01-00 cleared
+[INFO|test.py] 2020-11-12 12:38:49,289 > DAA3800-01-00 cleared
+[INFO|test.py] 2020-11-12 12:38:51,373 > DAA3820-01-00 cleared
+[INFO|test.py] 2020-11-12 12:38:52,421 > 화공생명공학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:38:52,422 > 20202-공과대학-전기전자공학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:38:53,052 > 15 rows in 1-15 of 73
+[INFO|test.py] 2020-11-12 12:38:53,080 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:38:53,597 > 15 rows in 1-15 of 73
+[INFO|test.py] 2020-11-12 12:38:55,703 > EEE2020-01-00 cleared
+[INFO|test.py] 2020-11-12 12:38:57,773 > MAT2017-03-01 cleared
+[INFO|test.py] 2020-11-12 12:38:59,858 > MAT2017-03-02 cleared
+[INFO|test.py] 2020-11-12 12:39:01,929 > MAT2017-04-01 cleared
+[INFO|test.py] 2020-11-12 12:39:04,019 > MAT2017-04-02 cleared
+[INFO|test.py] 2020-11-12 12:39:06,093 > MAT2017-05-01 cleared
+[INFO|test.py] 2020-11-12 12:39:08,183 > MAT2017-05-02 cleared
+[INFO|test.py] 2020-11-12 12:39:10,273 > EEE2010-01-00 cleared
+[INFO|test.py] 2020-11-12 12:39:12,407 > EEE2030-01-00 cleared
+[INFO|test.py] 2020-11-12 12:39:14,489 > EEE2030-02-00 cleared
+[INFO|test.py] 2020-11-12 12:39:16,571 > EEE2030-03-00 cleared
+[INFO|test.py] 2020-11-12 12:39:18,650 > EEE2040-01-00 cleared
+[INFO|test.py] 2020-11-12 12:39:20,776 > EEE2050-01-00 cleared
+[INFO|test.py] 2020-11-12 12:39:22,901 > EEE2050-02-00 cleared
+[INFO|test.py] 2020-11-12 12:39:24,979 > EEE2050-03-00 cleared
+[INFO|test.py] 2020-11-12 12:39:26,573 > 15 rows in 16-30 of 73
+[INFO|test.py] 2020-11-12 12:39:28,662 > EEE2060-01-00 cleared
+[INFO|test.py] 2020-11-12 12:39:30,756 > EEE2060-02-00 cleared
+[INFO|test.py] 2020-11-12 12:39:32,839 > EEE2060-03-00 cleared
+[INFO|test.py] 2020-11-12 12:39:34,902 > EEE2060-04-00 cleared
+[INFO|test.py] 2020-11-12 12:39:36,985 > EEE2060-05-00 cleared
+[INFO|test.py] 2020-11-12 12:39:39,067 > EEE2111-01-00 cleared
+[INFO|test.py] 2020-11-12 12:39:41,133 > EEE2111-02-00 cleared
+[INFO|test.py] 2020-11-12 12:39:43,208 > EEE2111-03-00 cleared
+[INFO|test.py] 2020-11-12 12:39:45,291 > EEE2111-05-00 cleared
+[INFO|test.py] 2020-11-12 12:39:47,367 > EEE2111-06-00 cleared
+[INFO|test.py] 2020-11-12 12:39:49,445 > EEE2111-07-00 cleared
+[INFO|test.py] 2020-11-12 12:39:51,517 > EEE2111-08-00 cleared
+[INFO|test.py] 2020-11-12 12:39:53,584 > EEE2001-01-00 cleared
+[INFO|test.py] 2020-11-12 12:39:55,647 > EEE2001-02-00 cleared
+[INFO|test.py] 2020-11-12 12:39:57,218 > 15 rows in 31-45 of 73
+[INFO|test.py] 2020-11-12 12:39:59,280 > EEE3313-01-00 cleared
+[INFO|test.py] 2020-11-12 12:40:01,348 > EEE3313-02-00 cleared
+[INFO|test.py] 2020-11-12 12:40:03,405 > EEE3313-03-00 cleared
+[INFO|test.py] 2020-11-12 12:40:05,461 > EEE3313-04-00 cleared
+[INFO|test.py] 2020-11-12 12:40:07,519 > EEE3313-05-00 cleared
+[INFO|test.py] 2020-11-12 12:40:09,584 > EEE3313-06-00 cleared
+[INFO|test.py] 2020-11-12 12:40:11,654 > EEE3313-07-00 cleared
+[INFO|test.py] 2020-11-12 12:40:13,714 > EEE3120-01-00 cleared
+[INFO|test.py] 2020-11-12 12:40:15,785 > EEE3150-01-00 cleared
+[INFO|test.py] 2020-11-12 12:40:17,863 > EEE3150-02-00 cleared
+[INFO|test.py] 2020-11-12 12:40:19,989 > EEE3220-01-00 cleared
+[INFO|test.py] 2020-11-12 12:40:22,075 > EEE3220-02-00 cleared
+[INFO|test.py] 2020-11-12 12:40:24,146 > EEE3220-04-00 cleared
+[INFO|test.py] 2020-11-12 12:40:26,233 > EEE3240-01-00 cleared
+[INFO|test.py] 2020-11-12 12:40:28,339 > EEE3240-02-00 cleared
+[INFO|test.py] 2020-11-12 12:40:29,909 > 15 rows in 46-60 of 73
+[INFO|test.py] 2020-11-12 12:40:32,002 > EEE3310-01-00 cleared
+[INFO|test.py] 2020-11-12 12:40:34,080 > EEE3314-01-00 cleared
+[INFO|test.py] 2020-11-12 12:40:36,185 > EEE3314-02-00 cleared
+[INFO|test.py] 2020-11-12 12:40:38,262 > EEE3314-03-00 cleared
+[INFO|test.py] 2020-11-12 12:40:40,365 > EEE3350-01-00 cleared
+[INFO|test.py] 2020-11-12 12:40:42,424 > EEE3350-02-00 cleared
+[INFO|test.py] 2020-11-12 12:40:44,510 > EEE3440-01-00 cleared
+[INFO|test.py] 2020-11-12 12:40:46,584 > EEE3440-02-00 cleared
+[INFO|test.py] 2020-11-12 12:40:48,666 > EEE3440-03-00 cleared
+[INFO|test.py] 2020-11-12 12:40:50,748 > EEE3450-01-00 cleared
+[INFO|test.py] 2020-11-12 12:40:52,861 > EEE3450-02-00 cleared
+[INFO|test.py] 2020-11-12 12:40:54,952 > EEE3511-01-00 cleared
+[INFO|test.py] 2020-11-12 12:40:57,055 > EEE3535-01-00 cleared
+[INFO|test.py] 2020-11-12 12:40:59,137 > EEE3540-01-00 cleared
+[INFO|test.py] 2020-11-12 12:41:01,211 > EEE3544-01-00 cleared
+[INFO|test.py] 2020-11-12 12:41:02,801 > 13 rows in 61-73 of 73
+[INFO|test.py] 2020-11-12 12:41:04,880 > EEE3545-01-00 cleared
+[INFO|test.py] 2020-11-12 12:41:06,962 > EEE3547-01-00 cleared
+[INFO|test.py] 2020-11-12 12:41:09,038 > EEE3547-02-00 cleared
+[INFO|test.py] 2020-11-12 12:41:11,153 > EEE4610-01-00 cleared
+[INFO|test.py] 2020-11-12 12:41:23,235 > EEE4140-01-00 cleared
+[INFO|test.py] 2020-11-12 12:41:25,304 > EEE4474-01-00 cleared
+[INFO|test.py] 2020-11-12 12:41:27,375 > EEE4474-02-00 cleared
+[INFO|test.py] 2020-11-12 12:41:29,433 > EEE4475-01-00 cleared
+[INFO|test.py] 2020-11-12 12:41:31,492 > EEE4475-02-00 cleared
+[INFO|test.py] 2020-11-12 12:41:33,557 > EEE4476-01-00 cleared
+[INFO|test.py] 2020-11-12 12:41:35,619 > EEE4476-02-00 cleared
+[INFO|test.py] 2020-11-12 12:41:37,694 > EEE4549-01-00 cleared
+[INFO|test.py] 2020-11-12 12:41:39,773 > EEE4549-02-00 cleared
+[INFO|test.py] 2020-11-12 12:41:40,830 > 전기전자공학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:41:40,830 > 20202-공과대학-건축공학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:41:41,461 > 15 rows in 1-15 of 20
+[INFO|test.py] 2020-11-12 12:41:41,490 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:41:42,007 > 15 rows in 1-15 of 20
+[INFO|test.py] 2020-11-12 12:41:44,069 > ARC2501-01-00 cleared
+[INFO|test.py] 2020-11-12 12:41:46,131 > ARC2501-05-00 cleared
+[INFO|test.py] 2020-11-12 12:41:48,204 > ARC2501-07-00 cleared
+[INFO|test.py] 2020-11-12 12:41:50,281 > MAT2017-06-01 cleared
+[INFO|test.py] 2020-11-12 12:41:52,347 > MAT2017-06-02 cleared
+[INFO|test.py] 2020-11-12 12:41:54,419 > ARC2103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:41:56,476 > ARC2103-02-00 cleared
+[INFO|test.py] 2020-11-12 12:42:08,572 > ARC2103-03-00 cleared
+[INFO|test.py] 2020-11-12 12:42:10,635 > ARC2002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:42:12,741 > ARC2203-01-00 cleared
+[INFO|test.py] 2020-11-12 12:42:14,821 > ARC3202-01-00 cleared
+[INFO|test.py] 2020-11-12 12:42:16,925 > ARC3306-01-00 cleared
+[INFO|test.py] 2020-11-12 12:42:19,026 > ARC4302-01-00 cleared
+[INFO|test.py] 2020-11-12 12:42:21,124 > ARC2202-01-00 cleared
+[INFO|test.py] 2020-11-12 12:42:23,222 > ARC3102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:42:24,794 > 5 rows in 16-20 of 20
+[INFO|test.py] 2020-11-12 12:42:26,874 > ARC3203-01-00 cleared
+[INFO|test.py] 2020-11-12 12:42:28,947 > ARC3209-01-00 cleared
+[INFO|test.py] 2020-11-12 12:42:31,058 > ARC3406-01-00 cleared
+[INFO|test.py] 2020-11-12 12:42:33,164 > ARC3000-01-00 cleared
+[INFO|test.py] 2020-11-12 12:42:35,268 > ARC4204-01-00 cleared
+[INFO|test.py] 2020-11-12 12:42:36,308 > 건축공학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:42:36,308 > 20202-공과대학-건축학(설계) 수집 시작
+[INFO|test.py] 2020-11-12 12:42:36,937 > 15 rows in 1-15 of 33
+[INFO|test.py] 2020-11-12 12:42:36,967 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:42:37,484 > 15 rows in 1-15 of 33
+[INFO|test.py] 2020-11-12 12:42:39,707 > ARC3507-01-00 cleared
+[INFO|test.py] 2020-11-12 12:42:41,785 > ARC2104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:42:43,937 > ARC3203-02-00 cleared
+[INFO|test.py] 2020-11-12 12:42:46,030 > ARC3306-02-00 cleared
+[INFO|test.py] 2020-11-12 12:42:48,135 > ARC3106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:42:49,709 > 15 rows in 16-30 of 33
+[INFO|test.py] 2020-11-12 12:42:51,845 > ARC3307-01-00 cleared
+[INFO|test.py] 2020-11-12 12:42:53,909 > ARC3404-01-00 cleared
+[INFO|test.py] 2020-11-12 12:42:55,988 > ARC3102-02-00 cleared
+[INFO|test.py] 2020-11-12 12:42:58,073 > ARC4208-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:00,148 > ARC4108-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:02,297 > ARC3511-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:04,365 > ARC4305-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:06,444 > ARC4110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:08,036 > 3 rows in 31-33 of 33
+[INFO|test.py] 2020-11-12 12:43:10,151 > ARC3512-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:11,198 > 건축학(설계) 탐색 완료
+[INFO|test.py] 2020-11-12 12:43:11,198 > 20202-공과대학-도시공학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:43:11,821 > 15 rows in 1-15 of 15
+[INFO|test.py] 2020-11-12 12:43:11,850 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:43:12,366 > 15 rows in 1-15 of 15
+[INFO|test.py] 2020-11-12 12:43:14,456 > CRP2742-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:16,536 > CRP2103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:18,635 > CRP2320-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:20,726 > CRP2350-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:22,819 > CRP2730-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:24,916 > CRP3760-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:26,980 > CRP2104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:29,057 > CRP3430-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:31,142 > CRP3750-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:33,223 > CRP3770-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:35,290 > CRP3780-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:37,359 > CRP3102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:39,428 > CRP3620-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:41,493 > CRP3792-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:43,571 > CRP4730-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:44,598 > 도시공학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:43:44,598 > 20202-공과대학-건설환경공학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:43:45,231 > 15 rows in 1-15 of 21
+[INFO|test.py] 2020-11-12 12:43:45,263 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:43:45,780 > 15 rows in 1-15 of 21
+[INFO|test.py] 2020-11-12 12:43:47,848 > CEE2002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:49,911 > MAT2017-07-01 cleared
+[INFO|test.py] 2020-11-12 12:43:51,987 > MAT2017-07-02 cleared
+[INFO|test.py] 2020-11-12 12:43:54,066 > CEE3202-01-00 cleared
+[INFO|test.py] 2020-11-12 12:43:56,147 > CEE3202-02-00 cleared
+[INFO|test.py] 2020-11-12 12:43:58,226 > CEE3406-01-00 cleared
+[INFO|test.py] 2020-11-12 12:44:00,294 > CEE3408-01-00 cleared
+[INFO|test.py] 2020-11-12 12:44:02,378 > CEE3410-01-00 cleared
+[INFO|test.py] 2020-11-12 12:44:04,448 > CEE3412-01-00 cleared
+[INFO|test.py] 2020-11-12 12:44:06,541 > CEE4401-01-00 cleared
+[INFO|test.py] 2020-11-12 12:44:08,623 > CEE4401-02-00 cleared
+[INFO|test.py] 2020-11-12 12:44:10,685 > CEE4401-03-00 cleared
+[INFO|test.py] 2020-11-12 12:44:12,751 > CEE4406-01-00 cleared
+[INFO|test.py] 2020-11-12 12:44:14,853 > CEE4412-01-00 cleared
+[INFO|test.py] 2020-11-12 12:44:16,414 > 6 rows in 16-21 of 21
+[INFO|test.py] 2020-11-12 12:44:18,493 > CEE4201-01-00 cleared
+[INFO|test.py] 2020-11-12 12:44:20,567 > CEE3413-01-00 cleared
+[INFO|test.py] 2020-11-12 12:44:22,657 > CEE3415-01-00 cleared
+[INFO|test.py] 2020-11-12 12:44:24,725 > CEE3422-01-00 cleared
+[INFO|test.py] 2020-11-12 12:44:26,814 > CEE4411-01-00 cleared
+[INFO|test.py] 2020-11-12 12:44:28,913 > CEE4413-01-00 cleared
+[INFO|test.py] 2020-11-12 12:44:29,955 > 건설환경공학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:44:29,955 > 20202-공과대학-기계공학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:44:30,578 > 15 rows in 1-15 of 44
+[INFO|test.py] 2020-11-12 12:44:30,606 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:44:31,123 > 15 rows in 1-15 of 44
+[INFO|test.py] 2020-11-12 12:44:33,202 > MAT2017-08-01 cleared
+[INFO|test.py] 2020-11-12 12:44:35,294 > MAT2017-08-02 cleared
+[INFO|test.py] 2020-11-12 12:44:37,357 > MAT2017-09-01 cleared
+[INFO|test.py] 2020-11-12 12:44:39,421 > MAT2017-09-02 cleared
+[INFO|test.py] 2020-11-12 12:44:41,493 > MEU2105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:44:43,559 > MEU2105-02-00 cleared
+[INFO|test.py] 2020-11-12 12:44:45,643 > MEU2105-03-00 cleared
+[INFO|test.py] 2020-11-12 12:44:47,723 > MEU2105-04-00 cleared
+[INFO|test.py] 2020-11-12 12:44:49,852 > MEU2640-01-00 cleared
+[INFO|test.py] 2020-11-12 12:44:51,984 > MEU2640-02-00 cleared
+[INFO|test.py] 2020-11-12 12:44:54,121 > MEU2650-01-00 cleared
+[INFO|test.py] 2020-11-12 12:44:56,228 > MEU2650-02-00 cleared
+[INFO|test.py] 2020-11-12 12:44:58,310 > MEU2001-01-00 cleared
+[INFO|test.py] 2020-11-12 12:45:00,381 > MEU2001-02-00 cleared
+[INFO|test.py] 2020-11-12 12:45:02,452 > MEU2001-03-00 cleared
+[INFO|test.py] 2020-11-12 12:45:04,049 > 15 rows in 16-30 of 44
+[INFO|test.py] 2020-11-12 12:45:06,126 > MEU2001-04-00 cleared
+[INFO|test.py] 2020-11-12 12:45:08,198 > MEU2002-02-00 cleared
+[INFO|test.py] 2020-11-12 12:45:10,267 > MEU2002-03-00 cleared
+[INFO|test.py] 2020-11-12 12:45:12,337 > MEU3300-01-00 cleared
+[INFO|test.py] 2020-11-12 12:45:14,437 > MEU3300-02-00 cleared
+[INFO|test.py] 2020-11-12 12:45:16,521 > MEU3300-03-00 cleared
+[INFO|test.py] 2020-11-12 12:45:18,596 > MEU3300-04-00 cleared
+[INFO|test.py] 2020-11-12 12:45:20,653 > MEU3003-01-00 cleared
+[INFO|test.py] 2020-11-12 12:45:22,710 > MEU3007-01-00 cleared
+[INFO|test.py] 2020-11-12 12:45:24,778 > MEU3011-01-00 cleared
+[INFO|test.py] 2020-11-12 12:45:26,847 > MEU3012-01-00 cleared
+[INFO|test.py] 2020-11-12 12:45:28,912 > MEU3014-01-00 cleared
+[INFO|test.py] 2020-11-12 12:45:30,995 > MEU3014-02-00 cleared
+[INFO|test.py] 2020-11-12 12:45:33,095 > MEU3600-01-00 cleared
+[INFO|test.py] 2020-11-12 12:45:35,153 > MEU3600-02-00 cleared
+[INFO|test.py] 2020-11-12 12:45:36,723 > 14 rows in 31-44 of 44
+[INFO|test.py] 2020-11-12 12:45:38,778 > MEU3610-01-00 cleared
+[INFO|test.py] 2020-11-12 12:45:40,846 > MEU3610-02-00 cleared
+[INFO|test.py] 2020-11-12 12:45:42,945 > MEU3630-01-00 cleared
+[INFO|test.py] 2020-11-12 12:45:45,054 > MEU3660-01-00 cleared
+[INFO|test.py] 2020-11-12 12:45:47,154 > MEU3680-01-00 cleared
+[INFO|test.py] 2020-11-12 12:45:49,270 > MEU3680-02-00 cleared
+[INFO|test.py] 2020-11-12 12:45:51,352 > MEU3700-01-00 cleared
+[INFO|test.py] 2020-11-12 12:45:53,460 > MEU3710-01-00 cleared
+[INFO|test.py] 2020-11-12 12:45:55,609 > MEU4002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:45:57,695 > MEU4300-01-00 cleared
+[INFO|test.py] 2020-11-12 12:45:59,774 > MEU4300-02-00 cleared
+[INFO|test.py] 2020-11-12 12:46:01,843 > MEU4400-01-00 cleared
+[INFO|test.py] 2020-11-12 12:46:03,930 > MEU4400-02-00 cleared
+[INFO|test.py] 2020-11-12 12:46:06,008 > MEU4400-03-00 cleared
+[INFO|test.py] 2020-11-12 12:46:07,071 > 기계공학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:46:07,071 > 20202-공과대학-(~2008)금속시스템공학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:46:07,705 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:46:17,718 > No caution link in 0th row
+[INFO|test.py] 2020-11-12 12:46:18,224 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:46:18,224 > No caution in pages
+[INFO|test.py] 2020-11-12 12:46:18,743 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:46:19,766 > (~2008)금속시스템공학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:46:19,767 > 20202-공과대학-(~2008)세라믹공학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:46:20,375 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:46:30,402 > No caution link in 0th row
+[INFO|test.py] 2020-11-12 12:46:30,908 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:46:30,908 > No caution in pages
+[INFO|test.py] 2020-11-12 12:46:31,425 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:46:32,445 > (~2008)세라믹공학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:46:32,445 > 20202-공과대학-신소재공학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:46:33,032 > 15 rows in 1-15 of 30
+[INFO|test.py] 2020-11-12 12:46:33,061 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:46:33,576 > 15 rows in 1-15 of 30
+[INFO|test.py] 2020-11-12 12:46:35,631 > ENG1107-01-00 cleared
+[INFO|test.py] 2020-11-12 12:46:37,768 > MST2120-01-00 cleared
+[INFO|test.py] 2020-11-12 12:46:39,855 > MST2120-02-00 cleared
+[INFO|test.py] 2020-11-12 12:46:41,935 > MST3110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:46:44,033 > MST2220-01-00 cleared
+[INFO|test.py] 2020-11-12 12:46:46,129 > MST2220-02-00 cleared
+[INFO|test.py] 2020-11-12 12:46:48,237 > MST2240-01-00 cleared
+[INFO|test.py] 2020-11-12 12:46:50,334 > MST2240-02-00 cleared
+[INFO|test.py] 2020-11-12 12:46:52,415 > MST2260-01-00 cleared
+[INFO|test.py] 2020-11-12 12:46:54,530 > MST2260-02-00 cleared
+[INFO|test.py] 2020-11-12 12:46:56,615 > MST2001-01-00 cleared
+[INFO|test.py] 2020-11-12 12:46:58,721 > MST3220-01-00 cleared
+[INFO|test.py] 2020-11-12 12:47:00,830 > MST3220-02-00 cleared
+[INFO|test.py] 2020-11-12 12:47:02,405 > 15 rows in 16-30 of 30
+[INFO|test.py] 2020-11-12 12:47:04,503 > MST3420-01-00 cleared
+[INFO|test.py] 2020-11-12 12:47:06,582 > MST3430-01-00 cleared
+[INFO|test.py] 2020-11-12 12:47:08,644 > MST3500-01-00 cleared
+[INFO|test.py] 2020-11-12 12:47:10,713 > MST3530-01-00 cleared
+[INFO|test.py] 2020-11-12 12:47:12,784 > MST3540-01-00 cleared
+[INFO|test.py] 2020-11-12 12:47:14,875 > MST3560-01-00 cleared
+[INFO|test.py] 2020-11-12 12:47:16,988 > MST3640-01-00 cleared
+[INFO|test.py] 2020-11-12 12:47:19,076 > MST3680-01-00 cleared
+[INFO|test.py] 2020-11-12 12:47:21,149 > MST4320-01-00 cleared
+[INFO|test.py] 2020-11-12 12:47:23,228 > MST4320-02-00 cleared
+[INFO|test.py] 2020-11-12 12:47:25,348 > MST4660-01-00 cleared
+[INFO|test.py] 2020-11-12 12:47:27,410 > MST4810-01-00 cleared
+[INFO|test.py] 2020-11-12 12:47:29,477 > MST4820-01-00 cleared
+[INFO|test.py] 2020-11-12 12:47:31,538 > MST4840-01-00 cleared
+[INFO|test.py] 2020-11-12 12:47:33,624 > MST4890-01-00 cleared
+[INFO|test.py] 2020-11-12 12:47:34,696 > 신소재공학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:47:34,696 > 20202-공과대학-(~2016)정보산업공학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:47:35,328 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:47:45,348 > No caution link in 0th row
+[INFO|test.py] 2020-11-12 12:47:45,855 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:47:45,855 > No caution in pages
+[INFO|test.py] 2020-11-12 12:47:46,373 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:47:47,393 > (~2016)정보산업공학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:47:47,393 > 20202-공과대학-산업공학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:47:47,983 > 15 rows in 1-15 of 17
+[INFO|test.py] 2020-11-12 12:47:48,007 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:47:48,523 > 15 rows in 1-15 of 17
+[INFO|test.py] 2020-11-12 12:47:50,637 > IIE2101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:47:52,743 > IIE2110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:48:04,827 > MAT2017-10-01 cleared
+[INFO|test.py] 2020-11-12 12:48:16,928 > MAT2017-10-02 cleared
+[INFO|test.py] 2020-11-12 12:48:18,992 > MAT2017-11-01 cleared
+[INFO|test.py] 2020-11-12 12:48:21,060 > MAT2017-11-02 cleared
+[INFO|test.py] 2020-11-12 12:48:23,174 > IIE2102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:48:25,283 > IIE3102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:48:27,361 > IIE3104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:48:29,456 > IIE3107-01-00 cleared
+[INFO|test.py] 2020-11-12 12:48:31,540 > IIE3110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:48:33,621 > IIE3116-01-00 cleared
+[INFO|test.py] 2020-11-12 12:48:35,715 > IIE3105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:48:37,799 > IIE4101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:48:39,902 > IIE4111-01-00 cleared
+[INFO|test.py] 2020-11-12 12:48:41,469 > 2 rows in 16-17 of 17
+[INFO|test.py] 2020-11-12 12:48:43,579 > IIE4117-01-00 cleared
+[INFO|test.py] 2020-11-12 12:48:45,667 > IIE4121-01-00 cleared
+[INFO|test.py] 2020-11-12 12:48:46,706 > 산업공학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:48:46,706 > 20202-공과대학-컴퓨터과학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:48:47,335 > 15 rows in 1-15 of 26
+[INFO|test.py] 2020-11-12 12:48:47,365 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:48:47,881 > 15 rows in 1-15 of 26
+[INFO|test.py] 2020-11-12 12:48:49,947 > CSI2102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:48:52,098 > CSI2102-02-00 cleared
+[INFO|test.py] 2020-11-12 12:48:54,193 > CSI2100-01-00 cleared
+[INFO|test.py] 2020-11-12 12:48:56,328 > CSI2101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:48:58,440 > CSI2103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:49:00,553 > CSI2106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:49:02,670 > CSI2111-01-00 cleared
+[INFO|test.py] 2020-11-12 12:49:04,787 > CSI2111-02-00 cleared
+[INFO|test.py] 2020-11-12 12:49:06,875 > CSI3103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:49:08,944 > CSI3120-01-00 cleared
+[INFO|test.py] 2020-11-12 12:49:11,077 > CSI3105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:49:13,228 > CSI3106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:49:15,325 > CSI3107-01-00 cleared
+[INFO|test.py] 2020-11-12 12:49:17,440 > CSI3108-01-00 cleared
+[INFO|test.py] 2020-11-12 12:49:19,536 > CSI3108-02-00 cleared
+[INFO|test.py] 2020-11-12 12:49:21,123 > 11 rows in 16-26 of 26
+[INFO|test.py] 2020-11-12 12:49:23,233 > CSI4106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:49:25,363 > CSI4106-02-00 cleared
+[INFO|test.py] 2020-11-12 12:49:27,420 > TTP3006-01-00 cleared
+[INFO|test.py] 2020-11-12 12:49:29,486 > CSI4101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:49:31,549 > CSI4101-02-00 cleared
+[INFO|test.py] 2020-11-12 12:49:33,608 > CSI4102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:49:35,671 > CSI4102-02-00 cleared
+[INFO|test.py] 2020-11-12 12:49:37,730 > CSI4102-03-00 cleared
+[INFO|test.py] 2020-11-12 12:49:39,788 > CSI4102-04-00 cleared
+[INFO|test.py] 2020-11-12 12:49:41,888 > CSI4104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:49:42,932 > 컴퓨터과학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:49:42,932 > 20202-공과대학-글로벌융합공학부 수집 시작
+[INFO|test.py] 2020-11-12 12:49:43,561 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:49:53,569 > No caution link in 0th row
+[INFO|test.py] 2020-11-12 12:49:54,076 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:49:54,076 > No caution in pages
+[INFO|test.py] 2020-11-12 12:49:54,594 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:49:55,617 > 글로벌융합공학부 탐색 완료
+[INFO|test.py] 2020-11-12 12:49:55,617 > 20202-공과대학-IT융합공학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:49:56,214 > 15 rows in 1-15 of 18
+[INFO|test.py] 2020-11-12 12:49:56,244 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:49:56,760 > 15 rows in 1-15 of 18
+[INFO|test.py] 2020-11-12 12:49:58,819 > IIT2001-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:00,883 > IIT2002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:02,947 > IIT2005-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:05,006 > IIT3005-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:07,075 > IIT1007-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:09,140 > IIT3002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:11,208 > IIT3003-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:13,281 > IIT3012-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:25,365 > IIT3303-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:27,429 > IIT4303-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:29,500 > IIT4308-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:31,567 > IIT4204-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:33,633 > IIT4311-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:35,704 > IIT4314-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:37,768 > IIT1102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:39,335 > 3 rows in 16-18 of 18
+[INFO|test.py] 2020-11-12 12:50:51,440 > IIT3015-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:53,503 > IIT2007-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:55,568 > IIT3009-01-00 cleared
+[INFO|test.py] 2020-11-12 12:50:56,603 > IT융합공학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:50:56,603 > 20202-공과대학-시스템반도체공학과 수집 시작
+[INFO|test.py] 2020-11-12 12:50:57,233 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:51:07,243 > No caution link in 0th row
+[INFO|test.py] 2020-11-12 12:51:07,755 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:51:07,756 > No caution in pages
+[INFO|test.py] 2020-11-12 12:51:08,272 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:51:09,298 > 시스템반도체공학과 탐색 완료
+[INFO|test.py] 2020-11-12 12:51:09,298 > 공과대학 수집 완료
+[INFO|test.py] 2020-11-12 12:51:09,299 > 20202-생명시스템대학-생명시스템공통 수집 시작
+[INFO|test.py] 2020-11-12 12:51:09,928 > 5 rows in 1-5 of 5
+[INFO|test.py] 2020-11-12 12:51:09,959 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:51:10,475 > 5 rows in 1-5 of 5
+[INFO|test.py] 2020-11-12 12:51:12,560 > LSB3101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:14,642 > LSB3101-02-00 cleared
+[INFO|test.py] 2020-11-12 12:51:16,716 > LSB3102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:18,797 > LSB3102-02-00 cleared
+[INFO|test.py] 2020-11-12 12:51:20,891 > LSB3202-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:21,911 > 생명시스템공통 탐색 완료
+[INFO|test.py] 2020-11-12 12:51:21,912 > 20202-생명시스템대학-시스템생물학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:51:22,502 > 15 rows in 1-15 of 19
+[INFO|test.py] 2020-11-12 12:51:22,528 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:51:23,045 > 15 rows in 1-15 of 19
+[INFO|test.py] 2020-11-12 12:51:25,157 > BIO3712-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:27,249 > BIO3715-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:29,336 > BIO2503-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:31,404 > BIO3502-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:33,477 > BIO3503-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:35,584 > BIO3718-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:37,697 > BIO3101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:39,787 > BIO3112-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:41,858 > BIO3106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:43,931 > BIO3113-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:45,995 > BIO3714-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:48,079 > BIO3716-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:50,148 > BIO4104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:52,218 > BIO4108-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:53,793 > 4 rows in 16-19 of 19
+[INFO|test.py] 2020-11-12 12:51:55,857 > BIO4913-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:57,925 > BIO4915-01-00 cleared
+[INFO|test.py] 2020-11-12 12:51:59,990 > BIO4917-01-00 cleared
+[INFO|test.py] 2020-11-12 12:52:02,053 > TTP3813-01-00 cleared
+[INFO|test.py] 2020-11-12 12:52:03,094 > 시스템생물학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:52:03,095 > 20202-생명시스템대학-생화학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:52:03,726 > 14 rows in 1-14 of 14
+[INFO|test.py] 2020-11-12 12:52:03,752 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:52:04,269 > 14 rows in 1-14 of 14
+[INFO|test.py] 2020-11-12 12:52:06,356 > BCH2001-01-00 cleared
+[INFO|test.py] 2020-11-12 12:52:08,422 > BCH3107-01-00 cleared
+[INFO|test.py] 2020-11-12 12:52:10,487 > BCH3107-02-00 cleared
+[INFO|test.py] 2020-11-12 12:52:12,553 > BCH3107-03-00 cleared
+[INFO|test.py] 2020-11-12 12:52:14,620 > BCH3107-04-00 cleared
+[INFO|test.py] 2020-11-12 12:52:16,731 > BCH3103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:52:18,803 > BCH4101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:52:20,879 > BCH4102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:52:22,938 > BCH3104-01-00 cleared
+[INFO|test.py] 2020-11-12 12:52:25,028 > BCH3123-01-00 cleared
+[INFO|test.py] 2020-11-12 12:52:27,098 > BCH3113-01-00 cleared
+[INFO|test.py] 2020-11-12 12:52:29,168 > BCH3122-01-00 cleared
+[INFO|test.py] 2020-11-12 12:52:31,251 > BCH4113-01-00 cleared
+[INFO|test.py] 2020-11-12 12:52:32,279 > 생화학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:52:32,279 > 20202-생명시스템대학-생명공학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:52:32,909 > 15 rows in 1-15 of 23
+[INFO|test.py] 2020-11-12 12:52:32,940 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:52:33,458 > 15 rows in 1-15 of 23
+[INFO|test.py] 2020-11-12 12:52:35,538 > BTE2703-01-01 cleared
+[INFO|test.py] 2020-11-12 12:52:37,614 > BTE2703-01-02 cleared
+[INFO|test.py] 2020-11-12 12:52:39,726 > BTE2201-01-00 cleared
+[INFO|test.py] 2020-11-12 12:52:41,806 > BTE2402-01-00 cleared
+[INFO|test.py] 2020-11-12 12:52:43,873 > BTE2601-01-00 cleared
+[INFO|test.py] 2020-11-12 12:52:45,943 > BTE2601-02-00 cleared
+[INFO|test.py] 2020-11-12 12:52:48,010 > BTE2601-03-00 cleared
+[INFO|test.py] 2020-11-12 12:52:50,076 > BTE2601-04-00 cleared
+[INFO|test.py] 2020-11-12 12:52:52,140 > BTE2601-05-00 cleared
+[INFO|test.py] 2020-11-12 12:52:54,218 > BTE2702-01-00 cleared
+[INFO|test.py] 2020-11-12 12:52:56,300 > BTE3102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:52:58,417 > BTE3202-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:00,517 > BTE3403-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:02,619 > BTE3602-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:04,712 > BTE3609-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:06,275 > 8 rows in 16-23 of 23
+[INFO|test.py] 2020-11-12 12:53:18,342 > BTE4404-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:20,434 > BTE4408-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:22,507 > BTE4602-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:24,584 > BTE4603-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:26,680 > BTE4609-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:28,761 > BTE4611-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:30,826 > BTE4612-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:32,912 > BTE4613-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:33,970 > 생명공학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:53:33,971 > 생명시스템대학 수집 완료
+[INFO|test.py] 2020-11-12 12:53:33,971 > 20202-신과대학-신학과 수집 시작
+[INFO|test.py] 2020-11-12 12:53:34,614 > 15 rows in 1-15 of 19
+[INFO|test.py] 2020-11-12 12:53:34,639 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:53:35,158 > 15 rows in 1-15 of 19
+[INFO|test.py] 2020-11-12 12:53:37,275 > THE1003-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:39,339 > THE1205-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:41,432 > THE2015-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:43,515 > THE2016-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:45,577 > THE2009-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:47,657 > THE2914-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:49,736 > THE3917-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:51,807 > THE3502-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:53,869 > THE3601-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:55,947 > THE3911-01-00 cleared
+[INFO|test.py] 2020-11-12 12:53:58,046 > THE3932-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:00,118 > THE3934-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:02,282 > THE3943-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:04,353 > THE3946-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:16,448 > THE3955-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:18,017 > 4 rows in 16-19 of 19
+[INFO|test.py] 2020-11-12 12:54:20,095 > THE4916-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:22,174 > THE4918-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:24,248 > THE4921-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:26,323 > THE4925-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:27,367 > 신학과 탐색 완료
+[INFO|test.py] 2020-11-12 12:54:27,367 > 신과대학 수집 완료
+[INFO|test.py] 2020-11-12 12:54:27,367 > 20202-사회과학대학-사회과학대학공통 수집 시작
+[INFO|test.py] 2020-11-12 12:54:28,006 > 3 rows in 1-3 of 3
+[INFO|test.py] 2020-11-12 12:54:28,037 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:54:28,553 > 3 rows in 1-3 of 3
+[INFO|test.py] 2020-11-12 12:54:30,659 > SOS2001-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:32,734 > SOS2002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:34,807 > SOS3001-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:35,829 > 사회과학대학공통 탐색 완료
+[INFO|test.py] 2020-11-12 12:54:35,829 > 20202-사회과학대학-정치외교학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:54:36,417 > 15 rows in 1-15 of 21
+[INFO|test.py] 2020-11-12 12:54:36,439 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:54:36,956 > 15 rows in 1-15 of 21
+[INFO|test.py] 2020-11-12 12:54:39,080 > POL1004-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:41,210 > POL2106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:43,301 > POL3113-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:45,440 > POL3120-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:47,552 > POL3124-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:49,643 > POL3153-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:51,759 > POL3154-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:53,894 > POL3163-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:55,979 > POL3825-01-00 cleared
+[INFO|test.py] 2020-11-12 12:54:58,097 > POL3829-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:00,176 > POL3830-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:02,305 > POL3834-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:04,483 > POL4108-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:06,586 > POL3201-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:08,143 > 6 rows in 16-21 of 21
+[INFO|test.py] 2020-11-12 12:55:10,221 > POL3847-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:12,299 > POL4133-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:14,390 > POL3130-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:16,466 > POL4101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:18,594 > POL4823-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:20,691 > POL4839-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:21,742 > 정치외교학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:55:21,742 > 20202-사회과학대학-행정학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:55:22,371 > 15 rows in 1-15 of 23
+[INFO|test.py] 2020-11-12 12:55:22,400 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:55:22,919 > 15 rows in 1-15 of 23
+[INFO|test.py] 2020-11-12 12:55:25,003 > PUB1101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:27,121 > PUB2107-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:29,192 > PUB2107-02-00 cleared
+[INFO|test.py] 2020-11-12 12:55:31,282 > PUB2105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:33,353 > PUB2108-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:35,486 > PUB2121-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:37,575 > PUB2102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:39,693 > PUB3103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:41,847 > PUB3105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:43,930 > PUB3106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:45,996 > PUB3109-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:48,133 > PUB3114-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:50,229 > PUB3115-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:52,303 > PUB3120-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:54,374 > PUB3125-01-00 cleared
+[INFO|test.py] 2020-11-12 12:55:55,932 > 8 rows in 16-23 of 23
+[INFO|test.py] 2020-11-12 12:55:58,049 > PUB3130-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:00,146 > PUB3107-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:02,252 > PUB4102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:04,311 > PUB4112-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:06,399 > PUB4113-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:08,482 > PUB4201-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:10,551 > PUB4204-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:12,617 > PUB4205-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:13,668 > 행정학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:56:13,669 > 20202-사회과학대학-사회복지학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:56:14,297 > 15 rows in 1-15 of 20
+[INFO|test.py] 2020-11-12 12:56:14,322 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:56:14,841 > 15 rows in 1-15 of 20
+[INFO|test.py] 2020-11-12 12:56:16,902 > SOW2001-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:18,969 > SOW2002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:21,027 > SOW2002-02-00 cleared
+[INFO|test.py] 2020-11-12 12:56:23,088 > SOW2002-03-00 cleared
+[INFO|test.py] 2020-11-12 12:56:25,148 > SOW2002-04-00 cleared
+[INFO|test.py] 2020-11-12 12:56:27,207 > SOW2002-05-00 cleared
+[INFO|test.py] 2020-11-12 12:56:29,272 > SOW2002-07-00 cleared
+[INFO|test.py] 2020-11-12 12:56:31,336 > SOW2102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:33,434 > SOW2103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:35,558 > SOW3114-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:37,638 > SOW3115-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:39,727 > SOW3117-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:41,793 > SOW3121-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:43,869 > SOW3122-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:45,424 > 5 rows in 16-20 of 20
+[INFO|test.py] 2020-11-12 12:56:47,527 > SOW3123-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:49,608 > SOW3103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:51,693 > SOW3113-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:53,750 > SOW4106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:55,806 > SOW4111-01-00 cleared
+[INFO|test.py] 2020-11-12 12:56:56,841 > 사회복지학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:56:56,842 > 20202-사회과학대학-사회학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:56:57,470 > 15 rows in 1-15 of 21
+[INFO|test.py] 2020-11-12 12:56:57,503 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:56:58,018 > 15 rows in 1-15 of 21
+[INFO|test.py] 2020-11-12 12:57:00,077 > SOC1002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:02,199 > SOC1002-02-00 cleared
+[INFO|test.py] 2020-11-12 12:57:04,312 > SOC2103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:06,369 > SOC2002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:08,436 > SOC2002-02-00 cleared
+[INFO|test.py] 2020-11-12 12:57:10,506 > SOC3707-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:12,603 > SOC4121-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:14,691 > SOC3304-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:16,797 > SOC3601-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:18,887 > SOC3603-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:20,969 > SOC3604-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:23,070 > SOC3610-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:25,148 > SOC3611-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:27,246 > SOC4117-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:28,816 > 6 rows in 16-21 of 21
+[INFO|test.py] 2020-11-12 12:57:30,889 > SOC4118-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:32,986 > SOC4119-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:35,071 > SOC4305-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:37,190 > SOC4503-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:39,273 > SOC4703-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:41,345 > SOC3830-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:42,382 > 사회학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:57:42,383 > 20202-사회과학대학-문화인류학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:57:43,012 > 11 rows in 1-11 of 11
+[INFO|test.py] 2020-11-12 12:57:43,039 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:57:43,554 > 11 rows in 1-11 of 11
+[INFO|test.py] 2020-11-12 12:57:45,635 > ANT1001-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:47,712 > ANT2105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:49,784 > ANT2103-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:51,853 > ANT3102-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:53,930 > ANT3105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:56,012 > ANT3112-01-00 cleared
+[INFO|test.py] 2020-11-12 12:57:58,078 > ANT3113-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:00,156 > ANT3114-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:02,250 > ANT3206-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:04,345 > ANT3211-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:06,409 > ANT4202-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:07,437 > 문화인류학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:58:07,437 > 20202-사회과학대학-언론홍보영상학부 수집 시작
+[INFO|test.py] 2020-11-12 12:58:08,071 > 15 rows in 1-15 of 27
+[INFO|test.py] 2020-11-12 12:58:08,117 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:58:08,634 > 15 rows in 1-15 of 27
+[INFO|test.py] 2020-11-12 12:58:10,752 > COM1101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:12,829 > COM2101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:14,906 > COM2002-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:16,979 > COM2105-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:19,094 > COM2109-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:21,176 > COM2110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:23,284 > COM2117-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:25,378 > COM3168-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:27,467 > COM4205-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:39,570 > COM4218-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:41,643 > COM3101-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:43,738 > COM3106-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:45,845 > COM3110-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:47,983 > COM3112-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:49,570 > 12 rows in 16-27 of 27
+[INFO|test.py] 2020-11-12 12:58:51,669 > COM3120-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:53,744 > COM3131-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:55,846 > COM3137-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:57,913 > COM3144-01-00 cleared
+[INFO|test.py] 2020-11-12 12:58:59,996 > COM3145-01-00 cleared
+[INFO|test.py] 2020-11-12 12:59:02,072 > COM3146-01-00 cleared
+[INFO|test.py] 2020-11-12 12:59:04,153 > COM3156-01-00 cleared
+[INFO|test.py] 2020-11-12 12:59:06,291 > COM3161-01-00 cleared
+[INFO|test.py] 2020-11-12 12:59:08,373 > COM3154-01-00 cleared
+[INFO|test.py] 2020-11-12 12:59:10,444 > COM4109-01-00 cleared
+[INFO|test.py] 2020-11-12 12:59:12,516 > COM4217-01-00 cleared
+[INFO|test.py] 2020-11-12 12:59:14,597 > COM4200-01-00 cleared
+[INFO|test.py] 2020-11-12 12:59:15,642 > 언론홍보영상학부 탐색 완료
+[INFO|test.py] 2020-11-12 12:59:15,642 > 20202-사회과학대학-(~2010)신문방송학전공 수집 시작
+[INFO|test.py] 2020-11-12 12:59:16,272 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:59:26,316 > No caution link in 0th row
+[INFO|test.py] 2020-11-12 12:59:26,823 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:59:26,824 > No caution in pages
+[INFO|test.py] 2020-11-12 12:59:27,341 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 12:59:28,363 > (~2010)신문방송학전공 탐색 완료
+[INFO|test.py] 2020-11-12 12:59:28,363 > 사회과학대학 수집 완료
+[INFO|test.py] 2020-11-12 12:59:28,363 > 20202-음악대학-음악대학공통 수집 시작
+[INFO|test.py] 2020-11-12 12:59:28,968 > 15 rows in 1-15 of 31
+[INFO|test.py] 2020-11-12 12:59:28,995 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 12:59:29,511 > 15 rows in 1-15 of 31
+[INFO|test.py] 2020-11-12 12:59:31,571 > CMP1202-01-00 cleared
+[INFO|test.py] 2020-11-12 12:59:33,652 > CMP1202-03-00 cleared
+[INFO|test.py] 2020-11-12 12:59:35,709 > CMP1202-04-00 cleared
+[INFO|test.py] 2020-11-12 12:59:37,773 > CMP1204-01-00 cleared
+[INFO|test.py] 2020-11-12 12:59:39,841 > CMP1204-02-00 cleared
+[INFO|test.py] 2020-11-12 12:59:41,907 > CMP1204-03-00 cleared
+[INFO|test.py] 2020-11-12 12:59:43,968 > CMP1204-04-00 cleared
+[INFO|test.py] 2020-11-12 12:59:46,047 > CMP2202-01-00 cleared
+[INFO|test.py] 2020-11-12 12:59:48,139 > CMP2202-02-00 cleared
+[INFO|test.py] 2020-11-12 12:59:50,227 > CMP2202-03-00 cleared
+[INFO|test.py] 2020-11-12 12:59:52,294 > CMP2202-04-00 cleared
+[INFO|test.py] 2020-11-12 12:59:54,368 > CMP2204-01-00 cleared
+[INFO|test.py] 2020-11-12 12:59:56,444 > CMP2204-02-00 cleared
+[INFO|test.py] 2020-11-12 12:59:58,532 > CMP2204-03-00 cleared
+[INFO|test.py] 2020-11-12 13:00:00,097 > 15 rows in 16-30 of 31
+[INFO|test.py] 2020-11-12 13:00:02,164 > CMP2204-04-00 cleared
+[INFO|test.py] 2020-11-12 13:00:04,247 > CMP2206-01-00 cleared
+[INFO|test.py] 2020-11-12 13:00:06,324 > CMP2206-02-00 cleared
+[INFO|test.py] 2020-11-12 13:00:08,403 > CMP2206-03-00 cleared
+[INFO|test.py] 2020-11-12 13:00:10,494 > CMP3202-01-00 cleared
+[INFO|test.py] 2020-11-12 13:00:12,575 > CMP3202-02-00 cleared
+[INFO|test.py] 2020-11-12 13:00:14,658 > CMP3202-03-00 cleared
+[INFO|test.py] 2020-11-12 13:00:16,744 > CMP3204-01-00 cleared
+[INFO|test.py] 2020-11-12 13:00:18,840 > CMP3204-02-00 cleared
+[INFO|test.py] 2020-11-12 13:00:20,917 > CMP3204-03-00 cleared
+[INFO|test.py] 2020-11-12 13:00:22,988 > CMP3213-01-00 cleared
+[INFO|test.py] 2020-11-12 13:00:35,059 > MSC3001-01-00 cleared
+[INFO|test.py] 2020-11-12 13:00:37,118 > TTP3816-01-00 cleared
+[INFO|test.py] 2020-11-12 13:00:39,181 > TTP3823-01-00 cleared
+[INFO|test.py] 2020-11-12 13:00:41,268 > CHM1207-01-00 cleared
+[INFO|test.py] 2020-11-12 13:00:42,829 > 1 rows in 31-31 of 31
+[INFO|test.py] 2020-11-12 13:00:44,893 > CHM1208-01-00 cleared
+[INFO|test.py] 2020-11-12 13:00:45,941 > 음악대학공통 탐색 완료
+[INFO|test.py] 2020-11-12 13:00:45,941 > 20202-음악대학-교회음악전공 수집 시작
+[INFO|test.py] 2020-11-12 13:00:46,570 > 15 rows in 1-15 of 40
+[INFO|test.py] 2020-11-12 13:00:46,598 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:00:47,116 > 15 rows in 1-15 of 40
+[INFO|test.py] 2020-11-12 13:00:49,183 > CHM1101-01-00 cleared
+[INFO|test.py] 2020-11-12 13:00:51,258 > CHM1101-02-00 cleared
+[INFO|test.py] 2020-11-12 13:00:53,368 > CHM1101-05-00 cleared
+[INFO|test.py] 2020-11-12 13:00:55,453 > CHM1101-07-00 cleared
+[INFO|test.py] 2020-11-12 13:00:57,588 > CHM1101-11-00 cleared
+[INFO|test.py] 2020-11-12 13:00:59,648 > CHM1101-12-00 cleared
+[INFO|test.py] 2020-11-12 13:01:01,704 > CHM1101-13-00 cleared
+[INFO|test.py] 2020-11-12 13:01:03,761 > CHM1101-14-00 cleared
+[INFO|test.py] 2020-11-12 13:01:05,823 > CHM1101-15-00 cleared
+[INFO|test.py] 2020-11-12 13:01:07,405 > 15 rows in 16-30 of 40
+[INFO|test.py] 2020-11-12 13:01:09,466 > CHM1101-16-00 cleared
+[INFO|test.py] 2020-11-12 13:01:11,567 > CHM1101-19-00 cleared
+[INFO|test.py] 2020-11-12 13:01:13,652 > CHM1101-21-00 cleared
+[INFO|test.py] 2020-11-12 13:01:15,708 > CHM1101-22-00 cleared
+[INFO|test.py] 2020-11-12 13:01:17,846 > CHM2203-01-00 cleared
+[INFO|test.py] 2020-11-12 13:01:19,912 > BSP3210-01-00 cleared
+[INFO|test.py] 2020-11-12 13:01:22,003 > CHM3219-01-00 cleared
+[INFO|test.py] 2020-11-12 13:01:24,063 > CHM3204-01-00 cleared
+[INFO|test.py] 2020-11-12 13:01:25,634 > 10 rows in 31-40 of 40
+[INFO|test.py] 2020-11-12 13:01:27,719 > CHM4202-01-00 cleared
+[INFO|test.py] 2020-11-12 13:01:39,815 > CHM4223-01-00 cleared
+[INFO|test.py] 2020-11-12 13:01:41,870 > CHM2653-01-00 cleared
+[INFO|test.py] 2020-11-12 13:01:43,962 > CHM2655-01-00 cleared
+[INFO|test.py] 2020-11-12 13:01:46,026 > CHM4217-01-00 cleared
+[INFO|test.py] 2020-11-12 13:01:48,086 > CHM4219-01-00 cleared
+[INFO|test.py] 2020-11-12 13:01:50,170 > BSP3233-01-00 cleared
+[INFO|test.py] 2020-11-12 13:01:52,229 > BSP4205-01-00 cleared
+[INFO|test.py] 2020-11-12 13:01:53,288 > 교회음악전공 탐색 완료
+[INFO|test.py] 2020-11-12 13:01:53,305 > 20202-음악대학-성악전공 수집 시작
+[INFO|test.py] 2020-11-12 13:01:53,952 > 15 rows in 1-15 of 34
+[INFO|test.py] 2020-11-12 13:01:53,979 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:01:54,498 > 15 rows in 1-15 of 34
+[INFO|test.py] 2020-11-12 13:01:56,567 > VOM1101-01-00 cleared
+[INFO|test.py] 2020-11-12 13:01:58,633 > VOM1101-02-00 cleared
+[INFO|test.py] 2020-11-12 13:02:00,695 > VOM1101-03-00 cleared
+[INFO|test.py] 2020-11-12 13:02:02,758 > VOM1101-04-00 cleared
+[INFO|test.py] 2020-11-12 13:02:04,827 > VOM1101-05-00 cleared
+[INFO|test.py] 2020-11-12 13:02:06,889 > VOM1101-06-00 cleared
+[INFO|test.py] 2020-11-12 13:02:08,951 > VOM1101-07-00 cleared
+[INFO|test.py] 2020-11-12 13:02:11,036 > VOM1101-09-00 cleared
+[INFO|test.py] 2020-11-12 13:02:13,096 > VOM1101-10-00 cleared
+[INFO|test.py] 2020-11-12 13:02:15,156 > VOM1101-11-00 cleared
+[INFO|test.py] 2020-11-12 13:02:17,220 > VOM1101-12-00 cleared
+[INFO|test.py] 2020-11-12 13:02:19,303 > VOM1101-14-00 cleared
+[INFO|test.py] 2020-11-12 13:02:21,365 > VOM1101-15-00 cleared
+[INFO|test.py] 2020-11-12 13:02:22,954 > 15 rows in 16-30 of 34
+[INFO|test.py] 2020-11-12 13:02:25,014 > VOM1101-16-00 cleared
+[INFO|test.py] 2020-11-12 13:02:27,080 > VOM1101-17-00 cleared
+[INFO|test.py] 2020-11-12 13:02:29,141 > VOM1101-18-00 cleared
+[INFO|test.py] 2020-11-12 13:02:31,229 > VOM4222-01-00 cleared
+[INFO|test.py] 2020-11-12 13:02:33,291 > VOM2213-01-00 cleared
+[INFO|test.py] 2020-11-12 13:02:35,346 > VOM1204-01-00 cleared
+[INFO|test.py] 2020-11-12 13:02:37,438 > VOM2210-01-00 cleared
+[INFO|test.py] 2020-11-12 13:02:39,507 > VOM2206-01-00 cleared
+[INFO|test.py] 2020-11-12 13:02:41,575 > VOM2208-01-00 cleared
+[INFO|test.py] 2020-11-12 13:02:43,653 > VOM3211-01-00 cleared
+[INFO|test.py] 2020-11-12 13:02:45,728 > VOM3202-01-00 cleared
+[INFO|test.py] 2020-11-12 13:02:47,801 > VOM3204-01-00 cleared
+[INFO|test.py] 2020-11-12 13:02:49,875 > VOM3213-01-00 cleared
+[INFO|test.py] 2020-11-12 13:02:51,448 > 4 rows in 31-34 of 34
+[INFO|test.py] 2020-11-12 13:02:53,511 > VOM4223-01-00 cleared
+[INFO|test.py] 2020-11-12 13:02:55,591 > VOM3210-01-00 cleared
+[INFO|test.py] 2020-11-12 13:02:57,659 > VOM4225-01-00 cleared
+[INFO|test.py] 2020-11-12 13:02:59,716 > VOM1102-01-00 cleared
+[INFO|test.py] 2020-11-12 13:03:00,759 > 성악전공 탐색 완료
+[INFO|test.py] 2020-11-12 13:03:00,759 > 20202-음악대학-피아노전공 수집 시작
+[INFO|test.py] 2020-11-12 13:03:01,390 > 15 rows in 1-15 of 38
+[INFO|test.py] 2020-11-12 13:03:01,425 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:03:01,944 > 15 rows in 1-15 of 38
+[INFO|test.py] 2020-11-12 13:03:04,009 > BSP2119-01-00 cleared
+[INFO|test.py] 2020-11-12 13:03:06,073 > BSP2119-02-00 cleared
+[INFO|test.py] 2020-11-12 13:03:08,137 > BSP1101-01-00 cleared
+[INFO|test.py] 2020-11-12 13:03:10,195 > BSP1101-02-00 cleared
+[INFO|test.py] 2020-11-12 13:03:12,252 > BSP1101-03-00 cleared
+[INFO|test.py] 2020-11-12 13:03:14,323 > BSP1101-04-00 cleared
+[INFO|test.py] 2020-11-12 13:03:16,382 > BSP1101-05-00 cleared
+[INFO|test.py] 2020-11-12 13:03:18,462 > BSP1101-06-00 cleared
+[INFO|test.py] 2020-11-12 13:03:20,522 > BSP1101-07-00 cleared
+[INFO|test.py] 2020-11-12 13:03:22,580 > BSP1101-08-00 cleared
+[INFO|test.py] 2020-11-12 13:03:24,644 > BSP1101-09-00 cleared
+[INFO|test.py] 2020-11-12 13:03:26,704 > BSP1101-10-00 cleared
+[INFO|test.py] 2020-11-12 13:03:28,765 > BSP1101-11-00 cleared
+[INFO|test.py] 2020-11-12 13:03:30,827 > BSP1101-12-00 cleared
+[INFO|test.py] 2020-11-12 13:03:32,435 > 15 rows in 16-30 of 38
+[INFO|test.py] 2020-11-12 13:03:34,494 > BSP1101-14-00 cleared
+[INFO|test.py] 2020-11-12 13:03:36,553 > BSP1101-15-00 cleared
+[INFO|test.py] 2020-11-12 13:03:38,612 > BSP1101-16-00 cleared
+[INFO|test.py] 2020-11-12 13:03:40,668 > BSP1101-17-00 cleared
+[INFO|test.py] 2020-11-12 13:03:42,767 > BSP1101-20-00 cleared
+[INFO|test.py] 2020-11-12 13:03:44,821 > BSP1101-21-00 cleared
+[INFO|test.py] 2020-11-12 13:03:46,991 > BSP2207-01-00 cleared
+[INFO|test.py] 2020-11-12 13:03:49,050 > BSP2207-02-00 cleared
+[INFO|test.py] 2020-11-12 13:03:50,611 > 8 rows in 31-38 of 38
+[INFO|test.py] 2020-11-12 13:03:52,676 > BSP2202-01-00 cleared
+[INFO|test.py] 2020-11-12 13:03:54,736 > BSP2204-01-00 cleared
+[INFO|test.py] 2020-11-12 13:03:56,795 > BSP3202-01-00 cleared
+[INFO|test.py] 2020-11-12 13:03:58,860 > BSP4201-01-00 cleared
+[INFO|test.py] 2020-11-12 13:04:00,918 > BSP3206-01-00 cleared
+[INFO|test.py] 2020-11-12 13:04:02,984 > BSP3204-01-00 cleared
+[INFO|test.py] 2020-11-12 13:04:05,065 > BSP3225-01-00 cleared
+[INFO|test.py] 2020-11-12 13:04:06,123 > 피아노전공 탐색 완료
+[INFO|test.py] 2020-11-12 13:04:06,123 > 20202-음악대학-관현악전공 수집 시작
+[INFO|test.py] 2020-11-12 13:04:06,752 > 15 rows in 1-15 of 83
+[INFO|test.py] 2020-11-12 13:04:06,780 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:04:07,297 > 15 rows in 1-15 of 83
+[INFO|test.py] 2020-11-12 13:04:09,356 > BSP2209-01-00 cleared
+[INFO|test.py] 2020-11-12 13:04:11,414 > BSP2209-02-00 cleared
+[INFO|test.py] 2020-11-12 13:04:13,478 > BSP2209-03-00 cleared
+[INFO|test.py] 2020-11-12 13:04:15,557 > BSP2209-04-00 cleared
+[INFO|test.py] 2020-11-12 13:04:17,623 > BSP2209-05-00 cleared
+[INFO|test.py] 2020-11-12 13:04:19,689 > BSP2209-06-00 cleared
+[INFO|test.py] 2020-11-12 13:04:21,749 > BSP2210-01-00 cleared
+[INFO|test.py] 2020-11-12 13:04:23,807 > BSP2210-02-00 cleared
+[INFO|test.py] 2020-11-12 13:04:25,864 > BSP2210-03-00 cleared
+[INFO|test.py] 2020-11-12 13:04:27,922 > BSP2210-04-00 cleared
+[INFO|test.py] 2020-11-12 13:04:29,984 > BSP2210-05-00 cleared
+[INFO|test.py] 2020-11-12 13:04:32,050 > BSP1121-01-00 cleared
+[INFO|test.py] 2020-11-12 13:04:34,110 > BSP1121-02-00 cleared
+[INFO|test.py] 2020-11-12 13:04:36,169 > BSP1121-03-00 cleared
+[INFO|test.py] 2020-11-12 13:04:38,229 > BSP1121-04-00 cleared
+[INFO|test.py] 2020-11-12 13:04:39,800 > 15 rows in 16-30 of 83
+[INFO|test.py] 2020-11-12 13:04:41,855 > BSP1121-05-00 cleared
+[INFO|test.py] 2020-11-12 13:04:43,904 > BSP1121-06-00 cleared
+[INFO|test.py] 2020-11-12 13:04:45,975 > BSP1121-08-00 cleared
+[INFO|test.py] 2020-11-12 13:04:48,088 > BSP1121-11-00 cleared
+[INFO|test.py] 2020-11-12 13:04:50,145 > BSP1121-12-00 cleared
+[INFO|test.py] 2020-11-12 13:04:52,208 > BSP1121-13-00 cleared
+[INFO|test.py] 2020-11-12 13:04:54,270 > BSP1121-14-00 cleared
+[INFO|test.py] 2020-11-12 13:04:56,331 > BSP1121-15-00 cleared
+[INFO|test.py] 2020-11-12 13:04:58,439 > BSP1121-18-00 cleared
+[INFO|test.py] 2020-11-12 13:05:00,046 > 15 rows in 31-45 of 83
+[INFO|test.py] 2020-11-12 13:05:02,103 > BSP1121-20-00 cleared
+[INFO|test.py] 2020-11-12 13:05:04,160 > BSP1121-21-00 cleared
+[INFO|test.py] 2020-11-12 13:05:06,215 > BSP1121-22-00 cleared
+[INFO|test.py] 2020-11-12 13:05:18,329 > BSP1121-23-00 cleared
+[INFO|test.py] 2020-11-12 13:05:20,388 > BSP1121-24-00 cleared
+[INFO|test.py] 2020-11-12 13:05:22,450 > BSP1121-25-00 cleared
+[INFO|test.py] 2020-11-12 13:05:24,507 > BSP1121-26-00 cleared
+[INFO|test.py] 2020-11-12 13:05:26,569 > BSP1121-27-00 cleared
+[INFO|test.py] 2020-11-12 13:05:28,637 > BSP1121-28-00 cleared
+[INFO|test.py] 2020-11-12 13:05:30,692 > BSP1121-29-00 cleared
+[INFO|test.py] 2020-11-12 13:05:32,797 > BSP1121-32-00 cleared
+[INFO|test.py] 2020-11-12 13:05:34,851 > BSP1121-33-00 cleared
+[INFO|test.py] 2020-11-12 13:05:36,451 > 15 rows in 46-60 of 83
+[INFO|test.py] 2020-11-12 13:05:38,510 > BSP1121-35-00 cleared
+[INFO|test.py] 2020-11-12 13:05:40,567 > BSP1121-36-00 cleared
+[INFO|test.py] 2020-11-12 13:05:42,627 > BSP1121-37-00 cleared
+[INFO|test.py] 2020-11-12 13:05:44,687 > BSP1121-38-00 cleared
+[INFO|test.py] 2020-11-12 13:05:46,750 > BSP1121-39-00 cleared
+[INFO|test.py] 2020-11-12 13:05:48,809 > BSP1121-40-00 cleared
+[INFO|test.py] 2020-11-12 13:05:50,866 > BSP1121-41-00 cleared
+[INFO|test.py] 2020-11-12 13:05:52,930 > BSP1121-42-00 cleared
+[INFO|test.py] 2020-11-12 13:05:54,989 > BSP1121-43-00 cleared
+[INFO|test.py] 2020-11-12 13:05:57,053 > BSP1121-44-00 cleared
+[INFO|test.py] 2020-11-12 13:05:59,113 > BSP1121-45-00 cleared
+[INFO|test.py] 2020-11-12 13:06:01,175 > BSP1121-46-00 cleared
+[INFO|test.py] 2020-11-12 13:06:03,239 > BSP1121-47-00 cleared
+[INFO|test.py] 2020-11-12 13:06:05,295 > BSP1121-48-00 cleared
+[INFO|test.py] 2020-11-12 13:06:06,912 > 15 rows in 61-75 of 83
+[INFO|test.py] 2020-11-12 13:06:09,060 > BSP3224-03-00 cleared
+[INFO|test.py] 2020-11-12 13:06:11,114 > BSP3224-04-00 cleared
+[INFO|test.py] 2020-11-12 13:06:13,188 > BSP3224-06-00 cleared
+[INFO|test.py] 2020-11-12 13:06:15,240 > BSP3224-07-00 cleared
+[INFO|test.py] 2020-11-12 13:06:17,380 > BSP2211-01-00 cleared
+[INFO|test.py] 2020-11-12 13:06:19,432 > BSP4208-01-00 cleared
+[INFO|test.py] 2020-11-12 13:06:21,530 > BSP4209-01-00 cleared
+[INFO|test.py] 2020-11-12 13:06:23,083 > 8 rows in 76-83 of 83
+[INFO|test.py] 2020-11-12 13:06:25,154 > BSP1118-01-00 cleared
+[INFO|test.py] 2020-11-12 13:06:27,239 > BSP1119-01-00 cleared
+[INFO|test.py] 2020-11-12 13:06:39,317 > BSP1125-01-00 cleared
+[INFO|test.py] 2020-11-12 13:06:41,384 > BSP3212-01-00 cleared
+[INFO|test.py] 2020-11-12 13:06:53,469 > BSP3216-01-00 cleared
+[INFO|test.py] 2020-11-12 13:07:05,542 > BSP3226-01-00 cleared
+[INFO|test.py] 2020-11-12 13:07:07,607 > BSP3235-01-00 cleared
+[INFO|test.py] 2020-11-12 13:07:08,688 > 관현악전공 탐색 완료
+[INFO|test.py] 2020-11-12 13:07:08,688 > 20202-음악대학-작곡전공 수집 시작
+[INFO|test.py] 2020-11-12 13:07:09,316 > 15 rows in 1-15 of 21
+[INFO|test.py] 2020-11-12 13:07:09,342 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:07:09,860 > 15 rows in 1-15 of 21
+[INFO|test.py] 2020-11-12 13:07:11,919 > CMP1101-01-00 cleared
+[INFO|test.py] 2020-11-12 13:07:13,975 > CMP1101-02-00 cleared
+[INFO|test.py] 2020-11-12 13:07:16,033 > CMP1101-03-00 cleared
+[INFO|test.py] 2020-11-12 13:07:18,089 > CMP1101-04-00 cleared
+[INFO|test.py] 2020-11-12 13:07:20,146 > CMP1101-05-00 cleared
+[INFO|test.py] 2020-11-12 13:07:22,200 > CMP1101-06-00 cleared
+[INFO|test.py] 2020-11-12 13:07:24,282 > CMP1101-08-00 cleared
+[INFO|test.py] 2020-11-12 13:07:26,369 > CMP1101-10-00 cleared
+[INFO|test.py] 2020-11-12 13:07:28,428 > CMP1101-11-00 cleared
+[INFO|test.py] 2020-11-12 13:07:30,535 > CMP1206-01-00 cleared
+[INFO|test.py] 2020-11-12 13:07:32,599 > CMP2001-01-00 cleared
+[INFO|test.py] 2020-11-12 13:07:34,158 > 6 rows in 16-21 of 21
+[INFO|test.py] 2020-11-12 13:07:36,214 > CMP3211-01-00 cleared
+[INFO|test.py] 2020-11-12 13:07:38,278 > CMP4205-01-00 cleared
+[INFO|test.py] 2020-11-12 13:07:40,337 > CMP3210-01-00 cleared
+[INFO|test.py] 2020-11-12 13:07:52,403 > CMP3214-01-00 cleared
+[INFO|test.py] 2020-11-12 13:07:54,466 > CMP4208-01-00 cleared
+[INFO|test.py] 2020-11-12 13:07:56,523 > CMP4209-01-00 cleared
+[INFO|test.py] 2020-11-12 13:07:57,564 > 작곡전공 탐색 완료
+[INFO|test.py] 2020-11-12 13:07:57,565 > 음악대학 수집 완료
+[INFO|test.py] 2020-11-12 13:07:57,565 > 20202-생활과학대학-생활과학대학 공통 수집 시작
+[INFO|test.py] 2020-11-12 13:07:58,201 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 13:08:08,218 > No caution link in 0th row
+[INFO|test.py] 2020-11-12 13:08:08,730 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 13:08:08,730 > No caution in pages
+[INFO|test.py] 2020-11-12 13:08:09,248 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 13:08:10,276 > 생활과학대학 공통 탐색 완료
+[INFO|test.py] 2020-11-12 13:08:10,277 > 20202-생활과학대학-의류환경학전공 수집 시작
+[INFO|test.py] 2020-11-12 13:08:10,906 > 15 rows in 1-15 of 21
+[INFO|test.py] 2020-11-12 13:08:10,931 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:08:11,446 > 15 rows in 1-15 of 21
+[INFO|test.py] 2020-11-12 13:08:13,527 > CNT1101-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:15,643 > CNT2109-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:17,720 > CNT2120-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:19,802 > CNT2120-02-00 cleared
+[INFO|test.py] 2020-11-12 13:08:21,867 > CNT2002-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:23,930 > CNT2002-02-00 cleared
+[INFO|test.py] 2020-11-12 13:08:25,996 > CNT2002-03-00 cleared
+[INFO|test.py] 2020-11-12 13:08:28,077 > CNT2111-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:30,154 > CNT3105-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:32,232 > CNT3114-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:34,302 > CNT3121-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:36,367 > CNT3124-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:38,449 > CNT3128-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:40,533 > CNT3133-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:42,636 > CNT3136-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:44,208 > 6 rows in 16-21 of 21
+[INFO|test.py] 2020-11-12 13:08:46,285 > CNT3139-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:48,342 > TTP3828-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:50,405 > CNT4110-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:52,499 > CNT4121-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:54,583 > CNT4126-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:56,663 > CNT4127-01-00 cleared
+[INFO|test.py] 2020-11-12 13:08:57,701 > 의류환경학전공 탐색 완료
+[INFO|test.py] 2020-11-12 13:08:57,701 > 20202-생활과학대학-식품영양학전공 수집 시작
+[INFO|test.py] 2020-11-12 13:08:58,330 > 13 rows in 1-13 of 13
+[INFO|test.py] 2020-11-12 13:08:58,359 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:08:58,875 > 13 rows in 1-13 of 13
+[INFO|test.py] 2020-11-12 13:09:00,935 > FNS1101-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:03,038 > FNS2101-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:05,124 > FNS4117-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:07,189 > FNS3119-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:09,264 > FNS2103-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:11,346 > FNS3102-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:13,427 > FNS3108-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:15,498 > FNS3116-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:17,578 > FNS3124-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:19,664 > FNS4106-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:21,734 > FNS4111-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:23,806 > FNS4116-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:25,888 > FNS4120-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:26,910 > 식품영양학전공 탐색 완료
+[INFO|test.py] 2020-11-12 13:09:26,910 > 20202-생활과학대학-실내건축학전공 수집 시작
+[INFO|test.py] 2020-11-12 13:09:27,508 > 15 rows in 1-15 of 18
+[INFO|test.py] 2020-11-12 13:09:27,535 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:09:28,050 > 15 rows in 1-15 of 18
+[INFO|test.py] 2020-11-12 13:09:30,144 > HID1104-02-00 cleared
+[INFO|test.py] 2020-11-12 13:09:32,251 > HID1105-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:34,320 > HID2111-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:36,388 > HID2114-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:38,465 > HID2114-02-00 cleared
+[INFO|test.py] 2020-11-12 13:09:40,589 > HID3119-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:42,669 > HID3122-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:44,780 > HID3124-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:46,857 > HID3125-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:48,941 > HID3127-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:51,010 > HID3130-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:53,078 > HID4101-01-00 cleared
+[INFO|test.py] 2020-11-12 13:09:54,633 > 3 rows in 16-18 of 18
+[INFO|test.py] 2020-11-12 13:09:56,697 > HID4101-02-00 cleared
+[INFO|test.py] 2020-11-12 13:09:58,770 > HID4110-01-00 cleared
+[INFO|test.py] 2020-11-12 13:10:00,844 > HID4119-01-00 cleared
+[INFO|test.py] 2020-11-12 13:10:01,886 > 실내건축학전공 탐색 완료
+[INFO|test.py] 2020-11-12 13:10:01,887 > 20202-생활과학대학-아동·가족전공 수집 시작
+[INFO|test.py] 2020-11-12 13:10:02,520 > 14 rows in 1-14 of 14
+[INFO|test.py] 2020-11-12 13:10:02,550 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:10:03,069 > 14 rows in 1-14 of 14
+[INFO|test.py] 2020-11-12 13:10:05,148 > CFS2106-01-00 cleared
+[INFO|test.py] 2020-11-12 13:10:07,220 > CFS2103-01-00 cleared
+[INFO|test.py] 2020-11-12 13:10:09,321 > CFS2104-01-00 cleared
+[INFO|test.py] 2020-11-12 13:10:11,416 > CFS4110-01-00 cleared
+[INFO|test.py] 2020-11-12 13:10:23,508 > CFS3102-01-00 cleared
+[INFO|test.py] 2020-11-12 13:10:25,587 > CFS3104-01-00 cleared
+[INFO|test.py] 2020-11-12 13:10:27,663 > CFS3108-01-00 cleared
+[INFO|test.py] 2020-11-12 13:10:29,731 > CFS3126-01-00 cleared
+[INFO|test.py] 2020-11-12 13:10:31,806 > CFS3137-01-00 cleared
+[INFO|test.py] 2020-11-12 13:10:33,899 > CFS3139-01-00 cleared
+[INFO|test.py] 2020-11-12 13:10:35,984 > CFS4102-01-00 cleared
+[INFO|test.py] 2020-11-12 13:10:48,049 > CFS4107-01-00 cleared
+[INFO|test.py] 2020-11-12 13:10:50,109 > CFS4112-01-00 cleared
+[INFO|test.py] 2020-11-12 13:10:52,180 > CFS4115-01-00 cleared
+[INFO|test.py] 2020-11-12 13:10:53,206 > 아동·가족전공 탐색 완료
+[INFO|test.py] 2020-11-12 13:10:53,207 > 20202-생활과학대학-생활디자인전공 수집 시작
+[INFO|test.py] 2020-11-12 13:10:53,835 > 15 rows in 1-15 of 20
+[INFO|test.py] 2020-11-12 13:10:53,863 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:10:54,381 > 15 rows in 1-15 of 20
+[INFO|test.py] 2020-11-12 13:10:56,448 > DSN2110-01-00 cleared
+[INFO|test.py] 2020-11-12 13:10:58,509 > DSN2120-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:00,582 > DSN3111-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:02,666 > DSN3128-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:04,740 > DSN2002-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:06,840 > DSN3113-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:08,924 > DSN3119-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:11,011 > DSN3121-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:13,090 > DSN3122-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:15,171 > DSN3123-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:17,255 > DSN4106-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:19,321 > DSN4102-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:21,408 > DSN3106-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:23,479 > DSN3112-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:25,564 > DSN3134-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:27,136 > 5 rows in 16-20 of 20
+[INFO|test.py] 2020-11-12 13:11:29,202 > DSN4109-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:31,255 > DSN4116-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:33,335 > DSN4119-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:35,422 > DSN4120-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:37,487 > DSN4121-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:38,524 > 생활디자인전공 탐색 완료
+[INFO|test.py] 2020-11-12 13:11:38,524 > 생활과학대학 수집 완료
+[INFO|test.py] 2020-11-12 13:11:38,525 > 20202-교육과학대학-교육학전공 수집 시작
+[INFO|test.py] 2020-11-12 13:11:39,169 > 15 rows in 1-15 of 23
+[INFO|test.py] 2020-11-12 13:11:39,202 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:11:39,718 > 15 rows in 1-15 of 23
+[INFO|test.py] 2020-11-12 13:11:41,786 > EDU2002-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:43,848 > EDU2003-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:45,938 > TTP2008-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:48,032 > TTP2009-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:50,121 > EDU2107-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:52,191 > EDU2109-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:54,296 > EDU2113-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:56,374 > EDU2125-01-00 cleared
+[INFO|test.py] 2020-11-12 13:11:58,449 > EDU3144-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:00,537 > EDU3103-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:02,613 > EDU3112-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:04,713 > EDU3131-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:06,790 > EDU3133-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:08,875 > EDU3136-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:10,941 > EDU3137-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:12,521 > 8 rows in 16-23 of 23
+[INFO|test.py] 2020-11-12 13:12:14,587 > EDU3167-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:16,649 > TTP4007-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:18,718 > EDU4117-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:20,796 > EDU4118-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:22,881 > EDU4121-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:24,948 > EDU4124-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:27,036 > EDU4127-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:29,093 > EDU4134-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:30,142 > 교육학전공 탐색 완료
+[INFO|test.py] 2020-11-12 13:12:30,142 > 20202-교육과학대학-체육교육학전공 수집 시작
+[INFO|test.py] 2020-11-12 13:12:30,775 > 15 rows in 1-15 of 61
+[INFO|test.py] 2020-11-12 13:12:30,806 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:12:31,322 > 15 rows in 1-15 of 61
+[INFO|test.py] 2020-11-12 13:12:33,384 > PED2001-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:35,448 > PED2001-02-00 cleared
+[INFO|test.py] 2020-11-12 13:12:37,513 > PED2001-03-00 cleared
+[INFO|test.py] 2020-11-12 13:12:39,573 > PED1101-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:41,640 > PED1101-02-00 cleared
+[INFO|test.py] 2020-11-12 13:12:43,707 > PED1109-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:45,782 > PED2202-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:47,848 > PED2202-02-00 cleared
+[INFO|test.py] 2020-11-12 13:12:49,912 > PED1105-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:51,973 > PED2107-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:54,048 > PED1804-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:56,141 > PED1107-01-00 cleared
+[INFO|test.py] 2020-11-12 13:12:58,224 > PED4204-01-00 cleared
+[INFO|test.py] 2020-11-12 13:13:00,301 > PED4204-02-00 cleared
+[INFO|test.py] 2020-11-12 13:13:02,356 > PED2002-01-00 cleared
+[INFO|test.py] 2020-11-12 13:13:03,953 > 15 rows in 16-30 of 61
+[INFO|test.py] 2020-11-12 13:13:06,014 > PED2002-02-00 cleared
+[INFO|test.py] 2020-11-12 13:13:08,102 > PED2002-04-00 cleared
+[INFO|test.py] 2020-11-12 13:13:10,160 > PED2002-05-00 cleared
+[INFO|test.py] 2020-11-12 13:13:12,218 > PED2002-06-00 cleared
+[INFO|test.py] 2020-11-12 13:13:14,270 > PED2002-07-00 cleared
+[INFO|test.py] 2020-11-12 13:13:16,319 > PED2002-08-00 cleared
+[INFO|test.py] 2020-11-12 13:13:18,370 > PED2002-09-00 cleared
+[INFO|test.py] 2020-11-12 13:13:20,420 > PED2002-10-00 cleared
+[INFO|test.py] 2020-11-12 13:13:22,480 > PED2002-11-00 cleared
+[INFO|test.py] 2020-11-12 13:13:24,531 > PED2002-12-00 cleared
+[INFO|test.py] 2020-11-12 13:13:26,589 > PED2002-13-00 cleared
+[INFO|test.py] 2020-11-12 13:13:28,689 > PED2002-16-00 cleared
+[INFO|test.py] 2020-11-12 13:13:30,261 > 15 rows in 31-45 of 61
+[INFO|test.py] 2020-11-12 13:13:32,313 > PED2101-01-00 cleared
+[INFO|test.py] 2020-11-12 13:13:34,371 > PED2106-01-00 cleared
+[INFO|test.py] 2020-11-12 13:13:36,426 > PED2808-01-00 cleared
+[INFO|test.py] 2020-11-12 13:13:38,483 > PED2204-01-00 cleared
+[INFO|test.py] 2020-11-12 13:13:40,541 > PED2206-01-00 cleared
+[INFO|test.py] 2020-11-12 13:13:42,617 > PED2502-01-00 cleared
+[INFO|test.py] 2020-11-12 13:13:44,688 > PED2503-01-00 cleared
+[INFO|test.py] 2020-11-12 13:13:46,753 > PED2802-01-00 cleared
+[INFO|test.py] 2020-11-12 13:13:48,807 > PED2805-01-00 cleared
+[INFO|test.py] 2020-11-12 13:13:50,872 > PED2805-02-00 cleared
+[INFO|test.py] 2020-11-12 13:13:52,929 > PED2108-01-00 cleared
+[INFO|test.py] 2020-11-12 13:13:55,000 > PED4806-01-00 cleared
+[INFO|test.py] 2020-11-12 13:13:57,077 > PED4806-02-00 cleared
+[INFO|test.py] 2020-11-12 13:14:09,175 > PED2102-01-00 cleared
+[INFO|test.py] 2020-11-12 13:14:11,237 > PED3809-01-00 cleared
+[INFO|test.py] 2020-11-12 13:14:12,826 > 15 rows in 46-60 of 61
+[INFO|test.py] 2020-11-12 13:14:14,914 > PED3509-01-00 cleared
+[INFO|test.py] 2020-11-12 13:14:16,973 > PED3808-01-00 cleared
+[INFO|test.py] 2020-11-12 13:14:19,035 > PED3208-01-00 cleared
+[INFO|test.py] 2020-11-12 13:14:21,122 > PED3210-01-00 cleared
+[INFO|test.py] 2020-11-12 13:14:23,200 > PED3503-01-00 cleared
+[INFO|test.py] 2020-11-12 13:14:25,283 > PED4206-01-00 cleared
+[INFO|test.py] 2020-11-12 13:14:27,364 > PED4206-02-00 cleared
+[INFO|test.py] 2020-11-12 13:14:29,423 > PED1111-01-00 cleared
+[INFO|test.py] 2020-11-12 13:14:31,486 > PED1111-02-00 cleared
+[INFO|test.py] 2020-11-12 13:14:33,551 > PED1115-01-00 cleared
+[INFO|test.py] 2020-11-12 13:14:35,645 > PED4201-01-00 cleared
+[INFO|test.py] 2020-11-12 13:14:37,767 > PED4207-01-00 cleared
+[INFO|test.py] 2020-11-12 13:14:39,311 > 1 rows in 61-61 of 61
+[INFO|test.py] 2020-11-12 13:14:41,374 > PED4207-02-00 cleared
+[INFO|test.py] 2020-11-12 13:14:42,423 > 체육교육학전공 탐색 완료
+[INFO|test.py] 2020-11-12 13:14:42,423 > 20202-교육과학대학-(~2016)스포츠레저학전공 수집 시작
+[INFO|test.py] 2020-11-12 13:14:43,056 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 13:14:53,079 > No caution link in 0th row
+[INFO|test.py] 2020-11-12 13:14:53,587 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 13:14:53,587 > No caution in pages
+[INFO|test.py] 2020-11-12 13:14:54,102 > 0 rows in 1-0 of 0
+[INFO|test.py] 2020-11-12 13:14:55,123 > (~2016)스포츠레저학전공 탐색 완료
+[INFO|test.py] 2020-11-12 13:14:55,123 > 20202-교육과학대학-스포츠응용산업전공 수집 시작
+[INFO|test.py] 2020-11-12 13:14:55,711 > 15 rows in 1-15 of 50
+[INFO|test.py] 2020-11-12 13:14:55,739 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:14:56,255 > 15 rows in 1-15 of 50
+[INFO|test.py] 2020-11-12 13:14:58,326 > SLS1104-01-00 cleared
+[INFO|test.py] 2020-11-12 13:15:00,386 > SLS1201-01-00 cleared
+[INFO|test.py] 2020-11-12 13:15:02,466 > SLS1115-01-00 cleared
+[INFO|test.py] 2020-11-12 13:15:04,525 > SLS2106-01-00 cleared
+[INFO|test.py] 2020-11-12 13:15:06,590 > SLS2001-01-00 cleared
+[INFO|test.py] 2020-11-12 13:15:08,659 > SLS2002-01-00 cleared
+[INFO|test.py] 2020-11-12 13:15:10,722 > SLS2002-02-00 cleared
+[INFO|test.py] 2020-11-12 13:15:12,788 > SLS2002-03-00 cleared
+[INFO|test.py] 2020-11-12 13:15:14,857 > SLS2002-04-00 cleared
+[INFO|test.py] 2020-11-12 13:15:16,918 > SLS2002-05-00 cleared
+[INFO|test.py] 2020-11-12 13:15:19,006 > SLS2002-07-00 cleared
+[INFO|test.py] 2020-11-12 13:15:21,067 > SLS2002-08-00 cleared
+[INFO|test.py] 2020-11-12 13:15:23,129 > SLS2002-09-00 cleared
+[INFO|test.py] 2020-11-12 13:15:24,751 > 15 rows in 16-30 of 50
+[INFO|test.py] 2020-11-12 13:15:26,815 > SLS2002-11-00 cleared
+[INFO|test.py] 2020-11-12 13:15:28,873 > SLS2002-12-00 cleared
+[INFO|test.py] 2020-11-12 13:15:30,935 > SLS2002-13-00 cleared
+[INFO|test.py] 2020-11-12 13:15:32,994 > SLS2002-14-00 cleared
+[INFO|test.py] 2020-11-12 13:15:45,112 > SLS2102-01-00 cleared
+[INFO|test.py] 2020-11-12 13:15:47,181 > SLS2114-01-00 cleared
+[INFO|test.py] 2020-11-12 13:15:49,249 > SLS2122-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:01,339 > SLS2131-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:03,414 > SLS2151-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:05,483 > SLS2161-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:07,547 > SLS2181-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:09,604 > SLS2182-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:11,670 > SLS2230-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:13,256 > 15 rows in 31-45 of 50
+[INFO|test.py] 2020-11-12 13:16:15,332 > SLS1202-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:17,395 > SLS1202-02-00 cleared
+[INFO|test.py] 2020-11-12 13:16:19,470 > SLS4102-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:21,549 > SLS1114-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:23,616 > SLS2116-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:25,680 > SLS2171-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:27,748 > SLS2211-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:29,851 > SLS3204-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:31,937 > SLS3311-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:34,019 > SLS3401-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:36,107 > SLS4206-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:38,186 > SLS4222-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:40,260 > SLS2107-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:42,336 > SLS4202-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:44,400 > SLS4001-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:45,974 > 5 rows in 46-50 of 50
+[INFO|test.py] 2020-11-12 13:16:48,038 > SLS4004-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:50,136 > SLS4212-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:52,203 > SLS4215-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:54,274 > SLS4215-02-00 cleared
+[INFO|test.py] 2020-11-12 13:16:56,342 > SLS4223-01-00 cleared
+[INFO|test.py] 2020-11-12 13:16:57,392 > 스포츠응용산업전공 탐색 완료
+[INFO|test.py] 2020-11-12 13:16:57,392 > 교육과학대학 수집 완료
+[INFO|test.py] 2020-11-12 13:16:57,392 > 20202-언더우드국제대학-공통교과과정(신촌) 수집 시작
+[INFO|test.py] 2020-11-12 13:16:58,040 > 15 rows in 1-15 of 41
+[INFO|test.py] 2020-11-12 13:16:58,077 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:16:58,593 > 15 rows in 1-15 of 41
+[INFO|test.py] 2020-11-12 13:17:00,854 > YCA1008-02-00 cleared
+[INFO|test.py] 2020-11-12 13:17:02,917 > YCA1004-02-00 cleared
+[INFO|test.py] 2020-11-12 13:17:05,005 > UIC1451-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:07,082 > UIC1501-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:09,147 > UIC1551-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:11,223 > UIC1809-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:13,285 > UIC1920-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:15,347 > UIC2101-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:17,418 > UIC2101-02-00 cleared
+[INFO|test.py] 2020-11-12 13:17:19,481 > UIC2151-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:21,542 > UIC2151-02-00 cleared
+[INFO|test.py] 2020-11-12 13:17:23,603 > UIC2302-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:25,665 > UIC2310-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:27,734 > UIC2311-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:29,796 > UIC2312-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:31,382 > 15 rows in 16-30 of 41
+[INFO|test.py] 2020-11-12 13:17:33,457 > UIC3512-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:35,532 > UIC3516-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:37,622 > UIC3574-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:39,697 > UIC3579-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:41,760 > UIC3201-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:43,869 > UIC3537-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:45,950 > UIC3557-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:48,034 > UIC3560-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:50,099 > UIC3562-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:52,173 > UIC3563-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:54,262 > UIC3572-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:56,357 > UIC3576-01-00 cleared
+[INFO|test.py] 2020-11-12 13:17:58,420 > UIC3581-01-00 cleared
+[INFO|test.py] 2020-11-12 13:18:00,479 > UIC3583-01-00 cleared
+[INFO|test.py] 2020-11-12 13:18:02,561 > UIC3586-01-00 cleared
+[INFO|test.py] 2020-11-12 13:18:04,120 > 11 rows in 31-41 of 41
+[INFO|test.py] 2020-11-12 13:18:06,191 > UIC3605-01-00 cleared
+[INFO|test.py] 2020-11-12 13:18:08,255 > UIC3616-01-00 cleared
+[INFO|test.py] 2020-11-12 13:18:10,319 > UIC3617-01-00 cleared
+[INFO|test.py] 2020-11-12 13:18:12,368 > UIC3629-01-00 cleared
+[INFO|test.py] 2020-11-12 13:18:14,440 > UIC3631-01-00 cleared
+[INFO|test.py] 2020-11-12 13:18:16,513 > UIC3641-01-00 cleared
+[INFO|test.py] 2020-11-12 13:18:18,563 > UIC3644-01-00 cleared
+[INFO|test.py] 2020-11-12 13:18:20,624 > UIC3645-01-00 cleared
+[INFO|test.py] 2020-11-12 13:18:22,704 > UIC3652-01-00 cleared
+[INFO|test.py] 2020-11-12 13:18:24,771 > UIC3207-01-00 cleared
+[INFO|test.py] 2020-11-12 13:18:26,837 > UIC4801-01-00 cleared
+[INFO|test.py] 2020-11-12 13:18:27,892 > 공통교과과정(신촌) 탐색 완료
+[INFO|test.py] 2020-11-12 13:18:27,893 > 20202-언더우드국제대학-공통교과과정(국제) 수집 시작
+[INFO|test.py] 2020-11-12 13:18:28,524 > 15 rows in 1-15 of 100
+[INFO|test.py] 2020-11-12 13:18:28,557 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:18:29,076 > 15 rows in 1-15 of 100
+[INFO|test.py] 2020-11-12 13:18:31,137 > YCA1002-01-00 cleared
+[INFO|test.py] 2020-11-12 13:18:33,281 > YCA1006-01-00 cleared
+[INFO|test.py] 2020-11-12 13:18:35,338 > UIC1101-01-00 cleared
+[INFO|test.py] 2020-11-12 13:18:37,394 > UIC1101-02-00 cleared
+[INFO|test.py] 2020-11-12 13:18:39,450 > UIC1101-03-00 cleared
+[INFO|test.py] 2020-11-12 13:18:41,539 > UIC1101-05-00 cleared
+[INFO|test.py] 2020-11-12 13:18:43,602 > UIC1101-06-00 cleared
+[INFO|test.py] 2020-11-12 13:18:45,662 > UIC1101-07-00 cleared
+[INFO|test.py] 2020-11-12 13:18:47,722 > UIC1101-08-00 cleared
+[INFO|test.py] 2020-11-12 13:18:49,777 > UIC1101-09-00 cleared
+[INFO|test.py] 2020-11-12 13:18:51,836 > UIC1101-10-00 cleared
+[INFO|test.py] 2020-11-12 13:18:53,893 > UIC1101-11-00 cleared
+[INFO|test.py] 2020-11-12 13:18:55,976 > UIC1101-13-00 cleared
+[INFO|test.py] 2020-11-12 13:18:57,543 > 15 rows in 16-30 of 100
+[INFO|test.py] 2020-11-12 13:18:59,621 > UIC1101-15-00 cleared
+[INFO|test.py] 2020-11-12 13:19:01,674 > UIC1101-16-00 cleared
+[INFO|test.py] 2020-11-12 13:19:03,729 > UIC1251-01-00 cleared
+[INFO|test.py] 2020-11-12 13:19:05,779 > UIC1301-01-00 cleared
+[INFO|test.py] 2020-11-12 13:19:07,842 > UIC1301-02-00 cleared
+[INFO|test.py] 2020-11-12 13:19:09,897 > UIC1351-01-00 cleared
+[INFO|test.py] 2020-11-12 13:19:11,952 > UIC1351-02-00 cleared
+[INFO|test.py] 2020-11-12 13:19:14,005 > UIC1401-01-00 cleared
+[INFO|test.py] 2020-11-12 13:19:16,068 > UIC1401-02-00 cleared
+[INFO|test.py] 2020-11-12 13:19:18,135 > UIC1451-02-00 cleared
+[INFO|test.py] 2020-11-12 13:19:20,230 > UIC1501-03-00 cleared
+[INFO|test.py] 2020-11-12 13:19:22,293 > UIC1501-04-00 cleared
+[INFO|test.py] 2020-11-12 13:19:24,349 > UIC1501-05-00 cleared
+[INFO|test.py] 2020-11-12 13:19:25,931 > 15 rows in 31-45 of 100
+[INFO|test.py] 2020-11-12 13:19:27,998 > UIC1501-06-00 cleared
+[INFO|test.py] 2020-11-12 13:19:30,056 > UIC1502-01-00 cleared
+[INFO|test.py] 2020-11-12 13:19:32,126 > UIC1551-02-00 cleared
+[INFO|test.py] 2020-11-12 13:19:34,181 > UIC1551-03-00 cleared
+[INFO|test.py] 2020-11-12 13:19:36,266 > UIC1551-05-00 cleared
+[INFO|test.py] 2020-11-12 13:19:38,326 > UIC1551-06-00 cleared
+[INFO|test.py] 2020-11-12 13:19:40,392 > UIC1551-07-00 cleared
+[INFO|test.py] 2020-11-12 13:19:42,459 > UIC1551-08-00 cleared
+[INFO|test.py] 2020-11-12 13:19:44,525 > UIC1561-01-00 cleared
+[INFO|test.py] 2020-11-12 13:19:46,583 > UIC1581-01-00 cleared
+[INFO|test.py] 2020-11-12 13:19:48,639 > UIC1804-01-00 cleared
+[INFO|test.py] 2020-11-12 13:19:50,687 > UIC1804-02-00 cleared
+[INFO|test.py] 2020-11-12 13:19:52,748 > UIC1805-01-00 cleared
+[INFO|test.py] 2020-11-12 13:19:54,809 > UIC1805-02-00 cleared
+[INFO|test.py] 2020-11-12 13:19:56,376 > 15 rows in 46-60 of 100
+[INFO|test.py] 2020-11-12 13:19:58,434 > UIC1806-01-00 cleared
+[INFO|test.py] 2020-11-12 13:20:00,486 > UIC1808-01-00 cleared
+[INFO|test.py] 2020-11-12 13:20:02,540 > UIC1809-02-00 cleared
+[INFO|test.py] 2020-11-12 13:20:04,595 > UIC1810-01-00 cleared
+[INFO|test.py] 2020-11-12 13:20:06,665 > UIC1901-01-00 cleared
+[INFO|test.py] 2020-11-12 13:20:08,724 > UIC2101-03-00 cleared
+[INFO|test.py] 2020-11-12 13:20:10,780 > UIC2101-04-00 cleared
+[INFO|test.py] 2020-11-12 13:20:12,837 > UIC2101-05-00 cleared
+[INFO|test.py] 2020-11-12 13:20:14,891 > UIC2101-06-00 cleared
+[INFO|test.py] 2020-11-12 13:20:16,942 > UIC2101-07-00 cleared
+[INFO|test.py] 2020-11-12 13:20:18,996 > UIC2101-08-00 cleared
+[INFO|test.py] 2020-11-12 13:20:21,054 > UIC2101-09-00 cleared
+[INFO|test.py] 2020-11-12 13:20:23,108 > UIC2151-03-00 cleared
+[INFO|test.py] 2020-11-12 13:20:25,164 > UIC2151-04-00 cleared
+[INFO|test.py] 2020-11-12 13:20:27,222 > UIC2151-05-00 cleared
+[INFO|test.py] 2020-11-12 13:20:28,809 > 15 rows in 61-75 of 100
+[INFO|test.py] 2020-11-12 13:20:30,867 > UIC2151-06-00 cleared
+[INFO|test.py] 2020-11-12 13:20:32,928 > UIC2151-07-00 cleared
+[INFO|test.py] 2020-11-12 13:20:34,986 > UIC2151-08-00 cleared
+[INFO|test.py] 2020-11-12 13:20:37,079 > YCA1101-09-00 cleared
+[INFO|test.py] 2020-11-12 13:20:39,135 > YCA1101-10-00 cleared
+[INFO|test.py] 2020-11-12 13:20:41,197 > YCA1102-10-00 cleared
+[INFO|test.py] 2020-11-12 13:20:43,265 > YCA1102-11-00 cleared
+[INFO|test.py] 2020-11-12 13:20:45,329 > YCA1103-05-00 cleared
+[INFO|test.py] 2020-11-12 13:20:47,400 > YCA1103-06-00 cleared
+[INFO|test.py] 2020-11-12 13:20:49,461 > BIO1002-02-01 cleared
+[INFO|test.py] 2020-11-12 13:20:51,515 > BIO1002-02-02 cleared
+[INFO|test.py] 2020-11-12 13:20:53,570 > BIO1002-03-01 cleared
+[INFO|test.py] 2020-11-12 13:20:55,620 > BIO1002-03-02 cleared
+[INFO|test.py] 2020-11-12 13:20:57,676 > CHE1002-10-01 cleared
+[INFO|test.py] 2020-11-12 13:20:59,247 > 15 rows in 76-90 of 100
+[INFO|test.py] 2020-11-12 13:21:01,302 > CHE1002-10-02 cleared
+[INFO|test.py] 2020-11-12 13:21:03,357 > CHE1002-11-01 cleared
+[INFO|test.py] 2020-11-12 13:21:05,411 > CHE1002-11-02 cleared
+[INFO|test.py] 2020-11-12 13:21:07,479 > ECO1001-06-00 cleared
+[INFO|test.py] 2020-11-12 13:21:09,534 > ECO1001-07-00 cleared
+[INFO|test.py] 2020-11-12 13:21:11,591 > MAT1002-07-01 cleared
+[INFO|test.py] 2020-11-12 13:21:13,645 > MAT1002-08-01 cleared
+[INFO|test.py] 2020-11-12 13:21:15,703 > PHY1002-07-01 cleared
+[INFO|test.py] 2020-11-12 13:21:17,759 > PHY1002-07-02 cleared
+[INFO|test.py] 2020-11-12 13:21:19,809 > PHY1002-08-01 cleared
+[INFO|test.py] 2020-11-12 13:21:21,882 > POL1003-01-00 cleared
+[INFO|test.py] 2020-11-12 13:21:23,950 > ASP2007-01-00 cleared
+[INFO|test.py] 2020-11-12 13:21:26,010 > UIC2302-02-00 cleared
+[INFO|test.py] 2020-11-12 13:21:28,069 > UIC2307-01-00 cleared
+[INFO|test.py] 2020-11-12 13:21:29,635 > 10 rows in 91-100 of 100
+[INFO|test.py] 2020-11-12 13:21:31,694 > UIC2310-02-00 cleared
+[INFO|test.py] 2020-11-12 13:21:33,758 > UIC3622-01-00 cleared
+[INFO|test.py] 2020-11-12 13:21:45,851 > UIC2002-01-00 cleared
+[INFO|test.py] 2020-11-12 13:21:47,931 > ASP3026-01-00 cleared
+[INFO|test.py] 2020-11-12 13:21:50,007 > UIC3517-01-00 cleared
+[INFO|test.py] 2020-11-12 13:21:52,070 > UIC3563-02-00 cleared
+[INFO|test.py] 2020-11-12 13:21:54,143 > UIC3582-01-00 cleared
+[INFO|test.py] 2020-11-12 13:21:56,214 > UIC3634-01-00 cleared
+[INFO|test.py] 2020-11-12 13:21:58,277 > UIC3647-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:00,349 > UIC3649-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:01,404 > 공통교과과정(국제) 탐색 완료
+[INFO|test.py] 2020-11-12 13:22:01,405 > 20202-언더우드국제대학-언더우드학부(인문사회)-비교문학과문화 수집 시작
+[INFO|test.py] 2020-11-12 13:22:02,040 > 12 rows in 1-12 of 12
+[INFO|test.py] 2020-11-12 13:22:02,067 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:22:02,584 > 12 rows in 1-12 of 12
+[INFO|test.py] 2020-11-12 13:22:04,663 > CLC2721-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:06,731 > CLC2111-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:08,804 > CLC2112-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:10,880 > CLC3101-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:12,953 > CLC3108-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:15,030 > CLC3720-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:17,091 > CLC3723-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:19,235 > CLC4711-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:21,303 > CLC4719-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:22,325 > 언더우드학부(인문사회)-비교문학과문화 탐색 완료
+[INFO|test.py] 2020-11-12 13:22:22,325 > 20202-언더우드국제대학-언더우드학부(인문사회)-경제학 수집 시작
+[INFO|test.py] 2020-11-12 13:22:22,947 > 15 rows in 1-15 of 35
+[INFO|test.py] 2020-11-12 13:22:22,972 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:22:23,488 > 15 rows in 1-15 of 35
+[INFO|test.py] 2020-11-12 13:22:25,438 > 15 rows in 16-30 of 35
+[INFO|test.py] 2020-11-12 13:22:27,554 > STA1001-04-01 cleared
+[INFO|test.py] 2020-11-12 13:22:29,634 > STA1001-04-02 cleared
+[INFO|test.py] 2020-11-12 13:22:31,695 > STA1001-12-01 cleared
+[INFO|test.py] 2020-11-12 13:22:33,755 > STA1001-12-02 cleared
+[INFO|test.py] 2020-11-12 13:22:35,495 > 5 rows in 31-35 of 35
+[INFO|test.py] 2020-11-12 13:22:36,648 > 언더우드학부(인문사회)-경제학 탐색 완료
+[INFO|test.py] 2020-11-12 13:22:36,648 > 20202-언더우드국제대학-언더우드학부(인문사회)-국제학 수집 시작
+[INFO|test.py] 2020-11-12 13:22:37,274 > 15 rows in 1-15 of 23
+[INFO|test.py] 2020-11-12 13:22:37,304 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:22:37,821 > 15 rows in 1-15 of 23
+[INFO|test.py] 2020-11-12 13:22:39,910 > ISM1001-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:41,972 > ISM2003-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:44,053 > ISM2105-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:46,130 > ISM2106-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:48,215 > ISM2110-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:50,294 > ISM4517-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:52,407 > JCL2010-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:54,480 > ISM3105-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:56,550 > ISM3109-01-00 cleared
+[INFO|test.py] 2020-11-12 13:22:58,626 > ISM3111-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:00,689 > ISM3503-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:02,768 > ISM3506-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:04,843 > ISM3509-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:06,910 > ISM3510-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:08,996 > ISM3523-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:10,571 > 8 rows in 16-23 of 23
+[INFO|test.py] 2020-11-12 13:23:12,643 > ISM3527-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:14,711 > JCL3004-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:16,801 > SDC3007-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:18,881 > ISM3528-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:20,976 > ISM3529-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:23,028 > ISM4515-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:25,078 > ISM4506-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:27,132 > ISM4508-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:28,169 > 언더우드학부(인문사회)-국제학 탐색 완료
+[INFO|test.py] 2020-11-12 13:23:28,169 > 20202-언더우드국제대학-언더우드학부(인문사회)-정치외교학 수집 시작
+[INFO|test.py] 2020-11-12 13:23:28,802 > 15 rows in 1-15 of 25
+[INFO|test.py] 2020-11-12 13:23:28,831 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:23:29,348 > 15 rows in 1-15 of 25
+[INFO|test.py] 2020-11-12 13:23:31,511 > POL2210-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:33,816 > POL3870-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:35,410 > 10 rows in 16-25 of 25
+[INFO|test.py] 2020-11-12 13:23:37,477 > POL3010-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:39,601 > POL3849-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:41,663 > POL3853-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:42,792 > 언더우드학부(인문사회)-정치외교학 탐색 완료
+[INFO|test.py] 2020-11-12 13:23:42,793 > 20202-언더우드국제대학-언더우드학부(공학)-생명과학공학 수집 시작
+[INFO|test.py] 2020-11-12 13:23:43,415 > 11 rows in 1-11 of 11
+[INFO|test.py] 2020-11-12 13:23:43,443 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:23:43,959 > 11 rows in 1-11 of 11
+[INFO|test.py] 2020-11-12 13:23:46,056 > LSB3101-03-00 cleared
+[INFO|test.py] 2020-11-12 13:23:48,122 > UIC2003-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:50,213 > LST3103-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:52,279 > LST3104-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:54,342 > LST3202-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:56,452 > BTE3608-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:58,540 > LST4002-01-00 cleared
+[INFO|test.py] 2020-11-12 13:23:59,568 > 언더우드학부(공학)-생명과학공학 탐색 완료
+[INFO|test.py] 2020-11-12 13:23:59,568 > 20202-언더우드국제대학-아시아학부-아시아학 수집 시작
+[INFO|test.py] 2020-11-12 13:24:00,202 > 11 rows in 1-11 of 11
+[INFO|test.py] 2020-11-12 13:24:00,231 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:24:00,749 > 11 rows in 1-11 of 11
+[INFO|test.py] 2020-11-12 13:24:02,818 > ASP2001-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:04,918 > ASP2021-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:06,979 > ASP2022-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:09,049 > ASP2024-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:11,118 > ASP2029-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:13,182 > ASP2033-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:15,253 > ASP3024-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:16,354 > 아시아학부-아시아학 탐색 완료
+[INFO|test.py] 2020-11-12 13:24:16,355 > 20202-언더우드국제대학-테크노아트학부-정보·인터랙션디자인 수집 시작
+[INFO|test.py] 2020-11-12 13:24:16,965 > 15 rows in 1-15 of 17
+[INFO|test.py] 2020-11-12 13:24:16,994 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:24:17,511 > 15 rows in 1-15 of 17
+[INFO|test.py] 2020-11-12 13:24:19,572 > IID1001-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:21,637 > IID1002-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:23,697 > IID2018-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:25,765 > IID2005-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:27,838 > IID2013-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:29,917 > IID2019-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:32,000 > CDM3009-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:34,079 > CTM3015-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:36,148 > IID3005-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:38,229 > IID3008-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:40,308 > IID3013-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:42,384 > IID3017-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:44,451 > IID3021-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:46,536 > CDM4010-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:48,599 > IID4004-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:50,164 > 2 rows in 16-17 of 17
+[INFO|test.py] 2020-11-12 13:24:52,231 > IID4004-02-00 cleared
+[INFO|test.py] 2020-11-12 13:24:54,291 > IID4006-01-00 cleared
+[INFO|test.py] 2020-11-12 13:24:55,325 > 테크노아트학부-정보·인터랙션디자인 탐색 완료
+[INFO|test.py] 2020-11-12 13:24:55,325 > 20202-언더우드국제대학-테크노아트학부-창의기술경영 수집 시작
+[INFO|test.py] 2020-11-12 13:24:55,959 > 15 rows in 1-15 of 16
+[INFO|test.py] 2020-11-12 13:24:55,989 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:24:56,505 > 15 rows in 1-15 of 16
+[INFO|test.py] 2020-11-12 13:24:58,569 > CTM1001-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:00,646 > CTM1002-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:02,718 > CTM2002-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:04,800 > CTM2009-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:06,883 > CTM2011-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:08,948 > CTM2012-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:11,027 > CTM2017-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:13,109 > CTM2018-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:15,200 > CTM3006-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:17,300 > CTM3019-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:19,388 > STP3007-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:21,450 > CTM4001-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:23,015 > 1 rows in 16-16 of 16
+[INFO|test.py] 2020-11-12 13:25:25,096 > CTM4004-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:26,124 > 테크노아트학부-창의기술경영 탐색 완료
+[INFO|test.py] 2020-11-12 13:25:26,125 > 20202-언더우드국제대학-테크노아트학부-문화디자인경영 수집 시작
+[INFO|test.py] 2020-11-12 13:25:26,756 > 13 rows in 1-13 of 13
+[INFO|test.py] 2020-11-12 13:25:26,788 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:25:27,305 > 13 rows in 1-13 of 13
+[INFO|test.py] 2020-11-12 13:25:29,380 > CDM1003-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:31,447 > CDM2005-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:33,524 > CDM2006-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:35,596 > CDM2008-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:37,662 > CDM2009-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:39,759 > CDM3007-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:41,846 > CDM3010-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:43,923 > CDM3012-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:45,990 > CDM4008-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:48,068 > CDM4009-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:49,117 > 테크노아트학부-문화디자인경영 탐색 완료
+[INFO|test.py] 2020-11-12 13:25:49,117 > 20202-언더우드국제대학-융합사회과학부-사회정의리더십 수집 시작
+[INFO|test.py] 2020-11-12 13:25:49,707 > 12 rows in 1-12 of 12
+[INFO|test.py] 2020-11-12 13:25:49,733 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:25:50,250 > 12 rows in 1-12 of 12
+[INFO|test.py] 2020-11-12 13:25:52,313 > JCL1002-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:54,405 > JCL2005-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:56,504 > JCL2013-01-00 cleared
+[INFO|test.py] 2020-11-12 13:25:58,570 > JCL2014-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:00,663 > JCL3003-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:02,752 > JCL3109-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:04,825 > JCL3111-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:06,886 > JCL4008-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:07,913 > 융합사회과학부-사회정의리더십 탐색 완료
+[INFO|test.py] 2020-11-12 13:26:07,913 > 20202-언더우드국제대학-융합사회과학부-계량위험관리 수집 시작
+[INFO|test.py] 2020-11-12 13:26:08,548 > 15 rows in 1-15 of 36
+[INFO|test.py] 2020-11-12 13:26:08,576 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:26:09,094 > 15 rows in 1-15 of 36
+[INFO|test.py] 2020-11-12 13:26:11,178 > QRM1001-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:13,596 > QRM2001-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:15,163 > 15 rows in 16-30 of 36
+[INFO|test.py] 2020-11-12 13:26:17,056 > 6 rows in 31-36 of 36
+[INFO|test.py] 2020-11-12 13:26:18,232 > 융합사회과학부-계량위험관리 탐색 완료
+[INFO|test.py] 2020-11-12 13:26:18,233 > 20202-언더우드국제대학-융합사회과학부-과학기술정책 수집 시작
+[INFO|test.py] 2020-11-12 13:26:18,868 > 15 rows in 1-15 of 15
+[INFO|test.py] 2020-11-12 13:26:18,895 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:26:19,412 > 15 rows in 1-15 of 15
+[INFO|test.py] 2020-11-12 13:26:21,560 > STP2003-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:23,638 > STP2006-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:25,804 > STP3010-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:27,869 > SDC4002-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:29,926 > STP4005-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:31,987 > STP4008-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:34,048 > STP4009-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:36,113 > STP4010-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:37,141 > 융합사회과학부-과학기술정책 탐색 완료
+[INFO|test.py] 2020-11-12 13:26:37,141 > 20202-언더우드국제대학-융합사회과학부-지속개발협력 수집 시작
+[INFO|test.py] 2020-11-12 13:26:37,772 > 9 rows in 1-9 of 9
+[INFO|test.py] 2020-11-12 13:26:37,801 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:26:38,320 > 9 rows in 1-9 of 9
+[INFO|test.py] 2020-11-12 13:26:40,393 > SDC1002-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:42,573 > SDC3004-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:44,669 > SDC3008-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:45,719 > 융합사회과학부-지속개발협력 탐색 완료
+[INFO|test.py] 2020-11-12 13:26:45,720 > 20202-언더우드국제대학-융합과학공학부-나노과학공학 수집 시작
+[INFO|test.py] 2020-11-12 13:26:46,309 > 15 rows in 1-15 of 26
+[INFO|test.py] 2020-11-12 13:26:46,335 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:26:46,851 > 15 rows in 1-15 of 26
+[INFO|test.py] 2020-11-12 13:26:48,908 > ESE2002-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:50,966 > MAT2017-12-00 cleared
+[INFO|test.py] 2020-11-12 13:26:53,060 > NSE2003-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:55,142 > SED2004-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:57,206 > SED2005-01-00 cleared
+[INFO|test.py] 2020-11-12 13:26:59,269 > SED2005-02-00 cleared
+[INFO|test.py] 2020-11-12 13:27:01,332 > SED3004-01-00 cleared
+[INFO|test.py] 2020-11-12 13:27:03,468 > UIC2003-02-00 cleared
+[INFO|test.py] 2020-11-12 13:27:05,552 > ESE3001-01-00 cleared
+[INFO|test.py] 2020-11-12 13:27:07,616 > ESE3007-01-00 cleared
+[INFO|test.py] 2020-11-12 13:27:09,704 > NSE2002-01-00 cleared
+[INFO|test.py] 2020-11-12 13:27:11,777 > NSE3010-01-00 cleared
+[INFO|test.py] 2020-11-12 13:27:13,841 > NSE3011-01-00 cleared
+[INFO|test.py] 2020-11-12 13:27:15,423 > 11 rows in 16-26 of 26
+[INFO|test.py] 2020-11-12 13:27:17,511 > SED3001-01-00 cleared
+[INFO|test.py] 2020-11-12 13:27:19,577 > SED3007-01-00 cleared
+[INFO|test.py] 2020-11-12 13:27:21,642 > SED3008-01-00 cleared
+[INFO|test.py] 2020-11-12 13:27:23,786 > NSE4004-01-00 cleared
+[INFO|test.py] 2020-11-12 13:27:35,856 > NSE4006-01-00 cleared
+[INFO|test.py] 2020-11-12 13:27:37,931 > SED3003-01-00 cleared
+[INFO|test.py] 2020-11-12 13:27:39,996 > SED4001-01-00 cleared
+[INFO|test.py] 2020-11-12 13:27:42,078 > SED4002-01-00 cleared
+[INFO|test.py] 2020-11-12 13:27:43,121 > 융합과학공학부-나노과학공학 탐색 완료
+[INFO|test.py] 2020-11-12 13:27:43,121 > 20202-언더우드국제대학-융합과학공학부-에너지환경융합 수집 시작
+[INFO|test.py] 2020-11-12 13:27:43,754 > 15 rows in 1-15 of 26
+[INFO|test.py] 2020-11-12 13:27:43,784 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:27:44,302 > 15 rows in 1-15 of 26
+[INFO|test.py] 2020-11-12 13:27:46,642 > ESE3004-01-00 cleared
+[INFO|test.py] 2020-11-12 13:27:48,711 > ESE3005-01-00 cleared
+[INFO|test.py] 2020-11-12 13:27:50,778 > ESE3006-01-00 cleared
+[INFO|test.py] 2020-11-12 13:27:52,374 > 11 rows in 16-26 of 26
+[INFO|test.py] 2020-11-12 13:28:03,729 > 융합과학공학부-에너지환경융합 탐색 완료
+[INFO|test.py] 2020-11-12 13:28:03,729 > 20202-언더우드국제대학-융합과학공학부-바이오융합 수집 시작
+[INFO|test.py] 2020-11-12 13:28:04,359 > 15 rows in 1-15 of 21
+[INFO|test.py] 2020-11-12 13:28:04,390 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:28:04,912 > 15 rows in 1-15 of 21
+[INFO|test.py] 2020-11-12 13:28:07,142 > UBC2003-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:09,226 > UBC2005-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:11,414 > UBC3005-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:13,479 > UBC3006-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:15,034 > 6 rows in 16-21 of 21
+[INFO|test.py] 2020-11-12 13:28:17,183 > UBC4001-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:19,265 > UBC4004-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:20,299 > 융합과학공학부-바이오융합 탐색 완료
+[INFO|test.py] 2020-11-12 13:28:20,300 > 언더우드국제대학 수집 완료
+[INFO|test.py] 2020-11-12 13:28:20,300 > 20202-약학대학-약학전공 수집 시작
+[INFO|test.py] 2020-11-12 13:28:20,931 > 15 rows in 1-15 of 29
+[INFO|test.py] 2020-11-12 13:28:20,959 > 유의사항 기준 탐색 완료
+[INFO|test.py] 2020-11-12 13:28:21,475 > 15 rows in 1-15 of 29
+[INFO|test.py] 2020-11-12 13:28:23,556 > PHM3006-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:25,644 > PHM3008-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:27,700 > PHM3009-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:29,805 > PHM3015-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:31,869 > PHM3104-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:33,953 > PHM3023-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:36,037 > PHM3024-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:38,118 > PHM3025-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:40,202 > PHM3027-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:42,283 > PHM3028-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:44,370 > PHM3029-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:45,965 > 14 rows in 16-29 of 29
+[INFO|test.py] 2020-11-12 13:28:48,044 > PHM3026-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:50,116 > PHM3054-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:52,200 > PHM4130-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:54,265 > PHM4100-01-00 cleared
+[INFO|test.py] 2020-11-12 13:28:56,332 > PHM4100-02-00 cleared
+[INFO|test.py] 2020-11-12 13:28:58,412 > PHM4110-01-00 cleared
+[INFO|test.py] 2020-11-12 13:29:00,481 > PHM4110-02-00 cleared
+[INFO|test.py] 2020-11-12 13:29:02,555 > PHM4120-01-00 cleared
+[INFO|test.py] 2020-11-12 13:29:04,635 > PHM4320-01-00 cleared
+[INFO|test.py] 2020-11-12 13:29:06,704 > PHM3032-01-00 cleared
+[INFO|test.py] 2020-11-12 13:29:08,772 > PHM3058-01-00 cleared
+[INFO|test.py] 2020-11-12 13:29:10,834 > PHM3105-01-00 cleared
+[INFO|test.py] 2020-11-12 13:29:12,901 > PHM3049-01-00 cleared
+[INFO|test.py] 2020-11-12 13:29:24,975 > PHM3050-01-00 cleared
+[INFO|test.py] 2020-11-12 13:29:26,033 > 약학전공 탐색 완료
+[INFO|test.py] 2020-11-12 13:29:26,034 > 약학대학 수집 완료
+[INFO|test.py] 2020-11-12 13:29:26,035 > FINISHED_LECT_OBJs에 약학대학 전부 등록 완료

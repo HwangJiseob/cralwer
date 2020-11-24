@@ -1,0 +1,328 @@
+[INFO|CRAWLER.py] 2020-11-16 11:57:26,281 > 작업완료된 강의 객체 목록 다운로드 시작
+[INFO|CRAWLER.py] 2020-11-16 11:57:30,378 > 작업완료된 강의 객체 목록 다운로드 완료
+[INFO|CRAWLER.py] 2020-11-16 11:57:33,844 > 20192-문과대학-문과대학 공통 수집 시작
+[INFO|CRAWLER.py] 2020-11-16 11:57:34,483 > 7 rows in 1-7 of 7
+[INFO|CRAWLER.py] 2020-11-16 11:57:34,518 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 11:57:35,039 > 7 rows in 1-7 of 7
+[INFO|CRAWLER.py] 2020-11-16 11:57:37,097 > TTP3829-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:57:39,176 > HUM2037-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:57:41,243 > HUM2038-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:57:43,316 > HUM2039-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:57:45,376 > HUM2040-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:57:47,456 > HUM3001-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:57:49,543 > HUM3006-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:57:51,567 > 문과대학 공통 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 11:57:51,568 > 20192-문과대학-국어국문학전공 수집 시작
+[INFO|CRAWLER.py] 2020-11-16 11:57:52,179 > 15 rows in 1-15 of 34
+[INFO|CRAWLER.py] 2020-11-16 11:57:52,205 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 11:57:52,723 > 15 rows in 1-15 of 34
+[INFO|CRAWLER.py] 2020-11-16 11:57:54,787 > KOR1001-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:57:56,878 > KOR1101-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:57:58,957 > KOR1102-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:01,039 > KOR1106-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:03,096 > KOR2002-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:05,149 > KOR2002-02-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:07,216 > KOR2002-03-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:19,843 > KOR2002-05-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:21,951 > KOR2301-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:24,049 > KOR2308-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:26,121 > KOR2309-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:28,208 > KOR2312-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:30,286 > KOR3301-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:32,874 > 15 rows in 16-30 of 34
+[INFO|CRAWLER.py] 2020-11-16 11:58:34,929 > KOR3302-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:37,019 > KOR3310-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:39,084 > KOR3313-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:41,149 > KOR3316-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:43,220 > KOR3402-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:45,300 > KOR3409-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:47,376 > KOR3412-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:49,458 > KOR3512-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:51,544 > KOR3515-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:53,603 > KOR3516-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:55,688 > KOR3518-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:57,744 > KOR3528-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:58:59,811 > KOR3532-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:01,888 > KOR3535-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:03,943 > KOR4406-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:06,491 > 4 rows in 31-34 of 34
+[INFO|CRAWLER.py] 2020-11-16 11:59:08,556 > KOR4409-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:10,622 > KOR4410-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:12,683 > KOR4508-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:14,737 > TTP3801-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:16,781 > 국어국문학전공 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 11:59:16,782 > 20192-문과대학-사학전공 수집 시작
+[INFO|CRAWLER.py] 2020-11-16 11:59:17,413 > 15 rows in 1-15 of 24
+[INFO|CRAWLER.py] 2020-11-16 11:59:17,439 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 11:59:17,955 > 15 rows in 1-15 of 24
+[INFO|CRAWLER.py] 2020-11-16 11:59:20,005 > HIS2702-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:22,098 > HIS2101-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:24,174 > HIS2701-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:26,248 > HIS2003-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:28,304 > HIS2004-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:30,378 > HIS2713-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:32,443 > HIS2715-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:34,519 > HIS2716-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:36,590 > HIS3103-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:38,660 > HIS3107-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:40,734 > HIS3109-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:42,790 > HIS3125-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:44,865 > HIS3126-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:46,942 > HIS3405-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:49,028 > HIS3406-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:51,604 > 9 rows in 16-24 of 24
+[INFO|CRAWLER.py] 2020-11-16 11:59:53,674 > HIS3423-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:55,748 > HIS3427-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:57,811 > HIS3428-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 11:59:59,901 > HIS3707-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:01,971 > HIS3716-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:04,042 > HIS3724-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:06,111 > HIS3737-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:08,182 > HIS4104-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:10,249 > HIS4710-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:12,285 > 사학전공 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 12:00:12,285 > 20192-문과대학-철학전공 수집 시작
+[INFO|CRAWLER.py] 2020-11-16 12:00:12,914 > 15 rows in 1-15 of 19
+[INFO|CRAWLER.py] 2020-11-16 12:00:12,938 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 12:00:13,455 > 15 rows in 1-15 of 19
+[INFO|CRAWLER.py] 2020-11-16 12:00:15,539 > PHI1001-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:17,598 > PHI1002-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:19,669 > PHI2151-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:21,767 > PHI2259-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:23,848 > PHI2261-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:25,902 > PHI2002-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:27,965 > PHI2255-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:30,033 > PHI2257-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:32,101 > PHI2258-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:34,180 > PHI3281-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:36,265 > PHI3208-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:38,352 > PHI3269-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:40,416 > PHI3272-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:42,494 > PHI3273-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:44,563 > PHI3276-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:47,131 > 4 rows in 16-19 of 19
+[INFO|CRAWLER.py] 2020-11-16 12:00:49,199 > PHI4256-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:51,278 > PHI4265-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:53,347 > PHI4268-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:55,400 > TTP3822-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:00:57,432 > 철학전공 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 12:00:57,433 > 20192-문과대학-문헌정보학전공 수집 시작
+[INFO|CRAWLER.py] 2020-11-16 12:00:58,063 > 15 rows in 1-15 of 15
+[INFO|CRAWLER.py] 2020-11-16 12:00:58,090 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 12:00:58,605 > 15 rows in 1-15 of 15
+[INFO|CRAWLER.py] 2020-11-16 12:01:00,702 > LIS1102-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:02,759 > LIS2001-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:15,319 > LIS2601-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:17,381 > LIS2805-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:19,448 > LIS2806-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:21,525 > LIS3304-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:23,592 > LIS3605-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:25,662 > LIS3612-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:27,733 > LIS3806-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:29,796 > LIS3814-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:31,854 > LIS4302-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:33,933 > LIS4701-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:36,007 > LIS4703-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:38,088 > LIS4704-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:40,162 > LIS4801-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:42,186 > 문헌정보학전공 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 12:01:42,186 > 20192-문과대학-심리학전공 수집 시작
+[INFO|CRAWLER.py] 2020-11-16 12:01:42,810 > 15 rows in 1-15 of 24
+[INFO|CRAWLER.py] 2020-11-16 12:01:42,840 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 12:01:43,359 > 15 rows in 1-15 of 24
+[INFO|CRAWLER.py] 2020-11-16 12:01:45,422 > PSY4125-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:47,544 > PSY2103-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:49,607 > PSY2104-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:01:51,682 > PSY2104-02-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:04,242 > PSY2104-03-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:16,851 > PSY2001-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:18,920 > PSY2002-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:20,975 > PSY2002-02-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:23,056 > PSY3122-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:25,128 > PSY3122-02-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:27,204 > PSY3103-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:29,308 > PSY3109-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:31,407 > PSY3111-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:33,509 > PSY3126-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:35,592 > PSY3133-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:38,174 > 9 rows in 16-24 of 24
+[INFO|CRAWLER.py] 2020-11-16 12:02:40,283 > PSY3159-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:42,372 > PSY3160-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:44,515 > PSY4121-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:46,602 > PSY4141-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:48,661 > PSY4132-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:50,733 > PSY4115-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:52,801 > PSY4130-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:54,853 > PSY4136-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:56,907 > PSY4146-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:02:58,943 > 심리학전공 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 12:02:58,943 > 20192-문과대학-중어중문학전공 수집 시작
+[INFO|CRAWLER.py] 2020-11-16 12:02:59,573 > 15 rows in 1-15 of 21
+[INFO|CRAWLER.py] 2020-11-16 12:02:59,598 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 12:03:00,114 > 15 rows in 1-15 of 21
+[INFO|CRAWLER.py] 2020-11-16 12:03:02,169 > CLL2101-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:04,222 > CLL2101-02-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:06,281 > CLL2306-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:18,841 > CLL2401-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:20,919 > CLL2603-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:22,997 > CLL3302-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:25,092 > CLL3302-02-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:27,155 > CLL3406-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:29,216 > CLL3409-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:31,283 > CLL3410-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:33,358 > CLL3502-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:35,417 > CLL3605-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:37,496 > CLL3607-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:39,579 > CLL3604-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:41,653 > CLL4301-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:44,223 > 6 rows in 16-21 of 21
+[INFO|CRAWLER.py] 2020-11-16 12:03:46,309 > CLL4304-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:48,407 > CLL4601-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:50,480 > CLL4604-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:52,544 > CLL4608-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:54,591 > TTP3802-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:03:56,623 > 중어중문학전공 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 12:03:56,623 > 20192-문과대학-영어영문학전공 수집 시작
+[INFO|CRAWLER.py] 2020-11-16 12:03:57,251 > 15 rows in 1-15 of 51
+[INFO|CRAWLER.py] 2020-11-16 12:03:57,276 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 12:03:57,791 > 15 rows in 1-15 of 51
+[INFO|CRAWLER.py] 2020-11-16 12:03:59,883 > ELL2101-02-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:01,952 > ELL2501-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:04,008 > ELL2001-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:06,058 > ELL2001-02-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:08,145 > ELL2001-03-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:10,226 > ELL2002-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:12,291 > ELL2002-02-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:14,349 > ELL2002-03-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:16,418 > ELL2002-04-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:18,494 > ELL2003-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:20,551 > ELL2003-02-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:22,620 > ELL2003-03-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:24,707 > ELL2004-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:26,769 > ELL2004-02-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:29,357 > 15 rows in 16-30 of 51
+[INFO|CRAWLER.py] 2020-11-16 12:04:31,411 > ELL2005-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:33,472 > ELL2005-02-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:35,528 > ELL2005-03-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:37,584 > ELL2005-04-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:39,640 > ELL2504-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:41,702 > ELL2601-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:43,791 > ELL3701-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:45,852 > ELL3103-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:47,912 > ELL3302-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:49,969 > ELL3306-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:52,042 > ELL3706-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:54,108 > ELL3707-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:56,188 > ELL3802-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:04:58,290 > ELL3916-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:00,359 > ELL4305-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:02,922 > 15 rows in 31-45 of 51
+[INFO|CRAWLER.py] 2020-11-16 12:05:05,003 > ELL3909-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:07,072 > ELL3912-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:09,129 > ELL3913-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:11,185 > ELL3914-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:13,257 > ELL3918-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:15,339 > ELL3920-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:17,388 > ELL3921-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:19,467 > ELL3923-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:21,529 > ELL3926-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:23,597 > ELL4302-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:25,672 > ELL4911-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:27,763 > ELL4913-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:29,824 > ELL4914-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:31,899 > ELL3402-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:33,973 > ELL3603-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:36,541 > 6 rows in 46-51 of 51
+[INFO|CRAWLER.py] 2020-11-16 12:05:38,622 > ELL4301-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:40,697 > ELL4904-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:42,771 > ELL4910-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:44,830 > ELL4912-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:46,885 > ELL4915-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:48,942 > TTP3803-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:50,985 > 영어영문학전공 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 12:05:50,985 > 20192-문과대학-독어독문학전공 수집 시작
+[INFO|CRAWLER.py] 2020-11-16 12:05:51,617 > 15 rows in 1-15 of 15
+[INFO|CRAWLER.py] 2020-11-16 12:05:51,642 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 12:05:52,157 > 15 rows in 1-15 of 15
+[INFO|CRAWLER.py] 2020-11-16 12:05:54,223 > GER2115-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:56,287 > GER2115-02-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:05:58,367 > GER3139-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:06:00,442 > GER3140-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:06:02,502 > GER2109-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:06:04,560 > GER2112-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:06:06,620 > GER3138-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:06:08,675 > GER3138-02-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:06:21,231 > GER3110-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:06:23,293 > GER3113-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:06:25,350 > GER3121-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:06:27,422 > GER3127-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:06:29,484 > GER3129-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:06:31,535 > GER4117-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:06:33,590 > GER4118-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:06:35,616 > 독어독문학전공 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 12:06:35,617 > 20192-문과대학-불어불문학전공 수집 시작
+[INFO|CRAWLER.py] 2020-11-16 12:06:36,239 > 15 rows in 1-15 of 16
+[INFO|CRAWLER.py] 2020-11-16 12:06:36,265 > 유의사항 기준 탐색 완료
+[INFO|CRAWLER.py] 2020-11-16 12:06:36,782 > 15 rows in 1-15 of 16
+[INFO|CRAWLER.py] 2020-11-16 12:06:38,857 > FRE2102-01-00 cleared
+[INFO|CRAWLER.py] 2020-11-16 12:06:59,879 > Traceback (most recent call last):
+  File "C:\Python38\lib\site-packages\urllib3\connection.py", line 159, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Python38\lib\site-packages\urllib3\util\connection.py", line 84, in create_connection
+    raise err
+  File "C:\Python38\lib\site-packages\urllib3\util\connection.py", line 74, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] 연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python38\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Python38\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Python38\lib\http\client.py", line 1255, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Python38\lib\http\client.py", line 1301, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Python38\lib\http\client.py", line 1250, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Python38\lib\http\client.py", line 1010, in _send_output
+    self.send(msg)
+  File "C:\Python38\lib\http\client.py", line 950, in send
+    self.connect()
+  File "C:\Python38\lib\site-packages\urllib3\connection.py", line 187, in connect
+    conn = self._new_conn()
+  File "C:\Python38\lib\site-packages\urllib3\connection.py", line 171, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x00000216B7A92640>: Failed to establish a new connection: [WinError 10060] 연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python38\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Python38\lib\site-packages\urllib3\connectionpool.py", line 726, in urlopen
+    retries = retries.increment(
+  File "C:\Python38\lib\site-packages\urllib3\util\retry.py", line 439, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='ysweb.yonsei.ac.kr', port=8888): Max retries exceeded with url: /curri120601/curri_pop_mileage_result01.jsp (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000216B7A92640>: Failed to establish a new connection: [WinError 10060] 연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:/Users/user/Desktop/ToyProject/YonseiTotto/DataCleanser/CRAWLER.py", line 391, in <module>
+    req = requests.get(RESULT_URL, headers=HEADERS, data=data) # json=data로 할 때는 왜 안 될까.
+  File "C:\Python38\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Python38\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Python38\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Python38\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Python38\lib\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='ysweb.yonsei.ac.kr', port=8888): Max retries exceeded with url: /curri120601/curri_pop_mileage_result01.jsp (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000216B7A92640>: Failed to establish a new connection: [WinError 10060] 연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다'))
+
+[INFO|CRAWLER.py] 2020-11-16 12:06:59,900 > FINISHED_LECT_OBJs에 20192-ALL 전부 등록 완료
