@@ -820,6 +820,14 @@
         "수강여부": "O",
         "비고": "*교환학생"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Business dynamics : systems thinking and modeling for a complex world/Sterman, John/Irwin/McGraw-Hill/2000",
+        "\r○ Business model generation : a handbook for visionaries game changers, and challengers/Osterwalder, Alexander/Wiley/2010",
+        "\r○ Winston, W. (2016). Microsoft excel 2016: data analysis and business modeling. WA: Microsoft, 5th ed.",
+        "\r○ Chernev, A. (2017). The business model: how to develop new products, create market value and make the competition irrelevant. Chicago, IL: Cerebellum Press, Inc."
+      ]
+    }
   }
 }

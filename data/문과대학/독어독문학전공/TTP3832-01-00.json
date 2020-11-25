@@ -99,6 +99,21 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. 게르하르트 노이너/한스 훈펠트 (이광숙, 이성만 옳김), 외국어로서의 독일\r",
+        "어 교수 방법론. 한국 문화사. \r",
+        "2. 언어학습, 교수, 평가를 위한 유럽공통참조기준, 한국문화사, 2007.\r",
+        "  ( Gemeinsamer europaeischer Referenzrahmen fuer Sprache: lernen, lehren, \r",
+        "beurteilen, Langenscheidt, 2001)\r",
+        "3.Profile deutsch, Langenscheidt, 2005.\r",
+        "4.Ulrich Häussermann/Hans-Eberhard Piepho : Aufgaben-Handbuch. Deutsch als \r",
+        "Fremdsprache. Abriß einer Aufgaben- und Übungstypologie. München:Iudicium 1996.\r",
+        "5. Annelie Knapp-Potthoff/Karlfried Knapp: Fremdsprachenlernen und -lehren. \r",
+        "Eine Einführung in die Didaktik der Fremdsprachen vom Standpunkt der \r",
+        "Zweitsprachenerwerbsforschung. Stuttgart/Berlin/Köln/Mainz 1982."
+      ]
+    }
   }
 }

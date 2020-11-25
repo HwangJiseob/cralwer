@@ -561,7 +561,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Istoriia russkogo literaturnogo iazyka/Vinokur, G. O. (Grigorii Osipovich)/Knizhnyi dom \"Librokom\"/2010",
+        "\r○ A linguistic history of Russia to the end of the eighteenth century/Vlasto, A. P/Clarendon Press ; Oxford University Press,/1986",
+        "\r○ How Russian came to be the way it is : a student's guide to the history of the Russian language/Nesset, Tore/Slavica Publishers/2015",
+        "\r○ 주요 자료는 핸드아웃 또는 YSCEC 업로드 예정"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

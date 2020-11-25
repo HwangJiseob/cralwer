@@ -674,7 +674,22 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 문화와 폭발/Lotman, IU. M. (IUrii Mikhailovich)/아카넷/2014",
+        "\r○ 말의 미학/Bakhtin, Mikhail/길/2006",
+        "\r○ M. 바흐찐 도스또예프스끼 창작론/Bakhtin, M. M. (Mikhail Mikhailovich)/중앙대학교 출판부/2003",
+        "\r○ 러시아 형식주의 : 문학의 이론/Todorov, Tzvetan/이화여자대학교 출판부/1988",
+        "\r○ 전형성, 파토스, 현실성 : 벨린스키 문학비평선/Belinsky, Vissarion Grigoryevich/한길사/2003",
+        "\r○ 소설구성의 시학/Uspenskii, Boris Andreevich/현대소설사/1992",
+        "\r○ 러시아 文學批評史/Stacy, R. H/한길사/1987",
+        "\r○ 바흐친 : 미하일 바흐친 전기/Clark, Katerina/문학세계사/1993",
+        "\r○ 바흐친의 산문학/Morson, Gary Saul/책세상/2006",
+        "\r○ 프랑수아 라블레의 작품과 중세 및 르네상스의 민중문화/Bakhtin, M. M. (Mikhail Mikhailovich)/아카넷/2001",
+        "\r○ 사유하는 구조 : 유리 로트만의 기호학 연구/김수환/문학과지성사/2011"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {

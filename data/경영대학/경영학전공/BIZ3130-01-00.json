@@ -1254,7 +1254,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "•C. Merle Crawford and C. Anthony Di Benedetto, New Products \r",
+        "Management, 11th ed. Irwin McGraw-Hill.  (10th or 9th Ed is also ok)."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

@@ -34,7 +34,20 @@ def refresh_finished_lects(TARGET_SEMESTER):
                     pass
     return FINISHED_LECTS
 
-
+def refresh_finished_syllabus(TARGET_SEMESTER):
+    FINISHED_LECTS = []
+    for dir_ocode1 in os.listdir('./data'):
+        for dir_ohakkwa in os.listdir(f'./data/{dir_ocode1}'):
+            for lect_file in os.listdir(f'./data/{dir_ocode1}/{dir_ohakkwa}'):
+                f = open(f'./data/{dir_ocode1}/{dir_ohakkwa}/{lect_file}', encoding="utf8")
+                data = json.load(f)
+                f.close()
+                if TARGET_SEMESTER in data:
+                    if 'SYLLABUS_DATA' in data[TARGET_SEMESTER]:
+                        FINISHED_LECTS.append(lect_file.replace('.json', ''))
+                else:
+                    pass
+    return FINISHED_LECTS
 
 
 

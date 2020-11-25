@@ -998,7 +998,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "La Semantique, Christian Touratier, Armand Colin, 2010\r",
+        "Approche de la linguistique, Veronique Schott-Bourget, Nathan Universite, 1994\r",
+        "100 Fiches pour comprendre la linguistique, G. Siouffi et D. Van Raemdonck, \r",
+        "Greal,1999"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

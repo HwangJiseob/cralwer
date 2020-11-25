@@ -1432,7 +1432,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "윤일희, 대기과학의 기본과 실습, 경북대학교출판부, 2006",
+        "Brock, Fred V., Meteorological Measurement Systems, Oxford University Press, 2001",
+        "대기관측 및 해석, 초급 예보관 훈련용 교재, http://www.kma.go.kr/down/e-learning/beginning/beginning_06.pdf"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

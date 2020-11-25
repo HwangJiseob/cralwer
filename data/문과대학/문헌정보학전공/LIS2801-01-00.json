@@ -1026,7 +1026,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Mon, L. M. (2015). Social media and library services. Chapel Hill, North Carolina: Morgan & Claypool Publishers.",
+        "",
+        "Farkas, M. G. (2007). Social software in libraries. Medford: Information Today.",
+        "",
+        "Casey, M. E., & Savastinuk, L. C. (2007). Library 2.0. Medford: Information Today.",
+        "",
+        "관련 최신 논문"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

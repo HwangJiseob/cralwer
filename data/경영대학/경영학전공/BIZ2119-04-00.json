@@ -4034,7 +4034,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Fundamentals of Corporate Finance (Asian Adaptation 2/E) / Stephen A. Ross|Randolph W. Westerfield|Bradford D. Jordan|Joseph Lim|Ruth Tan / McGraw-Hill / 2015 (주교재)",
+        "(Ross의) 재무관리 / Ross, Stephen A / McGraw-Hill Education Korea / 2013 (부교재)"
+      ]
+    }
   },
   "20182": {
     "CAUTION": {

@@ -774,7 +774,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교수자가 준비한 강의자료 활용",
+        "",
+        "참고문헌",
+        "Le fran?ais par les textes II (Presses universitaires de Grenoble).",
+        "Ecrire apprentissage de l'?criture pour adultes (CLE international).",
+        "Expression ?crite 3 (CLE international)."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

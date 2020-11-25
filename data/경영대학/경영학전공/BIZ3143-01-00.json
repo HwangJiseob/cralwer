@@ -5234,7 +5234,12 @@
         "수강여부": "O",
         "비고": "*교환학생"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Entrepreneurship/Bygrave, William D./John Wiley & Sons, Inc./2014 / 3rd ed"
+      ]
+    }
   },
   "20182": {
     "CAUTION": {

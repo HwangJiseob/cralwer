@@ -363,6 +363,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 마르틴 루터 : 한 인간의 운명/Febvre, Lucien Paul Victor/이른비/2016",
+        "\r○ ",
+        "잡지",
+        "",
+        "Der Spiegel 44-48, 2016. Spiegel-Serie I-V: 500 Jahre Revolutuion.",
+        "Der Spiegel Geschichte. Die Reformation. Hamburg 2015.",
+        "",
+        "단행본",
+        "A. Malessa: Hier stehe ich, es war ganz anders. Irrtuemer ueber Luther. 7.Aufl. Holzgerlingen 2017(2015).",
+        "M. Nieden (Hg.): Ketzer, Held und Prediger. Martin Luther im Gedaechtnis der Deutschen. Darmstadt 2017.",
+        "",
+        "영화",
+        "<카타리나 루터>(2017) ",
+        "<천국과 지옥 사이>(2017)"
+      ]
+    }
   }
 }

@@ -349,6 +349,32 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "[주교재]",
+        "Course Packet",
+        "[참고자료]",
+        "Global Circulation Project: http://humanities.exeter.ac.uk/english/research/projects/globalcirculation/",
+        "Literature Compass: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1741-4113/homepage/global_circulation_project.htm ",
+        "The Institute for World Literature (Dept. of Comparative Literature, Harvard Univ.): http://iwl.fas.harvard.edu/",
+        "Journal of World Literature: http://www.brill.com/products/journal/journal-world-literature",
+        "Postcolonial and World Literatures (Dept. of English Langauge and Literautre, Univ. of Oxford): http://www.press.jhu.edu/journals/modernismmodernity ",
+        "The World and the Postcolonial: http://www.cambridge.org/core/journals/european-review/article/world-and-the-postcolonial/8EDD75C925CFC5223C0DC825ED3C4B1F ",
+        "The Modernist Studies Association: http://msa.press.jhu.edu/index.html",
+        "Modernism/Modernity: http://www.press.jhu.edu/journals/modernismmodernity",
+        "Oxford Handbook of Global Modernisms: http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195338904.001.0001/oxfordhb-9780195338904  ",
+        "[도서관 전자자료]",
+        "Literature On-Line [http://lion.chadwyck.co.uk]",
+        "EBSCO E-Journal Service: [http://ejournals.ebsco.com/home.asp]",
+        "Project Muse: [http://muse.jhu.edu]",
+        "JSTOR: [http://www.jstor.org]",
+        "[학회]",
+        "한국비교문학회: http://www.kcla.org/",
+        "국제비교한국학회: http://www.iacks.org/",
+        "International Comparative Literature Association: http://www.ailc-icla.org/site/",
+        "Association for Asian Studies: http://www.asian-studies.org/"
+      ]
+    }
   }
 }

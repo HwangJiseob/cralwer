@@ -998,7 +998,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "참고문헌:",
+        "1. 김정훈, 금융수학(제2판), 교우사",
+        "2. J. Hull, Options, Futures and other Derivatives, Prentice Hall",
+        "3. Paul Wilmott on Quantitative Finance, Wiley",
+        "4. Bjork, Arbitrage Theory in Continuous Time, Oxford University Press",
+        "5. Brandimarte, Numerical Methods in Finance and Economics, Wiley"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

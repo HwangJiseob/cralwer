@@ -1586,7 +1586,18 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재:  ",
+        "D. J. Griffiths, \"Introduction to Quantum Mechanics\", Prentice Hall (1994)",
+        "   ",
+        "부교재: ",
+        "S. Gasiorowicz, \"Quantum Physics\", John Wiley & Sons",
+        "R. L. Liboff, \"Introductory Quantum Mechanics\", Addison-Wesley",
+        "R. P. Feynman, \"The Feynman Lectures in Physics\", Leighton and Sands"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

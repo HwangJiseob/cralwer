@@ -1040,7 +1040,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재:  Modern Molecular Photochemistry (Nicholas J. Turro).",
+        "",
+        "부교재: Guide to Lasers in Chemistry (G.R. Van Hecke, K.K. Karukstis) & Physical Chemistry 6th edition (Atkins), Morden Spectroscopy (Hollas) 및 각종 문헌"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

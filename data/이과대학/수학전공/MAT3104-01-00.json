@@ -3118,7 +3118,18 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재: Walter. Rudin 의  Principle of Mathematical Analysis (1장-8장)\r",
+        "참고문헌:\r",
+        " Munkres 의 Topology \r",
+        " Stein and  Shakarchi 의 Fourier Analysis\r",
+        "강의노트:  Lecture Note를 사용할 것임. Lecture Note는 Ysec에 올려놀것임\r",
+        "\r",
+        "주교재가 읽기 어려우면 Ross 나 Marsden의 해석학 교재를 사용해도 됨."
+      ]
+    }
   },
   "20182": {
     "CAUTION": {

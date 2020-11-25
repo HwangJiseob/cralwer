@@ -1516,7 +1516,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Principles of quantum mechanics/Shankar, Ramamurti/Plenum Press/1994 / 2nd ed",
+        "\r○ 양자역학/송희성 宋熙星/교학연구사/2009 / 제2판"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

@@ -538,7 +538,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. An Introduction to Radio Astronomy by Burke & Graham-Smith (3rd ed) - 주교재",
+        "2. The Invisible Universe by G. L. Verschuur",
+        "3. Essential Radio Astronomy by J. J. Condon & S. M. Ransom (NRAO)",
+        "   http://www.cv.nrao.edu/course/astr534/ERA.shtml"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

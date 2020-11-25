@@ -2528,7 +2528,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Textbook : Discrete Mathematics and its applications, 7th ",
+        "Edition, Kenneth Rosen, McGraw Hill, 2013"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

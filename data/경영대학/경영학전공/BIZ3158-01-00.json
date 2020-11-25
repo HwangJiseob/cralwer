@@ -3579,7 +3579,20 @@
         "수강여부": "O",
         "비고": "*교환학생"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Course materials will be uploaded to YSCEC and/or sent to your via KakaoTalk \r",
+        "chat room for our class.  Make sure you have access to Adobe Acrobat Reader, \r",
+        "Video playing app, Microsoft Word and PowerPoint. You should bring something to \r",
+        "write with and something to write on to take notes during class discussions and \r",
+        "lectures. In-class materials will not be provided for you on YSCEC or KakaoTalk\r",
+        "KakaoTalk.  Occasionally, in class, you will need a notebook computer with \r",
+        "Internet access or a smart phone with Kakao Talk to complete assignments in \r",
+        "class. KakaoTalk is the most effective way to communicate with me and your \r",
+        "classmates both in and out of class."
+      ]
+    }
   },
   "20182": {
     "CAUTION": {

@@ -1460,7 +1460,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "[주교재] So geht`s. Fertigkeitentraining Grundstufe Deutsch. Klett. 2001 중 Stufe 1, 2의 Leseverstehen, Hörverstehen, Wortschatz 부분 & 기타 보충 텍스트"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

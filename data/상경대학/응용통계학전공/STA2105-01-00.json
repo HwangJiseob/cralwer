@@ -1744,7 +1744,28 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: Lock RH, Lock PF, Lock Morgan K, Lock EF and Lock DF. (2013). \r",
+        "Statistics, Unlocking the Power of Data, Wiley, NY. 교내 서점에서 구입이 가능합\r",
+        "니다.(중앙도서관에 지정도서로 되어 있습니다.)\r",
+        "\r",
+        "Horton NJ, Prium R, Kaplan DT (2015). A Student`s Guide to R, Project MOSAIC. \r",
+        "ycsec에서 softcopy를 내려 받아 각자 인쇄하여 사용할 것을 권합니다. 또 다른 R의 \r",
+        "참고 문헌으로 다음 책을 볼 수 있습니다. \r",
+        "Verzani, J. (2014). Using R for Introductory Statistics, Second Edition, CRC \r",
+        "Press:Boca Raton. \r",
+        "R에 대하여서는 자세하게 강의를 하지 않으며 통계학 강의 내용에 필요한 부분을 유\r",
+        "인물로 배부합니다. R을 배우는 것은 별도의 과목이 필요한 만큼 방대하므로 우리 강\r",
+        "의에서 필요한 부분만 다루도록 하겠습니다.\r",
+        "\r",
+        "다음 책은 우리 교재보다 약간 수준이 높은 내용을 다루고 있읍니다만 참고 문헌으\r",
+        "로 적합한 책입니다. \r",
+        "Kaplan DT (2012). Statistical Modeling, A Fresh Approach, 2nd Edition, Project \r",
+        "MOSAIC. (중앙도서관에 지정 도서로 지정되어 있습니다)."
+      ]
+    }
   },
   "20182": {
     "CAUTION": {

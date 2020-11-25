@@ -718,7 +718,46 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재:",
+        "",
+        "1) Course Packet ",
+        "",
+        "2) Nina Baym, ed., The Norton Anthology of American Literature. Shorter 8th  ",
+        "Edition. (Norton, 2008) (구내 서점)",
+        "",
+        "3) X.J. Kennedy and Dana Gioia, Literature: An Introduction to Fiction, ",
+        "Poetry, and Drama, and Writing, 5th Compact Edition. (Pearson, 2007).",
+        "",
+        "참고문헌:",
+        "Emory Elliott, ed., Columbia Literary History of the United States. New York: ",
+        "Columbia UP, 1988.",
+        "Gerald Vizenor, ed., Native American Literature: A Brief Introduction and ",
+        "Anthology. New York: HarperCollins, 1995.",
+        "Henry Louis hates, Jr., ed., Black Literature and Literary Theory. New York: ",
+        "Methuen, 1984.  ",
+        "Jessica Hagedorn, ed., Charlie Chan Is Dead 2: At Home in the World: A New ",
+        "Anthology of Contemporary Asian American Fiction. New York: Penguin, 2004. ",
+        "Lawana Trout, ed., Native American Literature: An Anthology. Lincolnwood: NTC ",
+        "Publishing, 1999. ",
+        "Rick Heide, ed., Under the Fifth Sun: Latino Literature From California. ",
+        "Berkeley: Heyday Books, 2002. ",
+        "Gary Hoppenstand, Popular Fiction: An Anthology. New York: Longman, 1998. ",
+        "Patricia Craig, ed., The Oxford Book of Detective Stories. Oxford: Oxford UP, ",
+        "2000.",
+        "Ursula K. Le Guin and Brian Attebery, eds., The Norton Book of Science ",
+        "Fiction. New York: Norton, 1993.",
+        "Tony Hillerman, ed., The Best American Mystery Stories of the Century. Boston: ",
+        "Houghton Mifflin, 2000. ",
+        "Annie Proulx, Close Range: Wyoming Stories. New York: Scribner, 1999.",
+        "T. Coraghessan Boyle, ed., Doubletakes: Pairs of Contemporary Short Stories. ",
+        "Boston: Wadsworth, 2004.",
+        "B. Minh Nguyen and Porter Shreve, ed., The Contemporary American Short Story. ",
+        "New York: Pearson, 2004."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

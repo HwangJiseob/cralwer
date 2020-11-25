@@ -1292,7 +1292,37 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "[주교재]",
+        "Course Packet",
+        "",
+        "[도서관 전자자료]",
+        "EBSCO E-Journal Service: [http://ejournals.ebsco.com/home.asp]",
+        "JSTOR: [http://www.jstor.org]",
+        "Literature On-Line [http://lion.chadwyck.co.uk]",
+        "Project Muse: [http://muse.jhu.edu]",
+        "",
+        "[인터넷 자료]",
+        "The Academy of American Poets: [http://www.poets.org]",
+        "PennSound: [http://writing.upenn.edu/pennsound/]",
+        "Annenberg Media: [http://www.learner.org/index.html]",
+        "Bartleby: [http://www.bartleby.com/] ",
+        "BBC Audio-Interviews-Poets: ",
+        "[http://www.bbc.co.uk/bbcfour/audiointerviews/professions/poets.shtml]",
+        "Electronic Poetry Center(SUNY Buffalo): [http://epc.buffalo.edu] ",
+        "HarperAudio: [http://town.hall.org/radio/HarperAudio/]",
+        "Modern American Poetry: [http://www.english.uiuc.edu/maps] ",
+        "W. W. Norton: [http://www.nortonpoets.com] ",
+        "",
+        "[국내 학회관련 자료]",
+        "한국 현대영미시학회 [http://www.mbapoetry.or.kr] ",
+        "한국 T. S. 엘리엇 학회: [http://www.soeliot.or.kr] ",
+        "한국 예이츠학회: [http://www.yeats.or.kr] ",
+        "한국 영어영문학회: [http://www.ellak.or.kr]"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

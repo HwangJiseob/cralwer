@@ -102,31 +102,3 @@ def create_lect_result(soup, cols):
 
 # sss = pd.read_json('pub1101.json')
 # print(sss)
-
-
-
-
-def create_syllabus_data(soup):
-    txtbook_key = "landisplay(_texts)"
-    lectname_key = "landisplay(_kna)"
-    lectname = None
-    jsonData = None
-
-    table = soup.findAll("form", { "name" : "myForm" })[0].findAll("table")[1]
-    tr_lst = table.findAll("tr")
-    for tr in tr_lst:
-        td_lst = tr.findAll("td")
-        script = td_lst[0].find("script")
-        if lectname_key in str(script):
-            lectname = td_lst[1].text
-        elif txtbook_key in str(script):
-            raw_data = td_lst[1].find("pre").text.split('\n')
-            data = [line.replace('\t', '') for line in raw_data if line != '\t']
-        else:
-            pass
-
-    if lectname and data:
-        jsonData = {"교재 및 참고문헌": data}
-        return lectname, jsonData
-    else:
-        return None, None

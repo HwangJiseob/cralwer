@@ -1026,7 +1026,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "번역 이론 교재: M. Oustinoff, La traduction, coll. Que sais-je?, 2015(2003), \r",
+        "5e edition, PUF.\r",
+        "번역 대상 텍스트: M. Fermine, La neige, Arlea, 1999."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

@@ -2727,7 +2727,39 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Business ethics : ethical decision making and cases/Ferrell, O. C/Cengage Learning/2015 / 10th ed",
+        "\r○ Text Book",
+        "",
+        "Linda K. Trevino, Katherine A. Nelson. 2014. Managing Business Ethics: Straight Talk about How to Do It Right, 6th Edition.",
+        "",
+        "O. C. Ferrell, John Fraedrich, Linda. 2017. Business Ethics: Ethical Decision Making & Cases , 11th Edition.",
+        "",
+        "",
+        "",
+        "Guiral, A., Rodgers, W., Ruiz, E., and Gonzalo, J. A. (2010), “Ethical ",
+        "",
+        "dilemmas in auditing: Dishonesty or unintentional bias?”, Journal of Business ",
+        "",
+        "Ethics, Vol. 91(1).",
+        "",
+        "",
+        "",
+        "Murphy, P., and Dacin, T. 2011. Psychological Pathways to Fraud: Understanding ",
+        "",
+        "and Preventing Fraud in Organizations. Journal of Business Ethics, Vol. 101(4).",
+        "",
+        "",
+        "",
+        "Rodgers, W., Guiral, A., and Gonzalo, J. A. (2009), “Different pathways that ",
+        "",
+        "suggest whether auditors’ going concern opinions are ethically based”, ",
+        "",
+        "Journal of Business Ethics, Vol. 86."
+      ]
+    }
   },
   "20182": {
     "CAUTION": {

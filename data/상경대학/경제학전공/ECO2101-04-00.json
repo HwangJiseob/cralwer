@@ -4670,7 +4670,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Williamson, Stephen D., Macroeconomics, Fifth Edition, Pearson, 2013."
+      ]
+    }
   },
   "20182": {
     "CAUTION": {

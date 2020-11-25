@@ -1642,7 +1642,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Text: John Algeo, The Origins and Development of the English Language (7th ",
+        "edition), Wadswarth Cengage Learning (교내 서점 비치)",
+        "",
+        "(References)",
+        "1. A. C. Baugh and T. Cable, The History of English Language.",
+        "2. Svartvik Jan and Feoffrey Leech (2006) English: One Tongue, Many Voices, ",
+        "MaCmillan",
+        "3. Freeborn, Dennis (1992) From Old English to Standard English. London: ",
+        "MacMillan."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

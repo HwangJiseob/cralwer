@@ -5979,7 +5979,17 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Laurence Copeland, Exchange Rates and International Finance, 5th Edition, Prentice Hall, 2008",
+        "",
+        "Richard Levich, International Financial Markets, Prices and Policies, 2nd edition, McGraw Hill, 2001 ",
+        "",
+        "박진근, 국제경제학, 박영사, 2004",
+        "박진근, 환율경제학, 박영사, 1997"
+      ]
+    }
   },
   "20182": {
     "CAUTION": {

@@ -6604,7 +6604,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Introduction to mathematical statistics/Hogg, Robert V./Pearson/2013 / 7th ed"
+      ]
+    }
   },
   "20182": {
     "CAUTION": {

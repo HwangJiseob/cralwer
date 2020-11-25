@@ -552,7 +552,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 도서관경영론/정동열 鄭東烈/한국도서관협회/2014",
+        "\r○ 圖書館 情報센터 經營論/Stueart, Robert D/啓明大學校 出版部/1997",
+        "\r○ 도서관법규총람 . 제1,2권/이병목/구미무역출판부/2005",
+        "\r○ Library and information center management/Stueart, Robert D/Libraries Unlimited/2013 / 8th ed",
+        "\r○ 교재 관련 사항은 첫 주 수업에서 안내 예정",
+        "아래의 교재 목록의 자료는 필수 지참 교재는 아님"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

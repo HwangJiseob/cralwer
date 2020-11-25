@@ -112,6 +112,32 @@ def recordError(func):
 def random_sleep():
     time.sleep(random.random() * 2 + 1)
 
+def create_syllabus_data(soup):
+    txtbook_key = "landisplay(_texts)"
+    lectname_key = "landisplay(_kna)"
+    lectname = None
+    jsonData = None
+
+    table = soup.findAll("form", { "name" : "myForm" })[0].findAll("table")[1]
+    tr_lst = table.findAll("tr")
+    for tr in tr_lst:
+        td_lst = tr.findAll("td")
+        script = td_lst[0].find("script")
+        if lectname_key in str(script):
+            lectname = td_lst[1].text.strip()
+        elif txtbook_key in str(script):
+            raw_data = td_lst[1].find("pre").text.split('\n')
+            data = [line.replace('\t', '') for line in raw_data if line != '\t']
+        else:
+            pass
+
+    if lectname and data:
+        jsonData = {"교재 및 참고문헌": data}
+        return lectname, jsonData
+    else:
+        return None, None
+
+
 # last page 여부와 해당 페이지의 강의 수를
 # tuple로 반환
 def check_page_info(driver, selector):
@@ -139,7 +165,7 @@ def check_page_info(driver, selector):
     else:
         raise Exception("Wrong Page Text")
 
-@recordError
+
 def push_data_to_file(lect_name, jsonData, path_ohakkwa, obj_code ):
 
     if not lect_name or not jsonData:
@@ -161,21 +187,13 @@ def push_data_to_file(lect_name, jsonData, path_ohakkwa, obj_code ):
                     if 'SYLLABUS_DATA' in old_data[TARGET_SEMESTER]:
                         pass
                     else:
-                        old_data[TARGET_SEMESTER].update({"SYLLABUS_DATA":data})
+                        old_data[TARGET_SEMESTER].update({"SYLLABUS_DATA":jsonData})
                 else:
                     return f'{obj_code} != {old_obj_code}. data not safe. 수집 중단'
             else:
                 return f'{lect_name} != {old_lect_name}. data not safe. 수집 중단'
         else:
-            old_data.update({
-                TARGET_SEMESTER: {
-                    "LECT_DATA":{
-                        "학정번호" : obj_code,
-                        "과목명" : lect_name
-                        }, 
-                        "SYLLABUS_DATA":data
-                        }
-                    })
+            old_data.update({TARGET_SEMESTER: {"LECT_DATA":{"학정번호" : obj_code,"과목명" : lect_name}, "SYLLABUS_DATA":jsonData}})
         
         # 업데이트 한 data를 파일에 push
         jsonBuffer = json.dumps(old_data, ensure_ascii=False, indent=2)
@@ -189,19 +207,24 @@ def push_data_to_file(lect_name, jsonData, path_ohakkwa, obj_code ):
                 "학정번호-분반-실습" : obj_code,
                 "과목명" : lect_name
                 }, 
-                "SYLLABUS_DATA":data
+                "SYLLABUS_DATA":jsonData
                 }}
         jsonBuffer = json.dumps(targetData, ensure_ascii=False, indent=2)
         f = open(fpath, 'w', encoding='utf8')
         f.write(jsonBuffer)
         f.close()
 
+    
     return f'{obj_code} 수집 완료'
     
+
+input_category = ''
+
 
 @recordError
 def CRAWLER(driver):
     while True:
+        global input_category
         input_category = input("[MAJORS/MEDICALS/SPECIALS/ELECTIVES/SEARCH] : ")
         if input_category in CATEGOIRES:
             break
@@ -212,21 +235,21 @@ def CRAWLER(driver):
     
     # 단과대/대분류 루프
     for input_ocode1 in globals()[input_category]:
-        arg_ocode1      = f'#OCODE1 > option[value="{scode[input_ocode1]["OCODE1"]}"]'
+        arg_ocode1      = f'#OCODE1 > option[value="{search_code[input_ocode1]["OCODE1"]}"]'
         path_ocode1     = f'./data/{input_ocode1}'
         if not os.path.isdir(path_ocode1):
             os.mkdir(path_ocode1)
         
         # 단과대 search_code key를 제외한 나머지
         # 학과/소분류만 루프 돌릴 대상임.
-        arr_ohakkwa = [key for key in scode[input_ocode1] if key != 'OCODE1']
+        arr_ohakkwa = [key for key in search_code[input_ocode1] if key != 'OCODE1']
 
 
         # 학과/소분류 루프
         for input_ohakkwa in arr_ohakkwa:
             LOG.info(f'{TARGET_SEMESTER}-{input_ocode1}-{input_ohakkwa} 수집 시작')
 
-            arg_ohakkwa     = f'#S2 > option[value="{scode[input_ocode1][input_ohakkwa]}"]'
+            arg_ohakkwa     = f'#S2 > option[value="{search_code[input_ocode1][input_ohakkwa]}"]'
             path_ohakkwa    = f'./data/{input_ocode1}/{input_ohakkwa}'
 
             if not os.path.isdir(path_ohakkwa):
@@ -239,6 +262,10 @@ def CRAWLER(driver):
             driver.find_element_by_css_selector(arg_ohakkwa).click()
             driver.find_element_by_css_selector(selector['search_btn']).click()
             driver.implicitly_wait(10)
+
+            # 컴퓨터 네트워크 지연 문제로
+            # 추가로 더 휴식함.
+            time.sleep(0.5)
 
             while True:
                 #페이지 체크
@@ -275,7 +302,9 @@ def CRAWLER(driver):
                         LOG.info(f"{obj_code}: 중복된 강의 객체. ")
 
                         # 해당 강의 객체에 대한 수집을 끝내므로 db 부하를 줄이기 위해 1초 이상 랜덤 휴식
-                        random_sleep()
+                        # 너무 느려서 0.2초 휴식으로 바꿈.
+                        # 어차피 넘어가면서 요청 전송은 안 하니까.
+                        time.sleep(0.2)
                         pass
 
                     # 중복이 아닌 경우 해당 강의 object의 수업계획서 수집 시작
@@ -318,10 +347,11 @@ def CRAWLER(driver):
                             soup = BeautifulSoup(req.text, 'html.parser')
                             lectname, jsonData = create_syllabus_data(soup)
 
-                            message = push_data_to_file(lect_name, jsonData, path_ohakkwa, obj_code )
+                            message = push_data_to_file(lectname, jsonData, path_ohakkwa, obj_code )
                             if message:
                                 LOG.info(message)
                             else:
+                                LOG.info(f"{obj_code} has some problem in pushing data to file")
                                 
 
                             # 끝나면 FINISHED_SYLLABUS_OBJS에 등록
@@ -359,6 +389,6 @@ if __name__ == "__main__":
         for obj_codename in FINISHED_SYLLABUS_OBJS:
             f.write(obj_codename)
             f.write("\n")
-            f.close()
+        f.close()
 
     LOG.info(f'FINISHED_SYLLABUS_OBJS에 {TARGET_SEMESTER}-{input_category} 전부 등록 완료')
