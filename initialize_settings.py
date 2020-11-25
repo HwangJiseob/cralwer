@@ -1,10 +1,11 @@
+from webdriver_manager.chrome import ChromeDriverManager
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 from bs4 import BeautifulSoup
-import json
+import json, time
 
 ## 전역 변수
 TARGET_YEAR     = '2020'
@@ -17,7 +18,7 @@ HEADERS = { 'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit
 options = webdriver.ChromeOptions()
 options.add_experimental_option("excludeSwitches", ["enable-logging"])
 
-driver = webdriver.Chrome('./source/chromedriver.exe', options=options)
+driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
 driver.get('http://ysweb.yonsei.ac.kr:8888/curri120601/curri_new.jsp#top')
 
 # 각 element들의 selector 목록
@@ -93,6 +94,9 @@ def initialize_search_code(driver):
                "(~2016)스포츠레저학전공": "1003"
                는 삭제함.
 
+    2020-11-25 국내교환대학 삭제
+               계절학기 삭제
+
     '''
 
     # 1-1. OCODE0의 모든 option들을 가져오기
@@ -123,4 +127,4 @@ def initialize_search_code(driver):
 
 if __name__ == "__main__":
     # test 코드
-    pass
+    initialize_search_code(driver)

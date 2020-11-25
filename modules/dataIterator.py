@@ -36,6 +36,9 @@ def refresh_finished_lects(TARGET_SEMESTER):
 
 
 
+
+
+
 if __name__ == "__main__":
     # test
     refresh_finished_lects()
