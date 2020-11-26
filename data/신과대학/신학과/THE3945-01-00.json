@@ -197,7 +197,26 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "▷ 필수 교재 ",
+        "Seow, C. L. <성서 히브리어 문법>(가칭). 김동혁 역. 출간 예정. ☞ 강사가 번역한 원고로 IVP에서 출간 예정. 학생들은 바인딩된 것을 구입할 수 있다. 원서 서지 사항: A Grammar for Biblical Hebrew. Revised ed. Nashville: Abingdon, 1995.",
+        "",
+        "▷ 참고 교재",
+        "성경:Elliger, K., and W. Rudolph. Biblia Hebraica Stuttgartensia. 5th ed. Stuttgart: Deutsche Bibelgesellschaft, 1997 (BHS). ",
+        "한국어 서문판: <(슈투트가르트) 히브리어 구약성서: 한국어 서문판>. 서울: 대한성서공회, 2008.",
+        "",
+        "사전:  Brown, F., S. R. Driver, and C. A. Briggs. A Hebrew and English Lexicon of the Old Testament. Oxford, 1906 (BDB). ",
+        "Koehler, L., W. Baumgartner, and J. J. Stamm. The Hebrew and Aramaic Lexicon of the Old Testament. Translated and edited under the supervision of M. E. J. Richardson. 4 vols. Leiden: Brill, 1994-1999 (HALOT). ☞ 100년 이상 된 BDB에서 더 발전된 최근작. 두 권짜리 unabridged study edition도 있다.",
+        "",
+        "고급 문법서: Gesenius, Wilhelm. Gesenius’ Hebrew Grammar. Edited by E. Kautzsch. Translated by A. E. Cowley. 2nd ed. Oxford: Clarendon, 1910 (GKC). ",
+        "Jouon, Paul, and T. Muraoka. A Grammar of Biblical Hebrew. Revised English ed. Rome: Editrice Pontificio Istituto biblico, 2006. ",
+        "Waltke, Bruce K., and M. O’Connor. An Introduction to Biblical Hebrew Syntax. Winona Lake, IN: Eisenbrauns, 1990.",
+        "",
+        "BHS 사용법: Scott, William R. A Simplified Guide to BHS: Critical Apparatus, Masora, Accents, Unusual Letters and Other Markings. 3rd ed. N. Richland Hills, TX: Bibal, 1995."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

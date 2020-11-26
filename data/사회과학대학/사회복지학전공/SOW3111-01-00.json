@@ -2202,7 +2202,46 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ (에센스) 사회복지조사방법론/Rubin, Allen/센게이지러닝코리아/2011",
+        "\r○ 질적 연구방법론 : 다섯 가지 접근/Creswell, John W./학지사/2015",
+        "\r○ <참고자료>",
+        "",
+        "남석인, 김준표, 신지민 & 임아람 (2018). Later-Life Preparation Patterns on Depression Among Korean Baby Boom Generations, The International Journal of Aging and Human Development, in press.",
+        "",
+        "남석인 & Lincoln, K. D. (2017). Lifetime Family Violence and Depression among South Korean Older Women. Journal of Family Violence, 32(3), 269-278.",
+        "",
+        "이희정 & 남석인 (2017). The effect of advocacy for overcoming stigma on posttraumatic growth: Focusing on childhood cancer survivors. Social Work in Health Care, 56(9), 840-854.",
+        "",
+        "남석인, 김준표, 이수진, & 윤희정 (2017). 실업 이후 부부관계만족도의 종단적 변화유형에 관한 연구: 유형에 따른 자아존중감의 차이를 중심으로. 한국가족복지학, 58, 97-122.",
+        "",
+        "남석인, 이희정, 김성준, & 김보경 (2016). 노인의 계층인식이 자살충동에 미치는 영향과 스트레스와 주관적 건강인식의 이중매개효과. 보건사회연구, 36(2), 121-150. ",
+        "",
+        "김재엽, 오세헌 & 남석인 (2016). Prevalence and Trends in Domestic Violence in South Korea: Findings from National Surveys. Journal of Interpersonal Violence, 31(8), 1554-1576.",
+        "",
+        "남석인, 이예진, 김보미, & 이은경 (2016). 돌봄서비스 이용 독거노인의 우울이 자기방임에 미치는 영향. 정신보건과 사회사업, 44(1), 161-187. ",
+        "",
+        "김민아, 장은혜, 이다지, & 남석인 (2016). 소아암 경험자가 지각하는 사회적 낙인이 자아존중감에 미치는 영향. 보건사회연구, 36(1), 497-528. ",
+        "",
+        "최권호, 김수현 & 남석인 (2015). 혼합방법론을 활용한 소아암 아동청소년의 교육 및 학교적응 서비스 욕구 탐색. 청소년문화포럼, 44, 125-155.",
+        "",
+        "남석인, Lloyd, D. A. & Vega, W. A. (2015). Correlates of Intimate Partner Violence in Male Baby Boom and Elderly South Korean Cohorts. Journal of Family Violence, 30(5), 529-537.",
+        "",
+        "장은혜 & 남석인 (2015). 노인의 4고(苦)가 자살생각에 미치는 영향: 우울의 매개효과를 중심으로. 노인복지연구, 69, 123-151. ",
+        "",
+        "김준표 & 남석인 (2015). 노인의 고독감이 성공적 노화에 미치는 영향: 자기자비의 매개효과 검증. 한국노년학, 35(3),671-687. ",
+        "",
+        "남석인, 김준표, 이다지 & 신지민 (2015). 노인의 노화불안이 성공적 노화에 미치는 영향: 배우자 유무에 따른 비교와 부부간 대화만족도의 매개효과. 노인복지연구, 70, 169-195.",
+        "",
+        "최권호, 김선, 손영은 & 남석인 (2014). 소아암 가족의 심리사회적 서비스 요구: 환아 부모의 경험을 중심으로. 한국가족복지학, 45, 171-197, 2014.",
+        "",
+        "남석인 & 최권호 (2013). 소아암 아동청소년의 학교복귀 및 적응 어려움, 기존 서비스의 한계와 대안. 한국사회복지조사연구, 38, 181-215.",
+        "",
+        "김재엽, 김동구 & 남석인 (2012). TSL family therapy followed by improved marital quality and reduced oxidative stress. Research on Social Work Practice, 22(4), 389-399."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

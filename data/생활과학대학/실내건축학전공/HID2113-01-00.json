@@ -1012,7 +1012,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "“근대건축의 공간 분석”<거장의 작품에서 살펴본 양식과 표현> _ 기문당",
+        "D.K. Ching \"Form, Space and Order\"",
+        "\"Mies van der Rohe의 건축세계 volume Ⅰ,Ⅱ\"",
+        "Anthony Ames \"Five Houses\"",
+        "\"Five Architects\"-Eisenman, Graves, Gwathmey, Hejduk, Meier",
+        "“건축계획” _문운당"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

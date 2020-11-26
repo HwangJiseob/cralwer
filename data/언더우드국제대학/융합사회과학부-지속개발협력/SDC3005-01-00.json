@@ -261,7 +261,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ This changes everything : capitalism vs. the climate/Klein, Naomi/Simon & Schuster/2014 / 1st Simon & Schuster hardcover ed",
+        "\r○ The politics of climate change/Giddens, Anthony/Polity/2009",
+        "\r○ Hot, flat, and crowded : why we need a green revolution, and how it can renew America/Friedman, Thomas L./Farrar, Straus and Giroux/2008 / 1st ed"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

@@ -1,0 +1,16 @@
+{
+  "20181": {
+    "LECT_DATA": {
+      "학정번호-분반-실습": "ARC2103-04-00",
+      "과목명": "건축설계1"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Activity diagrams/ /담디/2006",
+        "\r○ Foundations in architecture : an annotated anthology of beginning design projects/Cappleman, Owen/Van Nostrand Reinhold/1993",
+        "\r○ ル コルビュジエの全住宅/Le Corbusier/TOTO出版/2001",
+        "\r○ Architecture--form, space, & order/Ching, Frank/John Wiley & Sons/2007 / 3rd ed"
+      ]
+    }
+  }
+}

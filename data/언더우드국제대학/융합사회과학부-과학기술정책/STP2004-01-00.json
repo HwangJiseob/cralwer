@@ -429,7 +429,34 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "송기원 저 `생명`, by 로도스",
+        "",
+        "Campbell Essential Biology with Physiology (5th Edition) 5th Edition ",
+        "by Eric J. Simon, Jean L. Dickey, Jane B. Reece, Kelly A. Hogan",
+        "",
+        "Campbell `Biology` 10th Ed., by Pearson",
+        "",
+        "Kaushik Sunder Rajan `Biocapital: The Constitution of Postgenomic Life` ",
+        "",
+        "J. Craig Venter 'Life at the Speed of Light'",
+        " ",
+        "Matt Ridley `Genome: The Autobiography of a Species in 23 Chapters`",
+        "",
+        "Kevin Davies `$1000 genome`",
+        "",
+        "George Annas and Sherman Elias 'Genomic messages' HarperOne",
+        "",
+        "Hilary Rose and Steven Rose `Genes, Cells, and Brains: The promethean Promises ",
+        "of the New Biology`",
+        "",
+        "Francis Fukuyama 'Our Posthuman Future-Consequence of the Biotechnology Revolution'",
+        "",
+        "Rosi Braidotti 'The Posthuman'"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

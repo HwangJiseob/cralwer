@@ -93,5 +93,16 @@
         "비고": ""
       }
     ]
+  },
+  "20181": {
+    "LECT_DATA": {
+      "학정번호": "IIT2103-01-00",
+      "과목명": "융합물리"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Modern physics for scientists and engineers/Thornton, Stephen T/Brooks/Cole : Cengage Learning/2013 / 4th ed"
+      ]
+    }
   }
 }

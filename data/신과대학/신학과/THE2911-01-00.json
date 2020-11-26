@@ -267,6 +267,37 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Jae-Hyun Chung, Theology is Anthropology: Reading Philosophy and Doing Theology (Waegwan: BundoBook, 2003)",
+        "Jae-Hyun Chung, Doing Theology with the Hammer: Making ‘the Words’ be Words (Paju: Hanwool Academy, 2006)",
+        "Paul Tillich, A History of Christian Thought: From Its Judaic and Hellenistic Origins to Existentialism (New York: Simon & Schuster, 1967)",
+        "Diogenes Allen, Philosophy for Understanding Theology (Louisville: Westminster John Knox Press, 2007)",
+        "Plato, A Plato Reader: Eight Essential Dialogues (Indianapolis: Hackett Publishing Company, 2012)",
+        "Plato, Timaeus and Crito (Oxford: Oxford University Press, 2008)",
+        "Augustine, The Confessions of St. Augustine (Garden City: Image Books, 1960)",
+        "Andrew Louth, The Origins of the Christian Mystical Tradition: From Plato to Denys (Oxford: Oxford University Press, 1981)",
+        "Aristotle, The Complete Works of Aristotle (Princeton: Princeton University Press, 1984)",
+        "Thomas Aquinas, Aquinas on Nature and Grace: Selections from the Summa Theologica (Louisville: Westminster John Knox Press, 2006)",
+        "Richard E. Rubenstein, Aristotle’s Children: How Christians, Muslims, and Jews Rediscovered Ancient Wisdom and Illuminated the Dark Ages (Orlando: Harcourt, 2003)",
+        "Immanuel Kant, Critique of Pure Reason (New York: St. Martin’s Press, 1965)",
+        "Kant, Critique of Practical Reason (Indianapolis: Hackett Publishing Company, 2002)",
+        "Kant, Critique of Judgment (Indianapolis: Hackett Publishing Company, 1987)",
+        "Kant, Religion Within the Limits of Reason Alone (New York : Harper Torchbooks, 1960)",
+        "Søren Kierkegaard, Sickness unto Death (Princeton: Princeton University Press, 1980)",
+        "Sylvia Walsh, Kierkegaard, Thinking Christianly in an Existential Mode (Oxford: Oxford University Press, 2009)",
+        "Martin Heidegger, Being and Time (Albany: State University of New York Press, 1996)",
+        "Christos Yannaras, On the Absence and Unknowability of God: Heidegger and Areopagite (New York: T&T Clark, 2005)",
+        "",
+        "Videos",
+        "",
+        "\"The Thirteenth Floor\" (1999)",
+        "\"Prometheus\" (2012)",
+        "\"Secret Sunshine\" (2007)",
+        "\"Snowpiercer\" (2013)",
+        "\"Penny Dreadful\" (2014-2016)"
+      ]
+    }
   }
 }

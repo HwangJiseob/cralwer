@@ -1178,7 +1178,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 현대 러시아의 이해/Bacon, Edwin/명인문화사/2015",
+        "\r○ White, Stephen, Sakwa, Richard and Hale, Henry E. (eds). Developments In Russian Politics. Basingstoke, UK: Palgrave Macmillan, 2014. (주교재)",
+        "",
+        "러시아의 일간지, 주간지, 월간지(참고자료)",
+        "Foreign Broadcasting Information Service",
+        "Current Digest of the Post-Soviet Press",
+        "RFE/RL Research Report"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {

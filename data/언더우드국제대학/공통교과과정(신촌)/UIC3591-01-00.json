@@ -710,7 +710,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "The reading material is drawn from several sources including the forthcoming book 'Formal Theory of Truth' (FToT) by Beall, Ripley, and Glanzberg; 'A Very Short Introduction to Logic' by Graham Priest; 'Philosophy of Language: an Introduction' by William Lycan; as well as a articles by influential logicians such as Alfred Tarski, Stephen Read, and Greg Restall. The course reader is available at the print shop."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

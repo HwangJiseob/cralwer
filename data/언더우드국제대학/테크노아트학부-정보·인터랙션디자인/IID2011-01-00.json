@@ -575,6 +575,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ research methods for product design/Milton, Alex/Laurence King/2013",
+        "\r○ Drawing for product designers/Henry, Kevin/Laurence King/2012",
+        "\r○ Prototyping and Modelmaking for Product Design/Hallgrimsson, Bjarki/Laurence King/2012"
+      ]
+    }
   }
 }

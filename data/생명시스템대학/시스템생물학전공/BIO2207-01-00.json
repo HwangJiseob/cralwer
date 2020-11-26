@@ -1726,7 +1726,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: Campbell NA, Reece JB (2011) Biology, 9th edition, Benjamin Cummings, ",
+        "San Francisco, CA; 전상학 등 역 (2012) 생명과학, 9판, 바이오사이언스, 서울",
+        "부교재: 김응빈 등 (2013) 핵심생명과학, 초판, 바이오사이언스"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

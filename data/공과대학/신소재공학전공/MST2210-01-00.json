@@ -2470,7 +2470,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Materials science and engineering : an introduction/Callister, William D./Wiley/2014",
+        "\r○ Principles of materials science and engineering/Smith, William Fortune/McGraw-Hill/1996",
+        "\r○ Introduction to materials science for engineers/Shackelford, James F./Pearson Prentice Hall/2009",
+        "\r○ Elements of materials science and engineering/Van Vlack, Lawrence H/Addison-Wesley/1989"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

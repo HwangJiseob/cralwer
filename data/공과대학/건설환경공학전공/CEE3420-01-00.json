@@ -2124,7 +2124,19 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "No text book is required for this course. However, students are recommended to ",
+        "use the following books:",
+        "",
+        "Lo, C. P. and Yeung, A. K. W. Concepts and Techniques of Geographic ",
+        "Information Systems, Prentice Hall, New Jersey.",
+        "",
+        "Jensen J. R., Introductory Digital Image Processing, Prentice Hall, ",
+        "New Jersey."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

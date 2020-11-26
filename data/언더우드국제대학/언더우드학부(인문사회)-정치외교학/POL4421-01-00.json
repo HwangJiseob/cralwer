@@ -324,7 +324,23 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Sorry states : apologies in international politics/Lind, Jennifer M./Cornell University Press/2008",
+        "\r○ Troubled apologies among Japan, Korea, and the United States/Dudden, Alexis/Columbia University Press/2008",
+        "\r○ Contemporary debates on nationalism : a critical engagement/?zkirimli, Umut/Palgrave Macmillan/2005",
+        "\r○ Nationalism : a very short introduction/Grosby, Steven Elliott/Oxford University Press/2005",
+        "\r○ Becoming national : a reader/Eley, Geoff/Oxford University Press/1996",
+        "\r○ Rescuing history from the nation : questioning narratives of modern China/Duara, Prasenjit/University of Chicago Press/1995",
+        "\r○ Ethnicity without groups/Brubaker, Rogers/Harvard University Press/2004",
+        "\r○ Cultural intimacy : social poetics in the nation-state/Herzfeld, Michael/Routledge/2005 / 2nd ed",
+        "\r○ Splendid monarchy : power and pageantry in modern Japan/Fujitani, Takashi/University of California Press/1996",
+        "\r○ Bodies of memory : narratives of war in postwar Japanese culture, 1945-1970/Igarashi, Yoshikuni/Princeton University Press/2000",
+        "\r○ The politics of war memory in Japan : progressive civil society groups and contestation of memory of the Asia-Pacific war/Szczepanska, Kamila/Routledge/Taylor & Francis Group/2014",
+        "\r○ War memory and social politics in Japan, 1945-2005/Seraphim, Franziska/Harvard University Asia Center/2006"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

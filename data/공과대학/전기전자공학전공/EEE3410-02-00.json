@@ -1830,7 +1830,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Probability and Random Processes for Electrical and Computer Engineers,",
+        " by Therrien, Charles/ Tummala, Murali | CRC Press"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

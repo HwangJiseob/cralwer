@@ -1026,7 +1026,18 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 근대건축의 공간분석 : <거장의 작품>에서 살펴 본 양식과 표현/부영양 富永讓/기문당/2002 / [수정판]",
+        "\r○ 건축설계·계획/윤도근 尹道根/문운당/2008",
+        "\r○ Architecture : form, space, & order/Ching, Frank/Wiley/2015 / 4th ed",
+        "\r○ Five architects : Eisenman, Graves, Gwathmey, Hejduk, Meier/Museum of Modern Art (New York, N.Y.)/Oxford University Press/1975",
+        "\r○ Five houses, 1976-1986 : Anthony Ames architect/Ames, Anthony/Princeton Architectural Press/1987",
+        "\r○ Mies van der Rohe의 건축세계. 2/ /World houses/199-",
+        "\r○ Mies van der Rohe의 건축세계. 1/ /World houses/199-"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

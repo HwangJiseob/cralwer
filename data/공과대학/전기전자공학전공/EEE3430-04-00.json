@@ -1924,7 +1924,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "\"Introduction to Analog & Digital Communications,\" Simon Haykin and Michael ",
+        "Moher, 2nd edition, Wiley, 2007",
+        "Reference",
+        "\"Introduction to Communication Systems,\" Ferrel G. Stremler, 3rd edition, ",
+        "Addison Wesley, 1990",
+        "\"Essentials of Communication Systems Engineering,\" John G. Proakis and Masoud ",
+        "Salehi, Pearson Prentice Hall, Inc., 2005"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

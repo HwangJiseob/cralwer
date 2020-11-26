@@ -2150,7 +2150,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Dong-Kyun Byun, Hyun-Muk Shin, REINFORCED CONCRETE, Eleventh Edition, 東明社 (Optional)",
+        "Concrete design standard established by Ministry of Construction and Transportation, 2007, Korea Concrete Institute (Optional)"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

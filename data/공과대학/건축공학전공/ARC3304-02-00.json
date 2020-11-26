@@ -882,6 +882,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Fundamentals of building construction : materials and methods/Allen, Edward/Wiley/2014 / 6th ed",
+        "\r○ (이론과 현장실무 중심의) 건축시공학/강경인/대가/2005"
+      ]
+    }
   }
 }

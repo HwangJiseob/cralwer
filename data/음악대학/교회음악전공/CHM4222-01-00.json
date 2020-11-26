@@ -183,7 +183,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Choral repertoire/Shrock, Dennis/Oxford University Press/2009",
+        "\r○ A history of Western choral music . v. 1 from medieval foundations to the romantic age/Alwes, Chester Lee/Oxford University Press/2015",
+        "\r○ 합창 음악 연구/Ulrich, Homer/세광음악출판사/1992",
+        "\r○ Translations and annotations of choral repertoire, v. 1, Sacred latin texts/Jeffers, Ron/Earthsongs/1988"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

@@ -2332,7 +2332,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Data structures and algorithm analysis in C++/Weiss, Mark Allen/Pearson/2014 / 4th ed., International ed."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

@@ -1546,6 +1546,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Textbook:",
+        "Hibbeler, R.C., Statics and Mechanics of Materials, 3rd ed. in SI units, ",
+        "Prentice Hall, 2011.",
+        "",
+        "References:",
+        "Riley, W.F., Sturges, L.D., and Morris, D.H., Statics and Mechanics of ",
+        "Materials, 2nd ed., John Wiley & Sons, 2002.",
+        "Gere, J.M.,and Goodno B.J., Mechanics of Materials, 8th ed., SI edition, ",
+        "CENGAGE Learning, 2013."
+      ]
+    }
   }
 }

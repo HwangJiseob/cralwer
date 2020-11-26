@@ -506,7 +506,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Visual research methods in fashion/Gaimster, Julia/Berg/2011 / English ed",
+        "\r○ Fashionable technology : the intersection of design, fashion, science, and technology/Seymour, Sabine/Springer/2009",
+        "\r○ Performa : New visual art performance/Liese, Jennifer/Performance/2007"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

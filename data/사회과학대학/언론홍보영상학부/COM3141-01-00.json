@@ -3384,7 +3384,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Readings required for the course will consist of excerpts from, or full texts of, book chapters, academic articles, newspaper/magazine articles, short stories, films, and so on.  All the required readings (except films) will be available on the course website."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

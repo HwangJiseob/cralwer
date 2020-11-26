@@ -3872,7 +3872,14 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Ein Deutsches Requiem by Johannes Brahms, J & A Music.",
+        "",
+        "http://joongangart.co.kr/product/%EB%AA%85%EC%84%B1%EA%B0%80%EC%8B%9C%EB%A6%AC%EC%A6%882-%EB%A0%88%ED%80%B4%EC%97%A0%EA%B0%9C%EC%A0%95%ED%8C%90/754/category/129/display/1/"
+      ]
+    }
   },
   "20182": {
     "CAUTION": {

@@ -1121,7 +1121,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- 유가효, 위영희, 문현주, 이희정, 김태은. 놀이치료의 이해. 양서원",
+        "",
+        "- O`Connor, K., & Braverman, L. Play therapy theory and practice. 송",
+        "영혜, 이승희, 김현주 역. 놀이치료 이론과 실제. 시그마프레스.",
+        "",
+        "- Kottman, T., & Schaefer, C. Play therapy in action. 김은정, 정연옥 ",
+        "역. 놀이치료 사례집. 학지사.",
+        "",
+        "- Lnadreth, G., Sweeney, D., Ray, D., Homeyer, L., & Glover, G. ",
+        "Play therapy interventions with children`s problems. 유미숙, 이미경, ",
+        "이세연, 하승연 역. 아동 문제별 놀이치료. 학지사.",
+        "",
+        "* 주교재는 1주차 수업 시 공지함"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {

@@ -1586,7 +1586,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 문화인류학의 역사 : 사회사상에서 문화의 과학에 이르기까지/Garbarino, Merwyn S/일조각/2011",
+        "\r○ 인류학의 거장들 : 인물로 읽는 인류학의 역사와 이론/Moore, Jerry D/한길사/2002",
+        "\r○ High Points In Anthropology/Mark Glazer/McGraw-Hill Humanities/Social Sciences/Languages/1988",
+        "\r○ 인류학의 역사와 이론/Barnard, Alan (Alan J.)/한길사/2003"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {

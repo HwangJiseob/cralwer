@@ -903,7 +903,22 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "There is no required text. Lecture notes, reading materials and cases (the list will be provided), and some chapters of the following books will be used for the lectures.",
+        "",
+        "G. M. Peter Swann [Swann], The Economics of Innovation: An Introduction, 2009, Edward Elgar",
+        "M. Schilling [Schilling], Strategic Management of Technological Innovation,",
+        "        4th edition, McGraw-Hill, 2013",
+        "C. Freeman and L. Soete [Freeman], The Economics of  Industrial Innovation, ",
+        "        3rd edition, The MIT Press, 1997",
+        "C. Christensen and M. Raynor, [Christensen], The Innovator`s Solution, HBS, ",
+        "        2003, (성장과 혁신, 세종서적)",
+        "D. Piscione [Piscione], Secrets of Silicon Valley: What Everyone Else Can ",
+        "        Learn from the Innovation Capital of the World, Palgrave Macmillan, 2013"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

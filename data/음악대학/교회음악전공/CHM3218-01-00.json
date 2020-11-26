@@ -111,7 +111,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Music for score reading/Melcher, Robert A/Prentice-Hall/1971",
+        "\r○ 101 chorales/Bach, Johann Sebastian/Schmitt, Hall & McCreary/1952",
+        "\r○ Score reading, bk. 2, Musical form/Fiske, Roger/Oxford University Press, Music Department/1958",
+        "\r○ Score reading, bk. 1, Orchestration/Fiske, Roger/Oxford University Press, Music Department/1958",
+        "\r○ Score reading, bk. 3, Concertos/Fiske, Roger/Oxford University Press, Music Department/1960",
+        "\r○ Score reading, bk. 4, Oratorios/Fiske, Roger/Oxford University Press, Music Department/1965",
+        "\r○ (주교재) Partiturspiel (Score Playing) Vol. I (Heinrich Creuzburg 저), Schott.",
+        "",
+        "(참고도서) Score Reading A Key to the Music Experience (Michael Dickreiter 저, Reinhard G. Pauly 번역)  Amadeus Press, 2003. ISBN: 1-57467-056-5"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

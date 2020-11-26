@@ -197,6 +197,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Design like you give a damn : architectural responses to humanitarian crises/Architecture for Humanity (Organization)/Metropolis Books : Thames & Hudson/2006",
+        "\r○ Design like you give a damn . 2, Building change from the ground up/Architecture for Humanity (Organization)/Abrams/2012",
+        "\r○ Small scale, big change : new architectures of social engagement/Lepik, Andres/Birkh?user ; Springer [distributor],/2010"
+      ]
+    }
   }
 }

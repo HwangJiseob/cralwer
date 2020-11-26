@@ -874,7 +874,26 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "-Lee, Mikyung(2006), Drawing with Big Ideas, Kimundang",
+        "",
+        "-Kang, ByungGi (2005), Design and Drawing, Kimundang",
+        "",
+        "-Lin, Mike W. (2009), Drawing and Designing with Confidence, A Van Nostrand ",
+        "",
+        "Reinhold Book.",
+        "",
+        "-Kim, Eunjoo, Architectural Interior Perspective Note, Kukje Publishing House",
+        "",
+        "-Kim, Gichang, Illustration + Perspective, Kukje Publishing House",
+        "",
+        "-Crowe, Norman, Visual Notes for Architects and Designers, Kimundang",
+        "",
+        "-Choi, SeungBok (2006), 실내투시도 따라하기, Kimundang"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

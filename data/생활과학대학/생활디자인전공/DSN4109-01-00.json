@@ -240,7 +240,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ".Fashion 현대패션 1900-2010, 교문사,2012",
+        ".패션소재기획과 정보,교문사, 2000 ",
+        ".Caroline T., Julian S., Fashion design drawing course, Quarto publishing plc",
+        ".Fashion now",
+        ".Lifestyle, Phaidon",
+        ".View on color, Textile view"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

@@ -519,7 +519,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 가이아 : 살아있는 생명체로서의 지구/Lovelock, J. E./갈라파고스/2004",
+        "\r○ 래디컬 에콜로지/Merchant, Carolyn/이후/2007 / 개정판",
+        "\r○ 현대 생태신학자의 신학과 윤리/이정배 李正培/대한기독교서회/2006",
+        "\r○ 과학이 종교를 만날 때/Barbour, Ian G./김영사/2002",
+        "\r○ 생태 영성과 기독교의 재주 체화/이정배/동연/2010",
+        "\r○ 생태학의 담론/문순홍/아르케/2006",
+        "\r○ 사회 생태론의 철학/Bookchin, Murray/솔/1997",
+        "\r○ 자연의 죽음 : 여성과 생태학, 그리고 과학혁명/Merchant, Carolyn/미토/2005",
+        "\r○ 가이아와 하느님 : 지구 치유를 위한 생태 여성학적 신학/Ruether, Rosemary Radford/이화여자대학교 출판부/2000",
+        "\r○ 기후 변화와 신학의 재구성/McFague, Sallie/한국기독교연구소/2008",
+        "\r○ 동물 신학의 탐구 : 같은 하나님의 피조물/Linzey, Andrew/대장간/2014",
+        "\r○ Philip Clayton and Zachar R. Simpson, eds, The Oxford Handbook of Religion and Science (Oxford; New York: Oxford University Press, 2006. ",
+        "\r○ 위르겐 몰트만, <창조안에 계신 하나님> 김균진 역, (서울: 대한기독교서회, 2017)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {

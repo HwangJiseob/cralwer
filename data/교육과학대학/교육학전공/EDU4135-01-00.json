@@ -1073,7 +1073,28 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "This class will use the yscec through which a soft copy of the Reader generally composed of journal articles and book ",
+        "chapters organized according to topics will be uploaded two weeks ahead of the schedule.",
+        "",
+        "Selected books and journals include the following:",
+        "- Status of Multicultural Education in Korea and Its Future Direction ",
+        "- Multicultural Education: Dimensions and Paradigms",
+        "- Handbook of Research on Multicultural Education (2nd Ed.)",
+        "- Other People`s Children: Cultural Conflict in the Classroom",
+        "- Historical and Philosophical Foundations of Education (5th Ed.)",
+        "- Culturally Responsive Teaching: Theory, Research, and Practice ",
+        "- Asia Pacific Education Review ",
+        "- Anthropology & Education Quarterly",
+        "- Teaching in Higher Education ",
+        "- Journal of Language, Identity, and Education ",
+        "- International Review of Education",
+        "- Others (e.g., Reports and Documents from the Ministry of Gender, Equality and ",
+        "Family Affairs and the Korean Immigration Service)"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

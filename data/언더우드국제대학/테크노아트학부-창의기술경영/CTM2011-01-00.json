@@ -527,7 +527,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Networks, crowds, and markets : reasoning about a highly connected world/Easley, David/Cambridge University Press/2010",
+        "\r○ Social network analysis/Scott, John/SAGE/2017 / 4th ed",
+        "\r○ Six degrees : the science of a connected age/Watts, Duncan J./W. W. Norton/2003 / 1st ed",
+        "\r○ Linked : the new science of networks/Barab?si, Albert-Laszl?/Perseus Pub./2002"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

@@ -3292,7 +3292,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ A theory of justice/Rawls, John/Oxford University Press/1999 / Rev. ed",
+        "\r○ Contemporary political philosophy : an introduction/Kymlicka, Will/Oxford University Press/2002 / 2nd ed",
+        "\r○ Justice : what's the right thing to do?/Sandel, Michael J./Farrar, Straus and Giroux/2009"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {

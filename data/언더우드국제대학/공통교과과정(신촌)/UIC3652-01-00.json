@@ -1323,7 +1323,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ The woman warrior : memoirs of a girlhood among ghosts/Kingston, Maxine Hong/Vintage International/1989 / Vintage International ed",
+        "\r○ A contrived world/정영문 鄭泳文/Dalkey Archive Press/2016"
+      ]
+    }
   },
   "20182": {
     "CAUTION": {

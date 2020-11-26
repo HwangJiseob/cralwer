@@ -1644,7 +1644,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ The educational imagination : on the design and evaluation of school programs/Eisner, Elliot W./Macmillan ; Maxwell Macmillan Canada ; Maxwell Macmillan International,/1994 / 3rd ed",
+        "\r○ 탈인습성과 기독교교육/김현숙 金賢淑/대한기독교서회/2004",
+        "\r○ Fashion me a people : curriculum in the church/Harris, Maria/Westminster/John Knox Press/1989 / 1st ed",
+        "\r○ Professor Hyun-Sook Kim's articles, \"Review Essay: Moving Beyond Global Encounters Toward Global Reciprocity,\" Religious Education 110, no. 2 (2015): 181-197; \"Seeking Critical Hope in a Global Age,\" Religious Education 110, no. 3 (2015): 311-328; \"Reclaiming Equality in a Neo-liberal World,\" Religious Education 110, no. 5 (2015): 480-482."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

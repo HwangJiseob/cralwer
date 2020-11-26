@@ -340,7 +340,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Drawing a Creative process  Francis D.K. Ching John Wiley & Sons, INC.",
+        "Architectural Graphics  Francis D.K Ching, Wiley Book",
+        "Vitamin D New Perspectives in Drawing   Phaidon",
+        "Design Basics David A Lauer and Stephen pentak"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

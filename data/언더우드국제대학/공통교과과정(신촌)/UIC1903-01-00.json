@@ -1477,7 +1477,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Assigned Films: All the assigned films are available at the Library, through YouTube, or through Google Drive sharing.",
+        "Required Texts: All the required readings are available as pdf files on YSCEC."
+      ]
+    }
   },
   "20182": {
     "CAUTION": {

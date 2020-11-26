@@ -147,6 +147,9 @@ def check_page_info(driver, selector):
     if validated:
         page_info = validated.group()
 
+        if page_info == "1-15 of 0":
+            return False, 'invalid'
+
         page_start  = re.match(r'\d+-\d+\b', page_info).group().split('-')[0]
         page_now    = re.match(r'\d+-\d+\b', page_info).group().split('-')[-1]
         page_end    = re.search(r' of [\d]+', page_info).group().split(' ')[-1]
@@ -263,13 +266,20 @@ def CRAWLER(driver):
             driver.find_element_by_css_selector(selector['search_btn']).click()
             driver.implicitly_wait(10)
 
-            # 컴퓨터 네트워크 지연 문제로
-            # 추가로 더 휴식함.
-            time.sleep(0.5)
-
             while True:
-                #페이지 체크
-                isLastPage, rows_in_page = check_page_info(driver, selector)
+                # 페이지 체크
+                # 네트워크 지연 문제로
+                # 정확한 page 데이터를 받을 때까지 loop
+                while True:
+                    time.sleep(0.5)
+                    isLastPage, rows_in_page = check_page_info(driver, selector)
+                    # 만약 '1-15 of 0'이 나오면 rows_in_page를
+                    # invalid로 반환.
+                    if rows_in_page=='invalid':
+                        time.sleep(0.1)
+                    else:
+                        break
+
 
                 # 최초 학과 페이지에 아무 강좌도 없다면 바로 다음 학과/소분류로 이동
                 if isLastPage and rows_in_page == 0:
@@ -302,9 +312,9 @@ def CRAWLER(driver):
                         LOG.info(f"{obj_code}: 중복된 강의 객체. ")
 
                         # 해당 강의 객체에 대한 수집을 끝내므로 db 부하를 줄이기 위해 1초 이상 랜덤 휴식
-                        # 너무 느려서 0.2초 휴식으로 바꿈.
+                        # 너무 느려서 0.1초 휴식으로 바꿈.
                         # 어차피 넘어가면서 요청 전송은 안 하니까.
-                        time.sleep(0.2)
+                        time.sleep(0.1)
                         pass
 
                     # 중복이 아닌 경우 해당 강의 object의 수업계획서 수집 시작

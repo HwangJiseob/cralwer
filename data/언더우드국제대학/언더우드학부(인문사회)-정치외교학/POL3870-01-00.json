@@ -441,7 +441,21 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ War, guilt, and world politics after World War II/Berger, Thomas U/Cambridge University Press/2012",
+        "\r○ Rethinking historical injustice and reconciliation in Northeast Asia : the Korean experience/Shin, Gi-Wook/Routledge/2007",
+        "\r○ Night/Wiesel, Elie/Hill and Wang/2006",
+        "\r○ Man's search for meaning //Frankl, Viktor E. (Viktor Emil)/Beacon Press, ;/2014",
+        "\r○ 1) Elie Wiesel, Night (New York: Hill and Wang, 2006)--- There are many different translated verision, any of which is fine for this course.",
+        "2) Viktor E. Frankl, Man's Search for Meaning (Boston: Beacon Press, 2006)-- There are many different translated verision, any of which is fine for this course.",
+        "3) Thomas U. Berger, War, Guilt, and World Politics after World War II (Cambridge: Cambridge University Press, 2012)",
+        "4) Gi-Wook Shin, Soon-Won Park, and Daqing Yang, eds., Rethinking Historical Injustice and Reconciliation in Northeast Asia (New York: Routledge, 2007).",
+        "",
+        "You should also be up to date on world news by reading the New York Times, Washington Post, Financial Times, Economist, or any other quality news publication either in print on on-line."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {

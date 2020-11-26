@@ -3487,6 +3487,19 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: \r",
+        "- 뉴스타트 저. 이병석 옮김. 대통령의 권력. 서울: 다빈치.\r",
+        "- 뉴웰. 박수철 옮김. 대통령은 없다. 서울: 21세기북스.\r",
+        "- 이장규. 대통령의 경제학. 서울: 기파랑.\r",
+        "\r",
+        "부교재:\r",
+        "- McDermott. 2008. Presidential Leadership, Illness, and Decision Making. New \r",
+        "York: Cambridge University Press. \r",
+        "- 기타 논문 및 유인물(강의 전에 배포)"
+      ]
+    }
   }
 }

@@ -385,7 +385,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재는 한글, 영문 중에서 이해하기 쉬운 것으로 선택 (수업은 한글 교재 기준)",
+        "",
+        "국제경영(아시아판), C.W.L.Hill, C-H Wee, K. Udayasnakar, 최순규 역. 교보문고. 2015",
+        "",
+        "International Business(Asia Global Edition, 1e/2e). C.W.L.Hill, C-H Wee, K. Udayasnakar. McGrow Hill"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

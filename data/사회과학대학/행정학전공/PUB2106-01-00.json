@@ -1082,7 +1082,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 스마트 전자정부론 : 정보체계와 전자정부의 이론과 실제/명승환 明承煥/율곡출판사/2015 / 제2판",
+        "\r○ (2015) 전자정부론/정충식/서울경제경영/2015 / 4판",
+        "\r○ The fourth industrial revolution/Schwab, Klaus/World Economic Forum/2016",
+        "\r○ (클라우스 슈밥의) 제4차 산업혁명/Schwab, Klaus/새로운현재/2016",
+        "\r○ Digital era governance : IT corporations, the state, and E-government/Dunleavy, Patrick/Oxford University Press/2006",
+        "\r○ Public administration and information technology/Reddick, Christopher G/Jones & Bartlett Learning/2012"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

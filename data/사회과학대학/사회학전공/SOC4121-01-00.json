@@ -3438,7 +3438,20 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Earl Babbie. 2013. 사회조사방법론. 13판 고성호(외) 공역. 그린. [이하 Babbie]",
+        "(원저: Earl Babbie. The Practice of Social Research. Belmont, CA: Wadsworth ",
+        "Publishing Company.",
+        "",
+        "*참고교재.",
+        "King, Gary, Robert Keohane, and Sidney Verba. 1994. Designing Social Inquiry. ",
+        "Princeton: Princeton University Press. [이하 King]",
+        "Becker, Howard. 1998. Tricks of the Trade: How to Think About Your Research ",
+        "While You`re Doing It. Chicago: University of Chicago Press. [이하 Becker]"
+      ]
+    }
   },
   "20182": {
     "CAUTION": {

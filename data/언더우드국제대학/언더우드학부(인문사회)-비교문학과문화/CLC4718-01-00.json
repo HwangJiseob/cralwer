@@ -310,6 +310,28 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Dass, Rem. Be Here Now. San Cristobal: Hanuman Foundation, 1978.",
+        "Gatto, John Taylor. Weapons of Mass Instruction. Island: New Society ",
+        "Publishers, 2009.",
+        "Hoffman, Abby. Steal this Book. New York: Scribner, 1996. Hemingway, ",
+        "Jackson, Bruce. In the Life: Versions of the Criminal Experience. Boston: ",
+        "Holt, Rinehart and Winston, 1972.",
+        "Klenner, F.R. (Selected Papers) ",
+        "Krishnamurti, J. Think on These Things. New York: Harper Perennial, 1989.",
+        "Levy, Thomas E. Curing the Incurable. Henderson: MedFox Publishing, 2002.",
+        "Lustig, Robert H. Fat Chance. New York: Plume, 2012.",
+        "Miller, Alice. For Your Own Good. New York: FSG, 2002. ",
+        "Novello, Don. The Lazlo Letters. New York: Workman Publishing Company, 1992.",
+        "Roszak, Theodore. The Making of a Counter Culture. Berkeley: The University of ",
+        "California Press, 1995.  ",
+        "Yudkin, John. Pure White and Deadly. London: Davis-Poynter, 1972.",
+        "",
+        "Reading Packet (other selected readings)",
+        "Film Screenings (TBA)"
+      ]
+    }
   }
 }

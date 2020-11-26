@@ -2568,5 +2568,26 @@
         "비고": ""
       }
     ]
+  },
+  "20181": {
+    "LECT_DATA": {
+      "학정번호": "SLS1116-01-00",
+      "과목명": "스포츠와정신건강"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Gross, J.J. & Thompson, R.A. (2007). Emotion regulation: Conceptual foundations. In J.J. Gross (Ed.), Handbook of emotion regulation (pp. 3-26). New York: The Guilford Press.",
+        "",
+        "Hanin, Y.L. (2010). Coping with anxiety in sport. In A. R. Nicholls (Ed.), Coping in sport: Theory, methods, and related constructs (pp. 159-175). Hauppauge, NY: Nova Science.",
+        "",
+        "Jones, M. V. (2003). Controlling emotions in sport. The Sport Psychologist, 17, 471-486.",
+        "",
+        "Lane, A.M., Beedie, C.J., Devonport, T.J. & Stanley, D.M. (in press). Instrumental emotion regulation in sport: relationships between beliefs about emotion and emotion regulation strategies used by athletes. Scandinavian Journal of Medicine & Science in Sports.",
+        "",
+        "Lazarus, R.S. (2000). How emotions influence performance in competitive sports. The Sport Psychologist, 14, 229-252.",
+        "",
+        "Vallerand, R. J., & Blanchard, C. M. (2000). The study of emotion in sport and exercise: Historical, definitional, and conceptual perspectives. In Y. L. Hanin (Ed.), Emotions in sport (pp.3-37). Champaign, IL: Human Kinetics."
+      ]
+    }
   }
 }

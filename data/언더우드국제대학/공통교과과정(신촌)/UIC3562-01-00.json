@@ -345,7 +345,29 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "A course reader containing the following texts will be available for purchase:",
+        "",
+        "Aristotle: The Art of Rhetoric",
+        "Kenneth Burke: A Rhetoric of Motives",
+        "Stephen Halliwell: “The Challenge of Rhetoric to Political and Ethical Theory ",
+        "in Aristotle”",
+        "Neil Hertz: “A Reading of Longinus”",
+        "Longinus: On the Sublime",
+        "Paul de Man: “Semiology and Rhetoric”; “Rhetoric of Tropes (Nietzsche)”; ",
+        "“Rhetoric of Persuasion (Nietzsche); “Anthropomorphism and Trope in the ",
+        "Lyric”; “The Resistance to Theory”; “The Return to Philology” ",
+        "J. Hillis Miller: “The Critic as Host”; “Paul de Man”; “Should We Read ",
+        "Heart of Darkness?”; “Impossible Metaphor: Steven’s ‘The Red Fern’ as Example”",
+        "Richard Moran: “Artifice and Persuasion: The Work of Metaphor in the Rhetoric”",
+        "Friedrich Nietzsche: On Rhetoric and Language; “On Truth and Lie in a Non-Moral Sense”",
+        "Plato: Gorgias",
+        "Paul Ricoeur: “Between Rhetoric and Poetics”",
+        "Wallace Stevens: “Effects of Analogy”"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

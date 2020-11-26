@@ -1858,7 +1858,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "참고문헌\r",
+        "\r",
+        "참고문헌\r",
+        "- 일반생물학 \r",
+        "- Daniel D. Chiras, (2014). 『Environmental Science (10h Ed.)』, Jones & \r",
+        "Bartlett Learning\r",
+        "- Jefferey D. Sachs, (2015). 『The age of sustainable development』. Columbia \r",
+        "University Press"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

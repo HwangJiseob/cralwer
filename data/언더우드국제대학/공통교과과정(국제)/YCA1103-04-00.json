@@ -333,7 +333,33 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "The Holy Bible (New International Version).",
+        "Linda Woodhead, Christianity: A Very Short Introduction (Oxford: Oxford University Press, 2004).",
+        "G. E. M. de Ste. Croix, Christian Persecution, Martyrdom, and Orthodoxy (Oxford: Oxford University Press, 2006).",
+        "R. Po-chia Hsia, ed., The Cambridge History of Christianity: Reform and Expansion 1500-1660 (Cambridge: Cambridge University Press, 2007).",
+        "Horace G. Underwood, The Call of Korea: Political-Social-Religious (New York: Fleming H. Revell Company, 1908).",
+        "Underwood, Korea in War, Revolution, and Peace: The Recollections of Horace G. Underwood, ed., Michael J. Devine (Seoul: Yonsei University Press, 2001).",
+        "Robert E. Buswell Jr. and Timothy S. Lee, Christianity in Korea (Honolulu: University of Hawaii Press, 2006).",
+        "Chai-Shin Yu, ed., Korea and Christianity (Fremont: Asian Humanities Press, 1996).",
+        "Paul Tillich, A History of Christian Thought: From Its Judaic and Hellenistic Origins to Existentialism (New York: Simon & Schuster, 1967).",
+        "Augustine, The Confessions of St. Augustine (Garden City: Image Books, 1960).",
+        "Thomas Aquinas, Aquinas on Nature and Grace: Selections from the Summa Theologica (Louisville: Westminster John Knox Press, 2006).",
+        "Immanuel Kant, Critique of Pure Reason (New York: St. Martin’s Press, 1965).",
+        "Kant, Critique of Practical Reason (Indianapolis: Hackett Publishing Company, 2002).",
+        "Søren Kierkegaard, Sickness unto Death (Princeton: Princeton University Press, 1980).",
+        "Sylvia Walsh, Kierkegaard, Thinking Christianly in an Existential Mode (Oxford: Oxford University Press, 2009).",
+        "Helmut Richard Niebuhr, Christ and Culture (San Francisco: Harper San Francisco, 2001).",
+        "Kelton Cobb, The Blackwell Guide to Theology and Popular Culture (Malden: Balckwell Publishing, 2005).",
+        "",
+        "Videos",
+        "\"The Case for Christ\" (2017)",
+        "\"Doctor Strange\" (2016)",
+        "\"Les Mis?rables\" (2012), etc."
+      ]
+    }
   },
   "20182": {
     "CAUTION": {

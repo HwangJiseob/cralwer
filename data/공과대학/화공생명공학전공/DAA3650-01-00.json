@@ -167,7 +167,22 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : ",
+        "- Principles of Polymer Engineering, 2nd Edition,",
+        "  Edited by N.G.McCrum, C.P. Buckley and C.B.Bucknall,",
+        "  published by Oxford Science Publications",
+        "",
+        "부교재 : ",
+        "- Principle of Polymerization, Edited by George Odian,",
+        "  published by John Wiley & Sons, Inc.",
+        "- Principles of Polymer Science, 2nd Edition, ",
+        "  Edited by P.Bahadur and N.V.Sastry, ",
+        "  published by Alpha Science International Ltd.Oxford, U.K."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

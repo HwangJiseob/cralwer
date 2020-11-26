@@ -73,6 +73,21 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "*The Lottery by Shirley Jackson: http://sites.middlebury.edu/individualandthesociety/files/2010/09/jackson_lottery.pdf ",
+        "*On Bullshit by Harry Frankfurt: http://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf ",
+        "*Can You Say…Hero? by Tom Junod: http://www.esquire.com/entertainment/tv/a27134/can-you-say-hero-esq1198/ ",
+        "*The Writing Revolution by Peg Tyre: http://www.theatlantic.com/magazine/archive/2012/10/the-writing-revolution/309090/?single_page=true ",
+        "*Fear and Loathing in Las Vegas by Hunter S. Thompson: http://www.rollingstone.com/politics/news/fear-and-loathing-in-las-vegas-19711111 ",
+        "*Rules for Radicals by Saul Alinsky: http://chisineu.files.wordpress.com/2014/02/saul-alinsky-rules-for-radicals-1989.pdf ",
+        "*The Art of War by Sun Tzu: http://web.stanford.edu/class/polisci211z/1.1/Sun%20Tzu.pdf ",
+        "*The Talented Tenth by W.E.B. DuBois: http://teachingamericanhistory.org/library/document/the-talented-tenth/ ",
+        "*Groundwork for the Metaphysic of Morals by Immanuel Kant: http://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf ",
+        "*The Prince by Niccolo Machiavelli: http://www.constitution.org/mac/prince.pdf ",
+        "*All Animals Are Equal by Peter Singer: http://spot.colorado.edu/~heathwoo/phil1200,Spr07/singer.pdf"
+      ]
+    }
   }
 }

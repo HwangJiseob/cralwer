@@ -984,7 +984,23 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Thad Godish, Indoor Environment Quality, 2001, Lewis\r",
+        "John D. Spengler, Jonathan M. Samet, and John F. McCarthy, Indoor Air Quality \r",
+        "Handbook, 2001, McGraw-Hill\r",
+        "Beat Meyer, Indoor Air Quality, 1983, Addison-Wesley Publishing Company\r",
+        "Elisabeth Mundt, Hans Martin Mathisen, Peter V. Nielsen, and Alfred Mosel, V\r",
+        "Ventilation Effectiveness, 2004, REHVA\r",
+        "ASHRAE Handbook – Fundamentals, 1993\r",
+        "손부순, 양원호, 실내공기오염, 2003, 신광문화사\r",
+        "금종수(역), 100만인의 공기조화, 1995, 한미\r",
+        "이경회, 건축환경계획, 2002, 문운당\r",
+        "최신건축환경공학, 1990, 기술문화사 \r",
+        "풍공학연구소, 빌딩풍의 지식, 2002, 일광"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

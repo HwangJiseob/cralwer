@@ -65,5 +65,16 @@
         "비고": ""
       }
     ]
+  },
+  "20181": {
+    "LECT_DATA": {
+      "학정번호": "STA1001-16-02",
+      "과목명": "통계학입문"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Probability and Statistics (Walpole & yers & Myers/9th edi.)-will be provided"
+      ]
+    }
   }
 }

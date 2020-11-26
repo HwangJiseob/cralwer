@@ -1880,6 +1880,20 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 한국 영화사 : 開化期에서 開花期까지/김미현/커뮤니케이션북스/2006",
+        "\r○ Horror to the extreme : changing boundaries in Asian cinema/Choi, Jinhee/Hong Kong University Press ; Eurospan [distributor],/2009",
+        "\r○ South Korean golden age melodrama : gender, genre, and national cinema/McHugh, Kathleen/Wayne State University Press/2005",
+        "\r○ Virtual hallyu : Korean cinema of the global era/김경현/Duke University Press/2011",
+        "\r○ 콘크리트 유토피아/박해천/자음과모음/2011",
+        "\r○ 한국 디자인의 문명과 야만/최범/안그라픽스/2016",
+        "\r○ 한국영화와 근대성 : 자유부인에서 안개까지/주유신/소도/2001",
+        "\r○ 식민적 근대성과 한국영화 : 조선영화와 충무로 영화의 역사적 문화상상/주창규 朱昶奎/소명출판/2013",
+        "\r○ 한국영화의 존재방식과 광학적 무의식/박명진/경진/2012",
+        "\r○ 한국영화의 미학과 역사적 상상력/김동식/소도/2006"
+      ]
+    }
   }
 }

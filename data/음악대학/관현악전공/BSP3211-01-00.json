@@ -704,7 +704,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "W. A. Mozart : Die Zauberfloete 마술피리",
+        "E. Grieg : Peer Gynt Suites 1&2",
+        "J. Sibelius : Valse Triste, Violin Cocerto"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

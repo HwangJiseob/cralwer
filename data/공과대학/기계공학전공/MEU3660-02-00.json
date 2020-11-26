@@ -2456,6 +2456,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(1) 재료거동학 교재: \"Mechanical Behavior of Materials\", 4th Ed., Norman E. ",
+        "Dowling, Pearson",
+        "",
+        "(2) 공학재료 교재: \"Fundamentals of Materials Science and Engineering\", 5th ",
+        "Edition, William D. Callister & David G. Rethwisch, Wiley & Sons, Inc.,"
+      ]
+    }
   }
 }

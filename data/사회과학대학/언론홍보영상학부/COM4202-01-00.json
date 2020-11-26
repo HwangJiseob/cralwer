@@ -2697,7 +2697,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Web scraping with Python : collecting data from the modern web/Mitchell, Ryan/O'Reilly/2015",
+        "\r○ The Quick Python Book, Second Edition/Vernon L. Ceder/Manning Publications/2010",
+        "\r○ Mastering Gephi Network Visualization/Ken Cherven/Packt Publishing - ebooks Account/2015",
+        "\r○ Dipanjan Sarkar (2016) Text Analytics with Python: A Practical Real-World Approach to Gaining Actionable Insights from your Data"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

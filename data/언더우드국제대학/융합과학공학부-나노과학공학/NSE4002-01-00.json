@@ -216,5 +216,16 @@
         "비고": ""
       }
     ]
+  },
+  "20181": {
+    "LECT_DATA": {
+      "학정번호": "NSE4002-01-00",
+      "과목명": "SOFT MATERIALS AND PROCESSING"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

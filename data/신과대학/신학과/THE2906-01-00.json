@@ -1485,7 +1485,19 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ On the mystery : discerning divinity in process/Keller, Catherine/Fortress Press/2008",
+        "\r○ 신은 낙원에 머물지 않는다 : 연민하며 저항하는 사랑의 주를 찾아서/Johnson, Elizabeth A./북인더갭/2013",
+        "\r○ Elizabeth A. Johnson, Quest for the Living God: Mapping Frontiers in the Theology of God (New York: Continuum, 2007). ",
+        "",
+        "* 서평용 도서 ",
+        "",
+        "사토 미쓰로, <하느님과의 수다>, 이윤경 역 (서울: 인빅투스, 2014).  ",
+        "한스 라트(Hans Rath), ,<그리고 신은 얘기나 좀 하자고 말했다>(Und Gott Sprach: Wir Muessen Reden!), 박종대 역 (경기 파주: 열린책들, 2015)."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

@@ -3132,7 +3132,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: Noel de Nevers, \"Fluid Mechanics for Chemical Engineers\"",
+        "부교재: James R. Welty, \"Fundamentals of Momentum, heat, and mass transfer\""
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

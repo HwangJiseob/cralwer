@@ -2034,7 +2034,33 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재\r",
+        "홍세원, 『A History of Western Music 서양음악사<제2판>, 1권』. 서울: 연세대학교 \r",
+        "대학출판문화원, 2014.\r",
+        "\r",
+        "참고문헌\r",
+        "홍정수.허영한.오희숙.이석원, “서양음악사”,『음악학』. 서울: 심설당, 2004, \r",
+        "pp.111-134.\r",
+        "\r",
+        "김미옥,  『중세 음악 역사·이론』 . 서울: 심설당, 2005.\r",
+        "\r",
+        "Ulrich MICHELS, 홍정수/조선우 역, 『음악은이』. 서울: 음악춘추사, 2005.\r",
+        "\r",
+        "Willi Apel, Die Notation der polyphonen Musik, Wiesbaden: Breitkopf & Härtel, \r",
+        "1989.\r",
+        "\r",
+        "Brockhaus Rieman Musiklexikon(Digitale Bibliothek Band 38), Berlin 2000(이후).\r",
+        "\r",
+        "Die Musik in Geschichte und Gegenwart(Elektronische Ausgabe der ersten Auflage: \r",
+        "1949-1986 – digitale Bibliothek Band 60), Berlin 2001(이후).\r",
+        "\r",
+        "The New GROVE Dictionary of Music and Musicians, edited by STANLEY SADIE (20 \r",
+        "volumes), London 1980(이후)."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

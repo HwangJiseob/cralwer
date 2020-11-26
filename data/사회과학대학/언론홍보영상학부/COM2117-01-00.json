@@ -4004,7 +4004,25 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재: 추후 공지",
+        "",
+        "참고 문헌:",
+        "   강상현, 채백 엮음. 2009. 디지털시대 미디어의 이해와 활용. 한나래",
+        "   윤영철. 2001. 한국민주주의와 언론. 유민문화재단",
+        "   Denis McQuail. 2010 or 2005. McQuail`s mass communication theory (6th or ",
+        "       5th Ed.). SAGE. 양승찬, 이강형 역, 2008, 매스커뮤니케이션 이론 (5판). ",
+        "       나남",
+        "   Stanley J. Baran & Dennis K. Davis. 2015 or 2012. Mass communication ",
+        "      theory: Foundations, ferment, and future (6th Ed. or 7th Ed.). Wadsworth ",
+        "      Cengage Learning.",
+        "   Lawrence Grossberg, Ellen Wartella, & D. Charles Whitney. 1998. ",
+        "      Mediamaking: Mass media in a popular culture. Sage Publications.",
+        "   Ian Deereux. (2014). Understanding the media, 3rd edition. 심두보 역 (2014). 미디어의 이해 3판. 명인문화사."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

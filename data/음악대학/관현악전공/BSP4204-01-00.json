@@ -269,6 +269,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : 바로크 음악 연주하기(양승렬 번역) 상지원\r",
+        "           Performing Baroque Music - Mary Cry \r",
+        "\r",
+        "DIe Musik des Barock und ihre Regeln - J-C Veilhan, Alphonse - Paris,\r",
+        "The Art of Playing on the Violin - F.Geminiani,\r",
+        "Versuch einer grundlichen Violinschule - Leopold Mozart,\r",
+        "Alte Musik fuer Liebhaber - Baerenreiter Kassel.Basel,"
+      ]
+    }
   }
 }

@@ -4880,7 +4880,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재:  ICT 융합시대의 컴퓨터과학, 최윤철 지음, 2017. 7, 생능출판",
+        "",
+        "참고서적:  Computer Science: An Overview, 11th Edition, 2012, Brookshear",
+        "Published by Pearson"
+      ]
+    }
   },
   "20182": {
     "CAUTION": {

@@ -1162,7 +1162,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Course Materials:",
+        "Books",
+        "Required:",
+        "- Gareth Jones and Jennifer George. Essentials of Contemporary Management, 6th Ed., McGraw Hill.",
+        "",
+        "* Additional reading materials will be announced in the class."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

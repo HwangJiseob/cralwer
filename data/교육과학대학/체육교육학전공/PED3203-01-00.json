@@ -502,7 +502,25 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Required text:\r",
+        "Starkey, C. & Ryan, J. Orthopedic Athletic Injury Evaluation Handbook.  2003. \r",
+        "F.A. Davis.\r",
+        "Required Readings:\r",
+        "You are expected to read a chapter from one or more of these texts prior to \r",
+        "the presentation of the topic in class:\r",
+        "Starkey, C. & Ryan, J.  Evaluation of Orthopedic and Athletic Injuries, 2002. \r",
+        "F.A. Davis \r",
+        "Shultz, S., Perrin, D. & Houglum, P.  Assessment of Athletic Injuries, 2000 \r",
+        "Human Kinetics \r",
+        "McGee, D.  Orthopedic Physical Assessment, W.B. Saunders\r",
+        "Prentice, W.  Arnheim’s Principles of Athletic Training,  McGraw-Hill\r",
+        "Anderson, M. , Hall, S. & Martin, M.  Sports Injury Management, Lippencott, \r",
+        "Williams and Wilkins"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

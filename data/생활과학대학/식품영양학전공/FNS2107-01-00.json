@@ -1872,7 +1872,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Essentials of food science/Vaclavik, Vickie/Kluwer Academic/Plenum Publishers/2003",
+        "\r○ Understanding food : principles and preparation/Brown, Amy C./Cengage Learning/2013",
+        "\r○ On Food and Cooking: The Science and Lore of the Kitchen/Harold McGee/Scribner/2004",
+        "\r○ Foods : a scientific approach/Charley, Helen/Merrill/1998",
+        "\r○ Introductory foods/Bennion, Marion/Prentice Hall/2010",
+        "\r○ The science of cooking : understanding the biology and chemistry behind food and cooking/Provost, Joseph J/Wiley/2016",
+        "\r○ What Einstein told his cook : kitchen science explained/Wolke, Robert L/W.W. Norton & Co./2002",
+        "\r○ What Einstein told his cook 2 : the sequel : further adventures in kitchen science/Wolke, Robert L/W. W. Norton & Co./2005"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

@@ -71,6 +71,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Download from the YSCEC ",
+        "Reference Book: Schwab, Klaus (2017), The Fourth Industrial Revolution, New York :Crown Business (ISBN: 9781524758868) -available from the University Library."
+      ]
+    }
   }
 }

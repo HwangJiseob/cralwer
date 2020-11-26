@@ -212,7 +212,18 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 나니아 연대기 사자, 마녀 그리고 옷장 / [비디오녹화자료]/Adamson, Andrew/케이디미디어/2006",
+        "\r○ 트루먼쇼 [비디오녹화자료]/Weir, Peter/Paramount home pictures : 새롬엔터테인먼트/2001",
+        "\r○ 브루스 올마이티 [비디오녹화자료]/Shadyac, Tom/브에나 비스타 홈 엔터테인먼트/2003",
+        "\r○ The language of God : a scientist presents evidence for belief/Collins, Francis S./Free Press/2006",
+        "\r○ Call to commitment : the story of the Church of the Saviour, Washington, D.C/O'Connor, Elizabeth/Harper & Row/1963 / [1st ed.]",
+        "\r○ 맬컴 X Vs. 마틴 루터 킹/Cone, James H/갑인공방/2005",
+        "\r○ Christian theology : an introduction/McGrath, Alister E./Wiley-Blackwell/2011 / 5th ed"
+      ]
+    }
   },
   "20182": {
     "CAUTION": {

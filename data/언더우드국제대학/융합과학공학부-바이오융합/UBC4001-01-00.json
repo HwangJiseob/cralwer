@@ -261,7 +261,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Please see the following web address.\r",
+        "\r",
+        "http://uic.yonsei.ac.kr/main/news.asp?act=view&mid=m06%5F01%5F02&cmid=m06%\r",
+        "5F01%\r",
+        "5F02&bid=30&sOpt=&pact=&hSel=&hYear=&page=1&keyword=&uid=&idx=4394&ddx=0&sdx=0"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

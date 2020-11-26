@@ -728,7 +728,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Introduction to electrodynamics/Griffiths, David J. (David Jeffery)/Pearson/2013 / 4th ed",
+        "\r○ Electricity and magnetism/Purcell, Edward M/Cambridge University Press/2012 / 3rd ed"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

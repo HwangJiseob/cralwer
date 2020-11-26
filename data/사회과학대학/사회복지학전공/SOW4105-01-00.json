@@ -1886,7 +1886,21 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Anheier, Helmut K. (2007). Nonprofit Organizations: Theory, Management, Policy. Routlege. ",
+        "Drucker, Peter F. (1990). Managing the Non-profit Organization: Principles and Practices. Harper Business. (번역본이 도서관에 있음)",
+        "Salamon, Lester M. (2004). America's Nonprofit Sector: a Primer. (번역본이 도서관에 있음)",
+        "황성철, 정무성, 강철희, 최재성 (2003). 사회복지행정론. 현학사.",
+        "",
+        "Bryce, Herrington J. (2000). Financial and Strategic Management for Nonprofit Organizations (3rd edition). Jossey-Bass.",
+        "Dees, J. Gregory, Emerson, Jed, and Economy, Peter (2001). Enterprising Non-profits. Wiley Nonprofit Series. ",
+        "Edwards, Richard L., Yankey, John A., and Altpeter, Mary A. (2004). Skills for Effective Management of Nonprofit Organizations. NASW Press.",
+        "Herman, Robert D. ed. (1994). The Jossey-Bass Handbook of Nonprofit Leadership and Management. Jossey-Bass.",
+        "Robbins, Stephen P. and Coulter, Mary(2001). Management (7th edition). Prentice-Hall."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

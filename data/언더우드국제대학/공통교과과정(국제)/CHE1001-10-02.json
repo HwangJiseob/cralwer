@@ -277,5 +277,16 @@
         "비고": ""
       }
     ]
+  },
+  "20181": {
+    "LECT_DATA": {
+      "학정번호": "CHE1001-10-02",
+      "과목명": "일반화학및실험(1)"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Chemistry : the central science/Brown, Theodore L./Pearson/2015"
+      ]
+    }
   }
 }

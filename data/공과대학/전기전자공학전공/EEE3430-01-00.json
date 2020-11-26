@@ -2235,7 +2235,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: Fundamentals of Communication Systems, second edition \r",
+        "        John G. Proakis and Masoud Salehi, Pearson\r",
+        "\r",
+        "부교재: Principles of Communications: Systems, Modulation, and Noise\r",
+        "         Rodger E. Ziemer/William H. Tranter"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

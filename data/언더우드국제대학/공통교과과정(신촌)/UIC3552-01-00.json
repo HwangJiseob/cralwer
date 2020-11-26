@@ -654,6 +654,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Kant, Prolegomena to Any Future Metaphysics",
+        "Kant, Groundwork of the Metaphysics of Morals",
+        "Hegel, Introduction to the Philosophy of History",
+        "Schelling, Philosophical Investigations into the Nature of Human Freed",
+        "Nietzsche, Genealogy of Morals",
+        "Marx, Theses on Feuerbach, German Ideology, Communist Manifesto"
+      ]
+    }
   }
 }

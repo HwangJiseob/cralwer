@@ -237,6 +237,23 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 첫눈에 반한 커뮤니케이션 이론/Griffin, Emory A./커뮤니케이션북스/2012 / 번역 개정판",
+        "\r○ 왜 미디어를 연구하는가?/Silverstone, Roger/커뮤니케이션북스/2009",
+        "\r○ 미디어 생태학 사상 : 문학, 기술, 그리고 커뮤니케이션/Lum, Casey Man Kong/한나래/2008",
+        "\r○ 제7의 감각, 초연결지능 : 네트워크 시대의 권력, 부, 생존/Ramo, Joshua Cooper/미래의창/2017",
+        "\r○ 커넥토그래피 혁명 : 글로벌 연결 혁명은 어떻게 새로운 미래를 만들고 있는가/Khanna, Parag/사회평론/2017",
+        "\r○ (에릭 슈미트) 새로운 디지털 시대 : 사람, 국가, 비즈니스의 미래를 다시 쓰다/Schmidt, Eric/알키/2013",
+        "\r○ 종교, 미디어, 감각/이창익/모시는사람들/2016",
+        "\r○ Key words in religion, media and culture/Morgan, David/Routledge/2008",
+        "\r○ Networked theology negotiating faith in digital culture/Campbell, Heidi/Baker Academic, a division of Baker Publishing Group/2016",
+        "\r○ Digital religion : understanding religious practice in new media worlds/Campbell, Heidi/Routledge/2013",
+        "\r○ When religion meets new media/Campbell, Heidi/Routledge/2010 / 1st ed",
+        "\r○ Belief in media : cultural perspectives on media and Christianity/Horsfield, Peter G/Ashgate/2004",
+        "\r○ From Jesus to the internet : a history of Christianity and media/Horsfield, Peter G/Wiley Blackwell/2015"
+      ]
+    }
   }
 }

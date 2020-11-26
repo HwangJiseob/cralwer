@@ -2962,7 +2962,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재:",
+        "Numerical Methods for Engineers",
+        "S.C. Chapra, R.P. Canale",
+        "7th Ed. McGraw-Hill",
+        "ISBN: 978-0-07-339792-4",
+        "2015",
+        "",
+        "부교재:",
+        "공학도를 위한 수치해석 (Numerical Methods for Engineers)",
+        "신동신,나 양,이승배,임윤철 공역 (Chapra & Canale 공저)",
+        "맥그로힐에듀케이션코리아",
+        "ISBN: 979-11-321-0085-0 93550",
+        "2016"
+      ]
+    }
   },
   "20182": {
     "CAUTION": {
