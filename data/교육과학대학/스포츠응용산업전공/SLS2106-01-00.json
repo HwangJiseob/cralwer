@@ -719,7 +719,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Kim, B. W., & Kim, J, R. (1985). Jonghap Taekwondo Junsuh. Seoul: Surim."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

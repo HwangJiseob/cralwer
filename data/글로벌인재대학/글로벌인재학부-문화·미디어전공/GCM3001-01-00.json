@@ -156,6 +156,25 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "개인 노트북/스마튼 폰 준비/ 영상자료(문헌자료 및 영상 콘텐츠 )\r",
+        "* 기타 수업 시간에 필요한 자료 제공 공지/\r",
+        "\r",
+        "- 온라인 동영상자료(http://ydec.yonsei.ac.kr/ydec/center_edu/online_edu.do)\r",
+        "- ADOBE 제공 영상교재 및 자료 제공 \r",
+        "- 문화콘텐츠 관련 컬럼 공유\r",
+        "\r",
+        "- Adobe Creative Campus (2017~2018) 발표 자료\r",
+        "- Korean Sprit in Design (CD-ROM / Innovative Design lab of Samsung 1998)\r",
+        "- Sting Multimedia\r",
+        "\r",
+        "- 특별기획전시: 황금문명 엘도라도 - 신비의 보물을 찾아서 / 기간: 2018.07.30 ~ \r",
+        "10.28   장소: 국립중앙박물관 기획전시실 ( \r",
+        "http://www.museum.go.kr/site/main/home ) 기획: 국립중앙박물관 / 미디어아트 예술\r",
+        "감독 : 김형수교수"
+      ]
+    }
   }
 }

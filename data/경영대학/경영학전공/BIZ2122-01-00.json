@@ -3421,7 +3421,26 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "[Textbook] ",
+        "Management Science Modeling, Albright & Winston",
+        "[Reference]",
+        "Introduction to Mathematical Programming, Winston & Venkataramanan, ISBN 0-534-",
+        "35964-7, Duxbury Press.",
+        "[Cases]",
+        "1. Gerald Brown, Joseph Keegan (2001), “The Kellogg company optimizes ",
+        "production, inventory, and distribution,” Interfaces, vol. 31 no. 6, p.1-15.",
+        "2. Ronald A. Howard (2001), “The ethical OR/MS professional,’ Interfaces, ",
+        "vol. 31 no. 6, p.69-82.",
+        "3. Frederic H. Murphy (2001), “The practice of operations research and the ",
+        "role of practice and practitioners in INFORMS,” Interfaces, vol. 31 no. 6, ",
+        "p.98-111.",
+        "4. Phillip E. Pfeifer, Samuel E. Bodily (2001), “Preparing our student to be ",
+        "newsvendors,” Interfaces, vol. 31 no. 6, p.112-122."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

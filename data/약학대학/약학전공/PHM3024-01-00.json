@@ -1633,7 +1633,22 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 제제학/약제학분과회/신일서적/2018",
+        "\r○ Textbook",
+        "-Ansel`s Pharmaceutical. Dosage Forms and. Drug Delivery Systems. NINTH ",
+        "EDITION. Loyd V. Allen, Jr., PhD. ",
+        "",
+        "-제제학(2018, 신일상사)",
+        "",
+        "Reference Books",
+        "",
+        "- Aulton`s Pharmaceutics: The Design And Manufacture of Medicines",
+        "Michael E. Aulton Churchill Livingstone, 2007."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

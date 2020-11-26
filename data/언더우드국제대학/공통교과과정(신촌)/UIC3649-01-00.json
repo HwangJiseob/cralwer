@@ -925,7 +925,31 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "The Wire will be watched in the classroom and the library. A course reader containing the critical essays ",
+        "will be available for purchase:",
+        "",
+        "Paul Allen Anderson: “‘The Game Is the Game’: Tautology and Allegory in The Wire”",
+        "Eric Beck: “Respecting the Middle: The Wire's Omar Little as Neoliberal Subjectivity”",
+        "Robert LeVertis Bell: “‘Precarious Lunch’: Conviviality and Postlapsarian Nostalgia in The Wire’s Fourth Season”",
+        "Leigh Claire La Berge: “Capitalist Realism and Serial Form: The Fifth Season of The Wire”",
+        "Adrienne Brown: “Constrained Frequencies: The Wire and the Limits of Listening”",
+        "Anmol Chaddha and William Julius Wilson: “‘Way Down in the Hole’: Systemic Urban Inequality and The Wire”",
+        "Paul M. Farber: “The Last Rites of D’Angelo Barksdale: The Life and Afterlife of Photography in The Wire”",
+        "Hua Hsu: “Walking in Someone Else’s City: The Wire and the Limits of Empathy”",
+        "Patrick Jagoda: “Wired”",
+        "Fredric Jameson: “Realism and Utopia in The Wire”",
+        "Caroline Levine: Forms: Whole, Rhythm, Hierarchy, Networks",
+        "Chris Love: “Greek Gods in Baltimore: Greek Tragedy and The Wire”",
+        "Mark Anthony Neal: “‘A Man without a Country’: The Boundaries of Legibility, Social Capital, and Cosmopolitan Masculinity",
+        "James Braxton Peterson: “The Depth of the Hole: Intertextuality and Tom Waits’s ‘Way Down in the Hole’”",
+        "David Simon: The Wire (5 seasons)",
+        "Kenneth M. Warren: “Sociology and The Wire”",
+        "Linda Williams: “Ethnographic Imaginary: The Genesis and Genius of The Wire”"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

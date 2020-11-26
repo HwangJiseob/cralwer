@@ -1879,7 +1879,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Newbold, Paul, William L. Carlson, and Betty M. Thorne. (2013), Statistics for Business and Economics. 8th ed. Upper Saddle River, NJ: Pearson Prentice Hall."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

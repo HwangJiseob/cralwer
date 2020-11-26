@@ -2280,7 +2280,13 @@
         "수강여부": "O",
         "비고": "*교환학생"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Kotabe, Masaaki & Kristian Helsen, International Marketing, Sixth Edition, ",
+        "Wiley, 2015"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

@@ -169,7 +169,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Jill Bennett, “Living in the Anthropocene,” from 100 Notes, 100 Thoughts: Documenta Series 053 (Hatje Cantz 2012; ISBN 978-3775729024)",
+        "Arundhati Roy, The God of Small Things (Harper-Perennial 1997; ISBN 978-0812979657 )"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

@@ -419,5 +419,16 @@
         ""
       ]
     }
+  },
+  "20182": {
+    "LECT_DATA": {
+      "학정번호": "BIZ3340-01-00",
+      "과목명": "ENTREPRENEURSHIP AND STRATEGY"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

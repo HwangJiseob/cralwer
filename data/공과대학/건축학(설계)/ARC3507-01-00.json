@@ -2355,7 +2355,33 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "<교재: 특별한 교재없음>",
+        "for further individual study :",
+        "",
+        "Architecture Culture 1943-1968, Joan Ockman, 1993",
+        "Building Ideas, Jonathan Hale",
+        "Constructing A New Agenda-Architecture Theory 1993-2009, A. Krista Sykes editor,2010",
+        "Rethinking Architecture A Reader in Cultural Theory, Neil Leach editor,1997",
+        "The Image of the City, Kevin Lynch",
+        "Theorizing A New Agenda For Architecture 1965~1995, Princeton Architectural Press",
+        "Why Architecture Matters, Paul Goldberger",
+        "건축과 감각, Juhani Pallasmaa, 김훈 역, 시공문화사",
+        "공간 공감, 김종진, 효형출판",
+        "박물관이 나에게 말을 걸다, 성혜영, 휴머니스트",
+        "풍경류행, 백진, 효형출판",
+        "20세기 건축의 모험, 이건섭, 수류산방",
+        "건축 음악처럼 듣고 미술처럼 보다, 서현, 효형출판",
+        "김봉렬의 한국건축이야기 1/2/3권, 김봉렬, 돌베개",
+        "재미있는 건축이야기, 루이스 헬만, 국제",
+        "공간이 사람을 움직인다, 콜린 엘러드, 더 퀘스트",
+        "행복의 건축, 알랭 드 보통, 이레",
+        "건축을 뒤바꾼 아이디어 100, 리차드 웨스턴, SEEDPOST",
+        "교양으로 읽는 건축, 임석재, 인물과 사상사"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

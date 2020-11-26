@@ -659,5 +659,16 @@
         "비고": "교환학생"
       }
     ]
+  },
+  "20182": {
+    "LECT_DATA": {
+      "학정번호": "BIZ3134-04-00",
+      "과목명": "국제경영론"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Global business today/Hill, Charles W. L/McGraw-Hill Education/2018 / 10th ed"
+      ]
+    }
   }
 }

@@ -221,5 +221,16 @@
         "비고": ""
       }
     ]
+  },
+  "20182": {
+    "LECT_DATA": {
+      "학정번호": "CLC1002-01-00",
+      "과목명": "INTRODUCTION TO CULTURAL STUDIES"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

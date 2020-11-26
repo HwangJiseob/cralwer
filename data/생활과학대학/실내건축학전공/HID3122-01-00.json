@@ -745,7 +745,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: USGBC LEED v4 for Interior Design + Construction ",
+        "부교재: Green Studio Design Handbook",
+        "(구입할 필요는 없음)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

@@ -1893,7 +1893,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- Brooks, Michael P. 2002. Planning Theory for Practitioners. Chicago, IL: Planners Press, American Planning Association. (지정도서) [BR]",
+        "- Dicken, Peter. 2015. Global Shift: Mapping the Changing Contours of the World Economy. 7th ed. New York, NY: Guilford Press. (지정도서). 구양미, 안영진, 이병민, 이승철, 정수열 옮김. 2014. 세계경제공간의 변동. 제6판. 서울 : 시그마프레스. [DK]",
+        "- Malizia, Emil E., and Edward J. Feser. 1999. Understanding Local Economic Development. New Brunswick, NJ: Center for Urban Policy Research, Rutgers?the State University of New Jersey. (지정도서) [MF]",
+        "- Pike, Andy, Andr?s Rodr?guez-Pose, and John Tomaney. 2006. Local and Regional Development. London, UK: Routledge. (지정도서 및 학술정보원 eBook) [PK]",
+        "- Pike, Andy, Andr?s Rodr?guez-Pose, and John Tomaney. 2017. Local and Regional Development. 2nd ed. London, UK: Routledge. [PK2]",
+        "- Sassen, Saskia. 2018. Cities in a World Economy. 5th ed. Thousand Oaks, CA: Sage Publications. 남기범, 이원호, 유환종, 홍인옥 옮김. 2016. 사스키아 사센의 세계경제와 도시. 제4판. 서울 : 푸른길. [SS]",
+        "- Weaver, Clyde. 1984. Regional Development and the Local Community: Planning, Politics and Social Context. Chichester, UK: John Wiley & Sons. (지정도서) [WV]",
+        "- 김용웅, 차미숙, 강현수. 2009. 신지역발전론. 파주 : 한울아카데미. (지정도서) [KCK]",
+        "- 대한국토·도시계획학회(편). 2009. 국토·지역계획론. 3정판. 서울 : 보성각. [KPA]"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

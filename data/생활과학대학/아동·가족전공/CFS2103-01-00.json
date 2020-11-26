@@ -649,7 +649,15 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 영아발달/이영, 이미란 외/학지사/2015.",
+        "○ 영아발달과 반응적 교육/이승연, 김은영, 강재희, 문혜련, 이성희 역/학지사/2011.",
+        "○ 아동발달/이종숙 외 역/시그마프레스/2015.",
+        "○ Development in Infancy : An Introduction/Bornstein, M., Arterberry, M., & Lamb, M./Taylor & Francis/2013."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

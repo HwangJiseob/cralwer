@@ -4455,7 +4455,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Magnificat : for soprano or mezzo-soprano solo, mixed choir, and chamber orchestra with organ/Rutter, John/Oxford University Press/2012",
+        "\r○ 아름다운 소리 만들기 : 합창과 개인 발성지도를 위한 간단하고 이해하기 쉬운 학습서/Nesheim, Paul/중앙아트/2006"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

@@ -3421,7 +3421,25 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 커뮤니케이션과 사회 변동 : 미디어 기술이 과연 세상을 바꾸는가/강상현 姜尙炫/컬처룩/2015",
+        "\r○ Theories of the information society/Webster, Frank/Routledge/2014 / 4th ed",
+        "\r○ Automatic society . v. 1, The future of work/Stiegler, Bernard/Polity Press/2016",
+        "\r○ Culture and economy in the age of social media/Fuchs, Christian/Routledge/2015",
+        "\r○ 정보자본주의/백욱인/커뮤니케이션북스/2013",
+        "\r○ 네트워크의 부 : 사회적 생산은 시장과 자유를 어떻게 바꾸는가/Benkler, Yochai/커뮤니케이션북스/2015",
+        "\r○ 데이터 사회의 명암/조현석/한울아카데미/2017",
+        "\r○ 초연결사회 : 인터넷, 디지털 미디어, 그리고 기술-사회 생활/Chayko, Mary/한울아카데미/2018",
+        "\r○ 감시사회로의 유혹/Lyon, David/후마니타스/2014",
+        "\r○ 현대 기술·미디어 철학의 갈래들/이광석/그린비/2016",
+        "\r○ 인간 사물 동맹 : 행위자네트워크 이론과 테크노사이언스/Latour, Bruno/이음/2010",
+        "\r○ 주교재는 <커뮤니케이션과 사회변동>(강상현 저)입니다.",
+        "부교재는 <현대정보사회이론> (프랭크 웹스터 저 / 조동기 역) (나남출판사)입니다.",
+        "주/부 교재 이외에 의무적인 리딩 자료나 읽을거리는 추후 수시 제공."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

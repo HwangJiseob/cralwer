@@ -827,7 +827,21 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재: ",
+        "유인물",
+        "",
+        "참고문헌: ",
+        "1. 구강, 김성동, 김영호 외(2012), 기능성 섬유가공 제2판, 교문사.",
+        "2. 신인수, 홍경옥, 유복선(2007), 섬유 신소재 강의, 경춘사. ",
+        "3. 조길수, 정혜원, 송경헌 외(2007), 새로운 의류소재학, 동서문화원.",
+        "4. 공석붕, 소황옥(2004), 패션 소재론, 경춘사.",
+        "5. Tyrone, L.V. (1994), Textile Processing and Properties: Preparation, Dyeing, Finishing and Performance, Elsevier.   ",
+        "6. Hongu, T., Phillips, G.O., Takigami, M. (2005), New Millennium Fibers, Woodhead Publishing Limited."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

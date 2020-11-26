@@ -780,6 +780,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "D. L. Nelson and M. M. Cox. Lehninger. Principles of Biochemistry. 6th Edition. Macmillan Higher Education."
+      ]
+    }
   }
 }

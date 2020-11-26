@@ -4747,7 +4747,13 @@
         "수강여부": "O",
         "비고": "*교환학생"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Managerial Accounting: An Asian Perspective, McGraw-Hill, International ",
+        "edition, 2nd edition by Garrison, Noreen, Brewer, Cheng, and Yuen"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

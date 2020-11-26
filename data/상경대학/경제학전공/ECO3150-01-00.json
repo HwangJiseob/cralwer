@@ -4666,7 +4666,22 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(1) YSCEC에 upload하는 강의노트",
+        "(2) 참고문헌",
+        "    1) Wolff, Edward, Poverty and Income Distribution, 2nd ed., Wiley ",
+        "and               Blackwell, 2009.",
+        "    2) G. Borjas, Labor Economics, 7th edition, McGraw-Hill, 2016.",
+        "        (번역서: 강창희, 박철성, 송헌재 역, 노동경제학, 시그마프레스)",
+        "    3) J. E. Stiglitz, The Price of Inequality. Norton, 2012(역서: 『불평",
+        "등               의 대가』, 열린책들, 2013).",
+        "   4) A. Deaton, The Great Escape: Health, Wealth and the origins of i",
+        "inequality, Princeton Univ. Press, 2013.",
+        "* 참고문헌 중 1)과 2)의 번역서는 학술정보원의 지정도서로 되어 있음."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

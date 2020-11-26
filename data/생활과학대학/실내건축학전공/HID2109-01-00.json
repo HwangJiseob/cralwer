@@ -843,7 +843,23 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1.교재\r",
+        "이연숙 실내디자인양식사(1998)  연세대학교출판부\r",
+        "\r",
+        "2.참고문헌\r",
+        "이연숙 서양의 실내공간과 가구의 역사  경춘사\r",
+        "존 파일  실내디자인사(2005)   서우\r",
+        "Harward, May, Sherman   Architecture and Interior Design the 18th Century, Vol.1\r",
+        "Haarward, May, Sherman  Architecture and Interior Design the 19th Century, Vol.2\r",
+        "Sherwood  Homes and Interiors(7th edition)\r",
+        "S.Whiton and S.Abercrobie  Interior Design and Decoration   Prentice-Hall\r",
+        "Judith Miller  Furniture: World Styles from Classical to Contemporary\r",
+        "L.Pina    Furniture in History 3000 B.C.-2000 A.D."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

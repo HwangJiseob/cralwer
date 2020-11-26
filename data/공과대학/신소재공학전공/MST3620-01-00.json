@@ -2871,7 +2871,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: Introduction to Microelectronic Fabrication, 2nd ed. (2002), by R. C. Jaeger",
+        "보조교재: 유인물 및 Internet 배포(PPT)",
+        "참고문헌: 1. Silicon VLSI Technology, James D. Plummer et al.",
+        "               2. Introduction to Semiconductor Manufacturing Process, Hong Xia",
+        "               3. Microelectronics: Process and Device Design, Roy A Colclaser",
+        "               4. 실리콘 집적회로 공정기술 (이종덕)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

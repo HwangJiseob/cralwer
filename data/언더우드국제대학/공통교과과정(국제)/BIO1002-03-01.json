@@ -209,5 +209,16 @@
         "비고": ""
       }
     ]
+  },
+  "20182": {
+    "LECT_DATA": {
+      "학정번호": "BIO1002-03-01",
+      "과목명": "일반생물학및실험(2)"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Campbell, N. A., Reece, J. B., Urry, L. A., Cain, M. L., Wasserman, S. A., Minorsky, P. V., and R.B. Jackson. 2015. Biology, a Global Approach. 10th Edition. Pearson Education Ltd."
+      ]
+    }
   }
 }

@@ -184,6 +184,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ On the Genealogy of Morals and Ecce Homo/Nietzsche, Friedrich Wilhelm/Vintage Books/1967",
+        "\r○ Philosophical fragments, Johannes Climacus/Kierkegaard, Søren/Princeton University Press/1985",
+        "\r○ Reveries of the solitary walker/Rousseau, Jean-Jacques/Penguin Books/2004",
+        "\r○ Fear and trembling/Kierkegaard, Søren/Penguin Books ;/2003",
+        "\r○ The complete Essays/Montaigne, Michel de/Penguin Books/2003",
+        "\r○ Philosophical investigations/Wittgenstein, Ludwig/Wiley-Blackwell/2009 / Rev. 4th ed.",
+        "\r○ Camera lucida : reflections on photography/Barthes, Roland/Hill and Wang/1981 / 1st American ed"
+      ]
+    }
   }
 }

@@ -2893,7 +2893,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Elementary Surveying: An Introduction to Geomatics (Prentice Hall, Ghilani ",
+        "and Wolf, 13th Edition, 2012), ",
+        "2. 측량학개관 (박영사, 유복모 저)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

@@ -521,6 +521,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Cambridge English for Nursing Intermediate Plus Student's Book with Audio CDs (2) (Cambridge Professional English)/Patricia McGarr/Cambridge University Press/2008"
+      ]
+    }
   }
 }

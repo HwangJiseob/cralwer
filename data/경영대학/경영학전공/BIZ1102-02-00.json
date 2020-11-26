@@ -6311,7 +6311,13 @@
         "수강여부": "O",
         "비고": "*교환학생"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Organizational behavior/Robbins, Stephen P./Pearson/2017 / 17th ed., global ed",
+        "\r○"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

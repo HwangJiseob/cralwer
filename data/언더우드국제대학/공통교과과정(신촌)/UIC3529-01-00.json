@@ -255,7 +255,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Reading Packet (Masters, Anderson, Koch, Williams, Monaco, etc.)",
+        "",
+        "Figgis, Mike. The Thirty-Six Dramatic Situations. London: Faber & Faber, 2017.",
+        "",
+        "\"                 \"  Digital Filmmaking: Revised Edition. London: Faber & Faber, 2014."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

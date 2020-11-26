@@ -1478,7 +1478,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1) Ailson Booth, J. Paul Hunter, Kelly J. Mays, The Norton Introduction to ",
+        "Literature, Shorter 10th Edition (Norton) (구내 서점)",
+        " ",
+        "2) Sganarelle by Moliere  별도 구입."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

@@ -97,6 +97,10 @@ def initialize_search_code(driver):
     2020-11-25 국내교환대학 삭제
                계절학기 삭제
 
+    2020-11-26 의과대학 > 의학전공 삭제
+               치과대학은 삭제 대신
+               CRAWLER_SYLLABUS에서 CATEOGY에서 배제
+
     '''
 
     # 1-1. OCODE0의 모든 option들을 가져오기

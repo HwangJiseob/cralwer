@@ -283,7 +283,28 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "A course reader containing the following texts will be available for purchase:",
+        "",
+        "Simone de Beauvoir: The Second Sex",
+        "Susan Bordo: Unbearable Weight: Feminism, Western Culture, and the Body",
+        "Judith Butler: Gender Trouble",
+        "H?l?ne Cixous: “The Laugh of the Medusa” ",
+        "Sandra M. Gilbert and Susan Gubar: The Madwoman in the Attic",
+        "Annette Kolodny: “Dancing through the Minefield”",
+        "Julia Kristeva: Revolution in Poetic Language",
+        "Laura Mulvey: Visual Pleasure and Narrative Cinema",
+        "Claudia Rankine: Citizen: An American Lyric",
+        "Adrienne Rich: TBD",
+        "Elaine Showalter: “Feminist Criticism in the Wilderness”",
+        "Barbara Smith: “Toward a Black Feminist Criticism”",
+        "Monique Wittig: “One Is Not Born a Woman” ",
+        "Virginia Woolf: A Room of One’s Own; Three Guineas",
+        "Bonnie Zimmerman: “What Has Never Been: An Overview of Lesbian Feminist Literary Criticism”"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

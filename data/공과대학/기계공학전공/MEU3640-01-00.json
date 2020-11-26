@@ -1837,7 +1837,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재1 : Fluid Mechanics, by Munson, Okishi, Huebsch,and Rothmayer",
+        "                7th Ed. McGraw-Hill.",
+        "",
+        "주교재 2: Fluid Mechanics by White",
+        "                8th Ed. McGraw-Hill",
+        "",
+        "참고문헌 : 도서관에는 유치역학 관련 참고문헌이 수 십종 있으므로 이를 참고함."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

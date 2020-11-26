@@ -2873,7 +2873,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 한국 공기업의 이해/이상철 李相哲/대영문화사/2016 / 제3판",
+        "\r○ ",
+        "www.alio.go.kr",
+        "www.cleaneye.go.kr",
+        "www.lofin.mois.go.kr",
+        "www.law.go.kr",
+        "www.elis.go.kr"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

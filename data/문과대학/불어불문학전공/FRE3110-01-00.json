@@ -1781,7 +1781,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재:",
+        "시인별 대표 시작품들 프린트물(학기초 교수자가 배포)",
+        "",
+        "부교재:",
+        "Henri Lemaitre,\"La Poesie depuis Baudelaire\"",
+        "Marcel Raymond,\"De Baudelaire au Surrealisme\"",
+        "Bertrand Marcahl,\"Lire le Symbolisme\""
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

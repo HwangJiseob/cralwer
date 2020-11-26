@@ -4154,7 +4154,38 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Reading Lists",
+        "1.Venkatraman, V., The Digital Matrix, 2017, Ch. 2.",
+        "2.Van Alstyne, M. W., Parker, G. G. and Choudary, S. P., “플랫폼 생태계 부상에 따른 새로운 전략의 규칙,” Harvard Business Review Korea, April 2016.",
+        "3.McAfee, A. and Brynjolfsson, E., “Investing in the IT That Makes a Competitive Difference,” Harvard Business Review, July 2008.",
+        "4.McAfee, A., “What Every CEO Needs to Know About the Cloud,” Harvard Business Review, November 2011.",
+        "5.Antorini, Y. M., Muniz, A. M., and Askildsen, T., “Collaborating with Customer Communities: Lessons from the Lego Group,” MIT Sloan Management Review, Spring 2012.",
+        "6.Brynjolfsson, E., Hu, Y. J., and Smith, M. D., “From Niches to Riches: Anatomy of the Long Tail,” MIT Sloan Management Review, Summer 2006.",
+        "7.Gallaugher, J., Information Systems: A Manager’s Guide to Harnessing Technology, v. 6.0, FlatWorld Knowledge, August 2017, Ch. 7.",
+        "8.강승태, “Case Study: 업종 불문 영역 파괴자 아마존,” 매경 이코노미, 2017.3.22-3.28.",
+        "9.Gallaugher, J., Information Systems: A Manager’s Guide to Harnessing Technology, v. 6.0, FlatWorld Knowledge, August 2017, Ch. 18.",
+        "10.Ross, J. W., Beath, C. M. and Quadgras, A., “You May Not Need Big Data After All,” Harvard Business Review, December 2013.",
+        "11.Alber, L., “윌리암스-소노마 CEO가 말하는 직감과 데이터 분석의 조화,” Harvard Business Review Korea, September 2014.",
+        "12.서길수, 데이터베이스 관리 (제3판), 박영사, 2005, 7장~8장.",
+        "13.Pentland, A. S., “빅데이터 활용에 따른 커다란 책임,” Harvard Business Review Korea, November 2014.",
+        "14.Kotu, V and Deshpande, B., Predictive Analytics and Data Mining (데이터 과학: RapidMiner를 활용한 데이터 마이닝, 권영옥 외 역), 한티미디어, 2016, 1장, 3장, 4장, 7장.",
+        "15.Marchand, D. A. and Peppard, J., “Why IT Fumbles Analytics,” Harvard Business Review, January-February 2013.",
+        "16.Iansiti, M. and Lakhani, K. R., “블록체인에 관한 진실,” Harvard Business Review Korea, Jan-Feb. 2017.",
+        "17.Ali, R., Narula, N. and Ito, J. “인터넷은 미디어를 바꿨고 블록체인은 금융시스템을 바꾼다,” Harvard Business Review Korea, April 2017.",
+        "",
+        "Video Lists",
+        "1.Erik Brynjolfsson: The key to growth? Race with the machines",
+        "2.Andrew McAfee: What will future jobs look like",
+        "3.SalesForce.com: 클라우드 컴퓨팅이란?",
+        "4.Von Ahn, L., Massive-scale Online Collaboration.",
+        "5.Amazon: Dash, Echo, Go, Prime Air, and warehouse robots",
+        "6.Hans Rosling: The best stats you've ever seen",
+        "7.Don Tapscott: How the blockchain is changing money and business"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

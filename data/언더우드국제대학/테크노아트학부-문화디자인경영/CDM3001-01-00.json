@@ -500,7 +500,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Service design for business : a practical guide to optimizing the customer experience/Reason, Ben/John Wiley & Sons, Inc./2016"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {

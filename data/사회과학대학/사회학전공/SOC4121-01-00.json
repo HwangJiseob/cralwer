@@ -4027,7 +4027,15 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 사회조사방법론/Babbie, Earl R/센게이지러닝코리아/2013 / 제13판",
+        "\r○ The practice of social research/Babbie, Earl R/Cengage Learning/2016 / 14th ed",
+        "\r○ 연세인의 의식과 삶/강정한 姜政漢/연세대학교 출판문화원/2012",
+        "\r○ Bit by bit : social research in the digital age/Salganik, Matthew J./Princeton University Press/2018"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

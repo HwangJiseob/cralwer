@@ -1085,6 +1085,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "◆ 주교재 및 참고문헌\r",
+        "   (1) 강의용 OHP자료. \r",
+        "   (2) 교재에 없는 PPT 사용.\r",
+        "   (3) Electronic Materials, H. L. Kwok, PWS Publishing Company \r",
+        "      (수입처 교보문고). **절판됨**\r",
+        "   (4) 전자재료 (Electronic Materials, H. L. Kwok 저), \r",
+        "      서대식외 3인 공역, 대웅출판사. ** 절판됨 **\r",
+        "\r",
+        "   ** 교재건은 수업시간에 상의 예정임 **"
+      ]
+    }
   }
 }

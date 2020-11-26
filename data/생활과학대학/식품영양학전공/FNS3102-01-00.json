@@ -2229,7 +2229,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Nutrition through the life cycle/Brown, Judith E/Cengage Leaning/2017 / 6th ed",
+        "\r○ 주교재 :",
+        "1) 2015 한국인 영양소섭취기준. 보건복지부, 한국영양학회. ",
+        "",
+        "",
+        "",
+        "참교교재 : ",
+        "생애주기영양학 관련서적"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

@@ -3335,7 +3335,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Required Texts:",
+        "Lee, C. Y. et al. (2017). Theory and practice of community health nursing. (3rd ed.). Seoul: Hyunmoonsa.",
+        "Additional Texts: ",
+        "Lee, C. Y. (2012). Epidemiology and health promotion. Seoul: Soomunsa.",
+        "Stanhope, M., & Lancaster, J. (2013). Foundations of nursing in the community: Community-oriented practice. (4th ed.). St. Louis, MO: Elsevier.",
+        "Maurer, F. A., & Smith, C. M. (2013). Community/public health nursing practice: Health for families and populations. (5th ed.). St. Louis, MO: Elsevier.",
+        "Ministry of Health and Welfare. (2017). 2016 Health and Welfare White Paper. ",
+        "Retrieved from http://www.mohw.go.kr/react/jb/sjb030301ls.jsp?PAR_MENU_ID=03&MENU_ID=032903&page=5#"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

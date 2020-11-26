@@ -487,7 +487,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Nanochemistry : a chemical approach to nanomaterials/Ozin, Geoffrey A./Royal Society of Chemistry/2009 / 2nd ed"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

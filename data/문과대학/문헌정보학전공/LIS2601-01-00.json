@@ -787,7 +787,28 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Developing library and information center collections/Evans, G. Edward/Libraries Unlimited/2005 / 5th ed",
+        "\r○ 디지털시대의 장서관리/송영희/한국도서관협회/2011 / 제3판",
+        "\r○ Fundamentals of collection development and management/Johnson, Peggy/ALA Editions, an imprint of the American Library Association/2014 / 3rd ed",
+        "\r○ Fundamentals of collection development and management/Johnson, Peggy/American Library Association/2009 / 2nd ed",
+        "\r○ <교재에 대한 안내가 1주차 수업에서 제공되므로, 그 이전에 구입하지 말 것",
+        "교재는 도서관에 예약도서로 지정되어 있으니 도서관 정보데스크에서 이용 가능함>",
+        " ",
+        "-Johnson, Peggy. 2009. Fundamentals of Collection Development & Management. ",
+        "2nd ed., Chicago,IL: American Library Association",
+        "(Online edition is available on the library website)",
+        "(***Glossary (pp.367-390) is required. Making a hard copy of it is recommended)",
+        "",
+        "- Evans, Edward G. & Saponano, Magaret Z. 2005. Developing Library and ",
+        "Information Center Collections: Library and Information Science Text Series. ",
+        "Westport,CT: Libraries Unlimited Inc.",
+        "",
+        "-송영희 등. 2015. 디지털시대의 장서관리, 4판. 서울:한국도서관협회"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

@@ -608,7 +608,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "CLASS TEXT WILL BE POSTED ON YSCEC OR DISTRIBUTED IN CLASS, SUBJECT TO LIMITS OF COPYRIGHT."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

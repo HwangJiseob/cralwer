@@ -1280,5 +1280,22 @@
         "비고": ""
       }
     ]
+  },
+  "20182": {
+    "LECT_DATA": {
+      "학정번호": "POL3825-01-00",
+      "과목명": "POLITICS OF COLLABORATION AND INTEGRATION IN EUROPE"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Reading assignments are mostly available in a course packet available in the basement of Yeonhui Hall. ",
+        "Other reading assignments will be posted on YSCEC.",
+        "",
+        "You should also keep up with current events in Europe by monitoring quality news sources. ",
+        "The British broadsheets such as The Guardian (www.guardian.co.uk), The Times of London (www.times.co.uk) ",
+        "and The Financial Times (www.ft.com) are excellent choices as is the weekly newsmagazine ",
+        "The Economist (www.economist.com) and the BBC television news service (http://news.bbc.co.uk )."
+      ]
+    }
   }
 }

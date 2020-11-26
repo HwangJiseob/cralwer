@@ -1306,6 +1306,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 주교재: Lehninger Principles of Biochemistry (sixth edition)\r",
+        "Authors: David L. Nelson and Michael M. Cox Publisher: W. H. Freeman and \r",
+        "Company, NY Study-aid materials (questions, images, videos) from W. H. Freeman"
+      ]
+    }
   }
 }

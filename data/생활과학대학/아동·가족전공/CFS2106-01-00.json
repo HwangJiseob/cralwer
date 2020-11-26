@@ -879,7 +879,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "변화하는 사회의 가족학. 한국 가족상담교육연구소. 교문사. 2010\r",
+        "\r",
+        "가족학 이론: 관점과 쟁점. 유계숙. 하우. 2003\r",
+        "\r",
+        "Marriages and Families: Diversity and Change (6th Edition). Mary Ann & \r",
+        "A.Schwartz. Prentice Hall. 2006"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

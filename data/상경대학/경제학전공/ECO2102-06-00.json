@@ -4159,7 +4159,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Intermediate microeconomics : a modern approach/Varian, Hal R./W.W. Norton & Co./2014 / 9th ed"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

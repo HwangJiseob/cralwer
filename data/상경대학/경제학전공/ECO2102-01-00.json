@@ -5395,7 +5395,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "참고문헌: 성백남, 정갑영, 미시경제학(개정판), 박영사, 2011.",
+        "참고문헌: J. M. Perloff, Microeconomics: Theory and applications with Calculus, 4th edition, Pearson, 2017."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

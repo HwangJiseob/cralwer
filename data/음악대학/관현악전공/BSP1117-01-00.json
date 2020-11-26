@@ -308,7 +308,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ A history of western music/Grout, Donald Jay/Norton/1988 / 4th ed",
+        "\r○ The Study of Orchestration/Samuel Adler/W. W. Norton & Company/2016",
+        "\r○ The history of orchestration/Carse, Adam von Ahn/Dover Publications/1964",
+        "\r○ Principles of orchestration : with musical examples drawn from his own works/Rimsky-Korsakov, Nikolay/Dover Publications/1964"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

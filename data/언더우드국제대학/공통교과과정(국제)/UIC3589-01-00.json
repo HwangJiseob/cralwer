@@ -214,6 +214,22 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Sample Textbooks (selection will be distributed as a course reader):",
+        "",
+        "Donna Peberdy, Masculinity and Film Performance: Male Angst in Contemporary American Cinema (Palgrave, 2011)",
+        "Susanne Kord and Elizabeth Krimmer, Contemporary Hollywood Masculinities: Gender, Genre, and Politics (Palgrave, 2011)",
+        "Hilary Radner and Rebecca Stringer, eds. Feminism at the Movies: Understanding Gender in Contemporary Popular Cinema (Routledge, 2011)",
+        "Yvonne Tasker and Diane Negra, eds. Interrogating postfeminism: Gender and the Politics of Popular Culture (Duke, 2007)",
+        "Rosalind Gill and Christina Scharff, eds. New femininities: postfeminism, neoliberalism and subjectivity (Palgrave, 2011)",
+        "Ann Brooks. Postfeminisms: feminism, cultural theory, and cultural forms (Routledge, 1997)",
+        "Joel Gwynne and Nadine Muller, eds. Postfeminism and contemporary Hollywood cinema (Palgrave, 2013)",
+        "Hannah Hamad , Postfeminism and paternity in contemporary U.S. film: framing fatherhood (Routledge, 2013)",
+        "Yvonne Tasker and Diane Negra, eds. Gendering the recession : media and culture in an age of austerity (Duke, 2014) ",
+        "Melanie Waters, ed. Women on screen : feminism and femininity in visual culture (Palgrave, 2011)"
+      ]
+    }
   }
 }

@@ -389,7 +389,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 건강수영과 수상안전/고영완 高永完/광림북하우스/2008",
+        "\r○ 수영과 수상안전, 대한적십자사, 1999",
+        "Advanced Swimming (Steps to Success), David G. Thomas, 1990",
+        "",
+        "\r○ 수영과 수상안전, 대한적십자사, 1999",
+        "Advanced Swimming (Steps to Success), David G. Thomas, 1990",
+        "",
+        "\r○ 수영과 수상안전, 대한적십자사, 1999",
+        "Advanced Swimming (Steps to Success), David G. Thomas, 1990"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

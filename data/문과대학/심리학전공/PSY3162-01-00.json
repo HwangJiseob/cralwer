@@ -2619,6 +2619,14 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 아동·청소년 이상심리학 : Special update for DSM-5/Wicks-Nelson, Rita/시그마프레스/2015",
+        "\r○ 현대 이상심리학/권석만 權錫萬/학지사/2013 / 2판",
+        "\r○ Wicks-Nelson, R., & Israel, A. C.(2014). Abnormal Child and Adolescent Psychology with DSM-V Updates, 8th Edition. Taylor & Francis Group LLC.",
+        "아동 청소년 이상심리학, 제8판. Wicks-Nelson, R., & Israel, A. C. 정명숙 외 공역. 시그마프레스(2015)"
+      ]
+    }
   }
 }

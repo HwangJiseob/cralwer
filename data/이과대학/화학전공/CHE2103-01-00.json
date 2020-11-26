@@ -5947,7 +5947,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Title of Textbook: Organic Chemistry, 5th Edition",
+        "Author: Janice Corzynski Smith ",
+        "Publishing Co.: McGraw Hill, New York"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

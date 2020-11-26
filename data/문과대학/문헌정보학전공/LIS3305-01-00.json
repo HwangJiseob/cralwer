@@ -955,7 +955,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Measuring Academic Research: How to Undertake a Bibliometric Study/Ana Andres/Chandos Publishing/2009",
+        "\r○ -Andres, A. (2009). Measuring academic research: How to undertake a bibliometric study. Oxford, UK: Chandos. Publishing. (required)",
+        "-Bibliometric Handbook for Karolinska Institutet.(2014). Available from http://kib.ki.se/sites/default/files/bibliometric_handbook_2014.pdf",
+        "-Borgman, C.L., & Furner, J. (2002). Scholarly communication and bibliometrics. Annual Review of Information Science and Technology, 36, 3-72.",
+        "-Relevant articles (see the reading list)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {

@@ -2089,7 +2089,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재: Quantitative Chemical Analysis, (8th or 9th Edition) by Daniel C. Harris",
+        "       영문판 기준으로 강의를 진행하며, 영문판교재 확보가 어려우므로 번역본 사용 무방함.",
+        "",
+        "참고문헌: Pinciples of Instrumental Analysis, Fifth Edition by Skoog, Holler, ",
+        "Nieman"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

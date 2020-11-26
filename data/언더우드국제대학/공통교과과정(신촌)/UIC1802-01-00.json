@@ -1583,6 +1583,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Course Packet: Introduction to Music and It`s Meaning(Available at copy ",
+        "center)",
+        "Additional Hand Out Articles",
+        "Listening on line: \"Naxos\"(Classical music website) is also available through ",
+        "the Yonsei library website"
+      ]
+    }
   }
 }

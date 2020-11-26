@@ -247,7 +247,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Ethics of emerging technologies : scientific facts and moral challenges/Budinger, Thomas F. (Thomas Francis)/John Wiley & Sons/2006"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

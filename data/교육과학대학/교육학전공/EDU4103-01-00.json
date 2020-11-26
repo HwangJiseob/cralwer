@@ -1101,7 +1101,24 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Unlike many other courses, this course does not rely on a single textbook. Instead, it makes use of a variety of reading materials selected to address given topics in each class. These include book chapters and journal articles, mostly written in English except few cases. These readings will be provided before the class as PDF files or paper copies. In most cases, students will read part of the following materials. ",
+        "",
+        "Labaree, D. (1989).The American (High) school has failed its missions. MSU ",
+        "Alumni Bulletin, 7(1), 15-17.",
+        "",
+        "Marsh, J. C. (2006). Key concepts for understanding curriculum. New York: Routledge.",
+        "",
+        "Marsh, C. & Willis, G. (2003). Curriculum: Alternative approaches, on-going issues. (3rd Ed). New Jersey: Person. ",
+        "",
+        "Seth, J. M. (2002). Education Fever: Society, Politics, and the Pursuit of Schooling in South Korea. Hawaii: University of Hawaii Press.",
+        " ",
+        "Shin, S-H., & Huh, K-C. (1991). Curriculum development in South Korea. In C. Marsh & P. Morris(ed.), Curriculum development in East Asia (pp. 161-180). ",
+        "London: The Falmer Press."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

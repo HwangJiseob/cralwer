@@ -1333,7 +1333,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : 교통안전공학, 도철웅 외,  청문각  2013",
+        "",
+        "부교재 : Safer Oads : A Guide to Road Sfety Engineering, K.W.OGDEN, Avebury Technical, 1996"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

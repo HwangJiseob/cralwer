@@ -1143,7 +1143,28 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Books (purchase required)",
+        "Jamaica Kincaid, A Small Place (Farrar Straus & Giroux, 2000)",
+        "Edwidge Danticat, Brother, I’m Dying (Vintage, 2008)",
+        "Mohsin Hamid, The Reluctant Fundamentalist (Mariner Books, 2008) ",
+        "",
+        "Films:",
+        "Stephanie Black, Life and Debt",
+        "Malcolm Guy and Michelle Smith, Turbulent Waters ",
+        "Stephen Frears, Dirty Pretty Things ",
+        "",
+        "Other Readings (will be available through YSCEC):",
+        "Jan Aart Scholte, from Globalization: A Critical Introduction ",
+        "Thomas L. Friedman, from The World Is Flat: A Brief History of the Twenty-first Century ",
+        "David Harvey, from A Brief History of Neoliberalism",
+        "and others..",
+        "",
+        "*Course texts are tentative and subject to change."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

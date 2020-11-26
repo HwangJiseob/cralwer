@@ -547,7 +547,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "* Required textbook:\r",
+        "     - Operating System Concepts 9th EditionSilberschatz, Galvin,and Gagne\r",
+        "Hardcover: ISBN 978-1-1180-6333-0 December 2012, ©2013, Paperback: \r",
+        "ISBN 978-1-1181-2938-8\r",
+        "     - Students may use the older 8th or 7th  edition\r",
+        "* Suggested references:\r",
+        "     - The Design and Implementation of the FreeBSD Operating System, McKusick \r",
+        "and Neville-Neil Addison-Wesley, ©2005, ISBN-10: 0-201-70245-2, ISBN-13: 978-0-\r",
+        "201-70245-3\r",
+        "     - The Practice of Programming, Kernighan and Pike, Addison-Wesley, ISBN 0-\r",
+        "201-615686-X\r",
+        "     - The Mythical Man-Month, Brooks, Anniversary Edition, Addison-Wesley, \r",
+        "ISBN 0-201-83595-9"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

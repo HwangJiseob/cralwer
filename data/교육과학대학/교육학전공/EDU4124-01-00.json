@@ -853,7 +853,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 성인학습 : 이론과 실천/Merriam, Sharan B/아카데미프레스/2016",
+        "\r○ 성인학습자/Knowles, Malcolm S (Malcolm Shepherd)/아카데미프레스/2016"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {

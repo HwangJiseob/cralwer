@@ -379,7 +379,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Fundamentals of computational fluid dynamics/Roache, Patrick J/Hermosa Publishers/1998",
+        "\r○ Numerical methods for partial differential equations/Ames, William F/Academic Press Thomas Nelson & Sons/1977 / 2nd ed",
+        "\r○ Computational techniques for fluid dynamics, 2, Specific techniques for different flow categories/Fletcher, C. A. J/Springer-Verlag/1988",
+        "\r○ Computational fluid dynamics/Chung, T. J./Cambridge University Press/2010 / 2nd ed"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

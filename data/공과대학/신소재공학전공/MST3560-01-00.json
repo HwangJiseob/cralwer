@@ -1615,7 +1615,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Bettelheim, et al.  ",
+        "Introduction to organic and biochemistry (5th eds.) 또는",
+        "Introduction to general and organic and biochemistry"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

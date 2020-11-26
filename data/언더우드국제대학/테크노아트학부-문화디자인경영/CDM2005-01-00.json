@@ -660,7 +660,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Techno textiles 2 [revolutionary fabrics for fashion and design]/Braddock, Sarah E/Thames and Hudson/2005 / Rev. ed",
+        "\r○ Smart textiles for designers : inventing the future of fabrics/Pailes-Friedman, Rebeccah/Laurence King Publishing/2016",
+        "\r○ Hooked : how to build habit-forming products/Eyal, Nir/Portfolio Penguin/2014",
+        "\r○ Mapping experiences : guide to creating value through journeys, blueprints and diagrams/Kalbach, Jim/O'Reilly Media Inc./2016"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

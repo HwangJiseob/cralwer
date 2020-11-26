@@ -573,7 +573,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Both readers will be available for purchase at the copy store in the basement of Daewoo Hall.",
+        "",
+        "Textbook Reader: There will be a reader primarily comprising excerpts about developments in Europe and Africa from the world history textbook \"Worlds Together, Worlds Apart\" with additional selections from Adam Hochschild`s, King Leopold`s Ghost. ",
+        "",
+        "Primary Source Reader: The reader includes documents from a variety of sources including (but not limited to) Richard Lim and David Kammerling Smith, The West in the Wider World: Sources and Perspectives (New York: Bedford/St. Martins, 2003), Jan Nederveen Pieterse, White on Black: Images of Africa and Blacks in Western Popular Culture (New Haven: Yale University Press, 1992), Race and the Enlightenment: A Reader (Oxford: Blackwell Publishing, 1997)."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

@@ -3315,7 +3315,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Power Electronics (McGraw Hill)",
+        "Author: Daniel W. Hart"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

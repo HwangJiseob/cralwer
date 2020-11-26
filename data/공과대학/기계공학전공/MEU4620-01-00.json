@@ -1799,6 +1799,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1.Pierret and Neudec,\"Introduction to microelectronic fabrication- Modular Series on Solid State Devices\", Addision-Wesley Publishing",
+        "2.Class handouts and notes",
+        "",
+        "References:",
+        "- Kovacs,\"Micromachined Transducers Sourcebook”, McGraw-Hill",
+        "- Campbell, \"The Science and Engineering of Microelectronic Fabrication\", Oxford University Press"
+      ]
+    }
   }
 }

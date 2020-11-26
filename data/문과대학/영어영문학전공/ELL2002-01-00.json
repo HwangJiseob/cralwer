@@ -3866,7 +3866,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Thank you for arguing : what Aristotle, Lincoln, and Homer Simpson can teach us about the art of persuasion/Heinrichs, Jay/Three Rivers Press/2007 / 1st ed"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

@@ -1031,7 +1031,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Required textbook:",
+        "1)Bender, John R. Reporting for the Media. 9th Edition. Oxford University ",
+        "Press, 2009.(MANATORY TEXTBOOK STUDENTS MUST HAVE TO COMPLETE ASSIGNMENTS THROUGHOUT THE COURSE)",
+        "2)Strunk, William & White, E.B. Elements of Style. 4th Edition. Allyn & ",
+        "Bacon, 2000. (Mandatory Reading)",
+        "3)Stovall, James G. Writing for the Mass Media. 7th Edition. (International ",
+        "Edition) Allyn & Bacon, 2009 (RECOMMENDED REFERENCE)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

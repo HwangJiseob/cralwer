@@ -3167,7 +3167,46 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재",
+        "1. 이정열 외 (2012). 역학과 건강증진. 서울: 수문사.",
+        "2. 이갑순 외 (2006). (간호과정을 적용한) 보건교육(개정3판). 서울: 현문사",
+        "",
+        "주교재",
+        "1. 이정열 외 (2012). 역학과 건강증진. 서울: 수문사.",
+        "2. 이갑순 외 (2006). (간호과정을 적용한) 보건교육(개정3판). 서울: 현문사",
+        "",
+        "부교재",
+        "1. 윤순녕 외 11인(2014). 보건프로그램 개발 및 평가(제2판). 서울: 수문사.",
+        "2. 홍경자 외 13인 역 (2008). 인간발달과 건강증진. 서울: 현문사",
+        "   *영문판 참조 Edelman, C.L., & Mandle, C.L. (2006). Health promotion throughout the lifespan. St. Louis:Mosby.           ",
+        "3. 박노예(2012). 보건교육(개정 제4판). 서울: 수문사",
+        "4. 강이철(2001). 교육공학의 이론과 실제. 서울: 학지사",
+        "5. Lorig, K. and Associates(2001), 권보은, 유혜라 옮김(2005). 환자교육 실전 가이드 : Patients Education. 군자출판사",
+        "",
+        "· 한국 간호교육학회지",
+        "· 보건교육건강증진학회지",
+        "· The Journal of School Health",
+        "· Patient Education and Counseling",
+        "· Health Education & Behavior",
+        "· Patient Education Management",
+        "· Health Policy and Education",
+        "· The Health Education Journal",
+        "",
+        "6. 정기간행물",
+        "",
+        "· 한국 간호교육학회지",
+        "· 보건교육건강증진학회지",
+        "· The Journal of School Health",
+        "· Patient Education and Counseling",
+        "· Health Education & Behavior",
+        "· Patient Education Management",
+        "· Health Policy and Education",
+        "· The Health Education Journal"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

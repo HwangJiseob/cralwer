@@ -673,7 +673,25 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재: 없음",
+        "",
+        "주요 참고도서:",
+        "James C. Livingston, Modern Christian Thought, 2 vols., Second edition ",
+        "(Minneapolis: Fortress, 2006).",
+        "",
+        "이 책은 영어로 되어있기 때문에, 수강생들은 이 책을  Optional reading으로 활용할 ",
+        "수 있다. 하지만 와이색의 수업자료는 필수적으로 읽어야만 한다.",
+        "",
+        "참고도서:",
+        "Claude Welch, Protestant Thought in the Nineteenth Century, 2 vols (New Haven: ",
+        "Yale University Press, 1972, 1985).",
+        "데이비드 포드 편집, <현대 신학과 신학자들> (서울: 기독교문서선교회, 2005). ",
+        "헤를레/바그너 편집, <신학자 사전> (서울: 한들출판사, 2001)."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {

@@ -1961,7 +1961,19 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. 주교재: 장 노년 심리학. 김애순 저, 시그마프레스, 2012.",
+        "2. 참고교재",
+        "1)Adult Development and Aging(6th ed.). John C. Cavanaugh & Fredda Blanchard-",
+        "Fields 저, Wadsworth, 2010.",
+        "2)The Journey of Adulthood(8th ed). Barbara R.Bjorkland 저, Pearson, 2015.",
+        "3) 남자가 겪는 인생의 사계절. D. Levinson 저, 김애순 역, 이화여대출판부, 1996.",
+        "4) 여자가 겪는 인생의 사계절. D. Levinson 저, 김애순 역, 이화여대 출판부, 2003.",
+        "5) 행복의 조건(Aging well). G. Valliant 저, 이덕남 역, 프런티어, 2010."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

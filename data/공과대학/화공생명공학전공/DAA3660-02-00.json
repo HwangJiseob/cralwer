@@ -1759,7 +1759,14 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Foundations of heat transfer/Incropera, Frank P/Wiley/2013 / 6th ed., international student version",
+        "\r○ Fundamentals of heat and mass transfer/Bergman, T. L/John Wiley/2011 / 7th ed",
+        "\r○ Principles of heat and mass transfer/Incropera, Frank P/John Wiley & Sons/2013 / 7th ed., International student version"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

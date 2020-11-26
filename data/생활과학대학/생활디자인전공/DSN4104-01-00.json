@@ -494,7 +494,23 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "<참고site>",
+        "-http://www.marvelousdesigner.com",
+        "-http://www.clo3d.com",
+        "<참고문헌>",
+        "양은경, 배건호, 3D의상디자인을 위한 마블러스디자이너, 2017",
+        "K.Tallon, DigitalFashionIllustration, Bestford, 2008",
+        "강죽형, 디지털패션디자인, 파란마음, 2008",
+        "이금실, 김혜수, 패션디자이너를 위한 컴퓨터그래픽, ㈜에이픽디자인, 2008",
+        "M.K.Colussy & S.Greenberg, Redering Fashion, Fabric, and Prints, Pearson",
+        "Prentice Hall, 2003",
+        "Adobe Photoshop, Adobe Illustrator, Affter Effects 관련서적",
+        "패션룩 관련서적 및 패션잡지"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {

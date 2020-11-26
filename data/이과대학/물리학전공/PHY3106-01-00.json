@@ -2537,7 +2537,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: Introductory Statistical Mechanics, Bowley and Sanchez",
+        "부교재: Thermodynamics and Statistical Mechanics, Greiner, Neise, and Stocker",
+        "           Thermal Physics, C. Kittel/H. Kroemer ",
+        "           Statistical and Thermal Physics, M. J. Hoch",
+        "           Fundamentals of statistical and theraml physics, F. Reif"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

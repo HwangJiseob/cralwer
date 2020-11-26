@@ -1473,7 +1473,26 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재",
+        "Winter, J.D., 2010, An Introduction to Igneous and Metamorphic Petrology, 2nd ",
+        "ed. Upper Saddle River, NJ, Prentice Hall.",
+        "",
+        "참고문헌",
+        "Philpotts, A.R. and Ague, J.J., 2009, Principles of igneous and metamorphic ",
+        "petrology. 2e. Prentice Hall, New Jersey, 686p.: This book explains ",
+        "petrogenesis using basic principles. (excellent book!)",
+        "",
+        "Best, M.G., 2003, Igneous and Metamorphic Petrology, 2nd Ed. Malden, MA, ",
+        "Blackwell.",
+        "",
+        "실험교재",
+        "Williams, H., Turner, F.J. and Gilbert, C.M., 1982, Petrography : An ",
+        "Introduction to the Study of Rocks in Thin Sections. Freeman, New York, 626p."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

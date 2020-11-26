@@ -5801,7 +5801,20 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 주희철학의 인식론 : 지각론의 형성과정과 체계/김우형 金祐瑩/심산/2005",
+        "\r○ (완역판)중국철학사. 상,하/풍우란/까치/1999",
+        "\r○ 도의 논쟁자들 : 중국 고대 철학 논쟁/Graham, A. C. (Angus Charles)/새물결/2015 / 2판(개역판)",
+        "\r○ 새로운 유학을 꿈꾸다/김우형 金祐瑩/살림/2006",
+        "\r○ 중국의 과학과 문명 ; 축약본 1 : 사상적 배경/Needham, Joseph/까치/1998 / 축약본 1",
+        "\r○ (진영첩의) 주자강의/진영첩 陳榮捷/푸른역사/2001",
+        "\r○ 중국 고대 사상의 세계/Schwartz, Benjamin Isadore/살림/2004 / 개정판",
+        "\r○ Wing-Tsit Chan, \"The Story of Chinese Philosophy\", Neo-Confucianism, Etc. Essays, Massachusetts: Harvard University Press, 1969.(陳榮捷, “중국철학",
+        "이야기”.)"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

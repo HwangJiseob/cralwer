@@ -631,7 +631,20 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "There are two textbooks for the class. There will be additional reading ",
+        "assigned during the semester.",
+        "",
+        "Goodman, E., Kuniavsky, M., and Moed, A. 2012. Observing the User Experience, ",
+        "Second Edition: A Practitioner`s Guide to User Research. San Francisco: Morgan ",
+        "Kaufmann. (Required)",
+        "",
+        "Rubin,J. and Chisnell, D. 2008. Handbook of Usability Testing: How to Plan, ",
+        "Design, and Conduct Effective Tests, 2 ed. Indiannapolis: Wiley. (Optional)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

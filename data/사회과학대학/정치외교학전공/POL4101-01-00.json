@@ -1098,7 +1098,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Economic sanctions reconsidered/Hufbauer, Gary Clyde/Peterson Institute for International Economics/2009 / 3rd ed",
+        "\r○ Hard target : sanctions, inducements, and the case of North Korea/Haggard, Stephan/Stanford University Press/2017",
+        "\r○ See course materials below."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {

@@ -1179,7 +1179,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- Yoga au bord du ciel. 요가 하늘가에서. Martine Prost.눈빛출판사.\r",
+        "- Yoga Sutras of Patanjali translated by Sri Swami Satchidananda\r",
+        "- Hatha Yoga Pradipika translated by Brian Dana Akers\r",
+        "- Light on Yoga by Iyengar\r",
+        "- The Heart of Yoga by Desikachar"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

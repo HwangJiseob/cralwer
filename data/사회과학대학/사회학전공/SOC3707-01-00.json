@@ -1431,7 +1431,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ The Korean economic developmental path : Confucian tradition, affective network/Lew, Seok-Choon/Palgrave Macmillan/2013",
+        "\r○ The familial state : ruling families and merchant capitalism in early modern Europe/Adams, Julia/Cornell University Press/2005",
+        "\r○ State/culture : state-formation after the cultural turn/Steinmetz, George/Cornell University Press/1999",
+        "\r○ Familial foundations of the welfare state : building the national health insurance systems in South Korea and Taiwan/왕혜숙/Palgrave Macmillan/2017"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

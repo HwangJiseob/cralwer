@@ -2215,7 +2215,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : Albert Busch /Oliver Stenschke 2008, Germanistische Linguistik, 2. \r",
+        "Aufl., Tuebingen: Narr Franke Attempto Verlag GmbH.\r",
+        "부교재 :  Heidrun Pelz 1981, Linguistik fuer Anfaenger, Hoffmann und Campe.\r",
+        "  (송완용 1996, 언어학 기초이론, 신아사)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

@@ -807,7 +807,35 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "참고 도서",
+        "",
+        "-인테리어디자인스쿨",
+        "-디자인의 디자인 (하라켄야/안그라픽스) ",
+        "-NHN이 일하는 27층 빌딩 그린팩토리 디자인북 (NHN/ Seedpaper)",
+        "-넨도 디자인이야기 (사토오오키/ 미디어샘)",
+        "-현대카드 디자인이야기 (오영식 외/ 세미콜론)",
+        "-지적자본론 (마스다 무네아키/ 민음사)",
+        "-개념에서 건축으로 (김준성/ 미메시스)",
+        "-무인양품 디자인-1,2 (닛케이디자인/ 미디어샘)",
+        "-공간이 사람을 움직인다 (콜린엘러드/ 더퀘스트)",
+        "-공간에게 말을 걸다 (조재현/ 멘토)",
+        "",
+        "-매거진B (제이오에이치. joh) - Lush/ Ace hotel/ Tsutaya/ Acne studios/ ..",
+        "-기타 유명브랜드들의 Flagship Store/ Shop 참고 (Apple/ Muji/ Aesop/ Tsutaya/ ..)",
+        "",
+        "",
+        "-설화수 플래그십 스토어 SULWHASOO FLAGSHIP STORE [월간인테리어 2016년 7월호 358] ",
+        "  http://www.interiorskorea.com/?Act=bbs&subAct=view&bid=a0017&seq=3773 ",
+        "  설화수 플래그쉽스토어 홈페이지 http://www.sulwhasoo.com/kr/ko/flagship/intro.html ",
+        "",
+        "-현대카드 뮤직라이브러리",
+        " http://library.hyundaicard.com/music/about.hdc ",
+        " http://blog.hyundai.co.kr/Group-Story/Co-efficient/Hyundai-Music-Library.blg#.V4SgXdXu6JJ"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

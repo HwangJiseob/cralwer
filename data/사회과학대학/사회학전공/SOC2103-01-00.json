@@ -2569,7 +2569,28 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Required:",
+        "Agresti, Alan and Barbara Finlay. 1997. Statistical Methods for the Social Sciences (3rd ed.). NJ: Prentice Hall, Inc. (A)",
+        "",
+        "Wooldrige, Jeffrey M. 2006. Introductory Econometrics: A Modern Approach. South-Western. (W)",
+        "",
+        "Recommended:",
+        "Allison, Paul.D. 1999. Multiple Regression: Primer. Thousand Oaks, California: Pine Forge Press. (AL)",
+        "",
+        "Abbott, Andrew. 1992. “From Causes to Events,” Sociological Methods & Research 20:428-55.",
+        "",
+        "Berk, A. Richard. 2003. Regression Analysis: A Constructive Critique. Sage Publications, Inc.",
+        "",
+        "Cohen, Jacob. 1994. \"Earth is Round (p<0.05)\" American Psychologist 49: ",
+        "997-1003.",
+        "",
+        "Coleman, James S. 1986. \"Social Theory, Social Research, and a Theory of ",
+        "Action,\" American Journal of Sociology 91: 1309-35."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

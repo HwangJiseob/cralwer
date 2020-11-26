@@ -933,7 +933,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "컴퓨터네트워크를 수강하지 않은 학생은 아래 참고 문헌를 활용하여, ",
+        "컴퓨터 네트워크의 기본적인 개념을 파악하기 바랍니다.",
+        "Computer Networking: A Top Down Approach Featuring the Internet, ",
+        "3rd edition, Jim Kurose & Keith Ross, Addison-Wesley, 2004.",
+        "",
+        "또한 살험/보고서를 위해서:",
+        "- NS-2     - C     - Java",
+        "관련 교재의 참고를 권장합니다."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

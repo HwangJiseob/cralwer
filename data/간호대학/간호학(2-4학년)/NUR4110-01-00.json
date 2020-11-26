@@ -519,7 +519,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 환자안전 : 개념과 적용/대한환자안전학회/박영사/2016",
+        "\r○ 부교재:",
+        "1. 김복남, 황지인, 이순교, 황정해, 최윤경 (2017). 현장전문가가 쓴 환자안전 실무지침서 (제 2판). 서울:현문사.",
+        "2. To Err is Human: Building A Safer Health System. Institute of Medicine, 1999",
+        "3. Fundamentals of Health Care Improvement: A Guide to improving your patient care (2nd edition). Institute    for Healthcare Improvement and Joint Commission Resources, 2012"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

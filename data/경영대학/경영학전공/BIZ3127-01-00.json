@@ -3692,7 +3692,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Required: ",
+        "Malhotra, Marketing Research: An Applied Orientation, Sixth Edition, Prentice Hall, 2010.  ",
+        "",
+        "Supplementary: ",
+        "Aaker, Kumar, Leone, and Day, Marketing Research, Eleventh Edition, Wiley, 2013."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

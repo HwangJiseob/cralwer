@@ -2557,7 +2557,23 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Kolb (K), Futures, Options & Swaps (5th edition), Blackwell, 2007\r",
+        "\r",
+        "Hull (H), Options, Futures and other Derivative Securities (8th edition), \r",
+        "Prentice-Hall, 2011\r",
+        "\r",
+        "Jarrow & Turnbull (J&T), Derivative Securities, South-Western College \r",
+        "Publishing, 1996\r",
+        "\r",
+        "Chance & Brooks (C&B), Introduction to Derivatives and Risk Management (8th \r",
+        "edition), South-Western, 2010\r",
+        "\r",
+        "Cox & Rubinstein, Options Markets, Prentice-Hall, 1988"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

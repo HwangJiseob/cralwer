@@ -675,7 +675,22 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Draping for fashion design/Jaffe, Hilde/Prentice Hall/2012 / 5th ed",
+        "\r○ 주교재 ; ",
+        "1) Hilde Jaffe & Nurie Relis, 2013, Draping for fashion design(5th ed), Pearson Prentice Hall.",
+        "2) Sally M. Di Marco, 2011, Draping Basic, Fairchild Books.",
+        "",
+        "부교재 ; ",
+        "1) HelenJosephArmstrong,2005,Drapingforappareldesign,Fairchild",
+        "2) Annette Duburg,2014,Draping:Art and craftsmanship in fashion design,Artez Press ",
+        "3) Karolyn Kiisel, 2013, Draping:The Complete Course, Laurence King Publishing",
+        "4) 佐藤ヒサコ, 2009, Drape Drape (ドレ―プドレ―プ ), 文化出版局",
+        "5) 佐藤ヒサコ, 2010, Drape Drape 2 (ドレ―プドレ―プ 2), 文化出版局"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

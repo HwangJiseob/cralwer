@@ -915,6 +915,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Class Notes: downloadable from Yonsei Portal YSCEC Blackboard",
+        "",
+        "Text: Mechanical Vibrations, 6th Edition",
+        "      S. S. Rao",
+        "      Pearson (2018)",
+        "",
+        "      Or if you have an older or newer edition, that is OK, too."
+      ]
+    }
   }
 }

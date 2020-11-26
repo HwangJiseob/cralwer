@@ -3869,7 +3869,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "서명Fundamentals of database systems, Global Edition",
+        "저자Elmasri, Navathe",
+        "출판사 PEARSON",
+        "출판년 2016/ 7th ed",
+        "ISBN-13 9781292097626"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

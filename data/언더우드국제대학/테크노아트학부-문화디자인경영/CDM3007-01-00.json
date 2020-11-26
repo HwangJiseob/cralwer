@@ -364,7 +364,31 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "DVD",
+        "",
+        "- Immortal Beloved (1995) by Bernard Rose.",
+        "- Copying Beethoven (2006) by Agnieszka Holland.",
+        "- Orpheus und Eurydike (2009) by Chiristoph W. Gluck dance-opera by Pina Bausch.",
+        "- Coco avant Chanel (2009) by Anne Fontaine.",
+        "- The Last Station (2009) by Michael Hoffman. ",
+        "- Talking Architect (2011) by Jae Eun Jung.",
+        "- City: hall (2013) by Jae Eun Jung. ",
+        "- Oblivion (2013) by Joseph Kosinski",
+        "- The Hotel, Hotellet (2016) by Kristian Petri",
+        "- Columbus (2017) by Kogonada",
+        "",
+        "Books",
+        "",
+        "- Le Corbusier (1887-1965). The modulor: A Harmonious Measure to the Human Scale, Universally applicable to architecture and mechanics.Basel ; Boston : Birkh?user.",
+        "- Damien Hirst (2001). Damien Hirst : Pictures from the Saatchi Gallery. London : Booth-Clibborn Editions.",
+        "- Mark Rothko (2004). The Artist's Reality : Philosophies of Art. New Haven: Yale University Press.",
+        "-  Mark Rothko (2006). Writings on art. New Haven: Yale University Press.",
+        "- Donggyu Hwang Donggyu(2003). There were times when I rely on contingency. Seoul: Moonji Publishing Co,.Ltd.)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

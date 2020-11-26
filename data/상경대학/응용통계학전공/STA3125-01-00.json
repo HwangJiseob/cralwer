@@ -6968,7 +6968,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "APPLIED LINEAR REGRESSION MODELS, 4th edition, 2004 by Kutner, Nachtsheim, ",
+        "Neter"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

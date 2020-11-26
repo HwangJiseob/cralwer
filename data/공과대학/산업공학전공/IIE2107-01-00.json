@@ -2255,7 +2255,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재",
+        "Probability and Statistics for Engineers and Scientists (9th edition)",
+        "Walpole, Myers, Myers, Ye, Prentice Hall (인터넷에서 다운로드 가능)",
+        "",
+        "기타",
+        "Power Point 강의자료"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

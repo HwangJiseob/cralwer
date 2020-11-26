@@ -1197,6 +1197,22 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Required Books",
+        "Robert A. Dahl, On Democracy (New Have: Yale University Press, 1998)",
+        "Juan J. Linz, Totalitarian and Authoritarian Regimes (Boulder: Rienner, 2000)",
+        "Barbara Geddes, Paradigms and Sand Castles: Theory Building and Research Design in Comparative Politics (Ann Arbor: University of Michigan Press, 2003)",
+        "Bruce Bueno de Mesquita and Alastair Smith, The Dictator’s Handbook: Why Bad Behavior Is Almost Always Good Politics (New York: Public Affairs, 2011)",
+        "",
+        "Recommended Books",
+        "Bruce Bueno de Mesquita, Alastair Smith, Randolph M. Siverson and James D. Morrow, The Logic of Political Survival (Cambridge: MIT Press, 2003)",
+        "Steven Levitsky and Lucan A. Way, Competitive Authoritarianism: Hybrid Regimes after the Cold War (Cambridge: Cambridge University Press, 2010)",
+        "Milan Svolik, The Politics of Authoritarian Rule (Cambridge: Cambridge University Press, 2012)",
+        "",
+        "All other reading materials (as pdf file) will be posted on the YSCEC, from which the enrolled students can download them. The reading materials are subject to change (add/drop) as the semester progresses. We will sometimes start the class with a discussion of relevant events."
+      ]
+    }
   }
 }

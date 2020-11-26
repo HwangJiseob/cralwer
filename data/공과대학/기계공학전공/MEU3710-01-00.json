@@ -2329,7 +2329,18 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재:",
+        "Modern Physics for scientists and engineers, by J. R. Taylor, C. D. Zafiratos, ",
+        "M. A. Dubson, 2nd ed., Prentice Hall",
+        "참고문헌:",
+        "Modern Physics, J. Bernstein, P.M. Fishbane, and S. Gasiorowicz, Prentice Hall",
+        "나노테크놀러지 & 비즈니스,  Masamichi Ishikawa 편저, 성안당",
+        "Analytical mechanics, Fowles & Cassiday, 7th ed., Thomson"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

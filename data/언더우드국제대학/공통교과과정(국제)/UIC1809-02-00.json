@@ -597,7 +597,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Integrated Chinese Level 1 part 1 (Lesson 6 - Lesson 10)",
+        "(Simplified Characters Third Edition by Yuehua Liu and Tao-chung Yao Nyan-Ping Bi, Liangyan Ge, Yaohua Shi)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

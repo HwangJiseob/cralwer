@@ -688,7 +688,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Art of the 20th century . part. 1 , painting/Walther, Ingo F./Taschen/2000",
+        "\r○ ...isms: Understanding Modern Art, Sam Phillips, Universe, 2013"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

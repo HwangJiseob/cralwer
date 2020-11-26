@@ -626,7 +626,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Antenna theory : analysis and design/Balanis, Constantine A./John Wiley/2005",
+        "\r○ Antenna theory and design/Stutzman, Warren L/Wiley/2013"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

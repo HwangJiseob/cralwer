@@ -717,7 +717,33 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. 초대교회 예배사 (CLC) - 김정\r",
+        "2. 예배음악과 한국 교회(중앙아트; 증보판) - 곽상수\r",
+        "\r",
+        "\r",
+        "참고문헌\r",
+        "\r",
+        "고귀한 시간 낭비, 예배(요약본이 아닌 것), Marva Dawn.\r",
+        "예전과 음악(연세대 출판부) - Robin A. Leaver, Joyce Ann Zmmerman, Editors\r",
+        "양식에 의한 교회음악문헌(총신대 출판부), 주성희\r",
+        "교회음악사 핸드북(생명의 말씀사) - Andrew Wilson Dickson  \r",
+        "Words of our Worship; A Practical Liturgical Dictionary(The Church Hymnal \r",
+        "Corporation)\r",
+        "예배와 음악(침례신학 대학교) - 김남수 \r",
+        "예배의 역사(쿰란 출판사) - James F. White, 정장복 역\r",
+        "Church Music and the christian Faith(Agape) - Erik Routley\r",
+        "Musician`s Guide to Church Music(The Pilgrim Press) - Joy E. Lawrence, John A. \r",
+        "Ferguson\r",
+        "예배의 발전과 그 형태(쿰란 출판사) - William D. Maxwell, 정장복 역\r",
+        "오늘의 예배론(대한 기독교 서회) - 박근원\r",
+        "하나님은 이런 예배자를 원하십니다(생명의 말씀사) - A. W. Tozer\r",
+        "하나님은 이런 예배자를 찾으신다(하늘 사다리) - Chris A. Bowater\r",
+        "신학으로서의 음악, 음악으로서의 신학 (대장간) - Don E. Saliers, 노주하 역"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

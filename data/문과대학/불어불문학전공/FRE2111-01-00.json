@@ -661,7 +661,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Civilisation progressive du fran?ais, avec 400 activities : niveau avanc?/P?cheur, Jacques/CLE international/2010"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

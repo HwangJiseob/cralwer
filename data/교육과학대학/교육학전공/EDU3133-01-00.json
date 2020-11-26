@@ -1531,7 +1531,18 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "<주교재>",
+        "성태제(2014). 현대교육평가(4판). 서울: 학지사",
+        "<참고 도서>",
+        "Ebel, R.L., & Frisbie, D.A. (1991). Essentials of educational measurement (5th ",
+        "Edition). Englewood Cliffs: Prentice-Hall.",
+        "Linn, R.L., & Gronlund, N.E. (2000). Measurement and assessment in teaching ",
+        "(8th Edition). Upper Saddle River, NJ: Merrill Prentice Hall."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

@@ -1369,5 +1369,20 @@
         "비고": ""
       }
     ]
+  },
+  "20182": {
+    "LECT_DATA": {
+      "학정번호": "HID1104-01-00",
+      "과목명": "기초설계제도"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Kwon, WonHyung (2008), A+ Interior & Architectural Drawing, Kimundang",
+        "2. Kim, HyungDae (2009), Interior Design Drafting, Kimundang ",
+        "3. Kang, ByungGi (2005), Design and Drawing, Kimundang",
+        "4. Kwon, WonHyung et. al. (2010) A++ Interior Architectural Rendering, Daega ",
+        "5. Choi, SeungBok (2006), 실내투시도 따라하기, Kimundang"
+      ]
+    }
   }
 }

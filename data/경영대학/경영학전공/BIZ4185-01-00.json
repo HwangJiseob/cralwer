@@ -1969,6 +1969,37 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주 교재: 다양한 원천에서 발췌된 사례와 논문들",
+        "",
+        "?Reclaim Your Creative Confidence, Kelley and Kelley, Harvard Business Review, December 2012.",
+        "?이제는 디자인 씽킹의 시대, Kolko, Harvard Business Review Korea, September 2015.",
+        "?Redesigning the Customer Contact Center at Toyota, Solving Problems with Design Thinking, Liedtka, et al., 2013.",
+        "?Social Networking at MeYou Health, Solving Problems with Design Thinking, Liedtka, et al., 2013.",
+        "?Rethinking Subsidized Meals for the Elderly at the Good Kitchen, Solving Problems with Design Thinking, Liedtka, et al., 2013.",
+        "?The Business Model Canvas, Business Model Generation, Osterwalder & Pigneur, 2009 (번역판: 비즈니스 모델의 탄생)",
+        "?An Anthropologist Walks into a Bar…, Madsbjerg and Rasmussen, Harvard Business Review, March 2014.",
+        "?Learning from Extreme Consumers, Avery and Norton, Harvard Business School, January 2014.",
+        "?고객의 ‘해결과제’를 파악하라, Christensen, Hall, Dillon, and Duncan, Harvard Business Review Korea, September 2016.",
+        "",
+        "참고 교재:",
+        "?Creative Confidence: Unleashing the Creative Potential Within Us All, Kelley & Kelley, 2013 (번역판: 유쾌한 크리에이티브)",
+        "?Solving Problems with Design Thinking, Liedtka, King, and Bennett, 2013.",
+        "?This Is Service Design Thinking, Stickdorn & Schneider, 2011",
+        "?Hidden in Plain Sight, Chipchase & Steinhardt, 2013 (번역판: 관찰의 힘)",
+        "?첫 번째 질문, 류랑도, 에이트 포인트, 2013",
+        "",
+        "",
+        "Required Videos",
+        "",
+        "?David Kelley on creative confidence, TED Talk, March 2012, http://www.ted.com/talks/david_kelley_how_to_build_your_creative_confidence ",
+        "?Tim Brown on creativity and play, TED Partner Series, May 2008, http://www.ted.com/talks/lang/en/tim_brown_on_creativity_and_play.html",
+        "?Jan Chipchase on anthropology of mobile phones, TED Talk, March 2007, http://www.ted.com/talks/jan_chipchase_on_our_mobile_phones",
+        "?David Kelley, founder of IDEO, Stop Talking and Start Making…, http://vimeo.com/36608732",
+        "?Tim Brown urges designers to think big, TED Talk, July 2009, http://www.ted.com/talks/tim_brown_urges_designers_to_think_big.html"
+      ]
+    }
   }
 }

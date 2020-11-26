@@ -1348,7 +1348,42 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재: ",
+        "James Woodward & Stephen Pattison,『목회신학과 실천신학의 이해』권수영 외 역. ",
+        "서울: 대한기독교서회, 2007.",
+        "Patricia O’Connell Killen & John de Beer,『신학적 성찰의 기술』권수영 외 역. ",
+        "서울: 대한기독교서회, 2013.",
+        "Jordan, Merle.『신(神)들과 씨름하다-목회상담사의 지상과제』권수영 역. 서울: 학",
+        "지사, 2011.",
+        "권수영, 『기독(목회)상담, 어떻게 다른가요: 심리학과 신학의 만남』서울: 학지사, ",
+        "2007.",
+        "권수영, 『프로이트와 종교』서울: 살림, 2005.",
+        "김동건 편,『신학이란 무엇인가-구약학에서 신학의 조망까지』서울: 대한기독교서",
+        "회, 2010.",
+        "그외 연구논문들(사이버강의실에 PDF파일로 탑재됨)",
+        "",
+        "참고문헌:",
+        "Browning, Don S. A Fundamental Practical Theology. Minneapolis: Fortress ",
+        "Press, 1991. ",
+        "Graham, Elaine. Transforming Practice: Pastoral Theology in an Age of ",
+        "Uncertainty. London: Mowbray, 1996.",
+        "Graham, Elaine, Walton Heather, & Ward, Frances. Theological Reflection: ",
+        "Methods. London: SCM Press, 2005.",
+        "Graham, Elaine, Walton Heather, & Ward, Frances. Theological Reflection: ",
+        "Sources. London: SCM Press, 2007.",
+        "Miller-McLemore, Bonnie and B. Gill-Austern. Eds. Feminist and Womanist ",
+        "Pastoral Theology. Nashville: Abingdon, 1999.",
+        "Mudge, Lewis S. and Poling, James N. Formation and Reflection: The Promise of ",
+        "Practical Theology. Minneapolis, MN: Fortress Press, 2009(1987).",
+        "Osmer, Richard. Practical Theology: An Introduction. Grand Rapids, MI: ",
+        "Eerdmans, 2008.",
+        "Poling, James. Rethinking Faith: A Constructive Practical Theology. ",
+        "Minneapolis, MN: Fortress Press, 2011."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

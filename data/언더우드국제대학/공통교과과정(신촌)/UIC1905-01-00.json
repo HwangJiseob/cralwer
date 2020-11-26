@@ -128,6 +128,26 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Cyrus H. Gordon and Gary A. Rendsburg, The Bible and the Ancient Near East, (NY: W. W. Norton & Co.: 1997)",
+        "   - easy introduction to the Bible and ANE",
+        "2. Kenton L. Sparks, Ancient Texts for the Study of the Hebrew Bible,",
+        "(Mass: Hendrickson: 2005)",
+        "  - Guidebook for the comparative study",
+        "3. James B. Pritchard, The Ancient Near East, (NJ: Princeton Univ. Press, 2011): Main reader! To be picked up at the copy center.",
+        "  - Anthology of ANE texts by top-notch scholars, the most up-to-date translation!",
+        "4. Arthur Ungnad, Addadian Grammer, (Scholars Press: Atlanta, 1992)",
+        "  - Easy introduction to the cunieform letters",
+        "  - Akkadian lecture will be replaced by my teaching material!",
+        "5. C. L. Seow, A Grammer for Biblical Hebrew, (Abingdon Press: Nashville, 1995)",
+        " - Easy introduction to the Biblical Hebrew",
+        " - Hebrew lesson will be replaced by my personal lecture material!",
+        "6. Mark Collier et al., How to read Egyptian Hieroglyphs (UC Press: Berkeley, 1998)",
+        " - Universal guide to Hieroglyphs",
+        " - Only chapters 1-2 would be covered!"
+      ]
+    }
   }
 }

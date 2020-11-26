@@ -1095,7 +1095,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Harper`s Illustrated Biochemistry, 30th ed., Mc Graw Hill (29판 하퍼 생화학)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

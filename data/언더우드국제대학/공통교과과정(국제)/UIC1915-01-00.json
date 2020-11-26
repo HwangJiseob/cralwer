@@ -208,5 +208,16 @@
         "비고": ""
       }
     ]
+  },
+  "20182": {
+    "LECT_DATA": {
+      "학정번호": "UIC1915-01-00",
+      "과목명": "WORLD LITERATURE: 18-19TH CENTURY LITERATURE"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

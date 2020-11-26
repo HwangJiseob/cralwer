@@ -1977,7 +1977,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: The New Guide to Fashion Illustration, 연문희 저 | 교학연구사 | 2016.05.01",
+        "부교재: 예술가를 위한 해부학, 새러 심블릿 | 역자 최기득 | 예경 | 2005.09.25",
+        "           The Drawing Book, Simblet, Sarah| Dorling Kindersley | 2009.07.01",
+        "           The Beautiful Illustration for Fashion and Style ,Klanten, R.| Prestel Pub | 2010.10.30"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

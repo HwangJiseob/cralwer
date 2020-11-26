@@ -963,7 +963,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "브로노프스키, 매즐리슈 공저. {서양의 지적 전통: 다빈치에서 헤겔까지}. 차하순 역.",
+        "(J. Bronowski and Bruce Mazlish. The Western Intellectual Tradition: From Leonardo to Hegel. Rev, ed, 1970.)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

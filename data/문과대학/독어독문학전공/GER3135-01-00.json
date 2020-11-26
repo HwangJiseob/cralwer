@@ -900,7 +900,27 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재  ",
+        "1.이민행 (편). 2016. 광고언어의 이해. 연세대학교 [논문모음집]",
+        "2.Sowinski, B. 1998. Werbung. Niemeyer.",
+        "         [번역본, 정동규 역, 독일의 광고와 언어, 한국문화사]",
+        "3.Janich, N. 1999. Werbesprache. Gunter Narr Verlag.",
+        "4.     이민행(2014). 독일어 광고슬로건의 언어적 특성들에 대한 연구- 코퍼스언어학적인 접근. 독어학.",
+        "",
+        "",
+        "웹사이트 : http://www.slogans.de",
+        "",
+        "참고도서 ",
+        "1.박영준 외. 2003. 광고언어연구. 박이정.",
+        "2.강승구/신용삼. 1999. 광고 카피론. 참미디어.",
+        "3.김광수. 1994. 광고비평. 한나래.",
+        "4.Tanaka, K. 1994. Advertising Language. Routledge.",
+        "5.Stoeckl, H. 1997. Werbung im Wort und Bild. Peter Lang."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

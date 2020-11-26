@@ -74,6 +74,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Deep learning/Goodfellow, Ian/MIT Press/2017",
+        "\r○ Hands-on machine learning with Scikit-Learn and TensorFlow: concepts, tools, and techniques to build intelligent systems/G?ron, Aur?lien/O'Reilly Media/2017"
+      ]
+    }
   }
 }

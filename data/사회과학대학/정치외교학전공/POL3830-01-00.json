@@ -3613,7 +3613,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ American government : power & purpose/Lowi, Theodore J/W. W. Norton & Company, Inc./2014 / Brief 13th ed",
+        "\r○ The following books are available at the campus bookstore:",
+        "",
+        "Theodore Lowi, Benjamin Ginsberg, et al.  American Government:  Power and Purpose (Brief 13th edition).   New York:  W.W. Norton.  ",
+        "",
+        "Kay Lehman Schlozman, Henry Brady and Sidney Verba, Unequal and Unrepresented: Political Inequality and the People’s Voice in the New Gilded Age.  Princeton:  Princeton University Press.",
+        "",
+        "Additional reading assignments have been placed in a reading packet available from the copy center in the basement of Yeonhui Hall.   You should also keep up with international news by monitoring quality news"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

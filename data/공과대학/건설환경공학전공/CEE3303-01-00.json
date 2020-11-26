@@ -2551,7 +2551,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재:",
+        "Hibbler, R,C., Statics and Mechanics of Materials, 3rd or 4th ed., Prentice ",
+        "Hall."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

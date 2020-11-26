@@ -2845,7 +2845,28 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- 이연호 외. 『EU와 국제개발협력』.박영사. 2017.",
+        "- 한국국제협력단(KOICA). 『국제개발협력의이해』. 한울아카데미.2013",
+        "- 안병억 외. 『유럽연합의 이해와 전망』. 높이깊이.2014.",
+        "- Viotti, Paul R., Mark V. Kauppi, and Stephen G. Brooks. International relations theory. Boston: Longman, 2012.",
+        "- A.LeRoy Bennett &James K.Oliver, International Organization-Principles and Issues, (2002)",
+        "- Spero, Joan Edelman Edelman, and Jeffrey A. Hart. The politics of international economic relations. Cengage Learning, 2010.",
+        "- Hoekman, Bernard M., and Michel M. Kostecki. The political economy of the world trading system: the WTO and beyond. Oxford University Press, 2010.",
+        "- Bhagwati, Jagdish N., Pravin Krishna, and Arvind Panagariya, eds. Trading blocs: Alternative approaches to analyzing preferential trade agreements. mit Press, 1999.",
+        "- Coleman, William Donald, and Geoffrey RD Underhill, eds. Regionalism and Global Economic Integration: Europe, Asia, and the Americas. Psychology Press, 1998.)",
+        "- Degnbol-Martinussen, John, and Poul Engberg-Pedersen. Aid: understanding international development cooperation. Zed Books, 2003.",
+        "- Spero, Joan Edelman Edelman, and Jeffrey A. Hart. The politics of international economic relations. Cengage Learning, 2010.",
+        "- Todaro, Michael P., and Stephen C. Smith. \"Economic Development, 2011.\" (2011).",
+        "- Peet, Richard, and Elaine Hartwick. \"Theories of Development: Contentions.\" Arguments, and Alternatives (2009): 282.",
+        "- Haynes, Jeffrey. Third world politics: A concise introduction. Wiley-Blackwell, 1996.",
+        "- Mattli, Walter. The logic of regional integration: Europe and beyond. Cambridge University Press, 1999.",
+        "-이승주. \"FTA 의 확산과 동아시아 지역주의의 중층화.\" 한국정치외교사논총 32.1 (2010): 133-164.",
+        "- Lafferty, William M., ed. Governance for sustainable development: The challenge of adapting form to function. Edward Elgar Publishing, 2006."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

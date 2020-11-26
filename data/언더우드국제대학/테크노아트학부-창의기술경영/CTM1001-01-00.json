@@ -2642,5 +2642,16 @@
         "비고": ""
       }
     ]
+  },
+  "20182": {
+    "LECT_DATA": {
+      "학정번호": "CTM1001-01-00",
+      "과목명": "INTRODUCTION TO MANAGEMENT"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

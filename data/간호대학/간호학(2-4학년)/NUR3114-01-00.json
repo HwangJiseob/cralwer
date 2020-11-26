@@ -3223,7 +3223,29 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "<주교재>",
+        "1. 이정열 외 (2017). 지역사회간호학 이론과 실제. 서울: 현문사. ",
+        "2. 이승욱, 백도명, 조병희(2015). 보건학개론 개정판. 서울: 서울대학교출판문화원.",
+        "",
+        "<부교재>",
+        "1. 김은주, 김복조, 김회창, 류한술, 서정교, 소재진, 왕진우, 이희태(2015). 최신 공중보건학. 서울: 보문각.",
+        "2. 이정열 외 (2012). 역학과 건강증진. 서울: 수문사.",
+        "3. Stanhope, M., & Lancaster, J.(2013). Foundations of Nursing in the Community: Community-Oriented Practice. 4th ed., Mosby.",
+        "4. Maurer, F. A., & Smith, C. M. (2008). Community/public health nursing practice: Health for families and populations. 4th ed., St.Louis: Saunders elsevier.",
+        "5. 정영숙, 이정열, 이규영 (2004). 학교보건. 서울: 현문사. ",
+        "6. 보건복지부(2017). 2016 보건복지백서. 세종: 보건복지부. Available from",
+        "http://www.mohw.go.kr/react/jb/sjb030301vw.jsp?PAR_MENU_ID=03&MENU_ID=032901&CONT_SEQ=341459&page=1 ",
+        "",
+        "<참고 웹사이트>",
+        "1. 서대문구 지역보건의료계획: http://health.sdm.go.kr",
+        "2. 보건복지부: http://www.mw.go.kr ",
+        "3. 미국질병통제센터: http://www.cdc.gov",
+        "4. 세계보건기구: http://www.who.int/"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

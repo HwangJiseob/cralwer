@@ -5522,6 +5522,31 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "o 전웅, 현대국가정보학(박영사, 2015).",
+        "",
+        "o 문정인 편, 국가정보론(박영사, 2002).",
+        "",
+        "o 어니스트 벌크먼 저, 이창신 역, 스파이의 역사 1: 작전편(이마고, 2003).",
+        "",
+        "o 김영수, 역사를 훔친 첩자(김영사, 2006).",
+        "",
+        "o Hank Prunckun 저, 서동구 역, 방첩의 세계(박영사, 2015).",
+        "",
+        "o Michael Herman, Intelligence Power in Peace and War(New York: Cambridge",
+        "",
+        "  University Press, 1996).",
+        "",
+        "o Abram N. Shulsky, Silent Warfare: Understanding the Wolrl of Intelligence",
+        "",
+        "  (New York: Brassey`s Inc., 1991).",
+        "",
+        "o Mark M. lowenthal, Intelligence: From Secrets to Policy(Washington D.C.:",
+        "",
+        "  CQ Press, 2006)."
+      ]
+    }
   }
 }

@@ -8225,7 +8225,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(1) 박철성, 송헌재, 강창희 옮김,『노동경제학』, 제7판, 시그마프레스, G. Borjas, Labor Economics, 7th edition, McGraw-Hill.",
+        "(2) 보조 교재 (필요한 경우 YSCEC에 공지)"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

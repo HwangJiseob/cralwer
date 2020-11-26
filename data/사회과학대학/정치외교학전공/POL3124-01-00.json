@@ -1781,7 +1781,30 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "김명섭. 『전쟁과 평화: 6.25전쟁과 정전체제의 탄생』(서강대 출판부, [2015] 2016). 대한민국 학술원 우수학술도서. 아시아학자세계총회(ICAS) 우수학술도서.",
+        "참고문헌",
+        "Myongsob KIM et al. Northeast Asia and the Two Koreas. (Seoul: Yonsei University Press, 2008).",
+        "김명섭. 『대서양문명사: 팽창, 침탈, 헤게모니』 한길사, 2001.",
+        "김명섭 외. 『동아시아의 전쟁과 평화』 연세대학교 출판부, 2006.",
+        "김명섭 외. 『한국외교사와 국제정치학』 성신여자대학교 출판부, 2005.",
+        "양호민. 『한반도의 격동 1세기 반』 상·하 한림대학교출판부, 2010.",
+        "- 1차 자료 데이터베이스 -",
+        "국사편찬위원회 한국사데이터베이스 http://db.history.go.kr/",
+        "국사편찬위원회 전자사료관 http://archive.history.go.kr/ ",
+        "독립기념관 한국독립운동정보시스템 http://search.i815.or.kr/main.do",
+        "민주화운동 아카이브시스템 http://archives.kdemo.or.kr/",
+        "국가법령정보센터 http://www.law.go.kr/main.html",
+        "The Avalon Project http://avalon.law.yale.edu/",
+        "Foreign Relations of the United States http://uwdc.library.wisc.edu/FRUS 또는 http://history.state.gov/historicaldocuments",
+        "국가기록원 http://www.archives.go.kr/",
+        "국립중앙도서관 http://www.nl.go.kr",
+        "미 국립문서기록관리청(NARA) http://www.archives.gov/",
+        "미 의회 도서관 http://www.loc.gov/"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

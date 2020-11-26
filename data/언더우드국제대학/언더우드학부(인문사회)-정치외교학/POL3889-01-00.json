@@ -492,6 +492,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Power in movement : social movements and contentious politics/Tarrow, Sidney G/Cambridge University Press/2011 / Rev. & updated 3rd ed",
+        "\r○ Contemporary debates on nationalism : a critical engagement/?zkirimli, Umut/Palgrave Macmillan/2005",
+        "\r○ The making of minjung : democracy and the politics of representation in South Korea/Lee, Nam-hee/Cornell University Press/2007",
+        "\r○ War memory and social politics in Japan, 1945-2005/Seraphim, Franziska/Harvard University Asia Center/2006",
+        "\r○ The politics of war memory in Japan : progressive civil society groups and contestation of memory of the Asia-Pacific war/Szczepanska, Kamila/Routledge/Taylor & Francis Group/2014",
+        "\r○ Exhibiting the past : historical memory and the politics of museums in postsocialist China/Denton, Kirk A./University of Hawai?i Press/2014"
+      ]
+    }
   }
 }

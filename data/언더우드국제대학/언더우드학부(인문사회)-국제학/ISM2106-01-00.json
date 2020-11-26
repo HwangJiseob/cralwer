@@ -506,7 +506,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ On the rule of law : history, politics, theory/Tamanaha, Brian Z./Cambridge University Press/2004",
+        "\r○ Brian Z. Tamanaha, On the Rule of Law: History, Politics, Theory (Cambridge: Cambridge University Press, 2004).",
+        "",
+        "Other materials to be made available online at YSCEC or via the copyshop."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {

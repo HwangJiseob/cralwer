@@ -957,7 +957,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "* 주교재",
+        "- 강의노트 및 관련 아티클",
+        "",
+        "* 부교재",
+        "- Applegate, R. (2013). Practical evaluation techniques for librarians. Santa Barbara, CA : Libraries Unlimited.",
+        "- Matthews, J.R. (2007). The evaluation and measurement of library services. Westport, CT: Libraries Unlimited.",
+        "- Creswell, John. W.(2013). Research design: Qualitative, quantitative, and mixed methods approaches (4th Ed.). Sage Publications.  Creswell, John. W. (2002). Research design: Qualitative, quantitative, and mixed methods approaches (2nd Ed.). Sage Publications."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

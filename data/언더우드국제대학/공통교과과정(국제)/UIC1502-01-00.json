@@ -728,7 +728,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "See weekly plans. Some readings may change in the final version of the ",
+        "syllabus handed out at the beginning of the term."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {

@@ -4114,7 +4114,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재 : Contemporary Linear Algebra by Howard Anton, Robert C. Busby",
+        "",
+        "부교재 : Elementrary Linear Algebra by Larson, Edwards, Falvo 5e."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

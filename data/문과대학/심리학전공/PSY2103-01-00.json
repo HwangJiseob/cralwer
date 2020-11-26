@@ -5902,7 +5902,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "\"심리학입문\" 제3판, 시그마프레스",
+        "원제: Introducing Psychology with Updates on DSM-5  (Schacter, Gilbert, Wegner)",
+        "",
+        "(이전 Edition과 번역용어가 다를 수 있습니다. 모든 퀴즈와 시험은 제3판을 기준으로 합니다)"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

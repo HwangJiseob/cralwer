@@ -1305,7 +1305,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: Fluid Mechanics (P.J. Kundu & I.M. Cohen)",
+        "부교재: Physical Fluid Dynamics (D.J. Tritton)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {

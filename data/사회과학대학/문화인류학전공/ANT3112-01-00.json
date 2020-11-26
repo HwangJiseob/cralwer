@@ -2230,7 +2230,30 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "김홍중, 2009, 『마음의 사회학』, 문학동네. ",
+        "신현준, 2013, 『가요, 케이팝 그리고 그 너머』, 돌베개.",
+        "장유정, 서병기, 2015, 『한국 대중음악사 개론』, 성안당. ",
+        "주성혜, 2008, 『사람을 느끼고 세상을 듣는 음악학』, 루덴스. ",
+        "조일동, 2011, “인터넷 취향 커뮤니티의 ‘참여적 공연’ 만들기”, 한국문화인류학 44(2).",
+        "_____, 2018, “악보에서 소리로 - 한국 대중음악 녹음·기술·실천에 대한 문화인류학”, 한국문화인류학 51(2).",
+        "최유준. 2011. 『음악문화와 감성정치 - 근대의 음조와 그 타자』, 작은이야기.",
+        "",
+        "래리 스타, 크리스토퍼 워터먼(김영대, 조일동 역), 2015(2010), 『미국대중음악』, 한울.",
+        "마크 카츠(허진 역), 2006(2004), 『소리를 잡아라』, 마티. ",
+        "존 블래킹(채현경 역), 1998(1973), 『인간은 얼마나 음악적인가』, 민음사. ",
+        "크리스토퍼 스몰(조선우, 최유준 역), 2004(1998), 『뮤지킹 음악하기』, 효형출판. ",
+        "피에르 부르디외(하태환 역), 1999(1992), 『예술의 규칙 - 문학 장의 기원과 구조』, 동문선. ",
+        "호미 바바 편(류승구 역), 2011(1990), 『국민과 서사』, 후마니타스. ",
+        "",
+        "Barz, Gregory and Cooley, Timothy J Edited. 2008. Shadows in the Field. Oxford University Press. ",
+        "Becker, Judith. 2004. Deep Listeners: Music, Emotion, and Tracing. Indiana University Press. ",
+        "Wald, Elijah. 2009. How The Beatles Destroyed Rock ‘N Roll. Oxford University Press.",
+        "Walser, Robert. 1993. Running with the Devil: Power, Gender, and Madness in Heavy Metal Music. Wesleyan University Press."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

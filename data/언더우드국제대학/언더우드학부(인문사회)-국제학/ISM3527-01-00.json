@@ -936,7 +936,22 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "P.W. Singer & Allan Friedman (2014), Cybersecurity and Cyberwar: What Everyone ",
+        "Needs to Know, USA: Oxford University Press. ",
+        "Recommended:",
+        "Jason Healey (ed.) (2013), A Fierce Domain: Conflict in Cyberspace 1986 to ",
+        "2012, USA: CCSA/Atlantic Council.",
+        "Paulo Shakarian, Jana Shakarian, and Andrew Ruef, Introduction to Cyber-Warfare: A Multidisciplinary Approach.  USA: Syngress (2013). ",
+        "Jason Andress & Steve Winterfeld (2013), Cyber Warfare: Techniques, Tactics and Tools for Security Practitioners (2nd ed.), USA: Syngress.",
+        "Cyber-thriller classics (all students must read at least one of these):",
+        "William Gibson (1984), Neuromancer, USA: Penguin.",
+        "Neal Stephenson (2008), Snow Crash, USA: Bantam.",
+        "P.W. Singer and August Cole (2015), Ghost Fleet: A Novel of the Next World War, USA: Houghton Mifflin."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

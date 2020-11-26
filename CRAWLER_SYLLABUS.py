@@ -37,15 +37,15 @@ TARGET_HG   = TARGET_SEMESTER[-1]
 # CATEGORIES 정리
 MAJORS      = ["문과대학", "상경대학", "경영대학", "이과대학", "공과대학", "생명시스템대학",
                "신과대학", "사회과학대학", "음악대학", "생활과학대학", "교육과학대학",
-               "언더우드국제대학", "글로벌인재대학"]
-MEDICALS    = ["약학대학", "의과대학", "치과대학", "간호대학"]
+               "언더우드국제대학", "글로벌인재대학", "약학대학", "의과대학", "간호대학"]
+# MEDICALS    = ["약학대학", "의과대학", "치과대학", "간호대학"]
 SPECIALS    = ["연계전공", "ROTC", "Study Abroad Course", "교직과정", "국내교환대학", "공통"]
 ELECTIVES   = ["교양기초(2019학번~)", "대학교양(2019학번~)", "기초교육(2019학번~)", "국제캠퍼스(2019학번~)",
                "공통기초(10~18학번)", "필수교양(10~18학번)", "선택교양(10~18학번)", "(~2018학번)국제캠퍼스"]
-ALL = MAJORS + MEDICALS + SPECIALS + ELECTIVES
+ALL = MAJORS + SPECIALS + ELECTIVES
 SEARCH      = []    # 수기 입력
-CATEGOIRES  = ['MAJORS', 'MEDICALS', 'SPECIALS', 'ELECTIVES', 'ALL', 'SEARCH']
-
+CATEGOIRES  = ['MAJORS', 'SPECIALS', 'ELECTIVES', 'ALL', 'SEARCH']
+# MEDICALS와 MAJORS를 합치면서 ALL과 CATEGOIRES에서도 MEDICALS을 뺌.
 
 
 # 주요 element들의 selector 목록

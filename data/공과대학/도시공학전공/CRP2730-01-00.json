@@ -773,7 +773,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : 1. 대한국토.도시계획학회 편저, 토지이용계획론, 보성각, 2008\r",
+        "부교재\r",
+        " 1. 도시토지이용계획론(Urban Land Use Planning, 번역서), 권기욱 및 유병권, \r",
+        "    태림문화사, 2000.\r",
+        " 2. Urban Land Use Planning, Kaiser, Godshalk, and Chapin, Jr, University of \r",
+        "    Illinois Press,1995."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

@@ -347,7 +347,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Recommended Text",
+        "-Ballast, David (2010): Interior Design Reference Manual (5th. ed), CA: ",
+        "Professional Publication, Inc. York, NY: Wiley",
+        "",
+        "-Plunkett, Drew (2010). Construction and Detailing for Interior Design. ",
+        "London, UK:Lauren King Publisher",
+        "",
+        "-Architectural Spacing Theory, Korea Architecture Society. Kimundang",
+        "",
+        "-Berlin 1923, Construction Experiment Laboratory, Moving Geometry, ",
+        "Horizontally wide opening disappears. IlBum Bong Space time.",
+        "",
+        "-Jung-Ho Lee. Composition Method of Architecture. Bomundang"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

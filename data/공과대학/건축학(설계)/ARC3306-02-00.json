@@ -856,5 +856,25 @@
         "비고": ""
       }
     ]
+  },
+  "20182": {
+    "LECT_DATA": {
+      "학정번호": "ARC3306-02-00",
+      "과목명": "건축시공"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Required Textbook: ",
+        "1. Allen, E., and Iano, J. (2004) “Fundamentals of Building Construction: ",
+        "Materials and Methods, 4th Edition.” John Wiley & Son, Inc. ",
+        "2. 신현식, 김문한, 김무한, 신동우, 현창택, 이현수, 박찬식공저“건축시공학”제2",
+        "판, 문운당",
+        "Additional Reference:",
+        "1. Francis D. K. Ching (2008). “Building Construction Illustrated, 4th ",
+        "Edition.” John Wiley & Son, Inc.",
+        "2. Daniel. W. Halpin and Ronald W. Woodhead. Construction Management (3rd ",
+        "Edition). John Wiley & Sons, New York."
+      ]
+    }
   }
 }

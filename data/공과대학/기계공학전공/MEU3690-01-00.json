@@ -1219,6 +1219,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "[1] Suh, S-H et al, Theory and Design of CNC Systems, Springer, Ch. 1, 2, 4, 6, 7, 9",
+        "[2] 김준규 역, 모터를 알고싶다, 한진, 2011",
+        "[3] Altintas, Y, Manufacturing Automation, 2 ED, Cambridge, Ch. 5, 6",
+        "[4] MATLAB Primer, MathWorks, www.mathworks.com/help/pdf_doc/matlab/getstart.pdf",
+        "[5] Simulink Getting Started, MathWorks www.mathworks.com/help/pdf_doc/simulink/sl_gs.pdf",
+        "[6] 강의자료"
+      ]
+    }
   }
 }

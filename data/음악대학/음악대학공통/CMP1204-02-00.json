@@ -341,7 +341,26 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 간추린 성부진행: 화성학의 길잡이 (EUMSE Academic 10)/송무경/음악세계/2018",
+        "\r○ (연주자를 위한) 조성음악분석. 1/송무경 宋武暻/예솔/2018 / 개정증보판",
+        "\r○ <교재>",
+        "송무경, 『간추린 성부진행 지침』.  ",
+        "송무경, 『연주자를 위한 조성음악 분석1』, 예솔, (개정판), 2006. ",
+        "음악노트, 연필, 지우개, 자. ",
+        "",
+        "<참고문헌>",
+        "1) 허영한, 한미숙 공저, 『조성음악의 화성진행 1』, 예솔, 2002. ",
+        "2) Stefan Kostka and Dorothy Payne, Tonal Harmony with an Introduction to ",
+        "Twentieth-Century Music, 4th ed. (New York: McGraw-Hill Companies, Inc., 2000).",
+        "3) Carl Schachter and Edward Aldwell, Harmony and Voice Leading, 3rd ed. ",
+        "Wadsworth Publishing Company, August 2002.",
+        "4) Robert Gauldin, Harmonic Practice in Tonal Music, Norton, W. W. & Company, ",
+        "Inc. August 1997."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

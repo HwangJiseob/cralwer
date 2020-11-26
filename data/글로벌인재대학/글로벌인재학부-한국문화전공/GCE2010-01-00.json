@@ -785,6 +785,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 한국어 이해교육론/강현화/형설/2009",
+        "\r○ <참고 도서>",
+        "김지홍(2003) 역. 듣기 (Anne Anderson & Tony Lynch(2003) Listening, Oxord ",
+        "Language Teaching )",
+        "김지홍(2003) 역. 읽기 (Catherine Wallace(2003) Reading, Oxord Language ",
+        "Teaching )"
+      ]
+    }
   }
 }

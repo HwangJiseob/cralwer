@@ -517,7 +517,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "필수교재: ",
+        "톰슨, 도르시, 밀러, 패럿 편 (2010). 헬스커뮤니케이션. 커뮤니케이션북스. ",
+        "백혜진, 이혜규 (2013). 헬스커뮤니케이션의 메시지, 수용자, 미디어 전략",
+        "선택교재:",
+        "Write, K.B., Sparks, L. & O`Hair, H.D. (2008). Health communication in the 21st Century. Malden, MA: Blackwell.",
+        "Glanz, K., Rimer, B.K. & Viswanath, K. (2015). Health behavior and health education: Theory, research, and practice. Jossey-Bass: San Francisco.   ",
+        "그 외 읽을 거리는 수업자료용 리딩 참조 ",
+        "교재에 대한 자세한 사항은 첫 수업시간에 소개할 것임"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {

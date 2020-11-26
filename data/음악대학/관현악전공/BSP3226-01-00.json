@@ -85,7 +85,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 오케스트라 : 역사 작곡가 양식/Bekker, Paul/音樂世界/2003",
+        "\r○ The orchestra/Bekker, Paul/W. W. Norton & Co./1964",
+        "\r○ The study of orchestration/Adler, Samuel/Norton/1982 / 1st ed"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
