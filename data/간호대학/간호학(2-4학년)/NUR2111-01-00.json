@@ -3111,7 +3111,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Kaakinen J. R., Gedaly-Duff V., Coehlo D. R., Hanson S. M. H. (2014). Family health care nursing: Theory, Practice and Research(4th ed.)(pp. 10-13). Philadelphia: Davis Company. ",
+        "2. 유혜라, 이인숙, 김춘미 (2006). 가족간호실무Ⅰ: 이론·연구 및 사례. 서울: 군자출판사. ",
+        "3. 유혜라, 김춘미, 이인숙 (2006). 가족간호실무Ⅱ: 간호과정, 간호진단, 간호중재. 서울: 군자출판사. ",
+        "4. 유영주, 김순옥, 김경신 (2013). 가족관계학. 서울: 교문사.",
+        "5. 김성혁 외 (2012). 다문화의 이해와 건강. 정담미디어."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

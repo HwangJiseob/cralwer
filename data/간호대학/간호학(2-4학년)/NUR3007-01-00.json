@@ -3335,7 +3335,26 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ (모성간호학) 여성건강간호학. 1/여성건강간호교과연구회/수문사/2016 / 제8판",
+        "\r○ (모성간호학) 여성건강간호학. 2/여성건강간호교과연구회/수문사/2016 / 제8판",
+        "\r○ Ricci, S. S. (2013). Essential of Maternity, Newborn, and Women’s Health Nursing (3rded.).Lippincott Williams & Wilkins",
+        "\r○ 모성간호학전자교과서 (www.ymn.kr) : 출산 및 산욕, 근거중심간호 관련 정보",
+        "\r○ 모성간호실습전자교과서 (http://nurse.yonsei.ac.kr/maternity): 정상 임신 및 출산 관련 정보 (Text, 동영상, 사진 등)",
+        "\r○ 모성간호학 사례별 simulation (http://128.134.207.23/simulation/newsimulation/index.html): 정상 산부, 고위험 산부",
+        "\r○ Hatcher, R, A., Trussell, J. &Kowal, D. (2011). Contraceptive technology (20th Edition). ArdentMedia",
+        "\r○ Gilbert, E. S. (2011). Manual of high risk pregnancy and delivery. (5thed.). Elsevier Health Sciences",
+        "\r○ Cedars, I. (2005). Infertility. McGraw Hill.",
+        "\r○ Liu, J.H., &Gass, M.L.S. (2006). Management of the perimenopause - Practical pathways series. McGraw Hill.",
+        "\r○ 김세철 외(2008). 성학(Human sexuality). 서울 :군자출판사.",
+        "\r○ Cunningham,F., Leveno,K., Bloom,S., Hauth,J., Gilstrap,L.C., Hauth, J. C., Rouse, D. & Spong, K.. (2009). Williams obstetrics (23rdEdition). McGrawHill.",
+        "\r○ 대한남성과학회(2010). 남성과학. 서울 :군자출판사.",
+        "\r○ Crooks, R, L., Baur, K. Our sexuality (2014,2011) (12th Edition). Wadsworth.",
+        "\r○ WebMD, URL: http://women.webmd.com"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

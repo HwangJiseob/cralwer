@@ -561,6 +561,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. 조병희(2015). 질병과 의료의 사회학. 집문당",
+        "2. 사라 네틀턴 - 조효제 역 (2013). 건강과 질병의 사회학, 한울아카데미: 서울",
+        "3. 건강세상네트워크 http://www.konkang21.or.kr/korean/",
+        "4. 건강정책학회 http://www.facebook.com/home.php?ref=wizard#!/achp2009?fref=ts",
+        "5. 보건복지부 http://www.mw.go.kr/front_new/index.jsp",
+        "6. 한국국제보건의료재단 http://www.kofih.org/hboard3/",
+        "7. 세계보건기구 http://www.who.int/en/"
+      ]
+    }
   }
 }

@@ -1149,7 +1149,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Required texts:",
+        "● Potter, P. A., Perry, A. G., Stockert, P., & Hall, A. (2016). Fundamentals of nursing (9th Ed.). Missouri: Elsevier Health Sciences. ",
+        "",
+        "Recommended texts for additional reference:  ",
+        "● Ko, I. S. et al. (2013). Fundamental of Nursing (7th Ed.). Seoul: Jungdam Media.   ",
+        "● Ko, I. S. et al. (2013). Procedure for Fundamental of Nursing (7th Ed.). Seoul: Jungdam Media.   ",
+        "● Sohn, J. T. et al. (2015). Fundamental of Nursing I & II (9th Ed.). Seoul: Hyunmoonsa. ",
+        "● Sohn, J. T. et al. (2015). Procedure for Fundamental of Nursing I & II (9th Ed.). Seoul: Hyunmoonsa. ",
+        "● Berman, A., Synder, S., & Frandsen, G. (2015). Kozier & Erb's Fundamentals of Nursing (10th Ed.). New York: Pearson Education."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

@@ -3251,7 +3251,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. 조경숙 외 (2013). 성인간호학 I, II (6th ed.). 서울: 현문사. ",
+        "2. 김희순 외 (2014). 아동건강간호학 I, II (3rd ed). 서울: 수문사.",
+        "3. Lewis, S. L., Dirksen, S. R., Heitkemper, M. M., Bucher, L., & Camera, I. M.",
+        "(2010). Medical Surgical Nursing(8th edition):Assessment and Management of ",
+        "Clinical Problems. Elsevier Inc.",
+        "4. Janice L. Hinkle, Kerry H. Cheever(2013). Brunner & Suddarth’s textbook of ",
+        "medical-surgical nursing (13thed). LWW."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

@@ -726,7 +726,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "▪ 주교재: \r",
+        "Principles of Genetics, 6th Edition by D. Peter Snustad & Michael J. Simmons\r",
+        " Web site: http://bcs.wiley.com/he-bcs/Books?\r",
+        "action=index&itemId=0470388250&bcsId=4684 (5th edition)\r",
+        "▪ 부교재: \r",
+        "Molecular Cell Biology 7th Edition, by Harvey Lodish\r",
+        " Web site: http://www.ncbi.nlm.nih.gov/books/NBK21475/ (4th edition)\r",
+        "Molecular Biology of the Cell, 5th Edition by Bruce Alberts, Garland Science\r",
+        " Web site: http://www.ncbi.nlm.nih.gov/books/NBK21054/ (4th edition)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {

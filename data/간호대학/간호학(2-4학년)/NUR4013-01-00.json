@@ -1881,7 +1881,21 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Chulay, M. & Burns, S. (2010). AACN Essential of Critical Care Nursing (2nd ",
+        "Ed.). ",
+        "     McGraw-Hill Professional. ",
+        "Korean Association of Critical Care Nurses (Trans) (2014). AACN Procedure ",
+        "Manual for Critical Care VOLUME 1, 2, 3,4. Seoul: Elsevier Korea. AACN & ",
+        "Weigand. (2010). AACN Procedure Manual for Critical Care (6th Ed.). Saunders.",
+        "Kim, N. Y. et al. (Trans) (2013). Critical Care. Seoul: Hyunmoonsa. Chulay & ",
+        "Burns. (2010).",
+        "AACN Essential of Critical Care Nursing (2nd Ed.). McGraw-Hill Professional. ",
+        "Kim, G. S. et al. (2014). Critical Care Nursing in ICU. Seoul: Soomoonsa."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

@@ -1689,7 +1689,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Basic Immunology:Functions and Disorders of the Immune System, 5th Edition, ",
+        "Abul Abbas, Andrew H. Lichtman, Shiv Pillai, Elsevier"
+      ]
+    }
   },
   "20191": {
     "CAUTION": {

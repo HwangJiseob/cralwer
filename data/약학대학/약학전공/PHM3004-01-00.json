@@ -104,5 +104,22 @@
         "비고": ""
       }
     ]
+  },
+  "20181": {
+    "LECT_DATA": {
+      "학정번호": "PHM3004-01-00",
+      "과목명": "생리학"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재: 인체생리학 제9판, 라이프사이언스 ",
+        "     (Human Physiology, 9th Ed; Lauralee sherwood)",
+        "",
+        "참고문헌",
+        "Berne & Levy Physiology 6th Ed [Bruce M. Koeppen 외]",
+        "Human Physiology 12th Ed [Stuart Ira Fox]",
+        "병태생리학 5th Ed (Essentials of Rubin`s Pathology, 5th Ed), 군자출판사"
+      ]
+    }
   }
 }

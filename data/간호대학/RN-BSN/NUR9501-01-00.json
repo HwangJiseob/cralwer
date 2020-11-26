@@ -1389,7 +1389,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1) 교재",
+        "- 김금순 외 (2015). 간호사를 위한 건강사정 (10판: Bates’ Guide to Physical Examination and History Taking). 서울: 군자출판사.",
+        "- 송경애 외 (2012). 건강사정 (7판: Mosby’s Guide to Physical Examination). 서울: 엘스비어코리아.",
+        "- Jarvis, C. (2015). Physical Examination & Health Assessment (7th Ed.). St. Louis: Saunders Elsevier.",
+        "- Seidel et al. (2010). Mosby’s Guide to Physical Examination, 7th edition. Mosby.",
+        "- Bickley. (2012). Bates’ Guide to Physical Examination and History Taking. LWW. ",
+        "2) DVD",
+        "- Carolyn Jarvis (2008). Physical examination & Health Assessment DVD series. Version 2. Elsevier Korea LLC.",
+        "- 기본간호학회 (2008). 건강사정 DVD series. Mosby Elsevier."
+      ]
+    }
   },
   "20191": {
     "CAUTION": {
