@@ -1098,6 +1098,14 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Richard A. Swanson & Elwood F. Holton III (2001). Foundations of Human Resource Development, San Francisco:  Berrett-Koehler (인적자원개발론, 오헌석, 이현응 역)",
+        "이관춘 김은경 (2012) 기업교육론: 실무 중심의 인적자원개발(학지사)",
+        "",
+        "기타 주제와 관련된 자료 제시"
+      ]
+    }
   }
 }

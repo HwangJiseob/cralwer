@@ -110,6 +110,38 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 교재: 미분적분학 에센스",
+        "저자: James Stewart지음 한빛수학연구소 옮김",
+        "출판사:한빛 아카데미",
+        "",
+        "부교재 :Stewart - Calculus - Early Transcendentals 7th edition",
+        "",
+        "\r○ 교재: 미분적분학 에센스",
+        "저자: James Stewart지음 한빛수학연구소 옮김",
+        "출판사:한빛 아카데미"
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "STA1002-04-00",
+      "과목명": "미분적분학"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 교재: 미분적분학 에센스",
+        "저자: James Stewart지음 한빛수학연구소 옮김",
+        "출판사:한빛 아카데미",
+        "",
+        "부교재 :Stewart - Calculus - Early Transcendentals 7th edition",
+        "",
+        "\r○ 교재: 미분적분학 에센스",
+        "저자: James Stewart지음 한빛수학연구소 옮김",
+        "출판사:한빛 아카데미"
+      ]
+    }
   }
 }

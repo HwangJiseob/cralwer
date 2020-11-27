@@ -1567,7 +1567,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(1) Concepts of Modern Catalysis and Kinetics  3rd Edition, I. Chorkendorff (Author), J. W. Niemantsverdriet (Author) ",
+        "",
+        "(2) Fundamental Concepts in Heterogeneous Catalysis 1st Edition, by Jens K. Norskov, Felix Studt, Frank Abild-Pedersen, Thomas Bligaard",
+        "",
+        "(3) Lecture Notes and Class Hand-out"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2328,6 +2337,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(1) Concepts of Modern Catalysis and Kinetics  3rd Edition, I. Chorkendorff (Author), J. W. Niemantsverdriet (Author) ",
+        "",
+        "(2) Fundamental Concepts in Heterogeneous Catalysis 1st Edition, by Jens K. Norskov, Felix Studt, Frank Abild-Pedersen, Thomas Bligaard",
+        "",
+        "(3) Lecture Notes and Class Hand-out"
+      ]
+    }
   }
 }

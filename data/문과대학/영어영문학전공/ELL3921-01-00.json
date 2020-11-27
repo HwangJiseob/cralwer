@@ -791,7 +791,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ The Pilgrim's Progress (Oxford World's Classics)/John Bunyan/Oxford University Press/2003",
+        "\r○ You are required to purchase the Oxford World's Classics edition of  [Pilgrim's Progress] specified above via amazon.com or amazon.uk. Other course material, including the King James Bible, will be made available in various forms via yscec."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1224,6 +1230,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Book to be purchased individually via Amazon.com: ",
+        "",
+        "John Bunyan, [The Pilgrim's Progress] (Oxford: Oxford University Press, 2003)",
+        "",
+        "Other course material, including the King James Bible, will be made accessible in various forms via YSCEC."
+      ]
+    }
   }
 }

@@ -3990,6 +3990,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ North Korean Foreign Policy: Security Dilemma and Succession/Yongho Kim/Lexington Books/2014",
+        "\r○ Yongho Kim, North Korean Foreign Policy: Security Dilemma and ",
+        "Succession (Lanham: Lexington Books, 2011)."
+      ]
+    }
   }
 }

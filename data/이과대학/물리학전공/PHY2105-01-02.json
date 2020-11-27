@@ -1427,7 +1427,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Horowitz and Hill, \"The Art of Electronics\", 3rd. Ed. Cambridge Univ. Press"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1697,6 +1702,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : 핵심이 보이는 전자회로 실험 with PSPICE (저자 : 신경욱)",
+        "",
+        "참고용 교재 : Horowitz and Hill, \"The Art of Electronics\", 3rd. Ed. Cambridge Univ. Press"
+      ]
+    }
   }
 }

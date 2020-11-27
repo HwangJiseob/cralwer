@@ -1933,7 +1933,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: \r",
+        "자체 제작한 논문집 \r",
+        "\r",
+        "보조교재: \r",
+        "What is this thing called metaethics (Matthew Chrisman, Routledge, 2016)\r",
+        "Metaethics : a contemporary introduction (Mark van Roojen, Routledge, 2015)\r",
+        "Routledge handbook of metaethics(McPherson & Plunkett, Routledge, 2018)\r",
+        "Routledge handbook of moral epistemology(Zimmerman, Jones & Timmons, 2019)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2637,6 +2649,17 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재: Derek Parfit, On What Matters vol.I(Oxford Univ. Press, 2013) \r",
+        "        ==> 번역 제공\r",
+        "참고하면 유익한 문헌: Suikkanen & Cottingham, ed., Essays on Derek Parfit`s On \r",
+        "What Matters Volume(Wiley-Blackwell. 2009)/ Peter Singer, ed., Does anything \r",
+        "really matter?: essays on Parfit on objectivity (Oxford Univ. Press 2017)/ \r",
+        "Simon Kirchin, ed., Reading Parfit: On What Matters(Routledge, 2017) / Husain \r",
+        "Sarkar, Kant and Parfit: The Groundwork of Morals (Routledge, 2018)"
+      ]
+    }
   }
 }

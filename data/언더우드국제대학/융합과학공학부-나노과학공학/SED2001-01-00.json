@@ -3207,7 +3207,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Atkins' Physical chemistry/Atkins, P. W. (Peter William)/Oxford University Press/2014 / 10th ed",
+        "\r○ Physical chemistry/Silbey, Robert J/Wiley/2005 / 4th ed.",
+        "\r○ Physical chemistry for the chemical sciences/Chang, Raymond/University Science Books/2014"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3744,6 +3751,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Text: Atkins' Physical chemistry/Atkins, P. W. (Peter William)/Oxford University Press/2014 / 10th ed",
+        "",
+        "Reference: Physical chemistry/ Thomas Engel, Phili Reid/Wiley/2013 / 3rd ed."
+      ]
+    }
   }
 }

@@ -253,6 +253,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재",
+        "원저: Ormrod, J. E. (2016). Human learning (7th Ed.). Pearson.",
+        "김인규, 강지현, 여태철, 윤경희, 임은미, 임진영, 하혜숙, 황매향 역(2017). 인간의 학습 (제 7판). 시그마프레스.",
+        "",
+        "부교재",
+        "원저: Olson, M. H. & Hergenhahn, B.R. (2013). Introduction to theories of learning(9th Ed.). Pearson.",
+        "신종호, 이선영 역(2015). 학습심리학: 인간의 사고, 정서, 행동의 이해(제 9판). 학지사."
+      ]
+    }
   }
 }

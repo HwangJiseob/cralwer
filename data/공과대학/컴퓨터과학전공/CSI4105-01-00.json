@@ -4859,7 +4859,19 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main Text: Lecture Notes on YSCEC",
+        "    일부 course note와 source code를 다운받아 볼 수 있습니다: http://drive.google.com/file/d/1GTLqTJ0m7DtoNLxX6Pr-1fIdcWCK20cZ/view?usp=sharing",
+        "",
+        "References: ",
+        "- Learn OpenGL, extensive tutorial resource for learning Modern OpenGL, http://learnopengl.com/",
+        "- OpenGL,  http://www.songho.ca/opengl/",
+        "- OpenGL Step by Step - OpenGL Development,  http://ogldev.atspace.co.uk/index.html",
+        "- 3D Graphics with OpenGL - The Basic Theory, http://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.htm"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -6991,6 +7003,19 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main Text: Lecture Notes on YSCEC",
+        "    일부 course note와 source code를 다운받아 볼 수 있습니다: http://drive.google.com/file/d/1GTLqTJ0m7DtoNLxX6Pr-1fIdcWCK20cZ/view?usp=sharing",
+        "",
+        "- Learn OpenGL, extensive tutorial resource for learning Modern OpenGL, http://learnopengl.com/",
+        "- Edward Angel, Interactive Computer Graphics: A Top-down Approach with WebGL, 7th edition, Pearson, 2014.",
+        "- Rick Parent, Computer Animation: Algorithms and Techniques, Morgan Kaufmann, 2012",
+        "- OpenGL,  http://www.songho.ca/opengl/",
+        "- OpenGL Step by Step - OpenGL Development,  http://ogldev.atspace.co.uk/index.html",
+        "- 3D Graphics with OpenGL - The Basic Theory, http://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.htm"
+      ]
+    }
   }
 }

@@ -5385,7 +5385,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -6383,6 +6388,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Moran's Principles of Engineering Thermodynamics, SI Version, 9th Edition, Global Edition",
+        "Michael J. Moran, Howard N. Shapiro, Daisie D. Boettner, Margaret B. Bailey"
+      ]
+    }
   }
 }

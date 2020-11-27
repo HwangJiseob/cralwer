@@ -8154,7 +8154,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : Essential Calculus(Early Transcendentals)/James Stewart/Thomson (2nd ed.) (한글판 2014 미분적분학 1,2/James Stewart/교우사)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -9096,7 +9101,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : Essential Calculus(Early Transcendentals)/James Stewart/Thomson (2nd ed.) (한글판 2014 미분적분학 1,2/James Stewart/교우사)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -10430,7 +10440,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : Essential Calculus(Early Transcendentals)/James Stewart/Thomson (2nd ed.) (한글판 2014 미분적분학 1,2/James Stewart/교우사)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -11177,6 +11192,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : Essential Calculus(Early Transcendentals)/James Stewart/Thomson (2nd ed.) (한글판 2014 미분적분학 1,2/James Stewart/교우사)"
+      ]
+    }
   }
 }

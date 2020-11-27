@@ -1166,7 +1166,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1) Faerm Stevens. Fashion Design Course: Principles, Practice, and Techniques, Barrons Education at Series,Inc.,Hauppauge,New York(2017)",
+        "2) Mark Atkinson. How to Create Your Final Collection, Lawrence King Publishing Ltd, London (2012)",
+        "3) Linda Tain. Portfolio Presentation for Fashion Designers, Fairchild Books, NewYork (2010)",
+        "4) Anna Kiper. Fashion Portfolio Design and Presentation, Basheer Graphic Books, Singapore (2014)",
+        "5) Ezinma Mbonu. Fashion Design Research, Laurence King Publishing Ltd., London (2014)",
+        "6) 기타: 패션 전문 웹사이트들"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1380,6 +1390,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1) Faerm Stevens. Fashion Design Course: Principles, Practice, and Techniques, Barrons Education at Series,Inc.,Hauppauge,New York(2017)",
+        "2) Mark Atkinson. How to Create Your Final Collection, Lawrence King Publishing Ltd, London (2012)",
+        "3) Linda Tain. Portfolio Presentation for Fashion Designers, Fairchild Books, NewYork (2010)",
+        "4) Anna Kiper. Fashion Portfolio Design and Presentation, Basheer Graphic Books, Singapore (2014)",
+        "5) Ezinma Mbonu. Fashion Design Research, Laurence King Publishing Ltd., London (2014)",
+        "6) 기타: 패션 전문 웹사이트들"
+      ]
+    }
   }
 }

@@ -87,7 +87,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Judith N. Martin & Thomas K. Nakayama (2012). Intercultural Communication in Contexts, 5th Edition, New York : McGraw-Hill."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -261,7 +266,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Samovar et al. (2013). Communication between cultures, 8th Edition, Wadsworth. ",
+        "",
+        "이두원 [외] (2015). 문화 간 커뮤니케이션, 커뮤니케이션북스 (지은이: 래리 A. 사모바 [외] ",
+        "",
+        "도서관에 비치되어 있습니다"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -730,6 +744,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Samovar et al. (2013). Communication between cultures, 8th Edition, Wadsworth. ",
+        "",
+        "이두원 [외] (2015). 문화 간 커뮤니케이션, 커뮤니케이션북스 (지은이: 래리 A. 사모바 [외] ",
+        "",
+        "문미리, 이상록 (2019) 셀러브리티, 한울아카데미 (지은이: 크리스 로젝)",
+        "",
+        "도서관에 비치되어 있습니다"
+      ]
+    }
   }
 }

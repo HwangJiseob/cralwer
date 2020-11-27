@@ -1799,7 +1799,21 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Required Texts: \r",
+        "\r",
+        "The Great Gatsby, The Sound and the Fury, Beloved (구내 서점)\r",
+        "\r",
+        "\r",
+        "Class Schedule: \r",
+        "\r",
+        "Sep. 3   -  Oct. 1 :    The Great Gatsby\r",
+        "Oct.8    -  Nov. 7  :   The Sound and the Fury\r",
+        "Nov. 12   -  Dec. 12 :     Beloved"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2140,6 +2154,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

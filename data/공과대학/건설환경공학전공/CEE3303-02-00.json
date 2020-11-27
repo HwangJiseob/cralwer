@@ -1026,5 +1026,18 @@
         "비고": ""
       }
     ]
+  },
+  "20191": {
+    "LECT_DATA": {
+      "학정번호": "CEE3303-02-00",
+      "과목명": "재료역학및응용"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재:",
+        "Hibbler, R,C., Statics and Mechanics of Materials, 3rd, 4th, or 5th ed., Prentice ",
+        "Hall."
+      ]
+    }
   }
 }

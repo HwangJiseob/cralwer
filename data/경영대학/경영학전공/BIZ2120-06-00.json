@@ -3353,6 +3353,39 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ (고객중심과 시너지 극대화를 위한) 마케팅원론/오세조 吳世祚/博英社/2010",
+        "\r○ (시장지향적) 마케팅관리/박충환/박영사/2011",
+        "\r○ Principles of Marketing 15/E: Global Edition/Kotler Philip/Wiley/2014"
+      ]
+    }
+  },
+  "20191": {
+    "LECT_DATA": {
+      "학정번호": "BIZ2120-06-00",
+      "과목명": "마케팅"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
+  },
+  "20202": {
+    "LECT_DATA": {
+      "학정번호": "BIZ2120-06-00",
+      "과목명": "마케팅"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 ",
+        "안광호, 하영원, 유시진, 박흥수 (2018). 마케팅 원론. 7판. 학현사",
+        "",
+        "참고문헌",
+        "Kotler, P., & Armstrong, G. (2017). Principles of Marketing. 17th edition. Pearson education."
+      ]
+    }
   }
 }

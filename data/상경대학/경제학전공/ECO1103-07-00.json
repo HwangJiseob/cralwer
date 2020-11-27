@@ -3238,7 +3238,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "0 Mankiew, Principles of Economics, 8th Edition"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -3363,7 +3368,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Mankiw, Economics"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3460,7 +3470,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main Text : Principles of Economics, N. Gregory Mankiw, 8th Edition (For Use in Asia Only), Cengage",
+        "",
+        "Reference: Economics, Daron Acemoglu/David Laibson/John A. List, 2nd Edition, Pearson"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3523,6 +3540,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Mankiw, Principles of Economics, CENGAGE, 2017"
+      ]
+    }
   }
 }

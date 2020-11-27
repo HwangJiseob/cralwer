@@ -2094,6 +2094,21 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "There will be no required textbooks for this course. Most of the lectures will be based on the materials that the instructor provides for each class. ",
+        "The followings are optional textbooks, which means that those students who want to buy can buy. ",
+        "",
+        "1) McKinney (2017), Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython (2nd Edition), O'Reilly Media.",
+        "2) Raschka and Mirjalili (2017), Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow (2nd Edition), Packt.",
+        "3) Chollet (2017), Deep Learning with Python, Manning Publications.",
+        "",
+        "For Korean students, you can also refer to the following books.",
+        "1) 김승연, 정용주 (2017), 처음 배우는 머신러닝, 한빛미디어",
+        "2) 쿠지라 히코우즈쿠에 저 / 윤인성 역 (2017), 파이썬을 이용한 머신러닝, 딥러닝 실전 개발 입문, 위키북스",
+        "3) 김성진 (2018), 코딩셰프의 3분 딥러닝, 케라스맛, 한빛미디어"
+      ]
+    }
   }
 }

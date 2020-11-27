@@ -1237,7 +1237,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Introduction to atmospheric chemistry/Jacob, Daniel J./Princeton University Press/1999",
+        "\r○ Basic physical chemistry for the atmospheric sciences/Hobbs, Peter Victor/Cambridge University Press/1995",
+        "\r○ Chemistry of the upper and lower atmosphere : theory, experiments, and applications/Finlayson-Pitts, Barbara J./Academic Press/2000",
+        "\r○ Air pollution and global warming : history, science, and solutions/Jacobson, Mark Z. (Mark Zachary)/Cambridge University Press/2012 / 2nd ed",
+        "\r○ Atmospheric chemistry and physics : from air pollution to climate change/Seinfeld, John H/John Wiley & Sons, Inc./2016 / 3rd ed"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1438,6 +1447,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Daniel J. Jacob, Introduction to Atmospheric Chemistry (Princeton)"
+      ]
+    }
   }
 }

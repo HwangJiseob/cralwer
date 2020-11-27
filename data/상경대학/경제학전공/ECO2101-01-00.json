@@ -5518,7 +5518,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Macroeconomics/Mankiw, N. Gregory/Worth Publishers/2016 / 9th ed",
+        "\r○ Blanchard, Oliver (2017), Macroeconomics, 7th ed., Pearson.",
+        "Mankiw, N. Gregory (2016), Macroeconomics, 8th ed., Worth Publishers.",
+        "   (***번역판 사용하지 말 것.***)",
+        "Stephen D. Williamson (2013), Macroeconomics, 5th ed. (구판도 가능)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -8043,7 +8052,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "거시경제이론 제 3판 (출판예정) : 제본하여 배포 예정"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -8719,7 +8733,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Macroeconomics/Mankiw, N. Gregory/Worth Publishers/2016 / 9th ed",
+        "\r○ Stephen D. Williamson (2014), Macroeconomics, 5th ed. (다른 판도 가능)",
+        "Blanchard, Oliver (2017), Macroeconomics, 7th ed., Pearson.",
+        "Mankiw, N. Gregory (2016), Macroeconomics, 8th ed., Worth Publishers."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -9256,6 +9278,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Macroeconomics/Mankiw, N. Gregory/Worth Publishers/2016 / 9th ed",
+        "\r○ Stephen D. Williamson (2018), Macroeconomics, 6th ed. (다른 판도 대체로 가능)",
+        "Blanchard, Oliver (2017), Macroeconomics, 7th ed., Pearson.",
+        "Mankiw, N. Gregory (2016), Macroeconomics, 8th ed., Worth Publishers."
+      ]
+    }
   }
 }

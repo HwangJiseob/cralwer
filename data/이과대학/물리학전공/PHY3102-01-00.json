@@ -1628,7 +1628,22 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재:  ",
+        "D. J. Griffiths, \"Introduction to Quantum Mechanics\", 4th edition, Prentice ",
+        "Hall ",
+        "   ",
+        "   부교재: ",
+        "S. Gasiorowicz, \"Quantum Physics\", John Wiley & Sons",
+        "R. L. Liboff, \"Introductory Quantum Mechanics\", Addison-Wesley",
+        "R. P. Feynman, \"The Feynman Lectures in Physics\", Leighton and Sands",
+        "R. Shankar, \"Principles of Quantum Mechanics\" 2nd Ed., Plenum (1994)",
+        "E. Merzbacher, \"Quantum Mechanics\" 3rd Ed., John Wiley & Sons (1998)",
+        "J.J. Sakurai, \"Modern Quantum Mechanics\", Addison-Wesley  (1994)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2235,6 +2250,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Principles of quantum mechanics/Shankar, Ramamurti/Plenum Press/1994 / 2nd ed",
+        "\r○ 우주가 정말 하나뿐일까? : 최신 우주론 입문/촌산제 村山?/아카넷/2016"
+      ]
+    }
   }
 }

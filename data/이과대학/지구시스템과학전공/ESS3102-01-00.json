@@ -2092,7 +2092,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "\"Sedimentary Petrology\"  by Maurice Tucker, Blackwell Scientific Pub. 1991"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2769,6 +2774,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Principles of Sedimentology and Stratigraphy (4th or 5th edition)",
+        "written by Boggs",
+        "ISBN-13: 978-0321643186",
+        "ISBN-10: 0321643186"
+      ]
+    }
   }
 }

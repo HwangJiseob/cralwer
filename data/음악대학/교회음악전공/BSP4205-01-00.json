@@ -43,7 +43,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -108,6 +113,32 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "17,18세기에 작곡 된 바로크 음악 작품들 (학생들이 각자 관심 있는 다양한 레퍼토리를 자유롭게 선정하여 수업에 참여할 수 있습니다)",
+        "바로크 이론 관련 서적들:",
+        "M. Praetorious - Treatises \"Syntagma Musicum\"",
+        "M. Mersenne - Harmonie Universelle",
+        "G. Muffat - Regulae Concentuum Partiturae ",
+        "J. J. Fux - Gradus ad Parnassum ",
+        "C.P.E Bach - Essay on the True Art of Playing Keyboard Instruments",
+        "F. Couperin - L'Art de toucher le Clavecin",
+        "J. J Quantz - On plying the Flute",
+        "J.-P. Rameau - Treatise on Harmony",
+        "N. Pasquali - The art of fingering the Harpsichord",
+        "L. Mozart - A treatise on the fundamental principle of violin playing",
+        "F. Geminiani - A treatise of good taste in the art of musick",
+        "J. Mattheson - Der Vollkommene Capellmeister",
+        "M. de Saint-Lambert - Les Principes du clavecin ",
+        "D. Bartel - Musica Poetica",
+        "M. F. Bukofzer - Music in the Baroque era",
+        "B. Kuijken - The notation is not the music",
+        "P. Sanit-Dizier - Musical Rhetoric",
+        "F. Neumann - Ornamentation in Baroque and Post-Baroque",
+        "J. Walter Hill - Baroque Music",
+        "G. Houle - Meter in Music"
+      ]
+    }
   }
 }

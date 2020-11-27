@@ -243,7 +243,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -363,6 +368,45 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Books, to be purchased individually (also placed on Course Reserves at the UML)",
+        "- Diana Hacker, A Pocket Style Manual, 8th Edition",
+        "- Jamaica Kincaid, A Small Place (Farrar, Straus and Giroux, 2000)",
+        "- Edwidge Danticat, Brother, I’m Dying (Vintage Books, 2008)",
+        "- Mohsin Hamid, The Reluctant Fundamentalist (Mariner Books/Houghton Mifflin Harcourt, 2008; also available in E-book format through the UML)",
+        "",
+        "Films, placed on Course Reserves at the UML",
+        "- Stephen Frears, Dirty Pretty Things ",
+        "",
+        "",
+        "Other Readings, placed on Course Reserves at the UML",
+        "- Jan Aart Scholte, from Globalization: A Critical Introduction ",
+        "- Thomas L. Friedman, from The World Is Flat: A Brief History of the Twenty-first Century"
+      ]
+    }
+  },
+  "20191": {
+    "LECT_DATA": {
+      "학정번호": "UIC1101-05-00",
+      "과목명": "FRESHMAN WRITING INTENSIVE SEMINAR"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "UIC1101-05-00",
+      "과목명": "FRESHMAN WRITING INTENSIVE SEMINAR"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

@@ -239,7 +239,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Calculus Early Transcendentals, James Stewart 7th Edition, CENGAGE Learning, 2010, Yonsei University Department of Mathematics Version. ISBN 538497904"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -372,6 +377,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Calculus Early Transcendentals, James Stewart 7th Edition, CENGAGE Learning, 2010, Yonsei University Department of Mathematics Version. ISBN 538497904"
+      ]
+    }
   }
 }

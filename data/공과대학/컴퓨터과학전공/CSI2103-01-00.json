@@ -9577,7 +9577,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Any Data Structures Books",
+        "ref: Data structures and algorithms in JAVA (Goodrich and Tamassia)",
+        "     Data Structures, Algorithms and Applications in JAVA (Sahni)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -11010,7 +11017,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Data structures and algorithms in Java/Goodrich, Michael T./Wiley/2014 / 6th ed",
+        "\r○ Data Structures and Algorithms in Java (2nd Edition)/Robert Lafore/Sams Publishing/2002"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -11701,7 +11714,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Any Data Structures Books",
+        "refs:",
+        "Undamentals of Data Structures, Horowitz, Sahni, Mehta ",
+        "Data structures and algorithms in JAVA, Goodrich and Tamassia",
+        "Data Structures, Algorithms and Applications in JAVA, Sahni"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -13037,6 +13059,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Data structures and algorithms in Java/Goodrich, Michael T./Wiley/2014 / 6th ed",
+        "\r○ Data Structures and Algorithms in Java (2nd Edition)/Robert Lafore/Sams Publishing/2002"
+      ]
+    }
   }
 }

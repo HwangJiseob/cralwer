@@ -258,6 +258,47 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Clive Staples Lewis, Mere Christianity (San Francisco: HarperSanFrancisco, ",
+        "2001).",
+        "",
+        "Horace G. Underwood, The Call of Korea: Political-Social-Religious (New York: Fleming H. Revell Company, 1908)",
+        "",
+        "The birth of the living God : a psychoanalytic study / Ana-Maria Rizzuto. Chicago : University of Chicago Press, 1979.",
+        "",
+        "When science meets religion/Barbour, Ian G./HarperSanFrancisco/200",
+        "",
+        "Paul Tillich, A History of Christian Thought, ed. Carl E. Braaten, (New York, ",
+        "NY: Harper & Row Publishers, 1968).",
+        "",
+        "Niebuhr, H. Richard (Helmut Richard)HarperSanFrancisco, 2001 / 1st ed",
+        "",
+        "Paul Tillich, Christianity and the encounter of the world religions (New ",
+        "York: Columbia University Press, 1963).",
+        "",
+        "",
+        "Alister E. McGrath, Christianity: an introduction (Oxford: Blackwell Pub., ",
+        "2006).",
+        " ",
+        "Harvey Cox, How  to Read the Bible (San Francisco: Harperone, 2016).",
+        "",
+        "Kristin Swenson, Bible Babel (New York: HarperCollins, 2010).",
+        "",
+        "Alistair Kee, Constantine Versus Christ: The Triumph of Ideology (Harrisburg, ",
+        "PA.: Trinity Press International, 1982). ",
+        "",
+        "Rosemary R. Ruether, Sexism and God Talk: Toward a Feminist Theology (Beacon Press, 1993)",
+        "",
+        "",
+        "John Dominic Crossan, Who Is Jesus?: Answers to Your Questions about the Historical Jesus (Westminster John Knox Press, 1999)",
+        "",
+        "Sallie McFague, A New Climate for Theology: God, the World, and Global ",
+        "Warming (Minneapolis, MN: Fortress Press 2008).",
+        "",
+        "Micheal J. Sandel, Justice: What's the Right Thing to Do? (Farrar, Straus and Giroux, 2010)"
+      ]
+    }
   }
 }

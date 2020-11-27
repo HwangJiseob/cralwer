@@ -295,7 +295,21 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Sallie McFague, A New Climate for Theology: God, the World, and Global Warming (Fortress Press, 2008)",
+        "Paul Tillich, Dynamics of Faith (HaperOne, 2009)",
+        "H. Richard Niebuhr, Christ and Culture (Harper&Row, 2001)",
+        "Ian G, Barbour, When Science Meets Religion (HarperOne, 2000)",
+        "Linda Woodhead, Christianity: A Very Short Introduction (Oxford University Press, 2005)",
+        "John Riches, The Bible: A Very Short Introduction (Oxford University Press, 2000)",
+        "Alister E. McGrath, Christianity: An Introduction (Blackwell Pub, 2006)",
+        "Min, Kyoung Bae, A History of Christian Churches in Korea (Yonsei University Press, 2005)",
+        "R. Paul Stevens, Doing God's Business (Eerdmans, 2006)",
+        "Kim, Hyun-Sook, “Christian Education in Theological and Anthropological Perspectives,” Yonsei journal of theology, Vol.5 (2000)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -371,7 +385,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 가장 오래된 교양 : 3천년 인문학의 보고 성서를 읽는다/Swenson, Kristin/사월의책/2013",
+        "\r○ Bible (NIV or NRSV)",
+        "",
+        "\r○ Kristin Swenson, Bible Babel: Making Sense of the Most Talked About Book of All Time, Harper Perennial, 2011."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -433,7 +455,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 나니아 연대기 사자, 마녀 그리고 옷장 / [비디오녹화자료]/Adamson, Andrew/케이디미디어/2006",
+        "\r○ 트루먼쇼 [비디오녹화자료]/Weir, Peter/Paramount home pictures : 새롬엔터테인먼트/2001",
+        "\r○ 브루스 올마이티 [비디오녹화자료]/Shadyac, Tom/브에나 비스타 홈 엔터테인먼트/2003",
+        "\r○ The language of God : a scientist presents evidence for belief/Collins, Francis S./Free Press/2006",
+        "\r○ Call to commitment : the story of the Church of the Saviour, Washington, D.C/O'Connor, Elizabeth/Harper & Row/1963 / [1st ed.]",
+        "\r○ 맬컴 X Vs. 마틴 루터 킹/Cone, James H/갑인공방/2005",
+        "\r○ Christian theology : an introduction/McGrath, Alister E./Wiley-Blackwell/2011 / 5th ed"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -514,6 +547,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 나니아 연대기 사자, 마녀 그리고 옷장 / [비디오녹화자료]/Adamson, Andrew/케이디미디어/2006",
+        "\r○ 트루먼쇼 [비디오녹화자료]/Weir, Peter/Paramount home pictures : 새롬엔터테인먼트/2001",
+        "\r○ 브루스 올마이티 [비디오녹화자료]/Shadyac, Tom/브에나 비스타 홈 엔터테인먼트/2003",
+        "\r○ The language of God : a scientist presents evidence for belief/Collins, Francis S./Free Press/2006",
+        "\r○ Call to commitment : the story of the Church of the Saviour, Washington, D.C/O'Connor, Elizabeth/Harper & Row/1963 / [1st ed.]",
+        "\r○ 맬컴 X Vs. 마틴 루터 킹/Cone, James H/갑인공방/2005",
+        "\r○ Christian theology : an introduction/McGrath, Alister E./Wiley-Blackwell/2011 / 5th ed"
+      ]
+    }
   }
 }

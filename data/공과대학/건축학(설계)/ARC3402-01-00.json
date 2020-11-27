@@ -2564,7 +2564,22 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Modern architecture : a critical history/Frampton, Kenneth/Thames & Hudson/2007 / 4th ed",
+        "\r○ 空間 時間 建築/Giedion, S. (Sigfried)/시공문화사/2005",
+        "\r○ 임석재 서양건축사. 5, 역사 기술 인간/임석재/북하우스/2008",
+        "\r○ 건축수업 : 건축물로 읽는 서양 근대건축사/김현섭/집/2016",
+        "\r○ 건축-지어지지 않은 20세기/봉일범/Spacetime/2009",
+        "\r○ 칸 : 침묵과 빛의 건축가 루이스 칸/Brownlee, David Bruce/미메시스 : 열린책들/2010",
+        "\r○ 현대 건축을 바꾼 두 거장 : 프랭크 로이드 라이트 vs 미스 반 데어 로에/천장환/Sigongart/2013",
+        "\r○ 건축을 향하여/Le Corbusier/동녘/2002",
+        "\r○ Small, medium, large, extra-large office for metropolitan architecture/Koolhaas, Rem/Monacelli Press/1998 / 2nd ed",
+        "\r○ 건축과 감각/Pallasmaa, Juhani/Spacetime/2013",
+        "\r○ 아돌프 로스의 건축예술/Loos, Adolf/안그라픽스/2014"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3184,6 +3199,21 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Modern architecture : a critical history/Frampton, Kenneth/Thames & Hudson/2007 / 4th ed",
+        "\r○ 空間 時間 建築/Giedion, S. (Sigfried)/시공문화사/2005",
+        "\r○ 임석재 서양건축사. 5, 역사 기술 인간/임석재/북하우스/2008",
+        "\r○ 건축수업 : 건축물로 읽는 서양 근대건축사/김현섭/집/2016",
+        "\r○ 건축-지어지지 않은 20세기/봉일범/Spacetime/2009",
+        "\r○ 칸 : 침묵과 빛의 건축가 루이스 칸/Brownlee, David Bruce/미메시스 : 열린책들/2010",
+        "\r○ 현대 건축을 바꾼 두 거장 : 프랭크 로이드 라이트 vs 미스 반 데어 로에/천장환/Sigongart/2013",
+        "\r○ 건축을 향하여/Le Corbusier/동녘/2002",
+        "\r○ Small, medium, large, extra-large office for metropolitan architecture/Koolhaas, Rem/Monacelli Press/1998 / 2nd ed",
+        "\r○ 건축과 감각/Pallasmaa, Juhani/Spacetime/2013",
+        "\r○ 아돌프 로스의 건축예술/Loos, Adolf/안그라픽스/2014"
+      ]
+    }
   }
 }

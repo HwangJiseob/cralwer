@@ -2128,7 +2128,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2372,6 +2377,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. 김응빈,(2015). 『환경생물학 강의 노트』  ㈜바이오사이어스출판",
+        "2. 『일반생물학』",
+        "3. Daniel D. Chiras, (1998)『Environmental Science (5th Ed.)』,Belmont, CA : Wadsworth Pub",
+        "4. Jefferey D. Sachs, (2015). 『The age of sustainable development』. Columbia University Press",
+        "5.생태계와 환경오염(e-book)http://www.nie.re.kr/ebook/2/index.html#page=1 ",
+        "6. 이태동 외 (2019), 마을학 개론"
+      ]
+    }
   }
 }

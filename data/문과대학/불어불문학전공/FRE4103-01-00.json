@@ -1646,7 +1646,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Jean Racine, Phedre",
+        "Samuel Beckett, En attendant Godot"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1916,6 +1922,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Jean Racine, Phedre",
+        "Samuel Beckett, En attendant Godot",
+        "",
+        "브루노 클레망, <프랑스 고전비극>, 동문선, 2002.",
+        "에드윈 윌슨, <연극의 이해>, 예니."
+      ]
+    }
   }
 }

@@ -619,6 +619,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Lecture materials based on the textbooks below",
+        "    - Lynde, T. (2007). Sponsorships 101: An insider’s guide to sponsorships in corporate America. Mableton, GA: Lynde & Associates.",
+        "    - Mullin, B. J., Hardy, S., & Sutton, W. A. Sport Marketing (4th edition), Champaign, IL: Human Kinetics",
+        "    - Shank, M. D., & Lyberger, M. R. Sport Marketing: A Strategic Perspective (5th edition), Routledge.",
+        "",
+        "2. Additional readings from the instructor"
+      ]
+    }
   }
 }

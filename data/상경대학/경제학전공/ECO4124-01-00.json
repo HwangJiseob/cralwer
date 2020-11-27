@@ -2277,6 +2277,29 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "수업내용과 관련된 영문도서로서 다음을 참고할 수 있음.",
+        "",
+        "Haeringer, Market Design: Auctions and Matching, The MIT Press, 2018.",
+        "",
+        "수업내용에 대해 보다 깊이 있는 (대학원 수준의) 이해를 하고 싶은 학생은 다음의 도서를 참고하기 바람.",
+        "",
+        "(매칭)",
+        "Roth and Sotomayor, Two-Sided Matching: A Study in Game-Theoretic Modeling and Analysis, Cambridge University Press, 1990.",
+        "",
+        "(경매)",
+        "Milgrom, Putting Auction Theory to Work, Cambridge University Press, 2004.",
+        "",
+        "Milgrom, Discovering Prices: Auction Design in Markets with Complex Constraints, Columbia University Press, 2017.",
+        "",
+        "Krishna, Auction Theory, 2nd ed., Academic Press, 2010.",
+        "",
+        "매칭에 관한 일반인을 위한 저서로서 다음이 있음.",
+        "",
+        "Roth, Who Gets What - and Why: The Hidden World of Matchmaking and Market Design, Houghton Mifflin Harcourt, 2015."
+      ]
+    }
   }
 }

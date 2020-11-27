@@ -536,7 +536,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ The emotional life of your brain how its unique patterns affect the way you think, feel, and live--and how you can change them/Davidson, Richard J/Plume/2013",
+        "\r○ Mindsight : the new science of personal transformation/Siegel, Daniel J./Bantam Books/2010 / 1st ed",
+        "\r○ 회복탄력성 : 시련을 행운으로 바꾸는 유쾌한 비밀/김주환/위즈덤하우스/2011",
+        "\r○ 이 책들은 모두 \"참고자료\"들입니다. ",
+        "수업에 다룰 책이나 논문들은 학기 중에 계속 업데이트 됩니다."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1283,6 +1292,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 회복탄력성 : 시련을 행운으로 바꾸는 유쾌한 비밀/김주환/위즈덤하우스/2011",
+        "\r○ Bohm, D. (2006). Unfolding meaning: A weekend of dialogue with David Bohm. Routledge.",
+        "",
+        "Spira, R. (2017). Being aware of being aware. New Harbinger Publications."
+      ]
+    }
   }
 }

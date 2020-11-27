@@ -1092,7 +1092,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "무역실무러시아어(곽태석, 2013). 명지출판사  ",
+        "\r○ 무역실무러시아어 (곽태석, 명지출판사), 2013. \r",
+        "KBS 월드라디오 뉴스 원문"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1363,6 +1370,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Родимкина А., Ландсман Н. Россия: экономика и общество. Тексты и упражнения. -СПб.: Златоуст, 2007. ",
+        "Ksenia V. Muratova, Mary E. Theis, Andrew Felkay. Contemporary Business Russian. -NY.: Peter Lang Publishing, 2014.",
+        "Абрамова Н.А. Русский язык в деловой документации. -Москва: Проспект, 2020.",
+        "Tony Brown, Tatiana Balykhina, Edaterina Talalakina, Jennifer Bown, Victoria Kurilenko. Mastering Russian through global debate. Georgetown Univ. Press. 2014. ",
+        "",
+        "- 강의는 PPT와 서면자료로 진행됩니다. (PPT 자료는 따로 업로드하지 않습니다)",
+        "- 필요한 경우 사전에 PDF 파일을 제시하여 개별 인쇄 지참하거나, 수업일에 제공합니다."
+      ]
+    }
   }
 }

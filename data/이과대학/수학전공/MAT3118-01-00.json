@@ -1417,7 +1417,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Partial Differential Equations\r",
+        "(Walter A. Strauss)\r",
+        "Fourier Analysis \r",
+        "(E.M.Stein and S. Shakarchi)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1772,6 +1780,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Text: TBA (to be annonced)",
+        "",
+        "Supplementary Texts:  ",
+        "(1) Walter A. Strauss, Partial Differential Equations, Willey",
+        "(2)Tyn Myint-U, Partial Differential Equations for Scientists and Engineers, ",
+        "North Holland",
+        "(3) Richard Haberman, Elementary Applied Partial Differential Equations, Third ",
+        "Edition, Prentice-Hall, Inc., Upper Saddle River, New Jersey, 1998"
+      ]
+    }
   }
 }

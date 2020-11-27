@@ -1,0 +1,16 @@
+{
+  "20201": {
+    "LECT_DATA": {
+      "학정번호-분반-실습": "THE3212-01-00",
+      "과목명": "고급희랍어"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "박창환 역편. 『신약성서 헬라어 교본』. 서울: 대한기독교서회, 2006.",
+        "유병우. 『그리스어 문법 I』. 서울: 성서와 신학연구소, 2005.",
+        "유병우. 『그리스어 문법 II』. 서울: 도서출판 새롬, 2014.",
+        "Daniel B. Wallace, The Basics of New Testament Syntax: An Intermediate Greek Grammar. Grand Rapids: Zondervan, 2000."
+      ]
+    }
+  }
+}

@@ -409,7 +409,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -500,6 +505,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "A good textbook is University Physics, by Young and Freedman.  Another textbook at the same level is Principles of Physics, by Walker."
+      ]
+    }
   }
 }

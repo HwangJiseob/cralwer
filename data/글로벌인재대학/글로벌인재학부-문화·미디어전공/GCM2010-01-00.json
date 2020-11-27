@@ -381,7 +381,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Thomas L. McPhail (2014). Global Communication: Theories, Stakeholders, and Trends, 4thEdition,Wiley-Blackwell."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -877,7 +882,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Thomas L. McPhail (2014). Global Communication: Theories, Stakeholders, and Trends,",
+        "4th Edition,Wiley-Blackwell.",
+        "",
+        "문미리, 이상록 (2019) 셀러브리티, 한울아카데미  (지은이: 크리스 로젝)",
+        "",
+        "도서관에 비치되어 있습니다"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1192,6 +1207,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Thomas L. McPhail (2014). Global Communication: Theories, Stakeholders, and Trends,",
+        "4th Edition,Wiley-Blackwell.",
+        "",
+        "Moon, Miri (2019) International News Coverage and the Korean Conflict: The Challenges of Reporting Practices, Palgrave Macmillan."
+      ]
+    }
   }
 }

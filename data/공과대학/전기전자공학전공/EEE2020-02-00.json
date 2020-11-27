@@ -3013,7 +3013,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "수업교재 사용,",
+        "한글로 된 가장 쉬운교재를 사용하되, 프로그램 연습 위주로 학습하기 권함"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -4347,6 +4353,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: Data Structures and Algorithm Analysis in C (2nd Edition)by Mark A. Weiss (Author), Pearson",
+        "부교재: Data Structures & Algorithm Analysis in C++ 4th Edition, by Mark A. Weiss (Author), Pearson"
+      ]
+    }
   }
 }

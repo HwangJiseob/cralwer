@@ -2145,7 +2145,22 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 아동건강간호학. 1/Hockenberry, Marilyn J/수문사/2016",
+        "\r○ Developmental and Behavioral Pediatrics",
+        "저자: VOIGT, Robert G. (EDT)",
+        "출판일 : 2010",
+        "출판사: American Academy of Pediatrics ",
+        "ISBN: 9781581102741",
+        "\r○ 발달장애 이해",
+        "저자: 김삼섭, 나경은, 김기룡",
+        "출판일: 2016.02.20",
+        "출판사: 학지사",
+        "ISBN: 9788999709401|"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2413,6 +2428,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Developmental and Behavioral Pediatrics",
+        "저자: VOIGT, Robert G. (EDT)",
+        "출판일 : 2010",
+        "출판사: American Academy of Pediatrics ",
+        "ISBN: 9781581102741",
+        "\r○ 발달장애 이해",
+        "저자: 김삼섭, 나경은, 김기룡",
+        "출판일: 2016.02.20",
+        "출판사: 학지사",
+        "ISBN: 9788999709401|",
+        "\r○ 아동청소년간호학Ⅰ & II (시뮬레이션을 적용한)",
+        "출판일: 2019",
+        "출판사: 수문사",
+        "ISBN: 9788930416023, 9788930416030"
+      ]
+    }
   }
 }

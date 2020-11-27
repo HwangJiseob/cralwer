@@ -876,7 +876,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- Mandatory : ",
+        "Text book : Logic and Computer Design Fundamentals, 5th edition, by M. Moris ",
+        "Mano and C. R. Kime",
+        "-References",
+        "Many  sources will be provided though Yscec."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1048,6 +1057,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- Mandatory : ",
+        "Text book : Logic and Computer Design Fundamentals, 5th edition, by M. Moris ",
+        "Mano and C. R. Kime",
+        "-References",
+        "Many  sources will be provided though Yscec."
+      ]
+    }
   }
 }

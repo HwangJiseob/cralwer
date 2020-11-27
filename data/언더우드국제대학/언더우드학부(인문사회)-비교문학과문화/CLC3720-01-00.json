@@ -1282,7 +1282,16 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Garfield, Patricia. Creative Dreaming. New York: Fireside, 1995. ",
+        "Moss, Robert. The Secret History of Dreaming. New World Library, 2010. ",
+        "Seligson, Fred Jeremy. Oriental Birth Dreams. Tuttle, 1989. ",
+        "",
+        "Reading packet: including Freud, Jung, Delmore Schwartz, Coleridge, etc."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1680,7 +1689,16 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Garfield, Patricia. Creative Dreaming. New York: Fireside, 1995. ",
+        "Moss, Robert. The Secret History of Dreaming. New World Library, 2010. ",
+        "Seligson, Fred Jeremy. Oriental Birth Dreams. Hollym, 1989. ",
+        "",
+        "Reading packet: including Freud, Jung, Delmore Schwartz, Coleridge, etc."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2149,6 +2167,15 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Garfield, Patricia. Creative Dreaming. New York: Fireside, 1995. ",
+        "Moss, Robert. The Secret History of Dreaming. New World Library, 2010. ",
+        "Seligson, Fred Jeremy. Oriental Birth Dreams. Hollym, 1989. ",
+        "",
+        "Reading packet: including Freud, Jung, Delmore Schwartz, Coleridge, etc."
+      ]
+    }
   }
 }

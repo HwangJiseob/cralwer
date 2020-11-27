@@ -4931,6 +4931,16 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Lecture Note\r",
+        "\r",
+        "Optional Textbooks\r",
+        "\r",
+        "1. Economic Growth, Robert Barro and Xavier Xala-I-Martin\r",
+        "2. Monetary Policy, Inflation and the Business Cycle, Jordi Gali"
+      ]
+    }
   }
 }

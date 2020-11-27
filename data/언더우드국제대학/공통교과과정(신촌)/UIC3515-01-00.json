@@ -1202,7 +1202,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Given the fast pace of developments regarding this topic, reading assignments will be posted on YSCEC on a weekly basis."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -1573,6 +1578,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main text book:  Blockchain and the Law: the rule of code by Primavera De Filippi and Aaron Wright.",
+        "",
+        "Other reading assignments will be posted on YSCEC on a weekly basis."
+      ]
+    }
   }
 }

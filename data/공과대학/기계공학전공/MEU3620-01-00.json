@@ -4412,7 +4412,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Textbook : Serope Kalpakjian",
+        "\"Manufacturing Processes for Engineering Materials 6/e\", 2016, Pearson Education",
+        "참고문헌 : Shinill Kang",
+        "\"Micro/Nano Replication : Processes and Applications\", 2012, Wiley"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -5130,6 +5138,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Textbook : ",
+        "Serope Kalpakjian, \"Manufacturing Processes for Engineering Materials 6/e\", 2016, Pearson Education",
+        "참고문헌 : ",
+        "Shinill Kang, \"Micro/Nano Replication : Processes and Applications\", 2012, Wiley"
+      ]
+    }
   }
 }

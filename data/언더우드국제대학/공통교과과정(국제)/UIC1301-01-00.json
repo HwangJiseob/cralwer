@@ -353,7 +353,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Gustave Flaubert, Madame Bovary* (Norton Critical, 2nd edition) 0-393-97917-2",
+        "2. Virginia Woolf, Mrs Dalloway* (Harvest) 978-0-15-603035-9   ",
+        "3. Course Reader (available at the UML copy center)",
+        "",
+        "*  Any editions are fine, although I much prefer that you work with print rather than digital versions. I’ve listed the publisher and ISBN of the editions I will be using in class."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -472,7 +481,19 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Textbooks to purchase:",
+        "",
+        "Albert Camus, The Stranger (Vintage)",
+        "Albert Camus, The Fall (Penguin Modern Classics)",
+        "Albert Camus, The Plague (Vintage)",
+        "Fyodor Dostoevsky, Notes from the Underground (Vintage Classics)",
+        "",
+        "*Students may use no electronic devices during class. All reading materials should be brought to class in hard copy."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -578,6 +599,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "All students should purchase their own copies of Virginia Woolf, Mrs Dalloway and Virginia Woolf, To the Lighthouse. Any edition is fine. ",
+        "Supplementary readings will be made available via YSCEC."
+      ]
+    }
   }
 }

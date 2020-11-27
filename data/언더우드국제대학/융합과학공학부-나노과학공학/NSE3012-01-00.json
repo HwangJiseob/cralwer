@@ -102,6 +102,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Principles of Fluorescence Spectroscopy, 3rd Edition",
+        "http://www.amazon.com/Principles-Fluorescence-Spectroscopy-Joseph-Lakowicz/dp/0387312781",
+        "",
+        "An Introduction to Systems Biology: Design Principles of Biological Circuits (Chapman & Hall/CRC Mathematical and Computational Biology) 2nd Edition",
+        "http://www.amazon.com/Introduction-Systems-Biology-Mathematical-Computational/dp/1439837171",
+        "",
+        "It is good to have copies of textbooks but we are not going to cover the entire chapters for both textbooks.  Lecturer's powerpoint slides may still cover the course materials."
+      ]
+    }
   }
 }

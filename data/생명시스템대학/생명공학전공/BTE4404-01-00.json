@@ -589,7 +589,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교육자료는 수업 전 PDF 또는 ppt file로 제공 예정임",
+        "http://www-fbsc.ncifcrf.gov/training/courses.shtml#qsar",
+        "http://www.bioinformatics.ucla.edu/program/c260/downloads.htm",
+        "http://www-chen.tamu.edu/CHEN/Faculty/Ford/CHEN689/",
+        "http://chem.ssu.ac.kr/~camdlab/",
+        "http://www.bmdrc.org/kor/Login.aspx?prevUrl=%2fkor%2feducation%2flectures.aspx"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -663,6 +673,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교육자료는 수업 전 PDF 또는 ppt file로 제공 예정임",
+        "http://www-fbsc.ncifcrf.gov/training/courses.shtml#qsar",
+        "http://www.bioinformatics.ucla.edu/program/c260/downloads.htm",
+        "http://www-chen.tamu.edu/CHEN/Faculty/Ford/CHEN689/",
+        "http://chem.ssu.ac.kr/~camdlab/",
+        "http://www.bmdrc.org/kor/Login.aspx?prevUrl=%2fkor%2feducation%2flectures.aspx"
+      ]
+    }
   }
 }

@@ -1518,7 +1518,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Course Packet:『디지털 인문학 시대의 코퍼스 언어학』",
+        "2. 고광윤 (2019). The AntConc Book: 코퍼스 분석과 활용 완벽 가이드. Larrabee Learning.",
+        "3. AntConc 프로그램 ",
+        "(http://www.antlab.sci.waseda.ac.jp/antconc_index.html)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1718,6 +1726,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Course Packet:『디지털 인문학 시대의 코퍼스 언어학』",
+        "2. 고광윤 (2019). The AntConc Book: 코퍼스 분석과 활용 완벽 가이드. Larrabee Learning.",
+        "3.  AntConc 프로그램",
+        "(http://www.laurenceanthony.net/software/antconc/)",
+        "<주의> ",
+        "(1) 위 웹사이트에서 AntConc를 자신의 컴퓨터에 내려 받아 실행이 되는지 확인한 후 수강 신청에 임할 것. ",
+        "(2) 일부 컴퓨터에서는 작동하지 않는 경우가 있으며, AntConc가 실행되는 노트북이 있어야 실습과 실기시험에 임할 수 있음."
+      ]
+    }
   }
 }

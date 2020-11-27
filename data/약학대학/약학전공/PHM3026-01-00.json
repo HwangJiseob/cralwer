@@ -1370,7 +1370,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Harrison's Principles of Internal Medicine, 20e, 2018,  Dennis Kasper, Anthony Fauci, Stephen Hauser, Dan Longo, J. Larry Jameson, Joseph Loscalzo eds, McGraw-Hill Education",
+        "",
+        "Ganong’s Review of Medical Physiology, 26e, 2019, Kim E. Barrett, Susan M. Barman, Scott Boitano, Heddwen L. Brooks eds, Lange",
+        "",
+        "Harper's Illustrated Biochemistry, 31e, 2018, Victor W. Rodwell, David A. Bender, Kathleen M. Botham, Peter J. Kennelly, P. Anthony Weil eds, Lange",
+        "",
+        "Pathophysiology of Disease: An Introduction to Clinical Medicine, 8e, 2019 Gary D. Hammer, MD, PhD, Stephen J. McPhee, MD, Eds, Lange",
+        "",
+        "Vander’s Renal Physiology, 8e, 2013, Douglas C. Eaton, John P. Pooler eds, Lange",
+        "",
+        "DeGowin's Diagnostic Examination, 10e, 2014, LeBlond, Richard; Brown, Donald; Suneja, Manish eds, McGraw-Hill Education ",
+        "",
+        "임상병리파일, 제3판, 2000, 이귀녕, 권오헌, 도서출판 의학문화사"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1923,6 +1940,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Robbins and Cotran pathologic basis of disease/Kumar, Vinay/Elsevier/Saunders/2015 / 9th ed",
+        "\r○ (Robbins and Cotran) 병태생리학/Kumar, Vinay/범문에듀케이션/2017"
+      ]
+    }
   }
 }

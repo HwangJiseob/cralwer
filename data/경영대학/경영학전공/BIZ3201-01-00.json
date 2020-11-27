@@ -745,7 +745,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "양혁승 (2013). 『비전공자를 위한 통계분석법』, 오래.\r",
+        "박응용 (2016). 『점프 투 파이썬』. 이지스퍼블리싱.\r",
+        "Python for Everybody: http://www.py4e.com/lessons(동영상 강의)\r",
+        "                      http://www.py4e.com/lectures3/(강의자료)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -919,6 +927,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- 웨스 맥키니(2013),『파이썬 라이브러리를 활용한 데이터 분석』(김영근 역), 한빛\r",
+        "미디어\r",
+        "- 이토 고이치로(2017), 『데이터분석의 힘』, 인플루엔셜.\r",
+        "- 벤 웨이버(2013), 『구글은 빅데이터를 어떻게 활용했는가』(배충효 역),북 카라반.\r",
+        "- 박응용 (2016). 『점프 투 파이썬』. 이지스퍼블리싱.\r",
+        "- Guenole, N. & Feinzig, S. (2018). The Business Case for AI in HR-With I\r",
+        "Insights and Tips on Getting Started. IBM Smarter Workforce Institute.\r",
+        "- Python for Everybody: http://www.py4e.com/lessons(동영상 강의)\r",
+        "                        http://www.py4e.com/lectures3/(강의자료)"
+      ]
+    }
   }
 }

@@ -2193,7 +2193,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(주교재) Textbook: Power Electronics (McGRAW/HILL International edition) ",
+        "edited by Daniel W. Hart",
+        "",
+        "(부교재) Handouts & Class notes (open to YSCEC on-line)",
+        "http://yscec.yonsei.ac.kr/"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3333,6 +3342,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Power electronics : a first course/Mohan, Ned/Wiley/2012",
+        "\r○ Fundamentals of power electronics/Erickson, Robert W. (Robert Warren)/Kluwer Academic/2001 / 2nd ed"
+      ]
+    }
   }
 }

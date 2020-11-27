@@ -1998,7 +1998,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ ○ 교  재: PR과 미디어( 수업에 맞게 자체제작, 컴북스)",
+        "○ 부교재:공중관계 핸드북(신호창 외, 커뮤니케이션북스)",
+        "           PR학 원론(한정호 외, 커뮤니케이션북스)",
+        "           현대사회와 미디어(한균태 외,커뮤니케이션북스)",
+        "           THE FALL OF AD  and THE RISE OF PR (AL RIES and LAURA RIES, HarpeCollins Publishers)",
+        "           미디어 디베이트(Everette E. Dennis, 커뮤니케이션북스)",
+        "\r○ 교재: PR과 미디어"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2842,6 +2853,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ ○ 교  재: PR과 미디어( 수업에 맞게 자체제작, 컴북스)",
+        "○ 부교재:공중관계 핸드북(신호창 외, 커뮤니케이션북스)",
+        "           PR학 원론(한정호 외, 커뮤니케이션북스)",
+        "           현대사회와 미디어(한균태 외,커뮤니케이션북스)",
+        "           THE FALL OF AD  and THE RISE OF PR (AL RIES and LAURA RIES, HarpeCollins Publishers)",
+        "           미디어 디베이트(Everette E. Dennis, 커뮤니케이션북스)",
+        "\r○ 교재: PR과 미디어"
+      ]
+    }
   }
 }

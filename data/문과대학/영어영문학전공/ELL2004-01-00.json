@@ -2560,7 +2560,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "제리 멀러 지음. 자본주의의 매혹: 돈과 시장의 경제사상사. 서찬주, 김청환 옮김 (서울: Human & Books, 2006). ",
+        "Jerry Z. Muller, The Mind and the Market: Capitalism in Modern European Thought (New York: Alfred A Knopf, 2002)."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -3376,7 +3382,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "제리 멀러 지음. 자본주의의 매혹: 돈과 시장의 경제사상사. 서찬주, 김청환 옮김 (서울: Human & Books, 2006). ",
+        "Jerry Z. Muller, The Mind and the Market: Capitalism in Modern European Thought (New York: Alfred A Knopf, 2002)."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3646,7 +3658,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(1) 강의용 유인물",
+        "(2) 고광윤 (2020). 영어책 읽기의 힘: 영어가 유창한 아이들의 비밀. 길벗."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3875,6 +3893,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(1) 강의용 유인물",
+        "(2) 고광윤 (2020). 영어책 읽기의 힘: 영어가 유창한 아이들의 비밀. 길벗."
+      ]
+    }
   }
 }

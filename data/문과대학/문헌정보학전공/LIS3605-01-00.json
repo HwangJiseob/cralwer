@@ -1377,7 +1377,23 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "수업 중 강의자료 제공\r",
+        "1) 주교재 \r",
+        "   이경호, 김정현. 2016. 자료목록법 : KORMARC·MARC21을 중심으로. 제6판. 대\r",
+        "구     : 인쇄마당  \r",
+        "2) 부교재 \r",
+        "   ① 김태수. 2008. 목록의 이해. 개정증보판. 서울 : 한국도서관협회.\r",
+        "   ② KORAMRC 통합서지용 개정판. http://www.nl.go.kr/kormarc/index.jsp\r",
+        "   ③Library of Congress. MARC21 format. Washington, D.C. : \r",
+        "Cataloging          Distribution Service.\r",
+        "      Available at : http://www.loc.gov/marc/bibliographic/\r",
+        "   ④ Oliver, Chris. 2010. Introducing RDA : a guide to the basics. Chicago :\r",
+        "      ALA."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1732,6 +1748,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

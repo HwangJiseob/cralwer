@@ -2259,7 +2259,16 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: Introduction to Quantum Mechanics (2nd edition) D. J. Griffiths ",
+        "(Pearson)",
+        "참고문헌 : 1. Principles of Quantum Mechanics (2nd edition) Shankar",
+        "           2. Principles of Quantum Mechanics (4th edition) Dirac",
+        "           3. 양자역학 송희성"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3089,6 +3098,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Principles of quantum mechanics/Shankar, Ramamurti/Plenum Press/1994 / 2nd ed",
+        "\r○ 양자역학/송희성 宋熙星/교학연구사/2009 / 제2판"
+      ]
+    }
   }
 }

@@ -1444,7 +1444,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Arthur Beiser, \"Concepts of Modern Physics\" (6th ed.)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2093,6 +2098,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Arthur Beiser, Kok Wai Cheah",
+        "\"Concepts of Modern Physics\" (International Ed.)"
+      ]
+    }
   }
 }

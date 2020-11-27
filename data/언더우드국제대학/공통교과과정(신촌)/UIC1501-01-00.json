@@ -770,7 +770,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Charles Holcombe, A History of East Asia: From the Origins of Civilization to the Twenty-First Century. Cambridge University Press, 2011.",
+        "\r○ Damien Keown, Buddhism: A Very Short Introduction. Oxford University Press, 2000.",
+        "\r○ Richard Kim, Lost Names: Scenes from a Korean Boyhood. University of California Press, 1998. ",
+        "\r○ Wu Zhuoliu, The Fig Tree: Memoirs of a Taiwanese Patriot. Author House, 2002."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -958,7 +966,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "All readings will be provided via the YSCEC"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1454,7 +1467,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "All readings will be provided via YSCEC"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1965,6 +1983,11 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

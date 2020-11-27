@@ -1091,7 +1091,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "The pdf files of all textbook resources are located in the class Google Team Drive.",
+        "Talbot, et al. 2015. Ch. 24 - Medicinal Chemistry. Chemistry for the IB Diploma 2nd Edition. Hodder Education.",
+        "Green and Damji. 2009. Ch. 15 - Medicines and Drugs, Chemistry 2nd Edition, IBID Press.",
+        "Rang, et al. 2016. Chapters 8 - 10 & 59. Rang & Dale’s Pharmacology. Elsevier Churchill Livingstone."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1546,6 +1554,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "The pdf files of all textbook resources are located in the class Google Shared Drive.",
+        "Owen, Steve. 2014. Option D - Medicinal Chemistry, Chemistry for the IB Diploma 2nd Ed. Cambridge University Press.",
+        "Green and Damji. 2009. Ch. 15 - Medicines and Drugs, Chemistry 2nd Edition, IBID Press.",
+        "Rang, et al. 2016. Chapters 8 - 10 & 59. Rang & Dale’s Pharmacology. Elsevier Churchill Livingstone."
+      ]
+    }
   }
 }

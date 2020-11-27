@@ -895,7 +895,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 보건교과교육론/김영임/현문사/2004",
+        "\r○ 교육과정 : 기초·원리·쟁점/Ornstein, Allan C/학지사/2007",
+        "\r○ 교과교육론/김경배/학지사/2001",
+        "\r○ Curriculum : foundations, principles, and issues/Ornstein, Allan C/Pearson/2013 / 6th ed"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -995,6 +1003,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 보건교과교육론/김영임/현문사/2004",
+        "\r○ 교육과정 : 기초·원리·쟁점/Ornstein, Allan C/학지사/2007",
+        "\r○ 교과교육론/김경배/학지사/2001",
+        "\r○ Curriculum : foundations, principles, and issues/Ornstein, Allan C/Pearson/2013 / 6th ed"
+      ]
+    }
   }
 }

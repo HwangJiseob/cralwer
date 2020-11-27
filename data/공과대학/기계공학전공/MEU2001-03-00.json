@@ -2076,7 +2076,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Class handout",
+        "",
+        "\r○ Youtube 동영상 및 최신 기술 자료"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -2346,7 +2353,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "추후 공지"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2770,7 +2782,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "없음"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3069,6 +3086,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Cytoskeletal Mechanics: Models and Measurements in Cell Mechanics by Mohammad Mofrad, Roger Kamm",
+        "Cellular Mechanotransduction: Diverse Perspectives from Molecules to Tissues by Mohammad Mofrad, Roger Kamm"
+      ]
+    }
   }
 }

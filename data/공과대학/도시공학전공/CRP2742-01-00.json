@@ -2280,7 +2280,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- Newbold, Paul, William L. Carlson, and Betty M. Thorne. 2013. Statistics for Business and Economics. 8th ed. Upper Saddle River, NJ: Pearson Prentice Hall. [NB]",
+        "- Halcoussis, Dennis. 2005. Understanding Econometrics. Mason, OH: Thomson South-Western. 박준제 옮김. 2007. 계량경제학의 이해. 서울 : 한티미디어. [HA]"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2985,6 +2991,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재",
+        "- Newbold, Paul, William L. Carlson, and Betty M. Thorne. 2012. Statistics for Business and Economics. 8th ed. Upper Saddle River, NJ: Pearson. [NWB] ",
+        "- Halcoussis, Dennis. 2004. Understanding Econometrics with Economic Applications. Cincinnati, OH: South-Western College Pub. 박준제 옮김. 2007. 계량경제학의 이해. 서울 : 한티미디어. [HA]",
+        "",
+        "참고문헌",
+        "- Wooldridge, Jeffrey M. 2019. Introductory Econometrics: A Modern Approach. 7th ed. Boston, MA: Cengage Learning. 한치록, 박상수 옮김. 2019. 계량경제학 Ⅰ. 서울 : 박영사."
+      ]
+    }
   }
 }

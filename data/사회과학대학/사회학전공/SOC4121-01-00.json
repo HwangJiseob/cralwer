@@ -4333,7 +4333,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Earl Babbie. 2013. 사회조사방법론. 13판 고성호(외) 공역. 그린. [이하 Babbie]",
+        "(원저: Earl Babbie. The Practice of Social Research. Belmont, CA: Wadsworth ",
+        "Publishing Company.",
+        "",
+        "*참고교재.",
+        "King, Gary, Robert Keohane, and Sidney Verba. 1994. Designing Social Inquiry. ",
+        "Princeton: Princeton University Press. [이하 King]",
+        "Becker, Howard. 1998. Tricks of the Trade: How to Think About Your Research ",
+        "While You`re Doing It. Chicago: University of Chicago Press. [이하 Becker]"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -5051,7 +5064,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Earl Babbie 지음, 고성호 등 옮김, 사회조사방법론(The Practice of Social Research), 13th Edition, Cengage Learning",
+        "보조교재"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -5405,7 +5424,14 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- Earl Babbie (2013) The Practice of Social Research (13th edition). Wadsworth Cengage Learning. ",
+        "  한국어 번역판: [사회조사방법론 (13th edition)] (고성호 외 옮김)",
+        "- 그 외 강의자가 공지하는 읽을 거리"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -6293,6 +6319,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Earl Babbie 지음, 고성호 등 옮김, 사회조사방법론(The Practice of Social Research), 13th Edition, Cengage Learning",
+        "보조교재"
+      ]
+    }
   }
 }

@@ -1839,7 +1839,32 @@
         "수강여부": "O",
         "비고": "*교환학생"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Text Book:\r",
+        "Hill, Charles W. L. 2007. International business: Competing in the global \r",
+        "market place, 7th Edition. Seoul: McGraw-Hill.\r",
+        "\r",
+        "Supplementary Reading Materials:\r",
+        "Black, J. S. & H. Gregersen. 1999. The right way to manage expats. HBR, March-\r",
+        "April: 52-61.\r",
+        "Ghemawat, P. & T. Hout. 2008. Tomorrow’s global giants: Not the usual \r",
+        "suspects. November: 80-88.\r",
+        "Huang, Ming-Hui. 2006. Eliminate the middleman? HBR, March: 33-141\r",
+        "Hughes, Jonathan & Jeff Weiss. 2007. Simple rules for making alliance work. \r",
+        "HBR, November: 122-131\r",
+        "Kanter, Rosabeth. 2008. Transforming giants. HBR, January: 43-52\r",
+        "Kim, W. Chan & Renee Mauborgne. 2009. How strategy shapes structure. \r",
+        "September: 73-80.\r",
+        "Kumar, N. 2009. How emerging giants are rewriting the rules of M&As. May: 115-\r",
+        "121.\r",
+        "Levitt, Theodore. 1983. The Globalization of Markets. HBR, May-June: 92-102, \r",
+        "HBR, 82-92.\r",
+        "Pisano, Gary & R. Verganti. 2008. Which kind of collaboration is right for \r",
+        "you? December: 78-86."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2084,6 +2109,31 @@
         "수강여부": "O",
         "비고": "*교환학생"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Text Book:\r",
+        "Hill, Charles W. L. 2007. International business: Competing in the global \r",
+        "market place, 7th Edition. Seoul: McGraw-Hill.\r",
+        "\r",
+        "Supplementary Reading Materials:\r",
+        "Black, J. S. & H. Gregersen. 1999. The right way to manage expats. HBR, March-\r",
+        "April: 52-61.\r",
+        "Ghemawat, P. & T. Hout. 2008. Tomorrow’s global giants: Not the usual \r",
+        "suspects. November: 80-88.\r",
+        "Huang, Ming-Hui. 2006. Eliminate the middleman? HBR, March: 33-141\r",
+        "Hughes, Jonathan & Jeff Weiss. 2007. Simple rules for making alliance work. \r",
+        "HBR, November: 122-131\r",
+        "Kanter, Rosabeth. 2008. Transforming giants. HBR, January: 43-52\r",
+        "Kim, W. Chan & Renee Mauborgne. 2009. How strategy shapes structure. \r",
+        "September: 73-80.\r",
+        "Kumar, N. 2009. How emerging giants are rewriting the rules of M&As. May: 115-\r",
+        "121.\r",
+        "Levitt, Theodore. 1983. The Globalization of Markets. HBR, May-June: 92-102, \r",
+        "HBR, 82-92.\r",
+        "Pisano, Gary & R. Verganti. 2008. Which kind of collaboration is right for \r",
+        "you? December: 78-86."
+      ]
+    }
   }
 }

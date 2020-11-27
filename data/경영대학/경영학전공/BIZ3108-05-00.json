@@ -3216,7 +3216,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -4606,7 +4611,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -6251,6 +6261,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Managerial Accounting by Garrison-Noreen-Brewer",
+        "(McGrow-Hill, 17th edition)"
+      ]
+    }
   }
 }

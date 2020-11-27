@@ -2517,7 +2517,18 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main Text: Scientific Computing, 2nd ed, by Micheal T. Heath",
+        "",
+        "Reference: Numerical Mathematics and Computing, 6th ed, by Cheney and Kincaid",
+        "           ",
+        "           Essential Matlab for scientists and engineers, 2nd ed, by B. Hahn",
+        "           An intro. to Programming and Numerical Methods in MATLAB by Otto ",
+        "           and Denier"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3208,6 +3219,19 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main Text: Scientific Computing, 2nd ed, by Micheal T. Heath",
+        "",
+        "Reference: ",
+        "",
+        "1. Numerical Linear Algebra, 2018, Springer by Folkmar Bornemann",
+        "2. Deep Learning: An Introduction for Applied Mathematicians by Catherine F. Higham and Desmond J. Higham, SIAM Rev., 61(4), 860?891",
+        "   Read http://doi.org/10.1137/18M1165748  ",
+        "3. 딥러닝을 위한 최적화와 수치해석, 황윤구, 양한별 2020.",
+        "4. Programming for Computations - A Gentle Introduction to Numerical Simulations with Python by Linge and Langtangen, 2nd ed. Springer"
+      ]
+    }
   }
 }

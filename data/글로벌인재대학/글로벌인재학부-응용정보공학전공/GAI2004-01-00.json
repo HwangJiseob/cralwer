@@ -171,6 +171,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 주교재: BIG DATA 빅데이터 개론, (사)한국 소프트웨어 기술인 협회 빅데이터전략연구소 (2016)",
+        "",
+        "",
+        "\r○ 부교재: R로 배우는 데이터 과학, 양윤석,오일석,강래형 (한빛아카데미 2019)",
+        "",
+        "A General Introduction to Data Analytics, Jo?o Moreira, Andre Carvalho, et al. (2018)"
+      ]
+    }
   }
 }

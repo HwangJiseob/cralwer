@@ -1321,7 +1321,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재: ",
+        "L. D. Talley et al., 'Descriptive Physical Oceanography: An Introduction' (Academic Press, 2011)",
+        "참고서: ",
+        "R. H. Stewart, `Introduction to Physical Oceanography`(2005, pdf file)",
+        "P. K. Kundu, et al., 'Fluid Mechanics' (Academic Press 2016)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1761,6 +1770,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main textbook: ",
+        "L. D. Talley et al., 'Descriptive Physical Oceanography: An Introduction' (Academic Press, 2011)",
+        "",
+        "Supplement : ",
+        "R. H. Stewart, `Introduction to Physical Oceanography`(2005, pdf file)",
+        "P. K. Kundu, et al., 'Fluid Mechanics' (Academic Press 2016)"
+      ]
+    }
   }
 }

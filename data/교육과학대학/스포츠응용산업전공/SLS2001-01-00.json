@@ -1203,7 +1203,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1361,7 +1366,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "이철원(2019). 스포츠에 답이 있다: 스포츠에 관한 인문학적 성찰. 서울: 연세대학교 출판문화원."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1536,7 +1546,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20182": {
     "LECT_DATA": {
@@ -1546,6 +1561,21 @@
     "SYLLABUS_DATA": {
       "교재 및 참고문헌": [
         ""
+      ]
+    }
+  },
+  "20192": {
+    "LECT_DATA": {
+      "학정번호": "SLS2001-01-00",
+      "과목명": "주니어세미나(수상스포츠)"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "DVD: Waketrix -True to the movement: Progressive Wakeboarding instruction\r",
+        "Book:\r",
+        "Ben Favret and David Benzel (1997) Complete Guide to Water Skiing, Human \r",
+        "Kinetics\r",
+        "Duvall`s Camille (1992) Water Skiing, Simon and Schuster"
       ]
     }
   }

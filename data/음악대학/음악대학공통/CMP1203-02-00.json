@@ -599,7 +599,21 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1) 송무경, 안소영, 이내선, 『새롭게 배우는 음악이론』, (심설당, 2011).",
+        "음악도 781 011가",
+        "2) 허영한, 한미숙, 『조성음악의 화성진행 1』, (예솔, 2002). ",
+        "음악도 781.25 002가 -1",
+        "3) Stefan Kostka, Dorothy Payne, and Byron Alm?n, Tonal Harmony with an Introduction to Twentieth-Century Music, 7th ed. (New York: McGraw-Hill Companies, Inc., 2013).",
+        "  음악도 781.25 013a",
+        "4) Carl Schachter, Edward Aldwell, and Allen Cadwalldader, Harmony and Voice Leading, 3rd ed. (Boston, MA: Schirmer/Cengage Learning, 2011).",
+        "음악도 781.25 011a",
+        "5) Robert Gauldin, Harmonic Practice in Tonal Music, 2nd ed.  (New York: W.W. Norton, 2004).",
+        "음악도 781.25 004a"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -800,6 +814,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1) 송무경, 안소영, 이내선, 『새롭게 배우는 음악이론』, (심설당, 2011).",
+        "음악도 781 011가",
+        "2) 허영한, 한미숙, 『조성음악의 화성진행 1』, (예솔, 2002). ",
+        "음악도 781.25 002가 -1",
+        "3) Stefan Kostka, Dorothy Payne, and Byron Alm?n, Tonal Harmony with an Introduction to Twentieth-Century Music, 7th ed. (New York: McGraw-Hill Companies, Inc., 2013).",
+        "  음악도 781.25 013a",
+        "4) Carl Schachter, Edward Aldwell, and Allen Cadwalldader, Harmony and Voice Leading, 3rd ed. (Boston, MA: Schirmer/Cengage Learning, 2011).",
+        "음악도 781.25 011a",
+        "5) Robert Gauldin, Harmonic Practice in Tonal Music, 2nd ed.  (New York: W.W. Norton, 2004).",
+        "음악도 781.25 004a"
+      ]
+    }
   }
 }

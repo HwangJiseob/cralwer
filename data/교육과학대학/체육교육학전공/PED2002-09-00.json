@@ -58,6 +58,27 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 운동과 에너지 대사, 백일영(2009)",
+        "",
+        "○ 운동생리학과 운동처방 <이론과 실험>, 백일영(2012)",
+        "",
+        "○ 2015 한국인 영양소 섭취기준, 보건복지부(2015)"
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "PED2002-09-00",
+      "과목명": "UT세미나(질환별운동처방및검사의기초)"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Acsm's Guidelines for Exercise Testing and Prescription, LippincottWilliams & Wilkins(2017)",
+        "\r○ Acsm's Exercise Management for Persons With Chronic Diseases and Disabilities, American College of Sports Medicine, Human Kinetics(2016)"
+      ]
+    }
   }
 }

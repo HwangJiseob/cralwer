@@ -3286,7 +3286,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Contemporary Engineering Economics (5th Edition) 5th Edition\r",
+        "by Chan S. Park (Author); ISBN-13: 978-013611848\r",
+        "\r",
+        "Construction Management, 4th Edition\r",
+        "Daniel W. Halpin, Bolivar A. Senior; ISBN-13: 978-0470447239"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3895,6 +3904,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Contemporary Engineering Economics (5th Edition) 5th Edition\r",
+        "by Chan S. Park (Author); ISBN-13: 978-013611848\r",
+        "\r",
+        "Construction Management, 4th Edition\r",
+        "Daniel W. Halpin, Bolivar A. Senior; ISBN-13: 978-0470447239"
+      ]
+    }
   }
 }

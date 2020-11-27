@@ -3174,6 +3174,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "John Rawls, Political Liberalism. New York: Columbia University Press, 1993, \r",
+        "1996. 2005(Expanded).\r",
+        "Jürgen Habermas. Between Facts and Norms: Contributions to a Discourse Theory \r",
+        "of Law and Democracy. Translated by William Rehg, Cambridge: The MIT Press, \r",
+        "1999."
+      ]
+    }
   }
 }

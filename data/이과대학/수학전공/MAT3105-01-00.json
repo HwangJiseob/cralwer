@@ -3659,7 +3659,19 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Textbook:  \r",
+        "(1)  Principle of mathematical analysis (Walter \r",
+        "Rudin) Textbook의 8,9,10장을 학기내에 모두 자세히 읽을 것을 권한다 (예습 추천)\r",
+        "(2) Lecture Note. 기본내용과 심화내용이 포함되어 있음. \r",
+        "                  다양한 예제와 숙제문제들이 있음. \r",
+        "Reference:  Functions of Several Variables (Wendell Fleming)\r",
+        "            Elimentary Classical Analysis(J. Marsden, M. Hoffman)\r",
+        "            Fourier analsysis (E. M. Stein and R. Shakarchi)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -4279,7 +4291,20 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main Textbook:",
+        "Principles of mathematical analysis, 3rd ed. (Walter Rudin)",
+        "*You are strongly recommended to read the entire chapters 9 - 11 of Rudin.",
+        "",
+        "Reference",
+        "1. Differential forms and applications (Manfredo do Carmo)",
+        "2. Calculus on manifolds (Michael Spivak)",
+        "3. Elementary classical analysis, 2nd ed. (Marsden & Hoffman)",
+        "4. Advanced Calculus, 3rd ed. (R. C. Buck)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -4647,7 +4672,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main Textbook:",
+        "Principles of mathematical analysis, 3rd ed. (Walter Rudin)",
+        "*You are strongly recommended to read the entire chapters 9 - 11 of Rudin.",
+        "",
+        "Reference",
+        "1. Differential forms and applications (Manfredo do Carmo)",
+        "2. Calculus on manifolds (Michael Spivak)",
+        "3. Elementary classical analysis, 2nd ed. (Marsden & Hoffman)",
+        "4. Advanced Calculus, 3rd ed. (R. C. Buck)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -5717,6 +5755,18 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Textbook:  \r",
+        "(1)  Principle of mathematical analysis (Walter \r",
+        "Rudin) Textbook의 8,9,10장을 학기내에 모두 자세히 읽을 것을 권한다 (예습 추천)\r",
+        "(2) Lecture Note. 기본내용과 심화내용이 포함되어 있음. \r",
+        "                  다양한 예제와 숙제문제들이 있음. \r",
+        "Reference:  Functions of Several Variables (Wendell Fleming)\r",
+        "            Elimentary Classical Analysis(J. Marsden, M. Hoffman)\r",
+        "            Fourier analsysis (E. M. Stein and R. Shakarchi)"
+      ]
+    }
   }
 }

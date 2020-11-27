@@ -4166,6 +4166,35 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 위기와 분쟁의 아틀라스/Boniface, Pascal/책과함께/2010",
+        "\r○ 민족분쟁의 세계지도/고기통호 高崎通浩/깊은강/2003",
+        "\r○ 세계의 분쟁 : 지도로 보는 지구촌의 분쟁과 갈등/구동회 具東會/푸른길/2010",
+        "\r○ 이 과목은 단일교재를 사용하지 않으며, 다음의 저작들 중 발췌된 부분이 사용될 예정입니다.",
+        "베네딕트 앤더슨, \"상상된 공동체\"",
+        "겔너, \"민족과 민족주의\"",
+        "스미스, \"민족주의란 무엇인가?\"",
+        "Hardin, One for All. ",
+        "Billig, Banal Nationalism",
+        "Rogers Brubaker, Ethnicity without Groups",
+        "Fearon, What is Identity?",
+        "David Laitin, Nations, States, and Violence",
+        "Stefan Wolff, Ethnic Conflict: Global Perspective.",
+        "Ted Gurr, People Versus States",
+        "Donald Horowitz, Ethnic Groups in Conflict; Deadly Ethnic Riots",
+        "Appaduri, 소수를 향한 두려움. ",
+        "벤하비브, 타자의 권리",
+        "Jeffrey Herbst, States and Power in Africa",
+        "Jack Snyder, Religion and International Relations; From Voting to Violence",
+        "Juan Linz and Alfred Stepan, Problems of Democratic Transition and Consolidation",
+        "Daniel Posner, Institutions and Ethnic Conflict in Africa",
+        "Tongchai Winichakul, Siam Mapped: A History of the Geo-Body of a Nation",
+        "Habyarimana et al. Coethnicity. ",
+        "외 다수",
+        "* 대부분의 저작은 연세 학술정보원  전자본으로 이용가능함."
+      ]
+    }
   }
 }

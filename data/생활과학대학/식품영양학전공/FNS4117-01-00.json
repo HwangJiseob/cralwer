@@ -2571,7 +2571,22 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Essentials of food Science, Vickie A.Vaclavik and Elizabeth W. Christian",
+        "    Springer, 4th, 2014 (ISBN: 978-1-4614-9137-8, 978-1-4614-9138-5:e-book)",
+        "Understanding Food Science and Technology, Peter S.Murano Thompson",
+        "    (ISBN:0-534-54486-X)",
+        "FOOD : The Chemistry of its Components, Tom Coultate RSCPublishibg",
+        "    (ISBN:978-0-85404-111-4)",
+        "Introductory Foods, Marion Bennion and Barbara Scheule, Prentice Hall",
+        "    (ISBN-13: 978-0-13-233926-1)",
+        "Food Science, Norman N. Potter and Joseph H. Hotchkiss, An Aspen Publication",
+        "    (ISBN: O-8342-1265-X)",
+        "Additionals articles will be introduced in the class."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3277,6 +3292,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Introduction to Food Science (Texas Science)/Rick Parker/Cengage Learning/2001",
+        "\r○ Understanding Food: Principles and Preparation/Amy Christine Brown/Cengage Learning/2014",
+        "\r○ On Food and Cooking: The Science and Lore of the Kitchen/Harold McGee/Scribner/2004",
+        "\r○ The science of cooking: Understanding the Biology and Chemistry Behind Food and Cooking/  Joseph J. Provost, Keri L. Colabroy, Brenda S. Kelly, Mark A. Wallert/ Wiley/ 2016",
+        "\r○ Essentials of food science, 4th ed. Vaclavik, Vickie A. Springer New York, 2014. (ebook available in the Yonsei Library)"
+      ]
+    }
   }
 }

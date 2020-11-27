@@ -3857,7 +3857,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Principles of Geotechnical Engineering, by Braja M. Das"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -4436,6 +4441,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : ",
+        "",
+        "Principles of Geotechnical  Eng. 8th Edition by B. M. Das."
+      ]
+    }
   }
 }

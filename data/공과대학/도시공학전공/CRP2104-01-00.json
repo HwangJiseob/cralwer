@@ -558,7 +558,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Supervised independent research on a topic relevant to the overall aims of the students' specialization area"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -745,6 +750,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

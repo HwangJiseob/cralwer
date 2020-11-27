@@ -785,6 +785,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Soils and Geomorphology",
+        "2. The Nature and Properties of Soils, 13th edition, N.C. Brady and R.R. Weil",
+        "3. Aqueous Environemntal Geochemistry, D. Langmuir",
+        "4. Soil Sampling and Methods of Analysis, M.R. Carter"
+      ]
+    }
   }
 }

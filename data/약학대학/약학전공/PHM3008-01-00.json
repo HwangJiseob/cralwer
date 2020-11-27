@@ -556,7 +556,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: 의약품합성학 (동명사)",
+        "참고문헌:",
+        "Advanced Organic Chemistry (Carey & Sundberg, 5th ed.) Springer",
+        "Organic Synthesis - strategy and control (Wyatt & Warren) Wiley",
+        "Organic Synthesis - the disconnection approach (Warren & Wyatt, 2nd ed.) Wiley",
+        "Modern Organic Synthesis (Zweifel & Nantz) Freeman",
+        "Modern Methods of Organic Synthesis (Carruthers & Coldham, 4th ed.) Cambridge"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -702,6 +713,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: 의약품합성학 (동명사)",
+        "참고문헌:",
+        "Advanced Organic Chemistry (Carey & Sundberg, 5th ed.) Springer",
+        "Organic Synthesis - strategy and control (Wyatt & Warren) Wiley",
+        "Organic Synthesis - the disconnection approach (Warren & Wyatt, 2nd ed.) Wiley",
+        "Modern Organic Synthesis (Zweifel & Nantz) Freeman",
+        "Modern Methods of Organic Synthesis (Carruthers & Coldham, 4th ed.) Cambridge"
+      ]
+    }
   }
 }

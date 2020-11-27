@@ -1347,6 +1347,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Unlike many other courses, this course does not rely on a single textbook. Instead, it makes use of a variety of reading materials selected to address given topics in each class. These include book chapters and journal articles, mostly written in English except few cases. These readings will be provided before the class as PDF files or paper copies."
+      ]
+    }
   }
 }

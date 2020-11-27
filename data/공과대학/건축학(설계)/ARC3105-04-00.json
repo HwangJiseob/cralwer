@@ -77,5 +77,29 @@
         ""
       ]
     }
+  },
+  "20191": {
+    "LECT_DATA": {
+      "학정번호": "ARC3105-04-00",
+      "과목명": "건축설계3"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ London +10 Carlos Villanueva Brandt외 Architectural Assoication Publications",
+        "\r○ Made in Tokyo  / Junzo Kuroda, Momoyo Kaijima / Kajima Institute Publishing",
+        "\r○ 건축의 복합성과 대립성 / 로버트 벤투리 / 동녘"
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "ARC3105-04-00",
+      "과목명": "건축설계3"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

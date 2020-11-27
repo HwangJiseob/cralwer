@@ -3009,7 +3009,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Biochemistry 7th ed. by J. M. Berg, J. L. Tymoczko and L. Stryer (Freeman, ",
+        "2012)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3840,6 +3846,14 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Biochemistry 8th ed. by J. M. Berg, J. L. Tymoczko, G. J. Gatto Jr and L. Stryer (Freeman, ",
+        "2015)",
+        "2. Biochemistry 7th ed. by J. M. Berg, J. L. Tymoczko and L. Stryer (Freeman, ",
+        "2012)"
+      ]
+    }
   }
 }

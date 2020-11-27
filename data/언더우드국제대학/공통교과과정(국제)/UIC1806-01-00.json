@@ -734,7 +734,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "An Integrated Course in Elementary Japanese GENKI Ⅰ Second Edition Textbook and Workbook. 2011 by Eri Banno, Yoko Ikeda, Yutaka Ohno, Chikako Shinagawa, and Kyoko Tokashiki, The Japan Times"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -854,7 +859,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "An Integrated Course in Elementary Japanese GENKI Ⅰ Second Edition Textbook and Workbook. 2011 by Eri Banno, Yoko Ikeda, Yutaka Ohno, Chikako Shinagawa, and Kyoko Tokashiki, The Japan Times"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -932,7 +942,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "An Integrated Course in Elementary Japanese GENKI Ⅰ Second Edition Textbook and Workbook. 2011 by Eri Banno, Yoko Ikeda, Yutaka Ohno, Chikako Shinagawa, and Kyoko Tokashiki, The Japan Times"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1193,6 +1208,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "An Integrated Course in Elementary Japanese GENKI I: Third edition, The Japan Times (2020) by Eri Banno, Yoko Ikeda, Yutaka Ohno, Chikako Shinagawa, and Kyoko Tokashiki",
+        "ISBN-13: 978-4789017305"
+      ]
+    }
   }
 }

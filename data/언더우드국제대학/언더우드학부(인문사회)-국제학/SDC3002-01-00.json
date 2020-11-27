@@ -352,6 +352,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ The plundered planet : why we must, and how we can, manage nature for global prosperity/Collier, Paul/Oxford University Press/2010",
+        "\r○ Guns, germs, and steel : the fates of human societies/Diamond, Jared M./Norton/2005",
+        "\r○ Common wealth : economics for a crowded planet/Sachs, Jeffrey/Penguin Press/2008",
+        "\r○ Mostly harmless econometrics : an empiricist's companion/Angrist, Joshua D./Princeton University Press/2009",
+        "\r○ [(Microeconomics with MyEconLab Student Access Card)] [Author: Robert S. Pindyck] published on (December, 2012)/Robert S. Pindyck/Pearson Education Limited/2012"
+      ]
+    }
   }
 }

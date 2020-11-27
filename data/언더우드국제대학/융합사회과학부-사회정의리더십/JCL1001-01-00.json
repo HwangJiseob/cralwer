@@ -602,7 +602,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "TEXT WILL BE POSTED ON YSCEC, DISTRIBUTED IN CLASS, OR AVAILABLE AS A READER, SUBJECT TO THE LIMITS OF COPYRIGHT."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -692,6 +697,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "TEXT WILL BE POSTED ON YSCEC OR DISTRIBUTED IN CLASS, OR STUDENTS WILL BE REFERRED TO A YONSEI EBOOK AND DIGITAL ARTICLES."
+      ]
+    }
   }
 }

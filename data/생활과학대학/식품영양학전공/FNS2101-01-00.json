@@ -2245,7 +2245,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Foodservice organizations: A Managerial and Systems Approach: International Edition by Gregoire, Mary B. (Published by Pearson Education, 2009)",
+        "ISBN: 9780135105917"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2965,6 +2971,18 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "[REQUIRED TEXT]",
+        "Foodservice organizations: A Managerial and Systems Approach: International Edition by Gregoire, Mary B. (Published by Pearson Education, 2009)",
+        "ISBN: 9780135105917  ",
+        "",
+        "[SUPPLEMENTARY TEXT]",
+        "The Restaurant: From Concept to Operation (5th ed.) by John. R. Walker and Donald E. Luneberg. Publisher: Wiley. ISBN 0-471-45028-6. ",
+        "",
+        "급식경영학. 양일선. 2013. 교문사 ISBN: 9788936313715"
+      ]
+    }
   }
 }

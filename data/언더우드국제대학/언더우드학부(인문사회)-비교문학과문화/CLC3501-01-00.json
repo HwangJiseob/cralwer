@@ -171,6 +171,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "[to be ordered via amazon.com]",
+        "Dostoevsky, [The Karamazov Brothers] (Oxford World's Classics edition)",
+        "",
+        "[others]",
+        "Hugo`s [Les Miserables] can be read on-line at Gutenberg; selections of philosophical and religious texts will be provided as MS-word or pdf files"
+      ]
+    }
   }
 }

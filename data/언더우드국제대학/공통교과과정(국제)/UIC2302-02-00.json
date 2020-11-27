@@ -634,7 +634,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Integrated Korean: Intermediate 1 (Second Edition, 2012) by Cho,Young-Mee",
+        "ISBN 9780824836504"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -740,7 +746,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Integrated Korean: Intermediate 1 (Second Edition, 2012) by Cho,Young-Mee",
+        "ISBN 9780824836504"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -888,7 +900,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Integrated Korean: Intermediate 1 (Second Edition, 2012) by Cho,Young-Mee",
+        "ISBN 9780824836504"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1051,6 +1069,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Integrated Korean: Intermediate 1 (Second Edition, 2012) by Cho,Young-Mee",
+        "ISBN 9780824836504"
+      ]
+    }
   }
 }

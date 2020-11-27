@@ -170,6 +170,26 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 마틴의 물리약학/Patrick J. Sinko/신일북스/2015",
+        "\r○ Martin's physical pharmacy and pharmaceutical sciences : physical chemical and biopharmaceutical principles in the pharmaceutical sciences/Sinko, Patrick J/Wolters Kluwer/Lippincott Williams & Wilkins/2011",
+        "\r○ Applied physical pharmacy/Amiji, Mansoor M/McGraw-Hill, Medical Pub. Division/2003"
+      ]
+    }
+  },
+  "20191": {
+    "LECT_DATA": {
+      "학정번호": "PHM3017-01-00",
+      "과목명": "물리약학"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 마틴의 물리약학/Patrick J. Sinko/신일북스/2015",
+        "\r○ Martin's physical pharmacy and pharmaceutical sciences : physical chemical and biopharmaceutical principles in the pharmaceutical sciences/Sinko, Patrick J/Wolters Kluwer/Lippincott Williams & Wilkins/2011",
+        "\r○ Applied physical pharmacy/Amiji, Mansoor M/McGraw-Hill, Medical Pub. Division/2003"
+      ]
+    }
   }
 }

@@ -43,6 +43,35 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "*김민경",
+        "J.S. Bach: Prelude and Fugue in Eb, BWV 552",
+        "Tournemire:  Choral - Improvisation sur le victimae paschali",
+        "M. Dupre: Symphonie-Passion 중  1악장 Le Monde dans l'attente du Sauveur",
+        "",
+        "*김한나",
+        "J.S. Bach: Toccata and Fugue in E, BWV 566",
+        "Tournemire:  Choral - Improvisation sur le victimae paschali",
+        "M. Durufle: Prelude et Fugue sur le Nom Alain ",
+        "",
+        "*정민",
+        "J.S. Bach: Prelude and Fugue in D, BWV 532",
+        "Vierne: Symphonie No. 2 중 3악장 Scherzo ",
+        "M.  Durufle: Suite Opus 5 중 3악장 Toccata"
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "CHM1101-14-00",
+      "과목명": "전공실기"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

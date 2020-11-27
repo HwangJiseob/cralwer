@@ -1309,6 +1309,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "This course does not rely on a single textbook. Instead, it makes use of various kinds of reading materials dealing with internal and external aspects of classroom instruction. These reading materials are provided in the course YSCEC site. Most of these materials are not necessarily focused on the Korean context, as they are written in English. Therefore, this course intends to learn \"through\" reading materials rather than learning \"about\" them."
+      ]
+    }
   }
 }

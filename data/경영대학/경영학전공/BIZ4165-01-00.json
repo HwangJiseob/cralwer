@@ -3315,7 +3315,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(1)강의노트 : 매주 각 클래스에서 핸드아웃 배포 ",
+        "(2)Reading Package: 매주 주요 Article, Consulting Case 등 사전 공지"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -5154,6 +5160,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(1)강의노트 : 매주 각 클래스에서 핸드아웃 배포 ",
+        "(2)Reading Package: 매주 주요 Article, Consulting Case 등 사전 공지"
+      ]
+    }
   }
 }

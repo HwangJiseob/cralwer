@@ -1,0 +1,32 @@
+{
+  "20201": {
+    "LECT_DATA": {
+      "학정번호-분반-실습": "CHM1101-03-00",
+      "과목명": "전공실기"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "참고문헌",
+        "-파이프오르간 이해 (채진수 저, 도서출판 마루)",
+        "-Historical performance practice in organ playing (Laukvik, Jon , Carus)",
+        " :an introduction based on selected organ works of the 16th-18th centuries . v. 1, Text",
+        " :the fundamentals of organ playing, with reference to contemporary sources in 3 parts . pt. 2, Organs and organ playing in the Romantic period from Mendelssohn to Reger and Widor"
+      ]
+    }
+  },
+  "20202": {
+    "LECT_DATA": {
+      "학정번호": "CHM1101-03-00",
+      "과목명": "전공실기"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Free works by  Buxtehude/",
+        "Free works by J. S. Bach/",
+        "Selected pieces by Franck, Guilmant, Vierne, Reger and Alain,",
+        "",
+        "annotated editions 외에 국, 내외 학술 자료, 문헌 등"
+      ]
+    }
+  }
+}

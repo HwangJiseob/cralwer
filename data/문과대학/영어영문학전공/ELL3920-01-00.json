@@ -1747,7 +1747,21 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Freud, Sigmund. The Interpretation of Dreams. Avon, 1980. ",
+        "Feinstein, David and Stanley Krippner. Personal Mythology: Using Ritual, ",
+        "Dreams and Imagination to Discover Your Inner Story. Energy Psychology Press, ",
+        "2009",
+        "Jung, C.G. Dreams. Princeton University Press, 2010. ",
+        "Krippner, Stanley. Extraordinary Dreams and How to Work with Them. SUNY, 2001.",
+        "Moss, Robert. The Secret History of Dreaming. New World Library, 2010. ",
+        "Seligson, Fred Jeremy. Oriental Birth Dreams. Tuttle, 1989. ",
+        "_________   Queen Jin`s Hand Book of Pregnancy,North Atlantic Books, 2002",
+        "Van de Castle, Robert. Our Dreaming Mind. Ballantine Books, 1995."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -2564,6 +2578,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Garfield, Patricia. Creative Dreaming. New York: Fireside, 1995. ",
+        "Moss, Robert. The Secret History of Dreaming. New World Library, 2010. ",
+        "Seligson, Fred Jeremy. Oriental Birth Dreams. Tuttle, 1989. ",
+        "",
+        "Reading packet: including Freud, Jung, Delmore Schwartz, Coleridge, etc."
+      ]
+    }
   }
 }

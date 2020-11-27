@@ -417,6 +417,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1.\"Chemical Metallurgy\", J.J. Moore, Butterworth Heinemann, 1994",
+        "2.\"Principles of Extractive Metallurgy\", F. Habashi, Gordon and Breach Science ",
+        "Publishers, 1969",
+        "3.\"Principles of Extractive Metallurgy\", T. Rosenqvist, Tapir Academic Press, ",
+        "2004",
+        "4.Fundamentals of Steelmaking, E.T. Turkdogan, The Institute of Metals, 1996",
+        "5.The Extraction and Refining of Metals, C. Bodsworth, CRC Press, 1994"
+      ]
+    }
   }
 }

@@ -2160,7 +2160,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "전쟁과 평화 (6.25전쟁과 정전체제의 탄생)/김명섭/서강대학교출판부/2015"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3149,6 +3154,33 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "이승만 저. 김명섭.김효선 역주. 『청일전기』(연세대학교 대학출판문화원, 2020).",
+        "김명섭.『전쟁과 평화: 6.25전쟁과 정전체제의 탄생』(서강대학교 출판부, 2015).",
+        "Myongsob KIM et al.  \"Korea as a Clashpoint of Civilizations\" in 『Northeast Asia and the Two Koreas』. Yonsei University Press, 2008.",
+        "학술지 논문들은 각자 연세대 학술정보원에서 다운로드.",
+        "",
+        "- 참고문헌 -",
+        "김명섭 외.『백범의 길』(아르테, 2018), 제1권, pp. 15-85(김명섭 집필부분).",
+        "이승만 저. 오영섭 역주, 김명섭 해제.『독립정신』(연세대학교 대학출판문화원, 2019).",
+        "김명섭. 『대서양문명사: 팽창, 침탈, 헤게모니』. 한길사, 2001.",
+        "김명섭 외. 『동아시아의 전쟁과 평화』. 연세대학교 출판부, 2006.",
+        "김명섭 외. 『한국외교사와 국제정치학』. 성신여자대학교 출판부, 2005.",
+        "- 참고하면 좋은 1차 자료 사이트들 -",
+        "국사편찬위원회 한국사데이터베이스 http://db.history.go.kr/",
+        "국사편찬위원회 전자사료관 http://archive.history.go.kr/ ",
+        "독립기념관 한국독립운동정보시스템 http://search.i815.or.kr/main.do",
+        "민주화운동 아카이브시스템 http://archives.kdemo.or.kr/",
+        "국가법령정보센터 http://www.law.go.kr/main.html",
+        "The Avalon Project http://avalon.law.yale.edu/",
+        "Foreign Relations of the United States http://uwdc.library.wisc.edu/FRUS 또는 http://history.state.gov/historicaldocuments",
+        "국가기록원 http://www.archives.go.kr/",
+        "국립중앙도서관 http://www.nl.go.kr",
+        "미 국립문서기록관리청(NARA) http://www.archives.gov/",
+        "미 의회 도서관 http://www.loc.gov/"
+      ]
+    }
   }
 }

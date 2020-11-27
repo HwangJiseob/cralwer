@@ -3223,7 +3223,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Lecture notes (will be provided before classes)",
+        "Ben G. Streetman and Sanjay Banerjee, Solid State Electronic Devices 7th edition, Pearson (2016).",
+        "Donald A. Neaman, Semiconductor Physics and Devices 4th edition, McGraw Hill"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -4558,6 +4565,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Lecture notes (will be provided before classes)",
+        "Ben G. Streetman and Sanjay Banerjee, Solid State Electronic Devices 7th edition, Pearson (2016).",
+        "Donald A. Neaman, Semiconductor Physics and Devices 4th edition, McGraw Hill"
+      ]
+    }
   }
 }

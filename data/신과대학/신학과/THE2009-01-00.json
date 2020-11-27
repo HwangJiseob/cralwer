@@ -171,6 +171,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "* 권석만. (2012). 현대 심리치료와 상담 이론. 서울: 학지사. ",
+        "* 권수영. (2007). 기독(목회)상담 어떻게 다른가요? 서울: 학지사. ",
+        "* 유영권. (2012). 기독(목회)상담학 영역 및 증상별 접근. 서울: 학지사. ",
+        "* 정석환. (2003). 목회상담학 연구. 경기도: 한국학술정보(주).",
+        "* Frankl, V. (1987). Man’s search for Meaning: An Introduction to logotherapy. London: Hodder and Stoughton. (이시형 역. (2020). 빅터프랭클의 죽음의 수용소에서. 청아출판사)",
+        "* Gerkins, C. V. (1997). An Introduction to Pastoral Care. TN: Abingdon Press. (유영권 역 (2014). 목회적 돌봄의 개론. 서울: 은성출판사)",
+        "* Harris, R. (2007). The Happiness Trap: Stop Struggling and Start Living. Wollombi, HSW: Exisle Publishing Limited. (김미옥 역. (2008). 행복의 함정. 서울: 시그마북스)",
+        "* Hillman, J. (1996). The Soul’s Code. New York: NY: Random House. (주민아 역. (2013). 나는 무엇을 원하는가: 천재 심리학자가 발견한 11가지 삶의 비밀. 나무의철학)",
+        "* Jordan, M. R. (2001). Taking on the gods. Eugene, OR: Wipf & Stock Publishers. (권수영 역. (2011). 신들과 씨름하다. 목회상담사의 지상과제. 서울: 학지사)",
+        "* Maynard, E. A. & Snodgrass, J. L. (2015). Understanding Pastoral Counseling. New York, NY: Springer Publishing Company, LLC.",
+        "* Moore, T. (1994). Care of the Soul. New York: Harper Perennial. (김영운 역. (2007). 영혼의 돌봄. 아침영성지도연구원)",
+        "* Tan, S. (2011). Counseling and Psychotherapy: A Christian Perspective. Grand Rapids, MI: Baker Academic.",
+        "* Wedding, D. & Corsini, R. J. (Eds.). (2018). Current Psychotherapies (10th edition). Belmont, CA: Brooks/Cole.",
+        "* Yalom, I. D. (2002). The Gift of Therapy. London: Herper Perennial.(최웅용, 천성문, 김창대, 최한나 역. (2010). 치료의 선물. 서울:시그마프레스)"
+      ]
+    }
   }
 }

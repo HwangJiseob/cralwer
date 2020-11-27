@@ -740,7 +740,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Qualitative inquiry and research design : choosing among five approaches/Creswell, John W./SAGE Publications/2013 / 3rd ed",
+        "\r○ The Practice of Social Research, 13th Edition/Earl R. Babbie/Wadsworth Publishing/2012",
+        "\r○ Social Research Methods: Qualitative and Quantitative Approaches (7th Edition)/W. Lawrence Neuman/Pearson/2009"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -790,7 +797,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -854,6 +866,28 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- Janet Ruane, “Introducing Social Research Methods Essentials for Getting the Edge”, Wiley Blackwell, 2016, e-book available at Yonsei Library.",
+        "- Martyn Denscombe, “The Good Research Guide: For Small-Scale Social Research Projects”, Open University Press, 2017, e-book available at Yonsei Library.",
+        "- Martyn Denscombe, “Research Proposals, A Practical Guide”, Open University Press, 2012, e-book available at Yonsei Library.",
+        "- Neuman, William. Social research methods: qualitative and quantitative approaches, Allyn & Bacon, 2014, “Meanings of Methodology”, pp.92-123, available Yonsei Library.",
+        "- Patrick J. Lewis, “Storytelling as Research/ Research as Storytelling”, Qualitative Inquiry, 17(6), 2011, pp.505?510, available at Yonsei Library. ",
+        "- Hengl T. and Gould, M., (2002) \"Rules of thumb for writing research articles\", http://shorturl.at/acktx. ",
+        "- Pautasso M (2013) Ten Simple Rules for Writing a Literature Review. PLOS Computational Biology 9(7): e1003149, http://shorturl.at/ckwXZ"
+      ]
+    }
+  },
+  "20192": {
+    "LECT_DATA": {
+      "학정번호": "UIC2151-05-00",
+      "과목명": "RESEARCH DESIGN AND QUANTITATIVE METHODS"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Social research methods : qualitative and quantitative approaches/Neuman, William Lawrence/Pearson/Allyn and Bacon/2014 / 7th ed., Pearson new international ed"
+      ]
+    }
   }
 }

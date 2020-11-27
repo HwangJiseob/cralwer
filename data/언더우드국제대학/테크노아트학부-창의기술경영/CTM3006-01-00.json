@@ -841,7 +841,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -947,6 +952,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "[No textbook purchase is required.]",
+        "",
+        "Recommended Textbooks and Reading Material:",
+        "* Christopher Kuner, et al., The EU General Data Protection Regulation (GDPR), Oxford University Press,  2020.",
+        "* Jef Ausloos, The Right to Erasure in EU Data Protection Law, Oxford University Press, 2020.",
+        "* Peter Carey, Data Protection: A Practical Guide to UK and EU law, Oxford University Press, 2018",
+        "* Charles P. Pfleeger, Shari Lawrence Pfleeger, and Jonathan Margulies, Security in Computing, Prentice Hall, 5th ed., 2018.",
+        "* Peter Swire, and Sol Bermann, Information Privacy: Official Reference for the Certified Information Privacy Professional (CIPP), IAPP Publication, 2007.",
+        "* Daniel J. Solove, and Paul M. Schartz, Privacy, Information, and Technology, Wolters Kluwer, 3rd ed., 2011."
+      ]
+    }
   }
 }

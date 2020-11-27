@@ -5829,7 +5829,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "맨큐의 경제학, N. Gregory Mankiw. 김경환,김종석 옮김."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -6715,7 +6720,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "맨큐의 경제학, N. Gregory Mankiw. 김경환,김종석 옮김."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -7965,7 +7975,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "맨큐의 경제학, N. Gregory Mankiw. 김경환,김종석 옮김."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -8786,6 +8801,15 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main Textbook: N. G. Mankiw, Principles of Economics",
+        "",
+        "References: Daron Acemeglu, David Laibson, & John List, Economics",
+        "                    Pau Krugman & Robin Wells, Economics",
+        "                    John Taylor & Akula Weerapana, Economics"
+      ]
+    }
   }
 }

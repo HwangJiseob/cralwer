@@ -915,6 +915,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "필수: 문법책 -  Seow, C. L. <성서 히브리어 문법>(가칭). 김동혁 역. 출간 예정. ☞ 강사가 번역한 원고로 IVP에서 출간 예정입니다. 학생들은 바인딩된 것을 복사실에서 구입할 수 있을 것입니다. 원서 서지 사항: A Grammar for Biblical Hebrew. Revised ed. Nashville: Abingdon, 1995.",
+        "",
+        "참고: 사전 -  Brown, F., S. R. Driver, and C. A. Briggs. A Hebrew and English Lexicon of the Old Testament. Oxford, 1906 (BDB). ☞ 표준 사전입니다. 도서관에 몇 권이 비치되어 있으니 학교에서 과제를 할 수 있는 학생은 구입하지 않아도 됩니다. ",
+        "",
+        "참고: 연습 문제 해설 - Green, Jennifer S., G. Brooke Lester, and Joseph F. Scrivner. Handbook to A Grammar for Biblical Hebrew. Nashville: Abingdon, 2005."
+      ]
+    }
   }
 }

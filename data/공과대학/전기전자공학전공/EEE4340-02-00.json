@@ -3117,7 +3117,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Power System Analysis and Design | 6th Edition",
+        "J. Duncan Glover/Thomas Overbye/Mulukutla S. Sarma"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3318,6 +3324,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(1st) Textbook: Power system analysis (2nd edition) edited by Hadi Saadat - McGraw Hill",
+        "",
+        "(Other references)",
+        "- Power System Analysis & Design (5th edition) edited by J.D. Glover / M.S. Sarma / T.J. Overbye - Cengage Learning",
+        "- Electric Machinery Fundamentals (4th edition, McGRAW-HILL INTERNATIONAL EDITION), by Stephen J. Chapman.",
+        "",
+        "- Class notes (open to YSCEC on-line: http://yscec.yonsei.ac.kr/)"
+      ]
+    }
   }
 }

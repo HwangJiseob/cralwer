@@ -1780,7 +1780,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Brock biology of microorganisms/Madigan, Michael T./Pearson/2015 / 14th ed., Global ed",
+        "\r○ 식품미생물학/유상렬/수학사/2014 / 개정판",
+        "\r○ Fundamental food microbiology/Ray, Bibek/CRC Press/2014 / 5th ed"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2163,6 +2170,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Brock biology of microorganisms/Madigan, Michael T./Pearson/2015 / 14th ed., Global ed",
+        "\r○ 식품미생물학/유상렬/수학사/2014 / 개정판",
+        "\r○ Fundamental food microbiology/Ray, Bibek/CRC Press/2014 / 5th ed"
+      ]
+    }
   }
 }

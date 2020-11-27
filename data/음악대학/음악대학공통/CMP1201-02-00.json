@@ -88,7 +88,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Ottman, Robert (Music for sight singing, 2004)",
+        "Sol Berkowitz (A new approach to sight singing, 1988)",
+        "Adler, Samuel (Sight singing: pitch, interval, rhythm, 1997)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -148,7 +155,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Ottman, Robert (Music for sight singing, 2004)",
+        "Sol Berkowitz (A new approach to sight singing, 1988)",
+        "Adler, Samuel (Sight singing: pitch, interval, rhythm, 1997)"
+      ]
+    }
   },
   "20181": {
     "LECT_DATA": {

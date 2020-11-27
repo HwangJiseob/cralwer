@@ -961,6 +961,23 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "참고문헌",
+        "Faure, G. (1998) Principles adn Applications of Geochemistry. Prentice Hall, ",
+        "New Jersey.",
+        "",
+        "Langmuir, D. (1997) Aqueous Environmental Geochemistry. Prentice Hall, New ",
+        "Jersey.",
+        "",
+        "Benjamin, M.M. (2002) Water Chemistry. McGraw Hill",
+        "",
+        "Pankow, J.F. (1991) Aquatic chemistry concepts. Lewis Publishers",
+        "",
+        "Stumm. W. and Morgan, J.J. (1996) Aquatic Chemistry: Chemical Equilibria and ",
+        "Rates in Natural Waters. John Wiley & Sons, Inc. New York."
+      ]
+    }
   }
 }

@@ -1810,7 +1810,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(한글참고서적)식품화학/ 윤석권 외 4인/ 수학사",
+        "(영어참고서적) ",
+        "1. Food Chemistry: Principles and Applications Christen and Smith, STS ",
+        "Publishers",
+        "2. Principles of Food Chemistry/ John M. deMan/ Aspen Publishers, Inc",
+        "3. Food Chemistry 3rd ed./ Owen R. Fennema/ Marcel Dekker, Inc."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2262,6 +2272,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "식품화학 (2020), 이형주 외, 수학사",
+        "Food: The Chemistry of Its Components (2016), 6th ed. T. P. Coultate, Cambridge, RSC.",
+        "Fennema`s Food Chemistry (2017), 5th ed. edited by Srinivasan Damodaran and Kirk L. Parkin, Boca Raton, CRC Press.",
+        "Food Chemistry (2016), 4th ed. H.-D. Belitz , W. Grosch, and W. G., P. Schieberle . Berlin ; New York, Springer-Verlag.",
+        "Principles of Food Chemistry (2018), 4th ed. deMan et al. Springer (ebook)"
+      ]
+    }
   }
 }

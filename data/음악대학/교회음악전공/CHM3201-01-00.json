@@ -465,6 +465,21 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "매수업시 교재 1, 2 필히 지참해야 함. \r",
+        "\r",
+        "1. 새 찬송가\r",
+        "2. J.S. Bach의 Orgelbüchlein\r",
+        "\r",
+        "참고문헌\r",
+        "Organ Improvisation for Beginners by Jan Bender\r",
+        "Improvisation for Organists by Jan Overduin\r",
+        "Improvising How to Master the Art by Gerre Hancock\r",
+        "Improvisation with Otto M. Kraemer (Improvisation Form Catalogue) Westminster \r",
+        "Choir College, 특강 자료"
+      ]
+    }
   }
 }

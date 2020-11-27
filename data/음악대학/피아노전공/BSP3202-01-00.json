@@ -1275,7 +1275,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Gillespie, John. Five Centuries of Keyboard Music ",
+        "2. Gordon, Stewart. A History Keyboard Literature : Music for the Piano and Its Fore-runners. Schirmer Books, 1996.",
+        "3. F. E. Kirby. Music For Piano: A short history. Portland, Oregon: Amadeus Press, 1995. (건반음악의 역사, 김혜선 역, 다리)",
+        "4. 차호성, 오희숙, 김미옥. 피아노 문헌 연구. 심설당, 2012."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1560,6 +1568,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Gillespie, J.(1972). Five centuries of keyboard music. New York: Dover Publications.",
+        "Kirby, F. E.(1995). 건반음악의 역사. 김혜선(역). 서울: 도서출판 다리.",
+        "___________(2003). 피아노 음악사: 20세기 말까지. 김혜선(역). 서울: 도서출판 다리.",
+        "___________(2004). Music for piano: a short history. Portland: Amadeus Press.",
+        "Rosen, C.(1971). The classical style: Haydn, Mozart, Beethoven. New York: Viking Press.",
+        "김미옥, 차호성, 오희숙(2012). 피아노 문헌연구. 서울: 심설당.",
+        "",
+        "*Handouts를 포함한 수업 자료는 매 수업 전에 제공"
+      ]
+    }
   }
 }

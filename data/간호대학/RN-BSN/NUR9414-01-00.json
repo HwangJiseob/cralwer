@@ -4500,7 +4500,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "<주교재>",
+        "",
+        "1. 임숙빈, 김선아, 김성재, 이숙 외(2015). 정신간호총론 제7판. 서울: 수문사.",
+        "2. Betty J. Ackley, et al.(2008). Evidence-Based Nursing Care Guidelines:Medical-Surgical Interventions. Mosby Elsvier.",
+        "3. Gloria M. Bulechek, et al.(2008). Nursing Interventions Classification. Mosby elsvier.",
+        "4. Lynda Juall Carpenito-Moyet (2008). Handbook of Nursing Diagnosis. Lippincott. ",
+        "5. Moorhead, S., Johnson, M., Mass, M. L., & Swanson, E. (2008). Nursing Outcomes classification(NOC). Mosby Elsevier."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -5622,6 +5633,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "<주교재>",
+        "",
+        "1. 김선아 외(2020). 정신간호총론 제8판. 서울: 수문사.",
+        "2. Betty J. Ackley, et al.(2008). Evidence-Based Nursing Care Guidelines:Medical-Surgical Interventions. Mosby Elsvier.",
+        "3. Gloria M. Bulechek, et al.(2008). Nursing Interventions Classification. Mosby elsvier.",
+        "4. Lynda Juall Carpenito-Moyet (2008). Handbook of Nursing Diagnosis. Lippincott. ",
+        "5. Moorhead, S., Johnson, M., Mass, M. L., & Swanson, E. (2008). Nursing Outcomes classification(NOC). Mosby Elsevier."
+      ]
+    }
   }
 }

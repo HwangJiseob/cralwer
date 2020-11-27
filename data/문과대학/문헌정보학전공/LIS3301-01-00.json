@@ -762,7 +762,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 도서관경영론/정동열 鄭東烈/한국도서관협회/2014",
+        "\r○ 圖書館 情報센터 經營論/Stueart, Robert D/啓明大學校 出版部/1997",
+        "\r○ Library and information center management/Stueart, Robert D/Libraries Unlimited/2007",
+        "\r○ 도서관법규총람 . 제1,2권/이병목/구미무역출판부/2005",
+        "\r○ 교재 관련 사항은 첫 주 수업에서 안내 예정"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1172,6 +1181,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재 관련 사항은 첫 주 수업에서 안내 예정/",
+        "",
+        "정동열. 2014. 도서관 경영론(개정3판). 한국도서관협회/",
+        "B. B. Moran, R. D. Stueart, and C. J. Morner. 2013. Library and Information Center Management. (8 Edition). Libraries Unlimited/",
+        "(DVD) 프로드릭 와이즈먼. 2019. 뉴욕 라이브러리에서. 학술정보원 구입 신청함"
+      ]
+    }
   }
 }

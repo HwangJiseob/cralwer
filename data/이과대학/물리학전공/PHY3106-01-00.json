@@ -3208,7 +3208,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재(Textbook)",
+        "Introductory Statistical Mechanics (2nd Ed.) Roger Bowley and Mariana Sanchez"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3927,6 +3933,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재(Textbook)",
+        "Introduction to Statistical Physics (2nd Ed.) Kerson Huang"
+      ]
+    }
   }
 }

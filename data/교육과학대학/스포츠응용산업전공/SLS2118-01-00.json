@@ -325,5 +325,18 @@
         "비고": ""
       }
     ]
+  },
+  "20192": {
+    "LECT_DATA": {
+      "학정번호": "SLS2118-01-00",
+      "과목명": "수상스포츠"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "DVD: Waketrix -True to the movement: Progressive Wakeboarding instruction\r",
+        "Book:Ben Favret and David Benzel (1997) Complete Guide to Water Skiing, Human \r",
+        "Kinetics Duvall`s Camille (1992) Water Skiing, Simon and Schuster"
+      ]
+    }
   }
 }

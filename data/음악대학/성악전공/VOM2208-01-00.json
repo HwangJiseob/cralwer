@@ -1441,6 +1441,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: 성악인을 위한 영어딕션 Kathryn LaBouff 지음 김방술. 김민지 옮김, 음악춘\r",
+        "추\r",
+        "\r",
+        "부교재 및 참고문헌: Diction for Singers 박윤경 옮김, 음악세광\r",
+        "  Diction, E. C. Schirmer Music Company Boston, John Moriarty\r",
+        "          A Pronouncing Dictionary of Amerian English, J.S. Kenyon, T.A"
+      ]
+    }
   }
 }

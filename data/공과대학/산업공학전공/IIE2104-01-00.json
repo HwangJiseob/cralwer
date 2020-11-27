@@ -3239,7 +3239,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Operations Research, An Introduction, Hamdy Taha, 10th edition, Pearson.",
+        "(번역본) 경영과학 (9th Ed.) 최인찬,문일경 류춘호 김재희 역. 교보문고. 2012.",
+        "보조교재: Introduction to Mathematical Programming, Winston and Venkataramann ",
+        "(4th Ed.) Thomson."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -4434,6 +4442,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Operations Research, An Introduction, Hamdy Taha, 10th edition, Pearson.",
+        "(번역본) 경영과학 (9th Ed.) 최인찬,문일경 류춘호 김재희 역. 교보문고. 2012."
+      ]
+    }
   }
 }

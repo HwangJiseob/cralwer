@@ -1068,6 +1068,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. 트롤리문제에 대한 윤리학적 탐구(박사학위논문) 발췌\r",
+        "2. The Trolly Problems Mysteries (F. M. Kamm. Oxford Univ. Press, 2015) \r",
+        "   (번역문 제공)\r",
+        "3. COVID 19에 관한 철학적이고 윤리학적인 논문들"
+      ]
+    }
   }
 }

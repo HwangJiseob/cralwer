@@ -1219,7 +1219,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "J.B Christensen \"Die Grundlage des Generalbassspiels\"",
+        "H.Grabner \"Generalbassuebung\"",
+        "E.Wolf \"Generalbassuebung\""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1489,6 +1496,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Figured Harmony at the Keyboard 숫자가 주어진 건반 화성 실습 (R.O.Morris/주성희 역)",
+        "Keyboard Harmony for Beginners 건반 화성의 연습 (J. Barham Johnsons/이용일 역)"
+      ]
+    }
   }
 }

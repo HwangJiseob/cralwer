@@ -182,7 +182,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Kyung Moon Hwang, A History of Korea, 2nd edition (New York: Palgrave McMillan, 2017). It is recommended that you read the book, but it is not mandatory.",
+        "All other readings listed in the syllabus will be available as pdf files on the course website."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -288,9 +294,25 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20182": {
+    "LECT_DATA": {
+      "학정번호": "UIC1551-06-00",
+      "과목명": "WORLD HISTORY: GROUP II"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
+  },
+  "20192": {
     "LECT_DATA": {
       "학정번호": "UIC1551-06-00",
       "과목명": "WORLD HISTORY: GROUP II"

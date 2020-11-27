@@ -5506,7 +5506,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "N. Gregory Mankiw, Principles of Economics, 7th edition."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -5603,7 +5608,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Principles of Economics, 8th Edition",
+        "N. Gregory Mankiw"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -5770,7 +5781,18 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "N. Gregory Mankiw, Principles of Economics, 7th edition.",
+        "Other original materials not in the textbook will be regularly added to the ",
+        "syllabus. ",
+        "To follow macroeconomic trends and to immediately apply what has been taught, ",
+        "students are strongly encouraged to read publications such as the Wall Street ",
+        "Journal (http://online.wsj.com/public/us), the Financial Times ",
+        "(http://news.ft.com/home/us/) and the Economist (http://www.economist.com/)."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -5917,6 +5939,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Principles of Economics, 8th Edition",
+        "N. Gregory Mankiw"
+      ]
+    }
   }
 }

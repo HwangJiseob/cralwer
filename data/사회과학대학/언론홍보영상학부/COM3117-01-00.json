@@ -3720,6 +3720,22 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "* 주교재",
+        "1) 김영석 (2017). 『설득커뮤니케이션』. 서울: 나남. ",
+        "2) Pratkanis, A. R., & Aronson, E. (2001). Age of Propaganda: The Everyday Use and Abuse of Persuasion. 윤선길 외 역.(2005) 『프로파간다 시대의 설득전략』. 서울: 커뮤니케이션북스.",
+        "",
+        "* 부교재",
+        "1) Aronson, E. (2011). The Social Animal, 11th ed. 박재호 역 (2014). 『인간, 사회적 동물』. 서울: 탐구당.",
+        "2) Dillard, J. P., & Pfau, M. (2002). The Persuasion Handbook: Developments in Theory and Practice. Sage Publications.",
+        "3) Gass, R. H., & Seiter, J. S. (2017). Persuasion: Social Influence and Compliance Gaining,  5th ed. Routledge. ",
+        "4) Griffin, E. M. (2002). A First Look at Communication Theory, 5th ed. 김동윤?오소현 역(2012).  『첫눈에 반한 커뮤니케이션 이론』. 커뮤니케이션북스.",
+        "5) Susan T. Fiske & Shelley E. Tailor. (2007). Social Cognition : From Brains to Culture. 신현정 역 (2010). 『두뇌로부터 문화에 이르는 사회인지』. 서울: 박학사.",
+        "6) O'keefe, D. J. (2002). Persuasion: Theory and Research. Sage.",
+        "7) Petty, R. E., & Cacioppo, J. T. (1996). Attitudes and Persuasion: Classic and Contemporary Approaches. Westview Press."
+      ]
+    }
   }
 }

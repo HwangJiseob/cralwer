@@ -1292,7 +1292,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재 \r",
+        "- Albert Camus, , Gallimard\r",
+        "참고문헌\r",
+        "- Albert Camus, \r",
+        "- 알베르 카뮈, <이인>, 이기언 옮김, 문학동네\r",
+        "- 이기언, <지성인 알베르 카뮈>, 울력"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1506,6 +1516,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재 : Marguerite Duras, Moderato Cantabile, Minuit, 1958 / George Perec, Les Choses, 10/18, 1965 /  Michel Houellebecq, Extension du domaine de la lutte, Edition Maurice Nadeau, 1994 / Annie Ernaux, La Place, Gallimard, 1983",
+        " **주교재는 Yscec에 파일로 올림.   ",
+        "",
+        "참고문헌 : 마르그리트 뒤라스 <모데라토 칸타빌레>(정희경 옮김, 문학과지성사)/ 조르주 페렉 <사물들>(김명숙 옮김, 펭귄클래식 코리아)/   미셸 우엘벡 <투쟁영역의 확장>(용경식 옮김, 열린책들)/ 아니 에르노, <남자의 자리>, (임호경 옮김, 열린책들)"
+      ]
+    }
   }
 }

@@ -228,6 +228,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: Machine learning, 오일석 (한빛아카데미, 2019) ",
+        "부교재1: 인공지능 개론, 마이클 네그네빗스키 (한빛아카데미, 2013) ",
+        "부교재2: Introduce to Artificial Intelligence, Wolfgang Ertel (Springer, 2017)",
+        "부교재3: 인공지능, 이건명 (생능출판사, 2019)"
+      ]
+    }
   }
 }

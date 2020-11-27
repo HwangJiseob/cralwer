@@ -762,7 +762,21 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재-",
+        "",
+        "PDF 파일 및",
+        "The Jazz Piano Book by Mark Levine, 번역 이다현, 현율출판사",
+        "",
+        "참고교재-",
+        "",
+        "재즈피아노교본 1, 2권 삼호뮤직",
+        "Jazz Arrangin Technique by Gary Lindsay",
+        "경음악편곡법-길옥, 세광출판사"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -990,6 +1004,20 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재-",
+        "",
+        "PDF 파일 및",
+        "The Jazz Piano Book by Mark Levine, 번역 이다현, 현율출판사",
+        "",
+        "참고교재-",
+        "",
+        "재즈피아노교본 1, 2권 삼호뮤직",
+        "Jazz Arranging Technique by Gary Lindsay",
+        "경음악편곡법-길옥, 세광출판사"
+      ]
+    }
   }
 }

@@ -141,6 +141,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Lecture slides (main)",
+        "Advanced Semiconductor Fundamentals, Robert F. Pierret, Pearson Education, Inc., 2003. (ISBN-0-13-061792-X (paperback)).",
+        "Semiconductor device fundamentals, Robert F. Pierret, Addison-Wesley",
+        "An Introduction to Semiconductor Devices, Donald Neamen, McGraw-Hill Education"
+      ]
+    }
   }
 }

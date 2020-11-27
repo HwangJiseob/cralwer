@@ -1763,6 +1763,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Molecular Biology of the gene (Watson et al.) 7th ed. (2013)"
+      ]
+    }
   }
 }

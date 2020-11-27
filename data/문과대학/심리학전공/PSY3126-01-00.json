@@ -5605,7 +5605,14 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "<한글 번역본> 오경자 외 역. 이상심리학 (8판). 시그마프레스\r",
+        "<원서> Comer, R.J.(2016). Fundamentals of Abnormal Psychology, 8th edition. \r",
+        "Worth Publishers."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -7234,6 +7241,11 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "이상심리학-DSM-5 (7판). V. Mark Durand, David H. Barlow 원저. 정경미, 김현수, 박수현, 양재원, 이주영, 진주희 역. 사회평론아카데미."
+      ]
+    }
   }
 }

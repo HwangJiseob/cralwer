@@ -1121,7 +1121,24 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재:",
+        "Numerical Methods for Engineers",
+        "S.C. Chapra, R.P. Canale",
+        "7th Ed. McGraw-Hill",
+        "ISBN: 978-0-07-339792-4",
+        "2015",
+        "",
+        "부교재:",
+        "공학도를 위한 수치해석 (Numerical Methods for Engineers)",
+        "신동신,나 양,이승배,임윤철 공역 (Chapra & Canale 공저)",
+        "맥그로힐에듀케이션코리아",
+        "ISBN: 979-11-321-0085-0 93550",
+        "2016"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -1447,7 +1464,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재:",
+        "Numerical Methods for Engineers",
+        "S.C. Chapra, R.P. Canale",
+        "7th Ed. McGraw-Hill",
+        "ISBN: 978-0-07-339792-4",
+        "2015",
+        "",
+        "부교재:",
+        "공학도를 위한 수치해석 (Numerical Methods for Engineers)",
+        "신동신,나 양,이승배,임윤철 공역 (Chapra & Canale 공저)",
+        "맥그로힐에듀케이션코리아",
+        "ISBN: 979-11-321-0085-0 93550",
+        "2016"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1969,7 +2003,28 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 1:",
+        "Numerical Methods for Engineers",
+        "S.C. Chapra, R.P. Canale",
+        "7th Ed. McGraw-Hill",
+        "ISBN: 9789814670876",
+        "",
+        "주교재 2:",
+        "Numerical Method for Engineers and Scientists",
+        "Amos Gilat & Vish Subramaniam",
+        "Wiley,3rd Ed.",
+        "",
+        "부교재:",
+        "공학도를 위한 수치해석 (Numerical Methods for Engineers)",
+        "신동신,나 양,이승배,임윤철 공역 (Chapra & Canale 공저)",
+        "맥그로힐에듀케이션코리아",
+        "ISBN: 979-11-321-0085-0 93550",
+        "2016"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2213,6 +2268,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Numerical methods for engineers and scientists : an introduction with applications using MATLAB/Gilat, Amos/John Wiley & Sons, Inc./2014",
+        "\r○ Secondary: ",
+        "1. Numerical Methods for engineers, S.C. Chapra and R.P. Canale, McGraw-Hill, 6th ed.",
+        "2. Elementary Numerical Analysis, K. Atkinson and W. Han, John Wiley & Sons, 3rd ed.",
+        "3. Applied Numerical Analysis, C.F. Gerald and P.O. Wheatley, Pearson/Addison-Wesley, 7th ed."
+      ]
+    }
   }
 }

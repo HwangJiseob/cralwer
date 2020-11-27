@@ -6008,7 +6008,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Real estate finance and investments/Brueggeman, William B/McGraw-Hill Education/2016 / 15th ed., international ed",
+        "\r○ Commercial real estate analysis and investments/Geltner, David/South-Western Publishing/2001"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -8021,7 +8027,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Real estate finance and investments/Brueggeman, William B/McGraw-Hill Education/2016 / 15th ed., international ed",
+        "\r○ Commercial real estate analysis and investments/Geltner, David/South-Western Publishing/2001"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -10244,6 +10256,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Real estate finance and investments/Brueggeman, William B/McGraw-Hill Education/2016 / 15th ed., international ed",
+        "\r○ Commercial real estate analysis and investments/Geltner, David/South-Western Publishing/2001"
+      ]
+    }
   }
 }

@@ -3075,7 +3075,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Optional Text:",
+        "",
+        "Title: Actuarial mathematics for life contingent risks, 2nd ed.",
+        "Authors: D.C.M. Dickson, M.R. Hardy, and H.R. Waters",
+        "Publisher: Cambridge University Press"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3599,6 +3608,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Optional Text:",
+        "",
+        "Title: Actuarial mathematics for life contingent risks, 2nd ed.",
+        "Authors: D.C.M. Dickson, M.R. Hardy, and H.R. Waters",
+        "Publisher: Cambridge University Press"
+      ]
+    }
   }
 }

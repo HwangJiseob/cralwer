@@ -1158,7 +1158,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "main textbook: Sheldon Axler, Linear Algebra Done Right, 3rd edition, Springer, 2015. PDF version will be distributed.",
+        "",
+        "",
+        "Reference: G. Strang, Linear Algebra and its Applications, 4th edition, Thompson, 2006, PDF version will be distributed."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1696,6 +1704,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Networked Life: 20 Questions and Answers (Mung Chiang), Princeton University",
+        "April 2012.",
+        "",
+        "Deep Learning",
+        "An MIT Press book",
+        "Ian Goodfellow and Yoshua Bengio and Aaron Courville",
+        "http://www.deeplearningbook.org/",
+        "",
+        "Lecture Note on Optimization (SLKIM)."
+      ]
+    }
   }
 }

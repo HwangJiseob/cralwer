@@ -1874,7 +1874,43 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "가. 자체 PPT 자료",
+        "- 강의상 필요한 핵심 문헌은 ysec에 등재예정",
+        "",
+        "나. 참고문헌",
+        "",
+        "I. 기능성 식품",
+        " 1) Debasis Bagchi et al.: Biotechnology in Functional Foods and Nutraceuticals (2010).",
+        " 2) Debasis Bagchi et al.: Developing New Functional Food and Nutraceutical Products (2017).",
+        " 3) Vattem, Dhiraj A. et al.:Functional Foods Nutraceuticals and Natural Products Concepts and Applications (2016).",
+        " 4) Leo M. L. et al.: Handbook of Analysis of Active Compounds in Functional Foods (2012).",
+        " 5) Bagchi, Debasis et al.: Nutraceuticals and Functional Foods in Human Health and Disease Prevention (2015).",
+        "",
+        "II. 기능성 화장품",
+        " 1) Raja K., et al.: Cosmeceuticals and Active Cosmetics Third Edition (2015).",
+        " 2) Baumann, Leslie : Cosmeceuticals and Cosmetic Ingredients (2014).",
+        " 3) Robert Lochhead et al.: Cosmetic Science and Technology: Theoretical Principles and Applications (2017).",
+        " 4) Andr? O. Barel et al.: Handbook of Cosmetic Science and Technology Fourth Edition (2014).",
+        " 5) Lawrence, B. M : Naturals and Organics in Cosmetics From R&D to the Marketplace (2006).",
+        "",
+        "III. Personal Care 제품",
+        " 1) M. Silvia D?az-Cruz et al.: Personal Care Products in the Aquatic Environment (2015).",
+        " 2) Tharwat F. Tadros : Formulations In Cosmetic and Personal Care (2016).",
+        " 3) Kelly Frederick et al.: Fragrance for Personal Care (2008).",
+        " 4) Iwata, Hiroshi, and Kunio Shimada : Formulas Ingredients and Production of Cosmetics Technology of Skin-and Hair-Care Products in Japan (2012).",
+        " 5) R. Randall Wickett et al.: Practical Modern Hair Science (2012).",
+        "",
+        "IV. 기타",
+        " 1) Anthonia O'Donovan et al.: Biotechnology of Bioactive Compounds: Sources and Applications (2015).",
+        " 2) Ronald Ross Watson et al.: Polyphenols in human health and disease (2014).",
+        " 3) Kishan Gopal et al.: Polysaccharides Bioactivity and Biotechnology (2015).",
+        " 4) Gupta, Ramesh C. et al.: Nutraceuticals Efficacy Safety and Toxicity (2016).",
+        " 5) Ronald Ross Watson et al.: Probiotics, Prebiotics, and Synbiotics (2016)."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2733,6 +2769,42 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "가. 자체 PPT 자료",
+        "- 강의상 필요한 핵심 문헌은 ysec에 등재예정",
+        "",
+        "나. 참고문헌",
+        "",
+        "I. 기능성 식품",
+        " 1) Debasis Bagchi et al.: Biotechnology in Functional Foods and Nutraceuticals (2010).",
+        " 2) Debasis Bagchi et al.: Developing New Functional Food and Nutraceutical Products (2017).",
+        " 3) Vattem, Dhiraj A. et al.:Functional Foods Nutraceuticals and Natural Products Concepts and Applications (2016).",
+        " 4) Leo M. L. et al.: Handbook of Analysis of Active Compounds in Functional Foods (2012).",
+        " 5) Bagchi, Debasis et al.: Nutraceuticals and Functional Foods in Human Health and Disease Prevention (2015).",
+        "",
+        "II. 기능성 화장품",
+        " 1) Raja K., et al.: Cosmeceuticals and Active Cosmetics Third Edition (2015).",
+        " 2) Baumann, Leslie : Cosmeceuticals and Cosmetic Ingredients (2014).",
+        " 3) Robert Lochhead et al.: Cosmetic Science and Technology: Theoretical Principles and Applications (2017).",
+        " 4) Andr? O. Barel et al.: Handbook of Cosmetic Science and Technology Fourth Edition (2014).",
+        " 5) Lawrence, B. M : Naturals and Organics in Cosmetics From R&D to the Marketplace (2006).",
+        "",
+        "III. Personal Care 제품",
+        " 1) M. Silvia D?az-Cruz et al.: Personal Care Products in the Aquatic Environment (2015).",
+        " 2) Tharwat F. Tadros : Formulations In Cosmetic and Personal Care (2016).",
+        " 3) Kelly Frederick et al.: Fragrance for Personal Care (2008).",
+        " 4) Iwata, Hiroshi, and Kunio Shimada : Formulas Ingredients and Production of Cosmetics Technology of Skin-and Hair-Care Products in Japan (2012).",
+        " 5) R. Randall Wickett et al.: Practical Modern Hair Science (2012).",
+        "",
+        "IV. 기타",
+        " 1) Anthonia O'Donovan et al.: Biotechnology of Bioactive Compounds: Sources and Applications (2015).",
+        " 2) Ronald Ross Watson et al.: Polyphenols in human health and disease (2014).",
+        " 3) Kishan Gopal et al.: Polysaccharides Bioactivity and Biotechnology (2015).",
+        " 4) Gupta, Ramesh C. et al.: Nutraceuticals Efficacy Safety and Toxicity (2016).",
+        " 5) Ronald Ross Watson et al.: Probiotics, Prebiotics, and Synbiotics (2016)."
+      ]
+    }
   }
 }

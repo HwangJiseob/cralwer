@@ -423,6 +423,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "There is a designated textbook for the course ? Kenneth Pyle, Japan Rising: The resurgence of Japanese Power and Purpose (PublicAffairs 2007) which can be purchased through www.amazon.com. Together, a course packet, collection of journal articles and book chapters, is available for purchase at the copy center."
+      ]
+    }
   }
 }

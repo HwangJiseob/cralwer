@@ -3270,7 +3270,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "2018학년도 통합간호실습 I/II 지침서, 2018학년도 핵심기본간호술 지침서"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -4490,6 +4495,22 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "[교재]",
+        "- 2020학년도 통합간호실습 I/II 지침서",
+        "- 2020학년도 핵심기본간호술 지침서",
+        "- Herdman. (2018). 간호진단 정의와 분류 2018-2020 (11판). 고일선 (번역). 서울: 학지사메디컬. ",
+        "- Herdman, H. T., & Kamitsuru, S. (2017). NANDA international nursing diagnoses: definitions & classification 2018-2020 (11th ed.). Thieme.",
+        "",
+        "[참고문헌 및 자료]",
+        "- Johnson, M., Bulechek, G., Butcher, H., Maas, M., & Swanson, E. (2012). NOC and NIC linkages to NANDA-I and clinical conditions: Supporting critical reasoning and quality care.(3rd ed.). Elsevier/Mosby.",
+        "- 연세대학교 의학도서관 간호학 Database",
+        "? CINAHL with  Full Text (http://web.a.ebscohost.com)",
+        "? Lippincott Advisor (http://advisor.lww.com/)",
+        "? Lippincott Procedures (http://procedures.lww.com/)"
+      ]
+    }
   }
 }

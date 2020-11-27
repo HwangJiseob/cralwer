@@ -4412,6 +4412,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1.Potts, N. L., & Mandleco, B. L. (2012). Pediatric nursing: Caring for children and their families. Clifton Park, NY: Delmar Cengage Learning.",
+        "2.Hinkle, J. L., & Cheever, K. H. (2017). Brunner & Suddarths textbook of medical-surgical nursing. (14th Ed.). Philadelphia: Lippincott Williams & Wilkins. ",
+        "3.Bickley, L. (2016). Bates' Guide to Physical Examination and ",
+        "4.History-Taking. (12th Ed.). Philadelphia: Lippincott Williams & Wilkins.Whalen, K., Finkel, R., & Panavelil, T. A. (2014). Lippincotts illustrated reviews: pharmacology.(6th Ed.). Philadelphia, PA: Wolters Kluwer. ",
+        "5.Porter, R. S. (2018). The Merck manual of diagnosis and therapy.(20th ed.) Whitehouse Station, NJ: Merck Sharp & Dohme Corp."
+      ]
+    }
   }
 }

@@ -3517,7 +3517,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Computer organization and design : the hardware/software interface/Patterson, David A./Elsevier/Morgan Kaufmann/2014 / 5th ed",
+        "\r○ Verilog HDL : 디지털 설계와 합성의 길잡이/Palnitkar, Samir/영한출판사/2000"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -4698,6 +4704,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ David A. Patterson & John L. Hennessy, \"Computer Organization and Design, The Hardware/Software Interface: RISC-V Edition\" Morgan Kaufmann, 2017.",
+        "http://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-812275-4",
+        "\r○ Brian Mealy & Fabrizio Tappero, \"Free Range VHDL,\" 2018.",
+        "http://freerangefactory.org/pdf/df344hdh4h8kjfh3500ft2/free_range_vhdl.pdf"
+      ]
+    }
   }
 }

@@ -3062,7 +3062,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Numerical Mathematics and Computing 7th Edition, by E. Ward Cheney and David R. Kincaid,Cengage Learning (2013)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3808,6 +3813,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "SCIENTIFIC COMPUTING: AN INTRODUCTORY SURVEY / Michael T. Heath / SIAM"
+      ]
+    }
   }
 }

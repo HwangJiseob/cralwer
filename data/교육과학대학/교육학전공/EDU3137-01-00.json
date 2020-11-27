@@ -1430,7 +1430,34 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "This class will use a Reader generally composed of journal articles and book chapters organized according to weekly topics. The journals and books include the following:",
+        "- Comparative Education",
+        "- Comparative Education Review",
+        "- Cultural Analysis",
+        "- International Handbook of Comparative Education ",
+        "- Handbook of Research on Multicultural Education",
+        "- The Routledge International Companion to Multicultural Education ",
+        "- The Globalization of World Politics (5th Ed.) ",
+        "- Historical and Philosophical Foundations of Education (5th Ed.)",
+        "- Other People’s Children: Cultural Conflict in the Classroom ",
+        "- Asia Pacific Education Review ",
+        "- Anthropology & Education Quarterly",
+        "- Teaching in Higher Education ",
+        "- Second International Handbook of Mathematics Education ",
+        "- The 13th International Commission on Mathematical Instruction",
+        "- Educational Studies in Mathematics",
+        "- The Education of Language Minority Immigrants in the United States ",
+        "- Harvard Educational Review ",
+        "- Journal of Language, Identity, and Education ",
+        "- Bilingual Education and Bilingualism ",
+        "- Teaching and Teacher Education ",
+        "- Educational Philosophy and Theory ",
+        "- Culturally Responsive Teaching: Theory, Research, and Practice"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1632,6 +1659,33 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "This class will use a Reader generally composed of journal articles and book chapters organized according to weekly topics. The journals and books include the following:",
+        "- Comparative Education",
+        "- Comparative Education Review",
+        "- Cultural Analysis",
+        "- International Handbook of Comparative Education ",
+        "- Handbook of Research on Multicultural Education",
+        "- The Routledge International Companion to Multicultural Education ",
+        "- The Globalization of World Politics (5th Ed.) ",
+        "- Historical and Philosophical Foundations of Education (5th Ed.)",
+        "- Other People’s Children: Cultural Conflict in the Classroom ",
+        "- Asia Pacific Education Review ",
+        "- Anthropology & Education Quarterly",
+        "- Teaching in Higher Education ",
+        "- Second International Handbook of Mathematics Education ",
+        "- The 13th International Commission on Mathematical Instruction",
+        "- Educational Studies in Mathematics",
+        "- The Education of Language Minority Immigrants in the United States ",
+        "- Harvard Educational Review ",
+        "- Journal of Language, Identity, and Education ",
+        "- Bilingual Education and Bilingualism ",
+        "- Teaching and Teacher Education ",
+        "- Educational Philosophy and Theory ",
+        "- Culturally Responsive Teaching: Theory, Research, and Practice"
+      ]
+    }
   }
 }

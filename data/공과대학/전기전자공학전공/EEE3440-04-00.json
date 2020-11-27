@@ -955,6 +955,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- \"Digital Communications\", Second Edition, by Bernard Sklar, Prentice Hall ",
+        "2001",
+        "- Lecture Notes",
+        "- Taewon Hwang et. al., \"OFDM and Its Wireless Appciations: A Survey,\" IEEE ",
+        "Transactions on Vehicular Technolgy, vol. 58, no. 4, May 2009"
+      ]
+    }
   }
 }

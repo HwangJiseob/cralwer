@@ -3997,7 +3997,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Cay Horstmann and Timothy Budd, Big C++, 2nd Edition, Wiley & Sons, 2009",
+        "Other materials on YSCEC"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -4199,6 +4205,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Absolute C++, 5th edition, by W. Savitch, Addison Wesley."
+      ]
+    }
   }
 }

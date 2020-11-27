@@ -451,6 +451,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "John Ravenhill,ed., Global Political Economy, 5th edition, Oxford: Oxford University 2017. (If you find and purchase a more recent edition, please use it.)"
+      ]
+    }
   }
 }

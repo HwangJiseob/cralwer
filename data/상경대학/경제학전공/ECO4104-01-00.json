@@ -1238,6 +1238,17 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "A. Spanos, Statistical Foundations of Econometric Modelling, Cambridge",
+        "H. White, Asymptotic Theory for Econometricians, Academic Press",
+        "J. Wooldridge, Introductory Econometrics: A Modern Approach, South-Western",
+        "W. Greene, Econometric Analysis, Prentice Hall.",
+        "C. Heij, P. Boer, P. Franses, T. Kloek, H. van Dijk, Econometric Methods with Applications in Business and Economics, Oxford",
+        "",
+        "While lectures cover the core material, it is still very important for a deeper understanding that students supplement the lecture material with their own reading. It is important to note, however, that the lecture notes do not follow any one set text."
+      ]
+    }
   }
 }

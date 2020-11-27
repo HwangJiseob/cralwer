@@ -7934,7 +7934,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "원가관리회계 : K-IFRS 반영/백태영 白太榮/신영사/2018 / 제6판"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -8836,7 +8841,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Managerial Accounting (by Garrison, Noreen, Brewer, Cheng, and Yuen), Second Edition, Asia Global Edition (McGrow-Hill)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -9836,7 +9846,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Managerial Accounting by Garrison-Noreen-Brewer-Cheng-Yuen, An Asian ",
+        "Perspective (McGrow-Hill)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -11004,6 +11020,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Managerial Accounting, 17th Edition, 2020, By Garrison, Noreen, Brewer"
+      ]
+    }
   }
 }

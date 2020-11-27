@@ -2559,7 +2559,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ The Bible: An Introduction, Second Edition/Jerry L. Sumney/Fortress Press/2014",
+        "\r○ 시내산과 시온 : 하버드대학 유대인 성서학자가 본 성서신학의 두 기둥/Levenson, Jon Douglas/대한기독교서회/2012"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3669,6 +3675,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ The Bible: An Introduction, Second Edition/Jerry L. Sumney/Fortress Press/2014",
+        "\r○ 시내산과 시온 : 하버드대학 유대인 성서학자가 본 성서신학의 두 기둥/Levenson, Jon Douglas/대한기독교서회/2012"
+      ]
+    }
   }
 }

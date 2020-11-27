@@ -2042,7 +2042,39 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Finite-dimensional linear algebra/Gockenbach, Mark S/CRC Press/2010",
+        "\r○ [주교재FDLA] Mark S. Gockenbach, Finite-Dimensional Linear Algebra, CRC press, ",
+        "May 06, 2010",
+        "1. Howard Anton & Robert Busby, 최신선형대수, 학술정보, 2004",
+        "2. Sterling K. Berberian, Linear Algebra, Oxford Science Publications, 1990",
+        "[Algebraic Approach]",
+        "3. Stephen H. Friedberg, Arnold J. Insel & Lawrence E. Spence, Linear Algebra, ",
+        "4Ed., Prentice Hall, 2003[Mathematical Approach] ",
+        "4. Jimmie Gilbert and Linda Gilbert, Linear Algebra and Matrix Theory,2nd Ed., ",
+        "Thomson 2004 [Math Approach]",
+        "5. Kenneth Hoffman and Ray Kunze, Linear Algebra, Prentice-Hall, Englewood ",
+        "Cliffs, NJ,  2nd ed.,1971 ISBN 978-0-13-536797-1, [Mathematical Approach] ",
+        "6. Steven J. Leon, Linear Algebra with Applications, 8th ed., Pearson Prentice-",
+        "Hall, 2010[Numerical Version]",
+        "7. Seymour Lipschutz and  Marc Lipson,  Schaum`s Outline of Theory and ",
+        "Problems of Linear Algebra,  5th Edition(Schaum`s Outline Series), McGraw-Hill ",
+        "Companies, 2008, [Solved Problems Series] ",
+        "8.Martin Moskowitz and Fotios Paliogiannis, Functions ofSeveral real ",
+        "variables, World Scientific, 2011",
+        "9.John Srdjan Petrovic, Advanced Calculus Theory and Practice, CRC Press, 2014",
+        "10. Edoardo Sernesi, Linear Algebra, Chapman & Hall, London, 1993[Geometric ",
+        "Approach]",
+        "11. Ian Stewart, Cabinet of mathematical Curiosities (호기심 케비닛, 한티미디",
+        "어, 2012.12), Profile Books, 2008",
+        "12. Gilbert Strang, Introduction to Linear Algebra, 4th edition. Wellesley-",
+        "Cambridge Press and SIAM , 2009",
+        "13. Treil, Sergei, Linear Algebra Done Wrong , Brown University, online ",
+        "(http://www.math.brown.edu/~treil/papers/LADW/LADW.html)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2622,6 +2654,38 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Finite-dimensional linear algebra/Gockenbach, Mark S/CRC Press/2010",
+        "\r○ [주교재FDLA] Mark S. Gockenbach, Finite-Dimensional Linear Algebra, CRC press, ",
+        "May 06, 2010",
+        "1. Howard Anton & Robert Busby, 최신선형대수, 학술정보, 2004",
+        "2. Sterling K. Berberian, Linear Algebra, Oxford Science Publications, 1990",
+        "[Algebraic Approach]",
+        "3. Stephen H. Friedberg, Arnold J. Insel & Lawrence E. Spence, Linear Algebra, ",
+        "4Ed., Prentice Hall, 2003[Mathematical Approach] ",
+        "4. Jimmie Gilbert and Linda Gilbert, Linear Algebra and Matrix Theory,2nd Ed., ",
+        "Thomson 2004 [Math Approach]",
+        "5. Kenneth Hoffman and Ray Kunze, Linear Algebra, Prentice-Hall, Englewood ",
+        "Cliffs, NJ,  2nd ed.,1971 ISBN 978-0-13-536797-1, [Mathematical Approach] ",
+        "6. Steven J. Leon, Linear Algebra with Applications, 8th ed., Pearson Prentice-",
+        "Hall, 2010[Numerical Version]",
+        "7. Seymour Lipschutz and  Marc Lipson,  Schaum`s Outline of Theory and ",
+        "Problems of Linear Algebra,  5th Edition(Schaum`s Outline Series), McGraw-Hill ",
+        "Companies, 2008, [Solved Problems Series] ",
+        "8.Martin Moskowitz and Fotios Paliogiannis, Functions ofSeveral real ",
+        "variables, World Scientific, 2011",
+        "9.John Srdjan Petrovic, Advanced Calculus Theory and Practice, CRC Press, 2014",
+        "10. Edoardo Sernesi, Linear Algebra, Chapman & Hall, London, 1993[Geometric ",
+        "Approach]",
+        "11. Ian Stewart, Cabinet of mathematical Curiosities (호기심 케비닛, 한티미디",
+        "어, 2012.12), Profile Books, 2008",
+        "12. Gilbert Strang, Introduction to Linear Algebra, 4th edition. Wellesley-",
+        "Cambridge Press and SIAM , 2009",
+        "13. Treil, Sergei, Linear Algebra Done Wrong , Brown University, online ",
+        "(http://www.math.brown.edu/~treil/papers/LADW/LADW.html)"
+      ]
+    }
   }
 }

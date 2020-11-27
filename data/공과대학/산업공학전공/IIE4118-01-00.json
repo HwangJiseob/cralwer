@@ -687,6 +687,20 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: Product Design and Development, 6th Edition, Ulrich & Eppinger, McGraw-Hill Education, 2015",
+        "           제품 개발 프로세스 신제품 개발을 위한 시스템적 접근법,  홍유석 , 강창묵 , 곽민정 옮김 | McGraw Hill Education | 2017년 01월 06일 출간",
+        "참고교재는 아래와같으나 꼭 구입하실필요는 없습니다.",
+        "Harvard Business Review Articles",
+        "디자인씽킹, 로저마틴 (이건식), 웅진윙스",
+        "아트컴퍼니;경영을 디자인하는 창조기업, 곤노 노보루, 이콘",
+        "창조적혁신전략 디자이노베이션, 로베르토베르간티, 한스미디어",
+        "심플은 정답이 아니다, 도널드 노먼, 교보문고",
+        "Frugal Innovation, Navi Radjou and Jaideep Prabhu",
+        "Reverse Innovation, Gvindarajan Trimble"
+      ]
+    }
   }
 }

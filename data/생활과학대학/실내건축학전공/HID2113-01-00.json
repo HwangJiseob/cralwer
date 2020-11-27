@@ -1376,7 +1376,22 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "“근대건축의 공간 분석”<거장의 작품에서 살펴본 양식과 표현> _ 기문당",
+        "D.K. Ching \"Form, Space and Order\"",
+        "\"Mies van der Rohe의 건축세계 volume Ⅰ,Ⅱ\"",
+        "Anthony Ames \"Five Houses\"",
+        "\"Five Architects\"-Eisenman, Graves, Gwathmey, Hejduk, Meier",
+        "“건축계획” _문운당",
+        "",
+        "\r○ 르코르뷔지에, 작은집,  이관석 역, 열화당, 2012\r",
+        "미미제이거, 작은집 디자인도감, 김예원 역, 보누스, 2009\r",
+        "하기와라 유리+9평하우스 오너클럽, 9평하우스, 김은진 역, 다빈치, 2006\r",
+        "나카무라 요시후미, 집을 순례하다,  황용운, 김종하 역, 사이, 2000"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1632,6 +1647,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "“근대건축의 공간 분석”<거장의 작품에서 살펴본 양식과 표현> _ 기문당",
+        "D.K. Ching \"Form, Space and Order\"",
+        "\"Mies van der Rohe의 건축세계 volume Ⅰ,Ⅱ\"",
+        "Anthony Ames \"Five Houses\"",
+        "\"Five Architects\"-Eisenman, Graves, Gwathmey, Hejduk, Meier",
+        "“건축계획” _문운당"
+      ]
+    }
   }
 }

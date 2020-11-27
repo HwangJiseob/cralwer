@@ -5591,7 +5591,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- Text Book: Timmerhaus, e. d., \"Plant Design and Economics for Chemical Engineers\", 5th Ed., McGraw Hill Book CO., New York (2002)",
+        "- 참고 문헌: Aspen HISYS Book"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -7402,6 +7408,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- Text Book: Timmerhaus, e. d., \"Plant Design and Economics for Chemical Engineers\", 5th Ed., McGraw Hill Book CO., New York (2002)",
+        "- 참고 문헌: Aspen HYSYS Book"
+      ]
+    }
   }
 }

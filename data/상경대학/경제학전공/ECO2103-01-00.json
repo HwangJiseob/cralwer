@@ -4344,7 +4344,17 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. 와이섹(YSCEC)에 강의안 올림. 자세한 문헌 소개는 수업시간에 함",
+        "2. 송병건, [제2판 경제사], 해남.",
+        "   카메론 & 닐, 이헌대(역), [간결한 세계경제사], 4판(이후), 범문사(Cameron & Neal, A Concise Economic History of the World, 4th ed., Oxford Univ. Press).",
+        "   서정익, [세계경제사], 혜안.",
+        "   김종현, [경제사], 경문사.",
+        "   칼 군나르 페르손, [유럽경제사 : 지식.제도.성장.600~현재], 해남, 2016(Karl Gunnar Persson, An Economic History of Europe, Cambridge univ Press)."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -5482,6 +5492,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. 와이섹(YSCEC)에 강의안 올림. 자세한 문헌 소개는 수업시간에 함",
+        "2. 송병건, [제2판 경제사], 해남.",
+        "   카메론 & 닐, 이헌대(역), [간결한 세계경제사], 4판(이후), 범문사(Cameron & Neal, A Concise Economic History of the World, 4th ed., Oxford Univ. Press).",
+        "   서정익, [세계경제사], 혜안.",
+        "   김종현, [경제사], 경문사.",
+        "   칼 군나르 페르손, [유럽경제사 : 지식.제도.성장.600~현재], 해남, 2016(Karl Gunnar Persson, An Economic History of Europe, Cambridge univ Press)."
+      ]
+    }
   }
 }

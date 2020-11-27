@@ -1,0 +1,46 @@
+{
+  "20191": {
+    "LECT_DATA": {
+      "학정번호-분반-실습": "GLC1001-01-00",
+      "과목명": "GLC영어1"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "International Express Elementary"
+      ]
+    }
+  },
+  "20192": {
+    "LECT_DATA": {
+      "학정번호": "GLC1001-01-00",
+      "과목명": "GLC영어1"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "International Express Elementary"
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "GLC1001-01-00",
+      "과목명": "GLC영어1"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "International Express Elementary"
+      ]
+    }
+  },
+  "20202": {
+    "LECT_DATA": {
+      "학정번호": "GLC1001-01-00",
+      "과목명": "GLC영어1"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "International Express Elementary"
+      ]
+    }
+  }
+}

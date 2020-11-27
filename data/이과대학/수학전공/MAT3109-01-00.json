@@ -2553,7 +2553,25 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "[Prescribed Textbook] [SLAA] Stephen Lovett, Abstract Algebra: Structures and Applications, Chapman and Hall/CRC, 2015 ",
+        " [참고문헌]",
+        "1. P.B. Bhattacharya, S.K. Jain, S.R. Nagpaul, Basic Abstract Algebra, 2nd Ed., Cambridge University Press, 1994",
+        "2. David S. Dummit, Richard M. Foote, Abstract Algebra, 3rd Ed., Prentice-Hall,2004 [Excellent 대수학]",
+        "3. David Eisenbud, Commutative Algebra with a View Toward Algebraic Geometry, Springer-Verlag, NY, 1999 the AMS's  Leroy P. Steele Prize for Exposition in 2010. (1996 초판) [가환대수와 대수기하]",
+        "4. Ioannis Farmakis and Martin Moskowitz, A Graduate Course in Algebra (In 2 Volumes),world scientific publishing co., 2017 [대수학]",
+        "5. John Fraleigh, A First Course in Abstract Algebra, 4th Ed., Addison-Wesley Publishing Company, 1989 [현대대수] 현대대수학 (천 장호 역) 대영사 1991 ",
+        "6. Joseph A. Gallian, Contemporary Abstract Algebra, 7th ed., Brooks/Cole, Cengage Learning, 2010 [Pleasant Introduction] ",
+        "7. Mark S. Gockenbach, Finite-Dimensional Linear Algebra, CRC press, 2010 ",
+        "8. Thomas W. Judson, Abstract Algebra, GNU Free Documentation License 2010, http://abstract.ups.edu/download/aata-20100827.pdf",
+        "9. Aigli Papantonopoulou, Algebra : pure & applied, Prentice Hall, 2002 ",
+        "10. Louis Rowen, Algebra: Groups, Rings, and Fields, A Ｋ Peters, 1994 ",
+        "11. Ian Stewart, Galois Theory, 2nd edition, Chapman and Hall, 1989. ",
+        "12. WIKIBOOKS, Abstract Algebra, Wiki Textbook, 2017,  http://en.wikibooks.org/wiki/Abstract_Algebra"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2810,6 +2828,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Algebra/Hungerford, Thomas W/Springer/2003 / Corr. 12th print",
+        "\r○ Basic abstract algebra/Bhattacharya, P. B. (Phani Bhushan)/Cambridge University Press/2008 / 2nd ed., international ed",
+        "\r○ Abstract algebra/Dummit, David Steven/John Wiley & Sons/2004 / 3rd ed"
+      ]
+    }
   }
 }

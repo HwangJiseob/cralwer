@@ -2980,7 +2980,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "참고문헌1:CreativeEngineering(BulkBook&Materials)",
+        "참고문헌2:AxiomaticDesign(oxford),CreativeDesignMethod(LMP)",
+        "참고문헌3:PrinciplesofMarketing(PrenticeHall,2004)",
+        "참고문헌4:AdvertisingandIntegratedBrandPromotion(Thomson,2003)",
+        "참고문헌5:Separating the Winners from the Losers: Conducting an Effective ",
+        "Market Analysis for your University`s Inventions"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -3432,7 +3442,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "참고문헌1:CreativeEngineering(BulkBook&Materials)",
+        "참고문헌2:AxiomaticDesign(oxford),CreativeDesignMethod(LMP)",
+        "참고문헌3:PrinciplesofMarketing(PrenticeHall,2004)",
+        "참고문헌4:AdvertisingandIntegratedBrandPromotion(Thomson,2003)",
+        "참고문헌5:Separating the Winners from the Losers: Conducting an Effective ",
+        "Market Analysis for your University`s Inventions"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3857,7 +3877,17 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "참고문헌1:CreativeEngineering(BulkBook&Materials)",
+        "참고문헌2:AxiomaticDesign(oxford),CreativeDesignMethod(LMP)",
+        "참고문헌3:PrinciplesofMarketing(PrenticeHall,2004)",
+        "참고문헌4:AdvertisingandIntegratedBrandPromotion(Thomson,2003)",
+        "참고문헌5:Separating the Winners from the Losers: Conducting an Effective ",
+        "Market Analysis for your University`s Inventions"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -4296,6 +4326,16 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "참고문헌1:CreativeEngineering(BulkBook&Materials)",
+        "참고문헌2:AxiomaticDesign(oxford),CreativeDesignMethod(LMP)",
+        "참고문헌3:PrinciplesofMarketing(PrenticeHall,2004)",
+        "참고문헌4:AdvertisingandIntegratedBrandPromotion(Thomson,2003)",
+        "참고문헌5:Separating the Winners from the Losers: Conducting an Effective ",
+        "Market Analysis for your University`s Inventions"
+      ]
+    }
   }
 }

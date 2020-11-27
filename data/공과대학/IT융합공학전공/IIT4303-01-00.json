@@ -695,7 +695,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Introduction to microelectronic fabrication (Second edition)",
+        "",
+        "Richard C. Jaeger"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -827,6 +834,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Introduction to Microelectronic Fabrication by Richard C. Jaeger, Auburn University, Pearson Education Inc."
+      ]
+    }
   }
 }

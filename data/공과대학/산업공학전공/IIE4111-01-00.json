@@ -3423,7 +3423,21 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재",
+        " - Trading on the Edge (Wiley)",
+        "   edited by Guido J. Deboeck [DEB]",
+        "",
+        "보조교재",
+        " - (Korean Reference) 데이터마이닝 (신택수 외 1인 공역, 사이텍미디어)",
+        " - Principles of Managerial Finance, Brief Edition (Pearson)",
+        "   by R.J. Gitman",
+        " - Neural Networks in Finance and Investing (Irwin)",
+        "   edited by R.R. Trippi and E. Turban"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -4478,6 +4492,20 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재",
+        " - Trading on the Edge (Wiley)",
+        "   edited by Guido J. Deboeck [DEB]",
+        "",
+        "주교재",
+        " - (Korean Reference) 데이터마이닝 (신택수 외 1인 공역, 사이텍미디어)",
+        " - Principles of Managerial Finance, Brief Edition (Pearson)",
+        "   by R.J. Gitman",
+        " - Neural Networks in Finance and Investing (Irwin)",
+        "   edited by R.R. Trippi and E. Turban"
+      ]
+    }
   }
 }

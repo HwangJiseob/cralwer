@@ -928,7 +928,22 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "유네스코 세계유산센터, ICOMOS, 문화재청, 유네스코한국위원회 등 관련 아카이브 참조",
+        "http://whc.unesco.org",
+        "http://www/icomos.org",
+        "http://www.cha.go.kr",
+        "http://www.unesco.or.kr",
+        "문화재연감",
+        "역사도시 투어리즘, 눌와.",
+        "기본교재--<새천년 세계유산보호> 국영문, 유네스코한국위원회 홈페이지.pdf.",
+        "            --세계유산협약; 실무지침",
+        "            --유네스코 World Heritage Papers 시리즈",
+        "            --<세계유산:새천년을 향한 도전> 국영문, 유네스코한국위원회 홈패이지 pdf"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1563,6 +1578,25 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "김경민, 『그들은 왜 문화재를 돌려주지 않는가』 (을유문화사, 2019).",
+        "김경민, 「제국주의와 고고학: 19세기 영국을 중심으로」 (연세대학교 석사학위논문, 2008)",
+        "마르코 카타네오·자스미나 트리포니, 김충선 역, 『유네스코 세계문화유산』 (글램북스, 2014).",
+        "마르코 카타네오·자스미나 트리포니, 이은정 역, 『유네스코 세계고대문명』 (글램북스, 2014).",
+        "설혜심, 『그랜드투어』 (웅진지식하우스, 2013).",
+        "에일린 올바슬리, 도서모임 책술 역, 『역사도시 투어리즘』 (눌와, 2012).",
+        "이보아, 『루브르는 프랑스 박물관인가』 (민연, 2002).",
+        "정희라, 「영국의 내셔널트스트: 역사와 ‘영국성’」, 『역사와 문화』, 21호 (2011), pp. 177-203.",
+        "주경철, 『도시여행자를 위한 파리x역사』 (휴머니스트, 2019).",
+        "David Harrison and Michael Hitchcock (eds.), The Politics of World Heritage: Negotiating Tourism and Conservation (Channel View Publications, 2005).",
+        "Howard Newby, The National Trust: the Next Hundred Years (National Trust, 1995).",
+        "Dallen J. Timothy and Gyan P. Nyaupane (eds.), Cultural Heritage and Tourism in the Developing World: A Regional Perspective (Routledge, 2009).",
+        "Merlin Waterson, The National Trust: the First Hundred Years (National Trust, 1994).",
+        "Paula Weideger, Gilding the Acorn: Behind the Facade of the National Trust (Simon & Schuster, 1994).",
+        "그 외 관련 서적 및 논문"
+      ]
+    }
   }
 }

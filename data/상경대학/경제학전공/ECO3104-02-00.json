@@ -4714,7 +4714,17 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "사전에 배포되는 강의자료를 중심으로 진행하며, 다음 교재는 보완용임.  ",
+        "",
+        "Maddala, G.S. and K. Lahiri (2009), Introduction to Econometrics, 4th ed., ",
+        "Wiley, New York.",
+        "",
+        "J.M. Wooldridge (2013), Introductory Econometrics, 5th ed., Sengage Learning."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -6076,7 +6086,17 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "사전에 배포되는 강의자료를 중심으로 진행하며, 다음 교재는 보완용임.  ",
+        "",
+        "Maddala, G.S. and K. Lahiri (2009), Introduction to Econometrics, 4th ed., ",
+        "Wiley, New York.",
+        "",
+        "J.M. Wooldridge (2013), Introductory Econometrics, 5th ed., Sengage Learning."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -7060,7 +7080,17 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "사전에 배포되는 강의자료를 중심으로 진행하며, 다음 교재는 보완용임.  ",
+        "",
+        "Maddala, G.S. and K. Lahiri (2009), Introduction to Econometrics, 4th ed., ",
+        "Wiley, New York.",
+        "",
+        "J.M. Wooldridge (2013), Introductory Econometrics, 5th ed., Sengage Learning."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -8548,6 +8578,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Jeffrey Wooldridge, Introductory Econometrics: A Modern Approach, 5th Edition, Cengate Learning ",
+        "For Korean students: [번역본] 계량 경제학 I  박영수 한치록 옮김. 박영사."
+      ]
+    }
   }
 }

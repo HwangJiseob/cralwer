@@ -2673,7 +2673,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Textbook: Inorganic Chemistry, Fifth Ed.",
+        "G.L.Miessler, P.J. Fischerl and D.A.Tarr, Pearson, 2014."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3196,6 +3202,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Miessler, Fischer, Tarr의 \"Inorganic chemistry\" 5th Ed. Pearson"
+      ]
+    }
   }
 }

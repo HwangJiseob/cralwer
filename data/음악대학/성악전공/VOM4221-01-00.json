@@ -612,7 +612,28 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Die Zauberflote (마술피리: Wolfgang Amadeus Mozart) - Baerenreiter",
+        "",
+        " Il matrimonio segreto (비밀결혼: Domenico Cimarosa) - Ricordi",
+        "",
+        "Il Barbiere di Siviglia (세빌리아의이발사: Gioacchino Rossini) - Ricordi",
+        "",
+        "Der Freischutz (마탄의사수: Carl Maria von Weber) - Baerenreiter",
+        "",
+        "Norma (노르마: Vincenzo Bellini) - Ricordi",
+        "",
+        "Don Pasquale (돈 파스콸레: Gaetano Donizetti) - Ricordi",
+        "",
+        "1867 Don Carlos (돈 카를로: Giuseppe Verdi) - Ricordi",
+        "",
+        "1890 Cavalleria rusticana (카발레리아루스티카나: Pietro Mascagni) - sonzogno",
+        "",
+        "1896 La boheme (라보엠: Giacomo Puccini)- Ricordi"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -868,6 +889,29 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Cosi fan tutte (코지 판 투테 (1790): W. A. Mozart) - Barenreiter",
+        "- Sento, o Dio (p.46 ~ 58)",
+        "- Ah, che tutta in un momento  (p.170 ~ 175 첫 박자까지)",
+        "* Fiordiligi, Dorabella, Guglielmo, Ferrando, Don Alfonso.",
+        "",
+        "Le nozze di Figaro (피가로의 결혼 (1786): W. A. Mozart) - Barenreiter",
+        "- Cinque... dieci... (p.11 ~ 19)",
+        "- sull’aria... (p.379 ~ 384 첫 박자까지)",
+        "* La Contessa, Susanna, Figaro.",
+        "",
+        "Don Giovanni (돈 조반니 (1787): W. A. Mozart) - Barenreiter ",
+        "- Non sperar, se non m’uccidi, (p.16 두 번째 단부터 ~ 26 세 번째 단까지)",
+        "- La ci darem la mano (p.100 두 번째 단부터 ~ 105)",
+        "* Donna Anna, Don Giovanni, Zerlina, Il Commendatore.",
+        "",
+        "Die Zauberflote (마술피리 (1791): W. A. Mozart) - Barenreiter ",
+        "- Bei Mannern, welche Liebe fuhlen (p.61 ~ 65 첫 번째 단까지)",
+        "- Soll ich dich, Teurer, nicht mehr sehn? (p.147 ~ 152)",
+        "* Pamina, Tamino, Papageno, Sarastro."
+      ]
+    }
   }
 }

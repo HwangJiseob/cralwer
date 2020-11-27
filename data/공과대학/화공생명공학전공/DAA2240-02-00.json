@@ -311,6 +311,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "G.D. Christian, P.K. Dasgupta, K.A.Schug, Analytical Chemistry, Wiley, 7th ed. ",
+        "",
+        "영문판이 절판되어, \"분석화학\" 번역본으로 진행하고자 합니다."
+      ]
+    }
   }
 }

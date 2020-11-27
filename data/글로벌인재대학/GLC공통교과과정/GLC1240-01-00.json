@@ -47,6 +47,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Aldwin, C. M.(2015). 스트레스, 대처, 그리고 발달 [Stress, Coping, and Development]. (양재원·유현경·정유진 역). 시그마프레스.",
+        "2. 김금순, 곽금주, 김성재, 임난영, 임숙빈(2009). 스트레스와 긴장 다스리기. 아카데미아.",
+        "3. Bush, K., Price, C., & Price, S.(2017). Families and change: Coping with stressful events and transition(5th Edition). SAGE Publications.",
+        "4. Shrand, J. & Devine, L.(2013). 스트레스 사용설명서: 더 행복한 나를 위한 하버드 의대 스트레스 솔루션 [Manage your stress]. (김한규·김무겸 역). 중앙북스."
+      ]
+    }
   }
 }

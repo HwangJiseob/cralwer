@@ -330,7 +330,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20182": {
     "LECT_DATA": {
@@ -341,6 +346,42 @@
       "교재 및 참고문헌": [
         "○ How to read a film : movies, media, and beyond : art, technologly, language, history, theory/Monaco, James/Oxford University Press/2009 / 4th ed., completely rev. and expanded",
         "\r○ Writing about movies/Gocsik, Karen M/W.W. Norton & Company/2016 / 4th ed"
+      ]
+    }
+  },
+  "20191": {
+    "LECT_DATA": {
+      "학정번호": "UIC1101-08-00",
+      "과목명": "FRESHMAN WRITING INTENSIVE SEMINAR"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
+  },
+  "20192": {
+    "LECT_DATA": {
+      "학정번호": "UIC1101-08-00",
+      "과목명": "FRESHMAN WRITING INTENSIVE SEMINAR"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Students are required to buy one book for this course: - Gerald Graff and \r",
+        "Cathy Birkenstein’s They Say, I Say: The Moves that Matter in Academic \r",
+        "Writing (second or later edition) All other readings will be uploaded to \r",
+        "YSCEC."
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "UIC1101-08-00",
+      "과목명": "FRESHMAN WRITING INTENSIVE SEMINAR"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "All reading materials will be available as a course packet, with supplementary readings uploaded to YSCEC. Students are encouraged to check YSCEC regularly for notices and reading materials. When reading the texts, students must look up unfamiliar words before coming to class (make a note in the margins or in your notebook)."
       ]
     }
   }

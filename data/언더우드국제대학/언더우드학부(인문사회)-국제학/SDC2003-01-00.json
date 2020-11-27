@@ -190,6 +190,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Choi, Hyeonjung and Kim, Sang-Hyup. 2013. Green Growth for a Greater Korea: White Book on Korean Green Growth Policy. Seoul: Korean Environment Institute. ",
+        "",
+        "Kang, Sung Jin and Kang, Sang In, eds. 2011. Green Growth: Global Cooperation. Seoul: National Research Council for Economics, Humanities and Social Sciences.",
+        "",
+        "※ Free e-books are available at YSCEC dedicated to this course."
+      ]
+    }
   }
 }

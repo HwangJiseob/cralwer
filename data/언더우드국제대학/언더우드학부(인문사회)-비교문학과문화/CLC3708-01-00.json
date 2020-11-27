@@ -470,6 +470,27 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Beardsley, Aubrey. Best Works of Aubrey Beardsley. New York: Dover ",
+        "Publications, 1990.",
+        "Blake, William and David Bindman. William Blake: The Complete Illuminated ",
+        "Books. London: Thames & Hudson, 2001. ",
+        "Collier, Mark, and Bill Manley. How to Read Egyptian Hieroglyphs: A Step-by-",
+        "Step Guide to Teach Yourself, Revised Edition. Berkeley: University of ",
+        "California Press, 2003. ",
+        "Eisenhart, Willy. The World of Donald Evans. New York: Abbeville Press, 1994. ",
+        "Koch, Kenneth. The Art of the Possible!: Comics Mainly Without Pictures. New ",
+        "York: Soft Skull Press, 2004.",
+        "McCloud, Scott. Understanding Comics. New York: William Morrow Paperbacks, ",
+        "1994.",
+        "Meehan, Bernard. The Book of Kells. London: Thames & Hudson, 1995. ",
+        "Montgomery, John. Dictionary of Maya Hieroglyphs. New York: Hippocrene Books, ",
+        "2002. ",
+        "Von Dassow, Eva and Raymond Faulkner. The Egyptian Book of the Dead. San ",
+        "Francisco: Chronicle Books, 2008."
+      ]
+    }
   }
 }

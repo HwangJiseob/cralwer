@@ -1552,7 +1552,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1920,6 +1925,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- Spence, Robert. Information Visualization. 3rd Ed. 2014.(주교재)",
+        "- Tufte, Edward R. The visual display of quantitative information. 2nd Ed. 2001.",
+        "- Ware, Colin. Information Visualization. 3rd Ed. 2012.",
+        "- 도나 M. 웡. 월스트리트저널 인포그래픽 가이드.  2014."
+      ]
+    }
   }
 }

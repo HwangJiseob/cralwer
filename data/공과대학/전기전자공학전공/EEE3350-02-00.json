@@ -4362,7 +4362,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Power Electronics by Daniel W. Hart, Published by McGraw-Hill \r",
+        "Science/Engineering/Math; 1 Edition (January 22, 2010) ISBN-10: 0073380679, \r",
+        "ISBN-13: 978-0073380674"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -4438,6 +4445,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(주교재) Textbook: Power Electronics (McGRAW/HILL International edition) ",
+        "edited by Daniel W. Hart",
+        "",
+        "(부교재) Handouts & Class notes (open to YSCEC on-line)",
+        "http://yscec.yonsei.ac.kr/"
+      ]
+    }
   }
 }

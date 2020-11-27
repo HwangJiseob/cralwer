@@ -4408,7 +4408,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 :  ",
+        "  Elain N. Marieb & Katja Hoehn, 2019, Human Anatomy and Physiology (Global Edition) (11th Ed.) Pearson.",
+        "  유지수 외 역 (Scanlon, V. C.) 2012, 필수 해부생리학 (개정6판), 영문출판사.",
+        "",
+        "부교재 : ",
+        "  유지수 외 역 (Scanlon, V. C.) 2012, 필수 해부생리학 문제해설집 (개정6판): 영문출판사.",
+        "  박미정 외 역 (Saladin, K.) 2017, 인체 구조와 기능 (개정 7판): 수문사.",
+        "",
+        "On-line 학습: E-Anatomy, http://www.e-anatomy.or.kr/main.asp"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -5698,6 +5711,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 :  ",
+        "  Elain N. Marieb & Katja Hoehn, 2019, Human Anatomy and Physiology (Global Edition) (11th Ed.) Pearson.",
+        "  유지수 외 역 (Scanlon, V. C.) 2012, 필수 해부생리학 (개정6판), 영문출판사.",
+        "",
+        "부교재 : ",
+        "  유지수 외 역 (Scanlon, V. C.) 2012, 필수 해부생리학 문제해설집 (개정6판): 영문출판사.",
+        "  박미정 외 역 (Saladin, K.) 2017, 인체 구조와 기능 (개정 7판): 수문사.",
+        "",
+        "On-line 학습: E-Anatomy, http://www.e-anatomy.or.kr/main.asp"
+      ]
+    }
   }
 }

@@ -5135,7 +5135,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Microelectronics 2nd edition, International Student Version, Behzad Razavi, Wiley"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -5658,7 +5663,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Fundamental of Microelectronics, Razavi (주교재)",
+        "전자회로 특론,조규형,홍릉과학출판사 (부교재)",
+        "Design of CMOS Analog Integrated Cicuit, Razavi(참고도서)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -6306,7 +6318,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -8090,6 +8107,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Microelectronics/Razavi, Behzad/Wiley/2015 / 2nd ed., international student version",
+        "\r○ Microelectronic circuits/Sedra, Adel S/Oxford University Press/2011 / International 6th ed"
+      ]
+    }
   }
 }

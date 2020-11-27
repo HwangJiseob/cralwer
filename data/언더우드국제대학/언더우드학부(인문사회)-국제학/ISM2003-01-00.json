@@ -3099,7 +3099,14 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Stephen McGlincey, Rosie Walters, Christian Scheinpflug. International Relations Theory.",
+        "",
+        "available online: http://www.e-ir.info/publications/"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -3273,7 +3280,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Stephen McGlincey, Rosie Walters, Christian Scheinpflug. International Relations Theory.",
+        "",
+        "available online: http://www.e-ir.info/publications/"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3657,7 +3671,14 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Dunne, Kurki, and Smith, International Relations Theories 2nd ed.",
+        "* No textbook is perfect, and some chapters may be more controversial than others, but this book deals very well with our three main theories. These readings will be supplemented with articles that will be posted on YSCEC.",
+        "* Students are not expected buy the textbook, and at least one copy will be available in the Course Reserve section on the second floor of the Central Library."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3762,6 +3783,14 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Dunne, Kurki, and Smith, International Relations Theories 2nd ed.",
+        "* No textbook is perfect, and some chapters may be more controversial than others, but this book deals very well with our three main theories. These readings will be supplemented with articles that will be posted on YSCEC.",
+        "* Students are not expected buy the textbook, and at least one copy will be available in the Course Reserve section on the second floor of the Central Library.",
+        "* Other readings will be posted online."
+      ]
+    }
   }
 }

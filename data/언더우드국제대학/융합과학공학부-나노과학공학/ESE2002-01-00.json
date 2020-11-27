@@ -632,7 +632,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Text: Atkins' Physical chemistry/Atkins, P. W. (Peter William)/Oxford University Press/2014 / 10th ed",
+        "",
+        "Reference: Physical chemistry/ Thomas Engel, Phili Reid/Wiley/2013 / 3rd ed."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -745,6 +752,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Text: Atkins' Physical chemistry/Atkins, P. W. (Peter William)/Oxford University Press/2014 / 10th ed or 11th ed",
+        "",
+        "Reference: Physical chemistry/ Thomas Engel, Phili Reid/Wiley/2013 / 3rd ed."
+      ]
+    }
   }
 }

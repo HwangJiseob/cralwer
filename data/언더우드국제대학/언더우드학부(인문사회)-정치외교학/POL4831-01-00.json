@@ -1364,6 +1364,16 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Yongho Kim, Social Media and South Korean National Security (McFarland, 2017);",
+        "Matthew Baum, Soft News Goes to War: Public Opinion and American Foreign Policy in the New Media Age (Princeton University Press, 2003);",
+        "Matthew A. Baum & Tim J. Groeling, War Stories: The Causes and Consequences of Public Views of War (Pinceton University Press, 2010); ",
+        "Robert M. Entman, Projection of Power: Framing News, Public Opinion and U.S. Foreign Policy (University of Chicago Press, 2004).",
+        "Pippa Norris, Virtuous Circle: Political Communications in Postindustrial Societies (Cambridge, 2000).",
+        "Patrick O'Heffernan, Mass Media and American Foreign Policy (Ablex 1991)."
+      ]
+    }
   }
 }

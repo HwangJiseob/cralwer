@@ -1356,6 +1356,22 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "인지 발달에 대한 논문  및 아래 저서의 일부 챕터",
+        "",
+        "Woodward, A. L. (1998). Infants selectively encode the goal object of an actor's reach. Cognition, 69(1), 1-34.",
+        "- Google Scholar에서 원문검색 가능",
+        "",
+        "Harris, P. L. (2012). Trusting what you're told: How children learn from others. Harvard University Press.",
+        "-연세대학교 학술정보원에서 E-book으로 접근가능합니다.",
+        "",
+        "http://ebookcentral.proquest.com.ssl.access.yonsei.ac.kr:8080/lib/yonsei/detail.action?docID=3301258",
+        "",
+        "",
+        "NOTE: Topics and reading assignments are subject to change."
+      ]
+    }
   }
 }

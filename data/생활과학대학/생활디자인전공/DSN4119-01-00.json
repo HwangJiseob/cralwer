@@ -1180,7 +1180,18 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 비주얼 머천다이징/이지현/교문사/2013",
+        "\r○ 김희수, 비주얼 머천다이징 & 디스플레이 디자인 : 고객을 끌어들이는 마케팅 디자인, 살림출판사, 2012",
+        "김윤미, VMD 비주얼머천다이징 : 패션 비즈니스를 위한 실전 가이드, 미래의창, 2016",
+        "이기열,김현정, 패션상품과 비주얼 머천다이징, 수학사, 2016",
+        "J.Bell & K. Ternus, SilentSelling, FairchildPublication,Inc., 2017",
+        "T. Morgan, Merchandising : Windows and Instore Displays for Retail, Laurence King, 2016",
+        "Store Windows, Stores of the Year, 기타 패션/인테리어 잡지, 관련 검색 이미지자료"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1661,6 +1672,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 비주얼 머천다이징/이지현/교문사/2013",
+        "\r○ 김희수, 비주얼 머천다이징 & 디스플레이 디자인 : 고객을 끌어들이는 마케팅 디자인, 살림출판사, 2012",
+        "김윤미, VMD 비주얼머천다이징 : 패션 비즈니스를 위한 실전 가이드, 미래의창, 2016",
+        "이기열,김현정, 패션상품과 비주얼 머천다이징, 수학사, 2016",
+        "J.Bell & K. Ternus, SilentSelling, FairchildPublication,Inc., 2017",
+        "T. Morgan, Merchandising : Windows and Instore Displays for Retail, Laurence King, 2016",
+        "Store Windows, Stores of the Year, 기타 패션/인테리어 잡지, 관련 검색 이미지자료"
+      ]
+    }
   }
 }

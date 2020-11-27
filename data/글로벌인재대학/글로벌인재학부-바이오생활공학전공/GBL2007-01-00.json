@@ -185,6 +185,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "YSCEC에 제공되는 강의 자료",
+        "참고 문헌: 레이먼드 창의 일반화학",
+        "               Chemisty: Central Science (Brown)"
+      ]
+    }
   }
 }

@@ -941,7 +941,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "● 주교재: 정신보건사회복지 총론/유수현 외/신정/2018 /3판",
+        "● 부교재",
+        " - 정신의학의 탄생 : 광기를 합리로 바꾼 정신의학사의 결정적 순간/하지현/해냄/2016",
+        " - 정신병을 만드는 사람들 : 한 정신 의학자의 정신병 산업에  대한 경고/앨런 프랜시스/사이언스북스/2014",
+        " - 정신질환의 진단 및 통계 편람 : DSM-5/권준수/학지사/2015",
+        " - Mental health in social work : a casebook on diagnosis and strengths-based assessment/Corcoran,  &  Jacqueline /Pearson Education/2015 / 2nd ed., DSM-5 update"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1478,6 +1488,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 정신보건사회복지 총론/유수현/신정/2017 / 2판",
+        "\r○ 정신의학의 탄생 : 광기를 합리로 바꾼 정신의학사의 결정적 순간/하지현/해냄/2016",
+        "\r○ 정신병을 만드는 사람들 : 한 정신 의학자의 정신병 산업에 대한 경고/Frances, Allen/사이언스북스/2014",
+        "\r○ 추적, 한국 건강불평등 : 사회의 제화를 위한 국민보고서/이창곤/밈/2007",
+        "\r○ 평등이 답이다 : 왜 평등한 사회는 늘 바람직한가?/Wilkinson, Richard G./이후/2012",
+        "\r○ 젠더 심리학 : 여성과 남성에 대한 심리학적 이해/Brannon, Linda/피어슨에듀케이션코리아/2012",
+        "\r○ 다문화심리학/Hall, Gordon C. Nagayama/시그마프레스/2012",
+        "\r○ 정신질환의 진단 및 통계 편람 : DSM-5/권준수/학지사/2015",
+        "\r○ 마음을 움직이는 뇌, 뇌를 움직이는 마음/성영신/해나무/2004",
+        "\r○ Mental health in social work : a casebook on diagnosis and strengths-based assessment/Corcoran, Jacqueline/Pearson Education/2015 / 2nd ed., DSM-5 update"
+      ]
+    }
   }
 }

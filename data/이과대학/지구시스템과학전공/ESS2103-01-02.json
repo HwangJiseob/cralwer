@@ -1163,6 +1163,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Mineralogy and Optical Mineralogy, 2008, Mineralogical Society of America, written by D. Dyar, M.E. Gunter, D. Tasa",
+        "2. 광물과학, 2014, 문희수, 최선규, 송윤구, 연세대학교 대학출판문화원",
+        "3. An introduction to the rock-forming minerals, W.A. Deer, R.A. Howie, J. Zussman, 3rd edition,The Mineralogical Scoiety London",
+        "4. Introduction to Optical Mineralogy, 2004, W.D. Nesse, 3rd edition, Oxford University Press"
+      ]
+    }
   }
 }

@@ -2125,7 +2125,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Atkins' Physical Chemistry/Julio de Paula Peter Atkins/Oxford University Press/2014",
+        "\r○ Density Functional Theory: A Practical Introduction/Janice A Steckel/Wiley-Interscience/2009"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3148,6 +3154,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Atkins' Physical Chemistry/Julio de Paula Peter Atkins/Oxford University Press/2014",
+        "\r○ Density Functional Theory: A Practical Introduction/Janice A Steckel/Wiley-Interscience/2009"
+      ]
+    }
   }
 }

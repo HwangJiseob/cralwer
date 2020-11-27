@@ -357,7 +357,22 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Any editions are fine, although I much prefer that you work with print rather than digital versions. I’ve listed the publisher and ISBN of the editions I will be using in class.",
+        "",
+        "1. Conrad, Heart of Darkness (Modern Library) 0-375-75377-X",
+        "",
+        "2. Coetzee, Disgrace (Vintage) 9780099284826",
+        "",
+        "3. Woolf, To the Lighthouse  (Harvest) 0-15-190736-6",
+        "",
+        "4. Wang, Chemistry (Vintage) 0525432221",
+        "",
+        "5. Course Reader (available at the UML copy center)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -448,7 +463,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Required textbooks:",
+        "Chimamanda Ngozi Adichie, The Thing around Your Neck (HarperCollins Publishers)",
+        "Jhumpa Lahiri, Interpreter of Maladies (HarperCollins Publishers)",
+        "Viet Thanh Nguyen, The Refugees (Little, Brown Book Group)",
+        "*Each student must procure his or her own copies of the required textbooks. No photocopies or PDF files will be provided."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -610,7 +634,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20182": {
     "LECT_DATA": {

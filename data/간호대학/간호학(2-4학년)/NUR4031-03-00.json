@@ -470,7 +470,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Ackley, B.J. & Ladwig, G.B.(2016). Nursing Diagnosis Handbook : An Evidence-Based Guide to Planning Care, 11thed. Mosby Elsevier ",
+        "2. Wilkinson, J.M.(2012). Diagnostic Reasoning. In J.M. Wilkinson (Eds.), Nursing Process and Critical Thinking, 5thed. (pp135-149). New Jersey: Pearson"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -822,6 +828,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Ackley, B.J. & Ladwig, G.B.(2016). Nursing Diagnosis Handbook : An Evidence-Based Guide to Planning Care, 11thed. Mosby Elsevier ",
+        "2. Wilkinson, J.M.(2012). Diagnostic Reasoning. In J.M. Wilkinson (Eds.), Nursing Process and Critical Thinking, 5thed. (pp135-149). New Jersey: Pearson"
+      ]
+    }
   }
 }

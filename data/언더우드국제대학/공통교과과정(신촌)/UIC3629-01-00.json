@@ -47,6 +47,28 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Matthew Arnold, “The Function of Criticism at the Present Time” ",
+        "Stephen Best and Sharon Marcus, “Surface Reading: An Introduction”",
+        "Cleanth Brooks and Robert Penn Warren, Understanding Poetry",
+        "Pamela L. Caughie, ed., Disciplining Modernism",
+        "Paul de Man, The Resistance to Theory",
+        "Terry Eagleton, Literary Theory: An Introduction",
+        "T. S. Eliot, “Tradition and the Individual Talent”",
+        "Karen Fischer: “Bucking Cultural Norms, Asia Tries Liberal Arts”",
+        "Jane Gallop: “The Ethics of Close Reading: Close Encounters”",
+        "Gerald Graff, Professing Literature: An Institutional History; “Taking Coverage in Coverage”",
+        "Christopher Hilliard, English as a Vocation: The Scrutiny Movement",
+        "Ben Knights, “Intelligence and Interrogation: The identity of the English student”",
+        "Toni Morrison, “Unspeakable Things Unspoken: The Afro-American Presence in American Literature”",
+        "Ngugi W? Thiong’o, Taban Lo Liyong, and Henry Owuor-Anyumba, “On the Abolition of the ",
+        "English Department”",
+        "Martha Nussbaum, Not for Profit: Why Democracy Needs the Humanities",
+        "Bill Readings, The University in Ruins",
+        "Gayatri Spivak: An Aesthetic Education in the Era of Globalization"
+      ]
+    }
   }
 }

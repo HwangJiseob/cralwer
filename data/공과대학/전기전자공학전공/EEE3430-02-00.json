@@ -3194,7 +3194,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: Fundamentals of Communication Systems, second edition \r",
+        "        John G. Proakis and Masoud Salehi, Pearson\r",
+        "\r",
+        "부교재: Principles of Communications: Systems, Modulation, and Noise\r",
+        "         Rodger E. Ziemer/William H. Tranter"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3646,6 +3655,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: Essentials of Communication Systems Engineering (Essential version)\r",
+        "        John G. Proakis and Masoud Salehi, Prentice Hall\r",
+        "참고 교재: Principles of Communications: Systems, Modulation, and Noise\r",
+        "         Rodger E. Ziemer/William H. Tranter"
+      ]
+    }
   }
 }

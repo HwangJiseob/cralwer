@@ -3530,7 +3530,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Dorf's Introduction to Electric Circuits (Global Edition, 2018, Wiley) - Richard C. Dorf, James A. Svoboda"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3718,6 +3723,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Text (Required)",
+        "",
+        "Alexander and Sadiku, Fundamentals of Electric Circuits, 6th edition, McGraw-Hill, 2016",
+        "",
+        "References",
+        "",
+        "Nilsson J W, Riedel S A, Electric Circuits, Prentice-Hall",
+        "Schaum`s Solved Problems in Electric Circuits",
+        "Many other good references for circuit analysis",
+        "Reference Links:",
+        "",
+        "http://www.ibiblio.org/kuphaldt/electricCircuits/DC/index.html",
+        "",
+        "http://www.allaboutcircuits.com/"
+      ]
+    }
   }
 }

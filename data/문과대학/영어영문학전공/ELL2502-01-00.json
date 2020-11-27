@@ -843,7 +843,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1240,6 +1245,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Required Text: The Norton Anthology of American Literature. Shorter 9th \r",
+        "Edition (2017). [Available at Yonsei University\r",
+        "Bookstore]"
+      ]
+    }
   }
 }

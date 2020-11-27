@@ -830,6 +830,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 이 텍스트에 의미가 있는가?/Vanhoozer, Kevin J/한국기독학생회출판부/2003",
+        "\r○ Reading the Old Testament : method in biblical study/Barton, John/Westminster John Knox Press/1997"
+      ]
+    }
   }
 }

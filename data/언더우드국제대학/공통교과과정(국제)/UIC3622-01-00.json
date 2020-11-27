@@ -187,7 +187,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Todd McGowan, Out of Time: Desire in Atemporal Cinema (University of Minnesota Press, 2011)",
+        "*Students must procure their own copies of the textbook.",
+        "**Other supplementary texts will be provided as necessary."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -518,6 +525,27 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Textbook to purchase:",
+        "Rex Butler and David Denny, eds., Lars von Trier’s Women (Bloomsbury, 2016)",
+        "",
+        "*Supplementary readings will be made available on YSCEC: e.g., chapters from Bonnie Honig and Lori J. Marso, eds., Politics, Theory, and Film: Critical Encounters with Lars von Trier (Oxford UP, 2016); students are required to print them out and bring them to relevant class meetings.",
+        "",
+        "Sample films (to be watched according to the schedule, before class meetings):",
+        "Medea",
+        "Breaking the Waves",
+        "Europa",
+        "Antichrist",
+        "Dogville",
+        "Melancholia",
+        "Nymphomaniac I",
+        "Nymphomaniac II",
+        "Dancer in the Dark",
+        "Manderlay",
+        "The House That Jack Built"
+      ]
+    }
   }
 }

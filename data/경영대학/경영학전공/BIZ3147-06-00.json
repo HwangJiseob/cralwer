@@ -7569,7 +7569,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "* Barney & Hesterly (2014), Strategic Management and Competitive Advantage: Concepts and Cases, ",
+        "(5th Edition). Pearson International Edition",
+        "한글판 : [전략경영과 경쟁우위 - 개념과 사례 (2015), 신형덕 옮김, 시그마 프레스",
+        "* 보충자료는 수업시간에 따로 공지할 예정"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -8288,7 +8296,12 @@
         "수강여부": "O",
         "비고": "*교환학생"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Modern competitive strategy/Walker, Gordon/McGraw-Hill Education/2016 / 4th ed"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -9357,6 +9370,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "* Barney & Hesterly(2017, 5th), Strategic Management and Competitive   Advantage: Concepts and Cases",
+        "* Hill & Jones(2016), Strategic Management: An Integrated Approach",
+        "* 전략경영과 경쟁우위 - 개념과 사례 (2018), 신형덕 옮김, 시그마 프레스",
+        "",
+        "※ 주교재를 지정하지 않으며 위의 문헌들을 참고하여 수업 시간에 배포되는 강의안을  중심으로 학습하면 됨"
+      ]
+    }
   }
 }

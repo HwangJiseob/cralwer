@@ -3978,7 +3978,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: \"Quantitative Chemical Analysis\"(9the edition)  Daniel Harris 저. ",
+        "Freeman사   ",
+        "",
+        "참고문헌:  Fundamentals of Analytical Chemistry (Skoog 외) 8판"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -4962,6 +4970,14 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: \"Quantitative Chemical Analysis\"(9the edition)  Daniel Harris 저. ",
+        "Freeman사   ",
+        "",
+        "참고문헌:  Fundamentals of Analytical Chemistry (Skoog 외) 8판"
+      ]
+    }
   }
 }

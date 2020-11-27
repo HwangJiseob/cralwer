@@ -587,6 +587,27 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "<주교재>",
+        "1. 김광숙 외 (2020). 지역사회간호학 이론과 실제. 서울: 현문사. ",
+        "",
+        "<부교재>",
+        "1. 이정열 외 (2017). 역학과 건강증진. 서울: 수문사.",
+        "2. Stanhope, M., & Lancaster, J.(2020). Public Health Nursing: Population-Centered Health Care in the Community. 10th ed., Elsevier.",
+        "3. 국제한인간호재단 (2018). 국제간호. 서울: 학지사메디컬",
+        "4. 정영숙, 이정열, 이규영 (2004). 학교보건. 서울: 현문사. ",
+        "5. 보건복지부(2020). 2018 보건복지백서. 세종: 보건복지부. Available from ",
+        "http://www.mohw.go.kr/react/jb/sjb030301vw.jsp",
+        "",
+        "",
+        "<참고 웹사이트>",
+        "1. 서대문구 지역보건의료계획: http://www.sdm.go.kr/health/",
+        "2. 보건복지부: http://www.mohw.go.kr",
+        "3. 미국질병통제센터: http://www.cdc.gov",
+        "4. 세계보건기구: http://www.who.int/"
+      ]
+    }
   }
 }

@@ -1878,6 +1878,29 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재: 추후공지",
+        "",
+        "참고문헌:",
+        "선우동훈·윤석홍 (2005). <여론조사>. 커뮤니케이션북스.",
+        "오택섭, 권혁남, 김성태 외 (2006). <현대 정치커뮤니케이션연구>. 나남. ",
+        "현경보 (2019). <여론전쟁>. 상상.",
+        "Herb Asher. (2017) Polling and the public: What every citizen should know (9th Ed.). CQ Press.",
+        "W. Lance Bennett. (2016). News: The politics of illusion (10th Ed.). The University of Chicago Press",
+        "Jennings Bryant. (2008). Media effects: Advances in theory and research (3rd Ed.). Routledge. 김춘식·양승찬·이강형·황용석 역 (2010). <미디어 효과 이론>. 나남.",
+        "Robert S Erikson and Kent L Tedin. (2016). American Public Opinion: Its opinion, content, and impact (9th Ed.). Longman. ",
+        "C. J. Glynn, S. Herbst, M. Lindeman, G. J. O'keefe & R. Y. Shapiro. (2016). Public opinion (3rd Ed.). Westview Press.",
+        "Shanto Iyengar. (2016). Media politics: A citizen's guide (3rd Ed.). W. W. Norton & Company. ",
+        "Walter Lippmann. (1922). Public opinion. Macmillan Co. ",
+        "Steven Lukes. (1974). Power: A radical view. Macmillan. 서규완 역 (1992). <3차원적 권력론>. 나남.",
+        "Diana Mutz. (1998). Impersonal influence: How perceptions of mass collectives affect political attitudes. 양승찬 역. (2000). <미디어 정치효과: 비개인적 영향력>. 한나래.",
+        "Barbara Norranderv & Clyde Wilcox (Eds). (2010). Understanding public opinion (3rd Ed.). CQ Press.",
+        "Vincent Price. (1992). Public opinion. Sage Publications. 김영석 편역 (2014). 제1부: 여론의 이해. <여론과 현대사회>. 나남.",
+        "Vincent Price & Donald F. Roberts. (1987). Public opinion processes. In C. R. Berger & S. H. Chaffee (Eds.), Handbook of communication science (pp. 781-816). ",
+        "       SAGE Publications. 김영석 편역 (2014). 제2부: 미디어와 여론형성과정. <여론과 현대사회>. 나남."
+      ]
+    }
   }
 }

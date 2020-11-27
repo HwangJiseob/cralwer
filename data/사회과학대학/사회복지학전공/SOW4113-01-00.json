@@ -2480,7 +2480,29 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- 김재엽(2007). 한국의 가정폭력, 학지사.",
+        "",
+        "- 김재엽(2014). TSL 가족치료와 가족복지, 학지사.",
+        "",
+        "-Siegel, Larry J(1991). Juvenile delinquency : theory, practice, and law,     ",
+        "Wadsworth.",
+        " ",
+        "-Bynum, Jack E(2002). Juvenile delinquency : a sociological approach,",
+        " Allyn and Bacon.",
+        " ",
+        "-Davidson, William S(1990). Alternative treatments for troubled youth : the ",
+        "case of diversion from the justice system, Plenum Press.",
+        "",
+        "-Hirschi, Travis(2002). Causes of delinquency : Transaction Publishers",
+        "",
+        "-김성이 외(2013). 청소년복지학, 양서원.",
+        "",
+        "-정규석 외(2013). 청소년복지의 이해. 학지사"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2862,6 +2884,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "참고도서",
+        "",
+        "-김재엽(2014). TSL 가족치료와가족복지,학지사.",
+        "-Siegel, Larry J(1991). Juvenile delinquency : theory, practice, and law, Wadsworth",
+        "-Byum, Jack E(2002). Juvenile delinquency : a sociological approach, Allyn and Bacon.",
+        "-Davidson, William S(1990). Althernative treatments for troubled youth : the case of diversion from the justice system, Pleum Press.",
+        "-김재엽 외(출판 예정). 청소년복지론."
+      ]
+    }
   }
 }

@@ -4087,7 +4087,19 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 1:",
+        "Fluid Mechanics",
+        "Frank M. White",
+        "8th Ed. SI Units, McGraw-Hill     ISBN 978-9-814-72017-5    2016",
+        "",
+        "주교재 2:",
+        "Munson's Fluid Mechanics",
+        "P. M. Gerhart, A. L. Gerhart & J. I. Hochstein"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -4357,7 +4369,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 1:",
+        "Fluid Mechanics",
+        "Frank M. White",
+        "8th Ed. SI Units, McGraw-Hill     ISBN 978-9-814-72017-5    2016",
+        "",
+        "주교재 2:",
+        "Munson's Fluid Mechanics",
+        "P. M. Gerhart, A. L. Gerhart & J. I. Hochstein"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -6140,6 +6164,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Fundamentals of fluid mechanics/Munson, Bruce Roy/John Wiley & Sons, Inc./2013"
+      ]
+    }
   }
 }

@@ -586,7 +586,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Die Zauberfloete - Baerenreiter",
+        "Haensel und Gretel - Peters",
+        "Il matrimonio segreto - Ricordi",
+        "Il Barbiere di Siviglia - Ricordi",
+        "Norma - Ricordi",
+        "Don Pasquale - Ricordi",
+        "Don Carlo - Ricordi",
+        "Cavalleria Rusticana - Sonzogno",
+        "La boheme - Ricordi"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -717,6 +730,65 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "※각각 명시한 출판사의 악보로 진행한다.",
+        "",
+        "Cosi fan tutte (코지 판 투테 : W. A. Mozart) - Baerenreiter",
+        "- Ah, che tutta in un momento  (p.170 ~ 175 첫 박자까지)",
+        "* Fiordiligi / Dorabella",
+        "",
+        "Le nozze di Figaro (피가로의 결혼 (1786): W. A. Mozart) - Baerenreiter",
+        "- Cinque... dieci... (p.11 ~ 19)",
+        "* Susanna / Figaro",
+        "",
+        "Don Giovanni (돈 조반니 : W. A. Mozart) - Baerenreiter",
+        "- Non sperar, se non m’uccidi, (p.16 두 번째 단부터 ~ 26 세 번째 단까지)",
+        "* Donna Anna / Don Giovanni / Leporello / Il Commendatore",
+        "",
+        "Die Zauberfloete (마술피리 : W. A. Mozart) - Baerenreiter",
+        "- Soll ich dich, Teurer, nicht mehr sehn? (p.147 ~ 152)",
+        "* Pamina / Tamino / Sarastro",
+        "- Pa pa pa (p.200 ~ 207)",
+        "* Papageno / Papagena",
+        "",
+        "Il Barbiere di Siviglia (세빌리아의 이발사: G. Rossini) - Ricordi",
+        "- Ah! qual colpo inaspettato! (p.399 ~ 417)",
+        "* Rosina / Conte / Figaro",
+        "",
+        "Don Pasquale (돈 파스콸레: G. Donizetti) - Ricordi",
+        "- Cheti, cheti, immantinente (p.176 ~ 189)",
+        "* Don Pasquale / Malatesta",
+        "",
+        "Norma (노르마: V. Bellini) - Ricordi",
+        "- Mira, o Norma..... (p.176 ~ 187)",
+        "* Norma / Adalgisa",
+        "",
+        "La Traviata (라 트라비아타 : G. Verdi) - Ricordi",
+        "- Parigi, o cara  (p.226 ~ 232)",
+        "* Violetta / Alfredo",
+        "",
+        "Rigoletto (리골레토 : G. Verdi) - Ricordi",
+        "- Tutte le feste al tempio (p.252 ~ 261)",
+        "* Rigoletto / Gilda",
+        "- Quel vecchio maledivami! (p.75 ~ 82)",
+        "* Rigoletto / Sparafucile",
+        "",
+        "La Boheme (라 보엠 : G. Puccini) - Ricordi",
+        "- O soave fanciulla (p.78 ~ 82)",
+        "* Mimi/ Rodolfo",
+        "- In un cupe?? (p.223 ~ 231)",
+        "* Rodolfo / Marcello",
+        "",
+        "Tosca (토스카 : G. Puccini) - Ricordi",
+        "- E' buona la mia Tosca (p.68 ~ 82)",
+        "* Cavaradossi / Angelotti",
+        "",
+        "Die lustige Witwe (유쾌한 미망인 : F. Lehar) - Doblinger",
+        "- Lippen schweigen (p.136 ~ 138)",
+        "* Hanna / Danilo"
+      ]
+    }
   }
 }

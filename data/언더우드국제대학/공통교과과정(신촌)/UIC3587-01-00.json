@@ -1668,6 +1668,11 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Course readers will be available in late August at DOKSURIA, 02-392-8408."
+      ]
+    }
   }
 }

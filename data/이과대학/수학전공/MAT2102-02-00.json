@@ -3085,7 +3085,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Finite-dimensional linear algebra/Gockenbach, Mark S./CRC Press/2010"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3846,6 +3851,29 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Finite-dimensional linear algebra/Gockenbach, Mark S./CRC Press/2010",
+        "\r○ [Prescribed Textbook]  Mark S. Gockenbach, Finite-dimensional linear algebra, CRC Press, 2010",
+        "",
+        " [참고문헌]",
+        "The Textbook is one of the best modern algebra books in recent years. It sets the standard as the most current and comprehensive resource in modern algebra. ",
+        "",
+        "1. Sterling K. Berberian, Linear Algebra, Oxford Science Publications, 1990[Algebraic Approach]",
+        "2. Stephen H. Friedberg, Arnold J. Insel & Lawrence E. Spence, Linear Algebra, 4Ed., Prentice Hall, 2003[Mathematical Approach] ",
+        "3. Ioannis Farmakis and Martin Moskowitz, A Graduate Course in Algebra (In 2 Volumes),world scientific publishing co., 2017",
+        "4. Jimmie Gilbert and Linda Gilbert, Linear Algebra and Matrix Theory,2nd Ed., Thomson 2004 [Math Approach]",
+        "5. Kenneth Hoffman and Ray Kunze, Linear Algebra, Prentice-Hall, Englewood Cliffs, NJ,  2nd ed.,1971 ISBN 978-0-13-536797-1, [Mathematical Approach] ",
+        "6. Serge Lang, Linear Algebra, Undergraduate Texts in Mathematics(3rd ed.), Springer, 2004, ISBN 978-0-387-96412-6  ",
+        "7. Steven J. Leon, Linear Algebra with Applications, 8th ed., Pearson Prentice-Hall, 2010[Numerical Version]",
+        "8. Seymour Lipschutz and  Marc Lipson,  Schaum's Outline of Theory and Problems of Linear Algebra,  5th Edition(Schaum's Outline Series), McGraw-Hill Companies, 2008, [Solved Problems Series] ",
+        "9.Martin Moskowitz and Fotios Paliogiannis, Functions ofSeveral real variables, World Scientific, 2011",
+        "10. John Srdjan Petrovic, Advanced Calculus Theory and Practice, CRC Press, 2014",
+        "11. Edoardo Sernesi, Linear Algebra, Chapman & Hall, London, 1993[Geometric Approach]",
+        "12. Gilbert Strang, Introduction to Linear Algebra, 4th edition. Wellesley-Cambridge Press and SIAM , 2009",
+        "13. Treil, Sergei, Linear Algebra Done Wrong , Brown University, online (http://www.math.brown.edu/~treil/papers/LADW/LADW.html)"
+      ]
+    }
   }
 }

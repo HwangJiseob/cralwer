@@ -44,6 +44,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Computer Science Education edited by Sue Sentance, Erik Barendsen and Carsten Schulte. 2018 Bloomsbury",
+        "교수학습과 교육공학, 박숙희&염명숙, 학지사.",
+        "van Merrienboer의 교수설계이론, 김동식 & 권숙진 공역, 아카데미프레스.",
+        "사례기반학습을 위한 교수설계 사례집, 정선영 역, 학지사.",
+        "PBL로 수업하기, 최정임&장경원, 학지사.",
+        "교육학 교과 교재연구 및 지도법, 배장오, 서현사."
+      ]
+    }
   }
 }

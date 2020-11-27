@@ -2050,6 +2050,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "D. W. Hamlyn, <인식론>(Theory of Knowledge), 이병욱 역, 서광사\r",
+        "M. Steup, <현대인식론입문>(An Introduction to Contemporary Epistemology), 한상\r",
+        "기 역, 서광사"
+      ]
+    }
   }
 }

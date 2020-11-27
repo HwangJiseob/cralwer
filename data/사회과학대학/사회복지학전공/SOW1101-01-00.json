@@ -1485,7 +1485,14 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. 권중돈 외. (2015). 사회복지개론, 학지사.",
+        "2. Charles Zastrow, (2007). Introduction to Social Work and Social Welfare:    ",
+        "Empowering People, 9th edit., Wadsworth."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1839,6 +1846,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. 권중돈 외. (2019). 사회복지학개론 (제4판), 학지사.",
+        "2. Charles Zastrow, (2007). Introduction to Social Work and Social Welfare:    ",
+        "Empowering People, 9th edit., Wadsworth."
+      ]
+    }
   }
 }

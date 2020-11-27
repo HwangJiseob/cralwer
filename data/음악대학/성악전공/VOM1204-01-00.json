@@ -45,7 +45,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Die Winterreise    F.Schubert",
+        "",
+        "Kerner Lieder      R.Schumann",
+        "",
+        "Strauss Lieder    R.Strauss",
+        "",
+        "Wolf Lieder         H.Wolf",
+        "",
+        "독일예술가곡 노래말 사전 I,II,III"
+      ]
+    }
   },
   "20182": {
     "LECT_DATA": {

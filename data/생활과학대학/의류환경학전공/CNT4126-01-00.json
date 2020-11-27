@@ -1690,7 +1690,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "천경희 외(2017). 행복한 소비 윤리적 소비. 서울: 시그마프레스",
+        "Burns, L. D.(2019). Sustainability and social change in fashion. NewYork: Fairchild books",
+        "Lanzini, P.(2019). Responsible citizens and sustainable consumer behavior: New interpretive frameworks, London: Routledge",
+        "\r○"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2201,6 +2209,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "참고문헌",
+        "천경희 외(2017). 행복한 소비 윤리적 소비. 서울: 시그마프레스",
+        "Burns, L. D.(2019). Sustainability and social change in fashion. NewYork: Fairchild books",
+        "Lanzini, P.(2019). Responsible citizens and sustainable consumer behavior: New interpretive frameworks, London: Routledge"
+      ]
+    }
   }
 }

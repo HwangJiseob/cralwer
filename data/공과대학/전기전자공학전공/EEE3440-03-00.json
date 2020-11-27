@@ -946,7 +946,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Lecture Notes",
+        "2. \"Digital Communications - Fundamentals and Appications\" 2nd Edition by ",
+        "Bernard Sklar, Prentice-Hall.",
+        "3. \"Introduction to analog & digital communications,\" 2nd edition by Haykin, ",
+        "WILEY",
+        "4. \"Essentails of Communication Systems Engineering,\" by Proakis and Saluhi, ",
+        "Pentice Hall"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1385,6 +1396,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

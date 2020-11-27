@@ -7711,7 +7711,25 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. 양동휴, [20세기 경제사], 일조각. ",
+        "2. 카메론 & 닐, 이헌대(역), [간결한 세계경제사], 4판(이후), 범문사(Rondo ",
+        "   Cameron, Larry Neal, A Concise Economic History of the World, 4th ed., ",
+        "   Oxford Univ. Press).",
+        "3. Gary M. Walton & Hugh Rockoff, History of the American Economy, 9th ",
+        "   ed.(이후), South Western.",
+        "4. 미야모토 마타오 외, 정진성(역) [일본경영사 : 일본형 기업경영의 발전], ",
+        "   한울아카데미. ",
+        "5. 로이드 E. 이스트만, [중국사회의 지속과 변화 : 중국사회경제사 1550-1949], ",
+        "   돌베개.",
+        "6. Ivan T. Berend, An economic history of 20th century europe, cambridge ",
+        "   univ. press.",
+        "7. 송병건, [경제사], 해남 ",
+        "상세한 문헌은 수업시간에 소개"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -10068,6 +10086,18 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "상세한 문헌은 수업시간에 소개함",
+        "1. 양동휴, [20세기 경제사], 일조각. ",
+        "2. 카메론 & 닐, 이헌대(역), [간결한 세계경제사], 4판(이후), 범문사(Rondo Cameron, Larry Neal, A Concise Economic History of the World, 4th ed., Oxford Univ. Press).",
+        "3. Gary M. Walton & Hugh Rockoff, History of the American Economy, 9th ed.(이후), South Western.",
+        "4. 미야모토 마타오 외, 정진성(역) [일본경영사 : 일본형 기업경영의 발전], 한울아카데미. ",
+        "5. 로이드 E. 이스트만, [중국사회의 지속과 변화 : 중국사회경제사 1550-1949], 돌베개. ",
+        "6. Ivan T. Berend, An economic history of 20th century europe, cambridge univ. press. ",
+        "7. 송병건, [경제사], 해남"
+      ]
+    }
   }
 }

@@ -141,7 +141,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -257,7 +262,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "이철원. (2011). 여가는 유혹이다. 서울: 레인보우북스.",
+        "고동우. (2007). 여가학의 이해. 서울: 세림출판.",
+        "Walker, G. J., Scott, D., & Stodolska, M. (2016). Leisure matters: the state and future of leisure studies. Sagamore Publishing.",
+        "Russell, R. V. (2002). Pastimes: The context of contemporary leisure. Pastimes: the context of contemporary leisure., (Ed. 2)."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -374,6 +387,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "이철원. (2011). 여가는 유혹이다. 서울: 레인보우북스.",
+        "고동우. (2007). 여가학의 이해. 서울: 세림출판.",
+        "Walker, G. J., Scott, D., & Stodolska, M. (2016). Leisure matters: the state and future of leisure studies. Sagamore Publishing.",
+        "Russell, R. V. (2002). Pastimes: The context of contemporary leisure. Pastimes: the context of contemporary leisure., (Ed. 2)."
+      ]
+    }
   }
 }

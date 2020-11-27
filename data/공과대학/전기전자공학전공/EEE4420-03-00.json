@@ -1662,7 +1662,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Fundamentals of Digital Signal Processing",
+        "(by Robert J. Schilling and Sandra L. Harris)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1778,6 +1784,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Digital Signal Processing",
+        "Fourth Edition",
+        "John G. Proakis, Dimitris G. Manolakis"
+      ]
+    }
   }
 }

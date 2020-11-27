@@ -141,7 +141,15 @@ def create_syllabus_data(soup):
 # last page 여부와 해당 페이지의 강의 수를
 # tuple로 반환
 def check_page_info(driver, selector):
-    page_raw = driver.find_element_by_css_selector(selector['page_info']).text
+    while True:
+        try:
+            page_raw = driver.find_element_by_css_selector(selector['page_info']).text
+            if page_raw:
+                break
+        except:
+            LOG.info("page_info element uncaught. get page_info element again")
+            time.sleep(1)
+    
     reg = r'\d+-\d+\sof\s\d+'
     validated = re.match(reg, page_raw)
     if validated:

@@ -492,7 +492,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -556,7 +561,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -606,7 +616,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Social research methods : qualitative and quantitative approaches/Neuman, William Lawrence/Pearson/Allyn and Bacon/2014 / 7th ed., Pearson new international ed"
+      ]
+    }
   },
   "20181": {
     "LECT_DATA": {
@@ -616,6 +631,17 @@
     "SYLLABUS_DATA": {
       "교재 및 참고문헌": [
         "Social research methods : qualitative and quantitative approaches/Neuman, William Lawrence/Allyn & Bacon/2011 / 7th ed"
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "UIC2151-07-00",
+      "과목명": "RESEARCH DESIGN AND QUANTITATIVE METHODS"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Social research methods : qualitative and quantitative approaches/Neuman, William Lawrence/Pearson/Allyn and Bacon/2014 / 7th ed., Pearson new international ed"
       ]
     }
   }

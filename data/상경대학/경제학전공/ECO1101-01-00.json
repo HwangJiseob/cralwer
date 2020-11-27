@@ -4344,7 +4344,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Fundamental Methods of Mathematical Economics, fourth edition, by Alpha C. Chiang and Kevin Wainwright. ISBN 0-07-010910-9 ",
+        "Mathematics for Economists, by Carl P. Simon and Lawrence Blume. ISBN 0-393-95733-0"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -4894,7 +4900,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : 경제수학의 기초   /정필권/서정환   /시그마프레스",
+        "부교재 : 경제수학(제3판) /정필권   /법문사"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -5052,7 +5064,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : 경제수학(제4판) /정필권 /법문사 ",
+        "부교재:  경제수학의 기초 /정필권/서정환   /시그마프레스"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -5911,6 +5929,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : 경제수학(제4판) /정필권   /법문사",
+        "부교재 : 경제수학의 기초   /정필권/서정환   /시그마프레스"
+      ]
+    }
   }
 }

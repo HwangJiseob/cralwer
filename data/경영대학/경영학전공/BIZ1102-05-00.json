@@ -6874,7 +6874,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Organizational behavior/Robbins, Stephen P./Pearson/2017 / 17th ed., global ed"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -7216,7 +7221,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1.Organizational behavior/Robbins & Judge /Pearson/2017/ 17th ed., Global ed.",
+        "2.A Coursepack from Harvard Business School Publishing"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -8271,7 +8282,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "?Robbins, Stephen P., & Judge, Timothy, A. 2018. Organizational Behavior (18th Edition), Pearson.",
+        "?정명호 오홍석 2005. 휴먼 네트워크와 기업경영. 삼성경제연구소 (SERI 연구에세이 034)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -8418,6 +8435,12 @@
         "수강여부": "O",
         "비고": "*교환학생"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1.Organizational behavior/Robbins & Judge /Pearson/2017/ 17th ed., Global ed.",
+        "2.A Coursepack from Harvard Business School Publishing"
+      ]
+    }
   }
 }

@@ -2506,6 +2506,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "\"Concept of Modern Physics\", Arthur Beiser (6th Edition) or \"Concept of Modern Physics\", Arthur Beiser and Kok Wai Cheah (Asia Adaptation)"
+      ]
+    }
   }
 }

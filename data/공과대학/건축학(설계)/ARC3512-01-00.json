@@ -760,7 +760,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Coursepack",
+        "\r○ Kopec, D, Environmental psycology for design (2nd), Fairchild Books: NY",
+        "Ewing, R & Bartholomew, K, Pedestrian- & Transit-oriented Design, ULI",
+        "Schneider, R & Kitchen, T, Crime prevention and the built environment, Routledge, NY"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -990,6 +998,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Coursepack",
+        "\r○ Kopec, D, Environmental psycology for design (2nd), Fairchild Books: NY",
+        "Ewing, R & Bartholomew, K, Pedestrian- & Transit-oriented Design, ULI",
+        "Schneider, R & Kitchen, T, Crime prevention and the built environment, Routledge, NY"
+      ]
+    }
   }
 }

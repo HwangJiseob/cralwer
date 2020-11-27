@@ -704,7 +704,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "No textbook; References:",
+        "1. The Physics of the Interstellar Medium - Dyson & Williams",
+        "2. Galactic Astronomy (Chap. 8) - Binney & Merrifield",
+        "3. The Physics & Chemistry of the ISM - Tielens",
+        "4. Galactic and Extragalactic Radio Astronomy - Bouton, Verschuur, Kellermann"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -877,6 +886,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "No textbook; References:",
+        "1. The Physics of the Interstellar Medium - Dyson & Williams",
+        "2. Galactic Astronomy (Chap. 8) - Binney & Merrifield",
+        "3. The Physics & Chemistry of the ISM - Tielens",
+        "4. Galactic and Extragalactic Radio Astronomy - Bouton, Verschuur, Kellermann",
+        "5. 천체물리학: 복사와 기체역학 - 구본철, 김웅태",
+        "6. Interstellar and Intergalactic Medium - Ryden & Pogge *",
+        "* http://affordablelearning.osu.edu/catalog/bookshelf/interstellar-and-intergalactic-medium"
+      ]
+    }
   }
 }

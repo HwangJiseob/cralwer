@@ -440,7 +440,22 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Suggested Texts",
+        "",
+        "Corneliu Bjola and Markus Kornprobst, Understanding International Diplomacy: Theory, Practice and Ethics, Routledge, London, 2013.",
+        "",
+        "Jurgen Kleiner, Diplomatic Practice: Between Tradition and Innovation, World Scientific, London, 2010.",
+        "",
+        "Recommended Texts",
+        "",
+        "Jeffrey Robertson, Diplomatic Style and Foreign Policy: A Case Study of South Korea, Routledge, London, 2016.",
+        "",
+        "Jean-Robert Leguey-Feilleux, The Dynamics of Diplomacy, Lynne Reinner Publishers, London, 2009."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -643,7 +658,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Kyung Moon Hwang, A History of Korea, 2nd edition (New York: Palgrave McMillan, 2017). It is recommended that you read the book, but it is not mandatory.",
+        "All other readings listed in the syllabus will be available as pdf files on the course website."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -721,6 +742,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

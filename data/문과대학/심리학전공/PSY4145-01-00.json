@@ -1168,6 +1168,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Koos, B., Hill, J., Thomas, E., Wandersman, A., Elias, M. J., & Dalton, J. H. (2012). Community Psychology: Linking Individuals and Communities (3rd Edition). Belmont, CA: Wadsworth/Cengage Learning.",
+        "Thaler, R.H., & Sunstein, C. R. (2008). Nudge. New Haven & London: Yale University Press."
+      ]
+    }
   }
 }

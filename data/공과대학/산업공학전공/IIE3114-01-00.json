@@ -1384,7 +1384,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(주교재 1) Mohr, Sengupta, and Slater (2013) Marketing of High-Technology Products and Innovations 3rd Edition, Pearson.",
+        "(주교재 2) 김상훈 (2013), 하이테크마케팅, 박영사."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2312,6 +2318,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(주교재 1) 김상훈 (2013), 하이테크마케팅, 박영사.",
+        "(주교재 2) Mohr, Sengupta, and Slater (2013) Marketing of High-Technology Products and Innovations 3rd Edition, Pearson."
+      ]
+    }
   }
 }

@@ -125,6 +125,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Thornton and Marion, Classical Dynamics of Particles and Systems, 5th ed.\r",
+        "John R. Taylor, Classical Mechanics\r",
+        "Landau and Lifshitz, Mechanics\r",
+        "Boas, Mathematical Methods in the Physical Sciences, 3rd ed.\r",
+        "Goldstein, Classical Mechanics"
+      ]
+    }
   }
 }

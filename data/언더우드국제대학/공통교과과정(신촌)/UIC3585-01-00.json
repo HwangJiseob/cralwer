@@ -786,7 +786,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Kant, Prolegomena to Any Future Metaphysics",
+        "Kant, Groundwork of the Metaphysics of Morals",
+        "Hegel, Introduction to the Philosophy of History",
+        "Schelling, Philosophical Investigations into the Nature of Human Freed",
+        "Nietzsche, Genealogy of Morals",
+        "Marx, Theses on Feuerbach, German Ideology, Communist Manifesto"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1185,6 +1195,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Hegel, \"Phenomenology of Spirit,\" Tr. A.V. Miller ",
+        "Houlgate,\"Hegel's Phenomenology of Spirit: A Reader's Guide.",
+        "Students should make sure to have copies of these texts available before the beginning of the class."
+      ]
+    }
   }
 }

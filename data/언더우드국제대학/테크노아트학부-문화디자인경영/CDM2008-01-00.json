@@ -493,7 +493,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Martin, R. (2009). The Design of Business. Harvard Business Review Press. ",
+        "Mootee, I. (2013). Design Thinking for Strategic Innovation. Wiley. ",
+        "Stickdorn, M., & Schneider, J. (2011). This is Service Design Thinking. Wiley. ",
+        "etc."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -935,6 +943,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Brown, T. (2019). Change by design - How design thinking transforms organizations and inspires innovation. Happer Business. ",
+        "Cooper, A., Reimann, R., & Noessel, C. (2014). About face 4 - The essentials of interaction design. Wiley. ",
+        "Lewrick, M., Link, P., & Leifer, L. (2018). The design thinking playbook. Wiley. ",
+        "Martin, R. (2009). The Design of Business. Harvard Business Review Press. ",
+        "Mootee, I. (2013). Design Thinking for Strategic Innovation. Wiley. ",
+        "Stickdorn, M., & Schneider, J. (2011). This is Service Design Thinking. Wiley. ",
+        "etc."
+      ]
+    }
   }
 }

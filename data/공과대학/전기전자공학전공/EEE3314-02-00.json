@@ -2755,7 +2755,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Lecture notes.",
+        "",
+        "(Optional) books:",
+        "An introduction to statistical learning; F. James et al.",
+        "The elements of statistical learning; T. Hastie et al."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -4104,6 +4113,11 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Christopher M. Bishop, Pattern Recognition and Machine Learning,Springer,2006."
+      ]
+    }
   }
 }

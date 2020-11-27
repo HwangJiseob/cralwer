@@ -219,7 +219,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Integrated Korean : beginning . 1/Cho, Young-mee/University of Hawaii Press/2010"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -269,7 +274,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "INTEGRATED KOREAN: BEGINNING 1, THIRD EDITION",
+        "Young-mee Cho, Hyo Sang Lee, Carol Schulz, Ho-min Sohn, and Sung-Ock Sohn",
+        "ISBN-13: 9780824876197"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -320,6 +332,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "INTEGRATED KOREAN: BEGINNING 1, THIRD EDITION",
+        "Young-mee Cho, Hyo Sang Lee, Carol Schulz, Ho-min Sohn, and Sung-Ock Sohn",
+        "ISBN-13: 9780824876197"
+      ]
+    }
+  },
+  "20192": {
+    "LECT_DATA": {
+      "학정번호": "UIC1804-01-00",
+      "과목명": "BEGINNING KOREAN (1)"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Integrated Korean : beginning . 1/Cho, Young-mee/University of Hawaii Press/2010"
+      ]
+    }
   }
 }

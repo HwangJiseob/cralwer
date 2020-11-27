@@ -1,0 +1,29 @@
+{
+  "20192": {
+    "LECT_DATA": {
+      "학정번호-분반-실습": "MAT3110-01-01",
+      "과목명": "현대대수(2)"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Abstract algebra : structures and applications/Lovett, Stephen (Stephen T.)/CRC Press, Taylor & Francis Group/2016",
+        "\r○ Abstract algebra : structures and applications/Lovett, Stephen (Stephen T.)/CRC Press, Taylor & Francis Group/2016",
+        "\r○ Abstract algebra : structures and applications/Lovett, Stephen (Stephen T.)/CRC Press, Taylor & Francis Group/2016",
+        "\r○ A graduate course in algebra . v. 1/Farmakis, Ioannis/World Scientific/2017",
+        "\r○ A graduate course in algebra . v. 2/Farmakis, Ioannis/World Scientific/2017",
+        "\r○ [Text] [SLAA] Stephen Lovett, Abstract Algebra: Structures and Applications, Chapman and Hall/CRC, 2015 ",
+        " [참고문헌]",
+        "1. P.B. Bhattacharya, S.K. Jain, S.R. Nagpaul, Basic Abstract Algebra, 2nd Ed., Cambridge University Press, 1994",
+        "2. David S. Dummit, Richard M. Foote, Abstract Algebra, 3rd Ed., Prentice-Hall,2004 [Excellent 대수학]",
+        "3. John Fraleigh, A First Course in Abstract Algebra, 4th Ed., Addison-Wesley Publishing Company, 1989[현대대수] 현대대수학 (천 장호 역) 대영사 1991 [Easy Introduction]",
+        "4. Joseph A. Gallian, Contemporary Abstract Algebra, 7th ed.,Brooks/Cole, Cengage Learning, 2010 [Pleasant Introduction] ",
+        "5. R. Klima, N. Sigmon, E. Stitzinger, Applications of Abstarct Algebra with Maple, CRC Press, 2000[부호 및 암호학]",
+        "6. Charles Lanski, Concepts in Abstract Algebra, Thomson, 2005[Detailed 현대대수]",
+        "7. Aigli Papantonopoulou, Algebra : pure & applied, Prentice Hall, 2002 [Good 현대대수]",
+        "8. Louis Rowen, Algebra: Groups, Rings, and Fields, A Ｋ Peters, 1994 [Easy 현대대수]",
+        "9. Ian Stewart, Galois Theory, 2nd edition, Chapman and Hall, 1989. ",
+        "10. Ian Stewart, Cabinet of mathematical Curiosities (호기심 케비닛, 한티미디어, 2012.12), Profile Books, 2008"
+      ]
+    }
+  }
+}

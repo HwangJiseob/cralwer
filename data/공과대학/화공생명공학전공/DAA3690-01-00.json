@@ -1819,7 +1819,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "\"Environmental Engineering\" 저자 Howard S. Peavy"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2621,6 +2626,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "제목: Environmental Engineering",
+        "저자: Howard S.Peavy, Donald R. Rowe, Goerge Tchobanoglous ",
+        "출판사: McGraw-Hill (International Edition)",
+        "",
+        "학관에서 교재 구입하시는 경우, 토목공학 섹션에 있습니다.... ",
+        "화학공학 섹션에 아무리 찾아봐도 없음"
+      ]
+    }
   }
 }

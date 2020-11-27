@@ -937,7 +937,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Proust [Du cote de chez Swann], Gallimard, folio, 1987",
+        "Proust [Le Temps retrouve], Gallimard, folio, 1989",
+        "Butor [La Modification], Les Editions de Minuit, 1992 [1957]",
+        "Marie Ndiaye [Trois femmes puissantes], Gallimard, 2009"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1082,6 +1090,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        " e-book 및 한워드 2020 버전 YSCEC에 등재"
+      ]
+    }
   }
 }

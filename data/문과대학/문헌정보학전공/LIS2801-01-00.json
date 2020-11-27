@@ -1447,7 +1447,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "o 강의노트 및 관련 논문\r",
+        "o Mon, L. M. (2015). Social media and library services. Chapel Hill, North Car\r",
+        "Carolina: Morgan & Claypool Publishers.\r",
+        "o Farkas, M. G. (2007). Social software in libraries. Medford: Information T\r",
+        "Today.\r",
+        "o Casey, M. E., & Savastinuk, L. C. (2007). Library 2.0. Medford: Information \r",
+        "Today."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1773,6 +1784,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 이은택, 이영음. (2017). 뉴미디어론. 한국방송통신대학교출판문화원.",
+        "○ 오택섭, 강현두, 최저호, 안재현. (2015). 뉴미디어와 정보사회. 나남. ",
+        "○ 김경희. (2018). 한국 사회와 뉴미디어 확산. 한울.",
+        "○ 박준식, 김정현. (1992). 뉴미디어와 도서관. 계명대학교출판부.",
+        "○ Standage, Tom. (2015). 소셜 미디어 2000년 : 파피루스에서 페이스북까지. 열린책들.",
+        "○ Mon, L. M. (2015). Social media and library services. Chapel Hill, North Carolina: Morgan & Claypool Publishers.",
+        "○ Lon Safke. (2010). The Social Media Bible: Tactics, Tools, and Strategies for Business Success. 2nd ed. Wiley."
+      ]
+    }
   }
 }

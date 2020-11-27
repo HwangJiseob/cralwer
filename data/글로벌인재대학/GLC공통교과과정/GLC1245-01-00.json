@@ -49,6 +49,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "● 이연숙. 유니버설디자인_21세기 환경과 제품 디자인 이론과 실제",
+        "● 이연숙. 미래공간과 디자인_21세기 건설환경과 주거복지를 위한 패러다임",
+        "● Roberta Null. Universal Design : Principles and Models, CRC Press. 2013"
+      ]
+    }
   }
 }

@@ -2066,7 +2066,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Computer systems : a programmer's perspective/Bryant, Randal/Prentice Hall/2011 / 2nd ed",
+        "\r○ C programming : a modern approach/King, K. N. (Kim N.)/W.W. Norton & Co./2008 / 2nd ed"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2715,6 +2721,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Computer systems : a programmer's perspective/Bryant, Randal/Prentice Hall/2011 / 2nd ed",
+        "\r○ C programming : a modern approach/King, K. N. (Kim N.)/W.W. Norton & Co./2008 / 2nd ed"
+      ]
+    }
   }
 }

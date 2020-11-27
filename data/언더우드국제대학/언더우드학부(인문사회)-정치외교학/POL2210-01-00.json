@@ -1405,7 +1405,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "We will use a course packet and more info will be provided on the first day of the class."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1986,6 +1991,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Bruce Cumings, Korea's Place in the Sun: A Modern History (W.W. Norton, 2005 [1997])",
+        "Other required readings are available on YSCEC."
+      ]
+    }
   }
 }

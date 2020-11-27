@@ -884,6 +884,29 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Required text",
+        "- Sarkar, D. (2019, 2nd ed.). Text Analytics with Python: A Practitioner's Guide to Natural Language",
+        "* 1st edition을 연세대학교 도서관에서 pdf 형태로 다운로드 할 수 있습니다. ",
+        "",
+        "Optional texts (아래 책들은 구매할 필요 없습니다.)",
+        "  1) For Web scraping",
+        "      - Mitchell, R., (2018, 2nd ed). Web scraping with Python: collecting data from the modern web: O'Reilly Media*.",
+        "  2) For Text Analysis",
+        "     - Chopra et al. (2016). Mastering Natural Language Processing with Python: Packt Publishing.",
+        "3) For Machine Learning",
+        "   -김승연, 정용주 (2017), 처음 배우는 머신러닝, 한빛미디어",
+        "한글 텍스트",
+        "   - 백영민 (2017). R을 이용한 텍스트 마이닝. 한울아카데미",
+        "   - 송민 (2017). 텍스트 마이닝. 도서출판청람",
+        "",
+        "관련 사이트",
+        "- soynlp (http://github.com/lovit) ",
+        "- ratsgo (http://ratsgo.github.io/blog/categories/) ",
+        "- Andrew Ng’s ML: http://www.coursera.org/learn/machine-learning"
+      ]
+    }
   }
 }

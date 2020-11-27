@@ -382,7 +382,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Virginia Woolf, Mrs Dalloway",
+        "Virginia Woolf, To the Lighthouse",
+        "Course reader (available at campus copy center)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -460,6 +467,43 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "James Baldwin: Selected Essays",
+        "Aim? C?saire: Notebook of a Return to the Native Land",
+        "W.E.B. Du Bois: The Souls of Black Folk",
+        "Frantz Fanon: The Wretched of the Earth",
+        "Susan Stanford Friedman: Planetary Modernisms",
+        "Simon Gikandi: Writing in Limbo: Modernism and Caribbean Literature",
+        "Paul Gilroy: The Black Atlantic: Modernity and Double Consciousness",
+        "Edouard Glissant: Poetics of Relation",
+        "Langston Hughes: Selected Poems",
+        "Zora Neale Hurston: Their Eyes Were Watching God",
+        "Claude McKay: Selected Poems",
+        "Ngugi Wa Thiongo: Decolonising the Mind",
+        "Jahan Ramazani: A Transnational Poetics",
+        "Claudia Rankine: Citizen: An American Lyric",
+        "Jean Rhys: Wide Sargasso Sea",
+        "Jean Toomer: Cane",
+        "Derek Walcott: Selected Poems"
+      ]
+    }
+  },
+  "20191": {
+    "LECT_DATA": {
+      "학정번호": "UIC3644-01-00",
+      "과목명": "TOPICS IN MODERNISM"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "A course reader will be available containing works from many of the following figures:",
+        "",
+        "Mulk Raj Anand; Aime Cesaire: Theresa Hak Kyung Choi; Joseph Conrad; J.M. Coetzee",
+        "E.M. Forster; James Joyce; Katherine Mansfield; Susan Stanford Friedman; Paul Gilroy;",
+        "Pak T'aewon; Jahan Ramazani; Jean Rhys; Tayeb Salih; Gayatri Spivak; Rebecca Walkowitz;",
+        "Yi Hyosok; Yi Sang"
+      ]
+    }
   }
 }

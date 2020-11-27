@@ -199,7 +199,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Trygve Tollefsbol. Handbook of Epigenetics: The New Molecular and Medical Genetics, 2nd Edition. 2017. Elsevier Inc."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -431,6 +436,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "David Latchman. Gene Control, 2nd Edition. 2015. Garland Science",
+        "Trygve Tollefsbol. Handbook of Epigenetics: The New Molecular and Medical Genetics, 2nd Edition. 2017. Elsevier Inc."
+      ]
+    }
   }
 }

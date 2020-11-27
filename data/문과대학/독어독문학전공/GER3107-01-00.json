@@ -978,6 +978,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1) 지광신/ 이해욱 (공역), 독일어 문장구조 연구. 한국문화사. 2000.  \r",
+        "  (Günther Grewendorf, Aspekte der deutschen Syntax)\r",
+        "2) Anne Buscha/Gisela Linthout, Das Mittelstufenbuch, Deutsch als \r",
+        "Fremdsprache, Teil 1, Leipzig 2002. \r",
+        "3) Karin Pittner/Judith Berman, Deutsche Syntax. Ein Arbeitsbuch. Narr \r",
+        "Studienbücher 2004. \r",
+        "4) 가스톤 반 데어 엘스트(소만섭 역), 독어 문장론. 한국문화사. 1996.  \r",
+        "5) Albert Busch/Oliver Stenschke, Germanistische Linguistik. Tuebingen 2008.  \r",
+        "6) Dreyer Schmitt, Lehr- und Übungsbuch der deutschen Grammatik. Verlag für \r",
+        "Deutsch. 2002. \r",
+        "\r",
+        "#수업 내용과 독일어 텍스트의 난이도는 수업 첫 주에 학생들의 수준을 고려하여 수\r",
+        "정될 수 있으며, 필요한 자료를 yscec.ac.kr 해당 과목 공지란에 올리면 학생들이 미\r",
+        "리 수업자료를 준비해 오는 방식을 취할 것이다."
+      ]
+    }
   }
 }

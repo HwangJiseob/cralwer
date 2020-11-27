@@ -437,6 +437,39 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "가. 교재 : 기존 출판된 교재를 사용하지 않음. 그 대신 강의와 관련된 유인물을 제공함.",
+        "",
+        "나. 참고도서",
+        "",
+        "<한국어>",
+        "강범모(2002), 언어, 컴퓨터, 코퍼스 언어학, 고려대학교 출판부.",
+        "강승식(2003), 한국어 형태소 분석과 정보검색, 홍릉과학출판사.",
+        "김병선(1992), 국어와 컴퓨터, 도서출판 한실.",
+        "김영택(2003), 자연언어처리, 교학사.",
+        "남경란(2003), 국어사연구를 위한 정보처리법, 태학사.",
+        "서상규, 한영균(1999), 국어정보학입문-인문학과 컴퓨터, 태학사",
+        "연규동,박진호, 최운호(2003), 인문학을 위한 컴퓨터, 태학사.",
+        "",
+        "<영어본>",
+        "Baker, M., G. Francis, & E. Tognini-Bonelli (eds.) (1993) Text and Technology -",
+        " In Honor of John Sinclair, John Benjamins. ",
+        "Hammond, Michael(2004), Programming for Linguistics, Blackwell Publishing. ",
+        "Hunston, Susan and Gill Francis (1999), Pattern Grammer, John Benjamins. ",
+        "John Benjamins Publishing Co.(2001) International Journal of Corpus ",
+        "Linguistics Special Issue 2001.",
+        "Lewis, Michael (1993), The Lexical Approach, Language Teaching Publications. ",
+        "Lewis, Michael (1997), Implementing the Lexical Approach, Language Teaching ",
+        "Publications. ",
+        "Partington, A. (1998), Patterns and Meanings, John Benjamins. ",
+        "Sinclair, J. (1991), Corpus, Concordance, Collocation, Oxford University Press.",
+        "Stubbs, Michael (1995), Text and Corpus Analysis, Blackwell. ",
+        "Stubbs, Michael (2001), Words and Phrases - corpus studies of lexical ",
+        "semantics, Blackwell. ",
+        "Tognini-Bonelli (2001), Corpus Linguistics at Work, John Benjamins."
+      ]
+    }
   }
 }

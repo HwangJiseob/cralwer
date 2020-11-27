@@ -2606,7 +2606,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Management of Information Systems, 15th Edition, by Laudon and Laudon, ",
+        "published by Pearson, Global Edition",
+        "",
+        "Supplemental readings, projects, case studies, application software, Internet ",
+        "resources, presentations, and video cases will be utilized throughout the ",
+        "course"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3271,7 +3281,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Required:",
+        "- Laudon. Management Information Systems: Managing the Digital Firms, 16th edition. Pearson.",
+        "",
+        "* Additional reading materials will be announced in the class."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3615,6 +3633,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Management of Information Systems, 16th Edition, by Laudon and Laudon, ",
+        "published by Pearson, Global Edition",
+        "",
+        "Supplemental readings, projects, case studies, application software, Internet ",
+        "resources, presentations, and video cases will be utilized throughout the ",
+        "course"
+      ]
+    }
   }
 }

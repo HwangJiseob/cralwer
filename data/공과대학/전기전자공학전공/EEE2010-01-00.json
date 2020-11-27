@@ -5372,7 +5372,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재",
+        " Introduction to Electric Circuits (9th Ed.)  (by R. Dorf and J. Svoboda) ",
+        " - Wiley",
+        "     ",
+        "참고문헌",
+        " Basic Engineering Circuit Analysis  (by J. Irwin and C. Wu)",
+        " Electric Circuits  (by Nilsson/Riedel)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -5698,7 +5709,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "`기초회로이론(개정2판)` - 최윤식 저 - 한빛미디어 2017"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -6766,7 +6782,18 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재",
+        " Introduction to Electric Circuits (9th Ed.)  (by R. Dorf and J. Svoboda) ",
+        " - Wiley",
+        "     ",
+        "참고문헌",
+        " Basic Engineering Circuit Analysis  (by J. Irwin and C. Wu)",
+        " Electric Circuits  (by Nilsson/Riedel)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -7317,6 +7344,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Electric Circuits (Nilsson & Riedel, 11 edition)",
+        "* 코로나 상황이 악화되어 온라인 실시간 강의로 진행합니다. Yscec 참고 * ",
+        "* 교재는 Electric Circuits (Nilsson, 11판) 입니다. 교재는 정식버젼을 기준으로 강의를 진행합니다. 불법복제물 등은 사용하면 안됩니다. 저작권에 위배됩니다. 저작권으로 인해, 강의자료에서도 교재내의 많은 부분을 담을 수 없음을 미리 알려드립니다 *"
+      ]
+    }
   }
 }

@@ -658,7 +658,35 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Textbooks",
+        "",
+        "The Gene: An Intimate History by Siddhartha Mukherjee, 2016, SimonandSchuster",
+        "",
+        "Genomic Messages by George Annas and Sherman Elias, 2015, HarperOne",
+        "",
+        "Biocapital: The Constitution of Postgenomic Life by Kaushik Rajan, 2006, Duke University Press",
+        "",
+        "",
+        "References",
+        "",
+        "송기원 저 `생명`, by 로도스",
+        "",
+        "Campbell Essential Biology with Physiology (5th Edition) 5th Edition ",
+        "by Eric J. Simon, Jean L. Dickey, Jane B. Reece, Kelly A. Hogan",
+        "",
+        "Matt Ridley `Genome: The Autobiography of a Species in 23 Chapters`",
+        "",
+        "Hilary Rose and Steven Rose `Genes, Cells, and Brains: The promethean Promises ",
+        "of the New Biology`",
+        "",
+        "Francis Fukuyama 'Our Posthuman Future-Consequence of the Biotechnology Revolution'",
+        "",
+        "Rosi Braidotti 'The Posthuman'"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1056,6 +1084,29 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Textbooks",
+        "",
+        "The Gene: An Intimate History by Siddhartha Mukherjee, 2016, SimonandSchuster",
+        "",
+        "Genomic Messages by George Annas and Sherman Elias, 2015, HarperOne",
+        "",
+        "Genes, Cells and Brains: The Promethean Promises of the New Biology by Hillary and Steven Rose, 2014 , Verso",
+        "",
+        "Biocapital: The Constitution of Postgenomic Life by Kaushik Rajan, 2006, Duke University Press",
+        "",
+        "",
+        "References",
+        "",
+        "송기원 저 `생명`, by 로도스",
+        "",
+        "Campbell Essential Biology with Physiology (5th Edition) 5th Edition ",
+        "by Eric J. Simon, Jean L. Dickey, Jane B. Reece, Kelly A. Hogan",
+        "",
+        "Francis Fukuyama 'Our Posthuman Future-Consequence of the Biotechnology Revolution'"
+      ]
+    }
   }
 }

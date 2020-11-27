@@ -4544,7 +4544,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "4주 까지 ",
+        "J.L. Meriam & L.G. Kraige, Engineerig Mechaincs, STATICS, Wiley",
+        "",
+        "5주 이후",
+        "R. C. Hibbler, Mechanics of Materials, 10th Edition in SI Units",
+        "",
+        "References",
+        "James M. Gere, Mechanics of Materials, 7th edition, Thomson (7판이 출판되었으",
+        "나 내용은 6판과 거의 같고, 연습문제 풀이시 단위 혹은 문제가 다를 수 있음)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -5710,6 +5723,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "4주 까지 ",
+        "J.L. Meriam & L.G. Kraige, Engineerig Mechaincs, STATICS, Wiley",
+        "",
+        "5주 이후",
+        "R. C. Hibbler, Mechanics of Materials, 10th Edition in SI Units",
+        "",
+        "References",
+        "James M. Gere, Mechanics of Materials, 9h edition, Thomson (10판이 출판되었으",
+        "나 내용은 6판과 거의 같고, 연습문제 풀이시 단위 혹은 문제가 다를 수 있음)"
+      ]
+    }
   }
 }

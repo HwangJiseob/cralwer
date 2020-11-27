@@ -924,7 +924,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1363,6 +1368,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- Evans, G. Edward, and Saponano, Margaret Z. 2019. Collection management Basics, 7th Ed. Santa Barbara, CA: Libraries Unlimited",
+        "- 윤혜영. 2020. 디지털시대의 장서관리, 제5판. 서울:한국도서관협회."
+      ]
+    }
   }
 }

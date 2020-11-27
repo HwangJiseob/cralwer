@@ -981,7 +981,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- 김증임 외 (2007). 여성건강 문제의 재조명: 페미니스트적 접근. 엘스비어.",
+        "- 보스턴여성건강서공동체/또문몸살림터 (2005). 우리 몸, 우리 자신. 도서출판 또하나의문화.",
+        "- The Boston Women’s Health Book Collective (2011). Our Bodies, Ourselves. NY: Touchstone",
+        "- 통계청 (2019). 통계로 보는 여성의 삶. 여성가족부 ",
+        "- UN Women: Women and sustainable developmental goals. Accessed July 11, 2019 at ",
+        "- UN Women (2018). Why gender equality matters to achieving all 17 SDGs Digital library: Multimedia UN Women-Headquarters [Infographic]"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1517,6 +1527,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- 김증임 외 (2007). 여성건강 문제의 재조명: 페미니스트적 접근. 엘스비어.",
+        "- 보스턴여성건강서공동체/또문몸살림터 (2005). 우리 몸, 우리 자신. 도서출판 또하나의문화.",
+        "- The Boston Women’s Health Book Collective (2011). Our Bodies, Ourselves. NY: Touchstone",
+        "- 통계청 (2020). 통계로 보는 여성의 삶. 여성가족부 ",
+        "- UN Women: Women and sustainable developmental goals. Accessed July 11, 2019 at ",
+        "- UN Women (2018). Why gender equality matters to achieving all 17 SDGs Digital library: Multimedia UN Women-Headquarters [Infographic]",
+        "- SDG, WHO, Women Deliver and other materials will be provided through YSCEC."
+      ]
+    }
   }
 }

@@ -757,7 +757,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 한국어 교재론/서종학 徐鍾學/한국문화사/2017",
+        "\r○ 영어교재연구/황종배/건국대학교 출판부/2012",
+        "\r○ 영어 교재론 개관 : 이론과 개발/배두본 裵斗本/한국문화사/2008 / 2판",
+        "\r○ Materials and methods in ELT : a teacher's guide/McDonough, Jo/Wiley-Blackwell/2013 / 3rd ed",
+        "\r○ The Complete Guide to the Theory and Practice of Materials Development for Language Learning/Brian Tomlinson/Wiley-Blackwell/2017"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1071,6 +1080,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. 서종학 외(2017), 한국어 교재론, 한국문화사.",
+        "2. 강승혜 외 역(2015), 언어교육과정 개발, 한국문화사.(Jack C. Richards(2001), Curriclum Dvelopment in Language Teaching, Cambridge University Press.)",
+        "3. 안영수(2008), 한국어 교재 연구, 하우 출판사.",
+        "4. 김영란(2011), (언어교육 이론에 비추어 본) 한국어 교육 교재와 연구. 소통.",
+        "5. 황종배(2012), 영어교재연구, 건국대학교 출판부."
+      ]
+    }
   }
 }

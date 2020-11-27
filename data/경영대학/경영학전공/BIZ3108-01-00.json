@@ -5641,7 +5641,12 @@
         "수강여부": "O",
         "비고": "*교환학생"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Managerial Accounting, Asia Global Edition, Second Edition, 2015, By Garrison, Noreen, Brewer, Cheng, Yuen"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -7228,7 +7233,13 @@
         "수강여부": "O",
         "비고": "*교환학생"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Managerial Accounting: An Asian Perspective, McGraw-Hill, International ",
+        "edition, 2nd edition by Garrison, Noreen, Brewer, Cheng, and Yuen"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -7611,7 +7622,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Management Accounting: Information for Decision-Making and Strategy Execution, 6th Edition",
+        "",
+        "저자: Atkinson 외 4인 ",
+        "출판사: Pearson",
+        "ISBN: 9780273769989",
+        "",
+        "저작권 법에 의하여 불법 제본 도서와 불법 PDF 사용을 금지합니다."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -8737,6 +8759,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Managerial Accounting, McGraw-Hill, International Student ",
+        "Edition, 17th edition by Garrison, Noreen, Brewer"
+      ]
+    }
   }
 }

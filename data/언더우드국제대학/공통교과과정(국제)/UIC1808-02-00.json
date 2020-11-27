@@ -9,5 +9,16 @@
         "Integrated Korean: Beginning 2, 2nd Edition (KLEAR Textbooks in Korean Language)/Sung-Ock Sohn/University of Hawaii Press/2010"
       ]
     }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "UIC1808-02-00",
+      "과목명": "BEGINNING KOREAN(2)"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Integrated Korean : beginning . 2/Cho, Young-mee/University of Hawaii Press/2010"
+      ]
+    }
   }
 }

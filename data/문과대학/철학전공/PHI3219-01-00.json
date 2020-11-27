@@ -997,6 +997,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재",
+        "르네 데카르트, 이현복 옮김, <성찰>, 문예출판사, 1997. ",
+        "베네딕투스 데 스피노자, <윤리학>, (기존 국역본은 문제가 많아 근간 예정인 번역본을 제본하여 볼 것입니다)",
+        "빌헬름 라이프니츠, 윤선구 옮김, <형이상학 논고>, 아카넷, 2010.",
+        "",
+        "부교재",
+        "Descartes, Ren?. 1985. The Philosophical Writings of Descartes. Vol. 2. trans by John Cottingham, Robert Stoothoff, and Dugald Murdoch. Cambridge: Cambridge University Press.",
+        "Spinoza, Benedictus de. 1984. 2016. The Collected Works of Spinoza. vol. I, II. Edwin Curley, ed. & trans., Princeton: Princeton University Press. ",
+        "Leibniz, G. W. 1998. Philosophical texts. trans. by Richard Francks and R.S. Woolhouse. Oxford: Oxford University Press. ",
+        "* 첫 시간에 교재와 참고문헌에 대한 자세한 안내가 있을 것입니다. (필참 요)"
+      ]
+    }
   }
 }

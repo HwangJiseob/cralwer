@@ -395,6 +395,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "An Integrated Course in Elementary Japanese GENKI Ⅱ: Second edition, The Japan Times (2011) by Eri Banno, Yoko Ikeda, Yutaka Ohno, Chikako Shinagawa, and Kyoko Tokashiki",
+        "ISBN-13: 978-4789014434"
+      ]
+    }
   }
 }

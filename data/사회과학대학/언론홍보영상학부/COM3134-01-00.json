@@ -5676,7 +5676,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "A list of recent articles on the topics will be provided."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -6814,6 +6819,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "매주마다 강의 자료가 와이섹을 통해 올라갈 예정"
+      ]
+    }
   }
 }

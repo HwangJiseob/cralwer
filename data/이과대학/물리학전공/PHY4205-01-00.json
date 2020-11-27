@@ -1853,7 +1853,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Mathematical Methods for Physicists, Seventh Edition: A Comprehensive Guide by George B. Arfken (2012-01-31)/George B. Arfken;Hans J. Weber;Frank E. Harris/Academic Press/1884"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2137,6 +2142,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "\"Mathematical methods for physicists\" by Arfken, Weber, and Harris"
+      ]
+    }
   }
 }

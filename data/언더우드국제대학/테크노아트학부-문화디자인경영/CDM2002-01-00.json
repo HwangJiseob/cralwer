@@ -1178,7 +1178,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- David A Lauer, Stephen Pentak (2012). Design basics. 8th Edition. Boston, MA: Wadsworth, Cengage Learning.   ",
+        "- Ellen Lupton. Jennifer Cole Phillips(2014). Graphic Design Thinking (Design Briefs). New York: Princeton Architectural Press.",
+        "- William Lidwell (2015). The Pocket Universal Principles of Design. Beverly, MA: Rockport Publishers.",
+        "- Provided handouts about case studies"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1421,6 +1429,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

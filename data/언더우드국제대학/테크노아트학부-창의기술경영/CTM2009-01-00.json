@@ -457,7 +457,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Engineering Accounting, Joosung J. Lee and Insue Kim (2013)",
+        "Lecture Notes:  All lecture notes will be posted on the class website by the Monday before the class."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1039,6 +1045,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Engineering Accounting, Joosung J. Lee and Insue Kim (2013)",
+        "Lecture Notes:  All lecture notes will be posted on the class website by the Monday before the class."
+      ]
+    }
   }
 }

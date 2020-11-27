@@ -4126,7 +4126,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Malhotra, Marketing Research: An Applied Orientation, Sixth Edition, Prentice Hall, 2010."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -5055,6 +5060,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Malhotra, Marketing Research: An Applied Orientation, Sixth Edition, Prentice Hall, 2010."
+      ]
+    }
   }
 }

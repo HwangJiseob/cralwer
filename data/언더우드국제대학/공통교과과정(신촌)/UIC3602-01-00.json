@@ -417,6 +417,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Students will be required to purchase a copy of Shakespeare's Sonnets from the NMH Copy Center the first day of class. On the first day, we will also determine, as a group, the six Shakespeare plays that will be read during the semester. Students are responsible, individually, for procuring a copy of each of these plays.",
+        "",
+        "\r○ A course reader, with Shakespeare's sonnets will be available the first week of class. Students are responsible for procuring the text of each play."
+      ]
+    }
   }
 }

@@ -2143,7 +2143,23 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Pharmacotherapy : a pathophysiologic approach/DiPiro, Joseph T/McGraw-Hill Medical/2017 / 10th ed",
+        "\r○ The clinical practice of drug information/Gabay, Michael/Jones & Bartlett Learning/2016",
+        "\r○ Pharmaceutical care practice, 3rd ed.",
+        "   Authors: Robert J. Cipolle, Linda M. Strand, Peter C. Morley",
+        "   Publisher: McGraw-Hill",
+        "   Publication Year: 2012",
+        "",
+        "\r○ 약물치료학, 4th ed.",
+        "  Authors: 한국임상약학회",
+        "  ISBN: 978-8957024669",
+        "  Publisher: 신일북스",
+        "  Publication Year: 2017"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2794,6 +2810,26 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ The clinical practice of drug information/Gabay, Michael/Jones & Bartlett Learning/2016",
+        "\r○ Pharmaceutical care practice, 3rd ed.",
+        "   Authors: Robert J. Cipolle, Linda M. Strand, Peter C. Morley",
+        "   Publisher: McGraw-Hill",
+        "   Publication Year: 2012",
+        "",
+        "\r○ 약물치료학, 4th ed.",
+        "  Authors: 한국임상약학회",
+        "  ISBN: 978-8957024669",
+        "  Publisher: 신일북스",
+        "  Publication Year: 2017",
+        "",
+        "\r○ Pharmacotherapy : a pathophysiologic approach. 11th ed.",
+        "   Authors: DiPiro, Joseph",
+        "   Publisher: McGraw-Hill",
+        "   Publication Year: 2019"
+      ]
+    }
   }
 }

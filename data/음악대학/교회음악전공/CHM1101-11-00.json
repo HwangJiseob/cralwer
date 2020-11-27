@@ -43,6 +43,37 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Organ Technique: Modern and Early by George B. Stauffer and George Ritchie",
+        "오르간 정격 연주법 1, 2 욘 라우크빅 저. 마루 출판사",
+        "각자 학습할 곡들의 악보"
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "CHM1101-11-00",
+      "과목명": "전공실기"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1학년 박시온 ",
+        "N. Bruhns, Praeludium E-moll",
+        "J. S. Bach, Praeludium und Fuge B-moll, BWV544",
+        "C. Franck, Choral en la",
+        "",
+        "4학년 김세연 ",
+        "J. S. Bach, Praeludium und Fuge G-dur, BWV550",
+        "Ch. M. Widor, 6e Symphonie, Op. 42, Nr. 2, V. Final",
+        "O. Messiaen, L'Ascension, III. Transport de joie d' une ame devant la Gloire du Christ qui est la sienne ",
+        "                    ",
+        "4학년 유수현 ",
+        "J. S. Bach, Toccata C-dur, BWV564",
+        "N. de Grigny, Ave Maris Stella",
+        "M. Durufle, Suite Op.5- Toccata"
+      ]
+    }
   }
 }

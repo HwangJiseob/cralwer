@@ -953,6 +953,19 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Friedrich Nietzsche. Beyond Good and Evil, trans. Walter Kaufmann. New York: Vintage Books, 1989. ",
+        "",
+        "Martin Heidegger. Being and Time, trans. John Macquarrie and Edward Robinson. New York: Harper & Row, 1962.",
+        "",
+        "Emmanuel Levinas. Infinity and Totality, trans. Alphonso Lingis. Pittsburgh: Duquesne University Press, 1969. ",
+        "",
+        "Jacques Derrida. “Differance\" in Marins of Philosophy, trans. Aman Bass. Chicago: University of Chicago Press, 1984.",
+        "",
+        "___________. Of Hospitality, trans. Rachel Bowlby. Stanford: Stanford University Press, 2000."
+      ]
+    }
   }
 }

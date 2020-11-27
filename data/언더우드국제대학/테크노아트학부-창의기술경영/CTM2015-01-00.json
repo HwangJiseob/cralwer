@@ -1242,7 +1242,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Wygandt, Kimmel and Kieso, \"Financial Accounting IFRS Edition, 3rd Edition\", Wiley"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1570,6 +1575,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Wygandt, Kimmel and Kieso, \"Financial Accounting IFRS Edition,4th Edition\", Wiley"
+      ]
+    }
   }
 }

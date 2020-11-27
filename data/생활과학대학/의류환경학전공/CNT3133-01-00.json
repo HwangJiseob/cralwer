@@ -1895,7 +1895,18 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1) Linda Holtzschue.\"Understanding Color- An Introduction for Designers(5th ",
+        "edition, e-book)\",John Wiley & Sons,Inc. NewJersey (2017).",
+        "2) Betty Edwards. “Color”, Tarcher/Penguin, New York (2004)",
+        "3) Terry Lee Stone.\"Color Design Workbook\".Rockport.Massachusettes(2006).",
+        "4) Steven Bleicher, “Contemporary Color, Theory & Use (2nd ed.)”, Delmar, ",
+        "New York (2012)",
+        "5) 조현주, 이광훈 정혜민. \"쉽게 이해하는 색채학\", (주)시그마프레스, 서울 (2016)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2516,6 +2527,20 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1) Linda Holtzschue. Understanding Color- An Introduction for Designers(5th ",
+        "edition, e-book), John Wiley & Sons,Inc., NewJersey (2017)",
+        "2) Patti Mollica. Special Subjects: Basic Color Theory: An introduction to color for beginning artists, Walter Foster Publishing, Lake Forest, California (2018)",
+        "3) Betty Edwards. Color, Tarcher/Penguin, New York (2004)",
+        "4) Terry Lee Stone. Color Design Workbook, Rockport, Massachusettes (2006).",
+        "5) Josef Albers & Nicholas Fox Weber. Interaction of Color: 50th Anniversary Edition, Yale University Press, New Haven, Connecticut (2013) ",
+        "6) Joann Eckstut & Arielle Eckstut. The Secret Language of Color: Science, Nature, History, Culture, Beauty of Red, Orange, Yellow, Green, Blue & Violet, Black Dog & Leventhal Publisher, New York (2013) ",
+        "7) Jesse Day. Line Color Form: The Language of Art and Design, Skyhorse Publishing Inc. New York (2013)",
+        "8) Steven Bleicher. Contemporary Color, Theory & Use (2nd ed.), Delmar, New York (2012)",
+        "9) 조현주, 이광훈, 정혜민. 쉽게 이해하는 색채학, (주)시그마프레스, 서울 (2016)"
+      ]
+    }
   }
 }

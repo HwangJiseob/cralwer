@@ -949,7 +949,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Foundations of Behavioral Neuroscience (9th Ed.) by Neil R. Carlson"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1290,6 +1295,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Foundations of Behavioral Neuroscience (9th Ed.) by Neil R. Carlson"
+      ]
+    }
   }
 }

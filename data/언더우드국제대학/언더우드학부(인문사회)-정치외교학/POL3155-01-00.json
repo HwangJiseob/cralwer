@@ -437,6 +437,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- George Edwards, Kenneth Mayer, and Stephen Wayne. 2018 Presidential Leadership: Politics and Policy Making, 10th ed. Lanham: Roman and Littlefield.",
+        "- William Howell. 2015. Thinking about the Presidency: The Primacy of Power. Princeton, NJ: Princeton University Press."
+      ]
+    }
   }
 }

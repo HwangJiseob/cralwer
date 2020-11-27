@@ -1506,7 +1506,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "To be announced during the first class hour"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2429,6 +2434,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Solid waste engineering/Vesilind, P. Aarne/Brooks/Cole/Thomson Learning/2002",
+        "\r○ Wastewater engineering : treatment and resource recovery/Tchobanoglous, George/McGraw-Hill Education/2014 / 5th ed."
+      ]
+    }
   }
 }

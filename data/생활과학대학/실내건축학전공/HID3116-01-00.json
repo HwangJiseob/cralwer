@@ -2008,6 +2008,20 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- Mahnke, F. H., Mahnke, R. H. (1993). Color and Light in Man-made Environments. NY: John Wiley & Sons, Inc. ",
+        "- 문은배 (2011). 색채 디자인 교과서. 안그라픽스.",
+        "- Meerwein, G., Rodeck, B. & Mahnke, F. H. (2007). Color-communication in architectural space. Walter de Gruyter.",
+        "-  Aksel K. et al. (2009). Light Perspectives. Actar.",
+        "- Boyce, P. R. (2014). Human factors in lighting. CRC Press.",
+        "- Goldstein, E. B. (2010). 감각과 지각. 7th ed. Cengage Learning.  ",
+        "- Libeskind, D. et al. (2002). The Secret of the Light and Shadow in Architecture. Berlin: Wasmuth.",
+        "- 이선민 (2017). 건축의 색. 미메시스.",
+        "- 존 게이지 (2011). 색채의 역사-미술, 과학 그리고 상징 (박수진·한재현 역). 사회평론. ",
+        "- 마가릿 리빙스턴 (2010). 시각과 예술 (정호성 역). 두성북스."
+      ]
+    }
   }
 }

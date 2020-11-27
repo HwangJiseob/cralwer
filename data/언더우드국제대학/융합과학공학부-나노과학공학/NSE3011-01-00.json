@@ -218,7 +218,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "The pdf files of all course resources are located in the class Google Shared Drive."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -401,6 +406,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Lindsay, S. M. 2010. Chapter 10 Nanobiology. Textbook: Introduction to Nanoscience. Oxford University Press. Available as e-Text in EBSCO Publishing: eBook Academic Collection (EBSCOhost)",
+        "",
+        "Ozin, Arsenault, and Cademartiri. 2009. Chapter 10 Biomaterials and Bioinspiration. Textbook: Nanochemistry: A Chemical Approach in Nanomaterials. 2nd Ed. The Royal Society of Chemistry. ISBN 978-1-84755-895-4",
+        "",
+        "Course Packet: pdf files of all assigned course readings will be uploaded onto the Shared Drive."
+      ]
+    }
   }
 }

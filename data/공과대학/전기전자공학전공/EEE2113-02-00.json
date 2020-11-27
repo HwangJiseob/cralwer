@@ -323,6 +323,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Python 프로그래밍 관련 모든 참고도서",
+        "http://www.tutorialspoint.com/python/index.html",
+        "http://www.w3schools.com/python/"
+      ]
+    }
   }
 }

@@ -108,5 +108,27 @@
         "Texts may include: Art Spiegelman, Maus: A Survivor's Tale; Toni Morrison, Beloved; Han Kang, Human Acts."
       ]
     }
+  },
+  "20191": {
+    "LECT_DATA": {
+      "학정번호": "UIC1401-03-00",
+      "과목명": "WORLD LITERATURE: COMPARATIVE LITERATURE"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "UIC1401-03-00",
+      "과목명": "WORLD LITERATURE: COMPARATIVE LITERATURE"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

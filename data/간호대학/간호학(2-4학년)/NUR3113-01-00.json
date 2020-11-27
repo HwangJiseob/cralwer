@@ -4269,7 +4269,29 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 주교재:",
+        "임숙빈, 김선아, 김성재, 이숙 외(2015). 정신간호총론 제7판. 서울: 수문사.",
+        "",
+        "부교재:",
+        "이경순, 이미경, 김경희(2006). 인간관계와 의사소통. 현문사. ",
+        "Lisa Kennedy Sheldon(2009). Communication for Nurses: Talking with patients ",
+        "(2nded.). Sudbury: Jones and Bartlett.",
+        "Paul L. Wachtel(2011). Therapeutic Communication: Knowing what to say when. ",
+        "(2nded.). New York: Guilford",
+        "",
+        "\r○ 주교재:",
+        "임숙빈, 김선아, 김성재, 이숙 외(2015). 정신간호총론 제7판. 서울: 수문사.",
+        "",
+        "부교재: ",
+        "Lisa Kennedy Sheldon(2009). Communication for Nurses: Talking with patients ",
+        "(2nded.). Sudbury: Jones and Bartlett.",
+        "Paul L. Wachtel(2011). Therapeutic Communication: Knowing what to say when. ",
+        "(2nded.). New York: Guilford"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -5461,6 +5483,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 주교재:",
+        "임숙빈, 김선아, 김성재, 이숙 외(2015). 정신간호총론 제7판. 서울: 수문사.",
+        "",
+        "부교재:",
+        "이경순, 이미경, 김경희(2006). 인간관계와 의사소통. 현문사. ",
+        "Lisa Kennedy Sheldon(2009). Communication for Nurses: Talking with patients. (2nded.). Sudbury: Jones and Bartlett.",
+        "Paul L. Wachtel(2011). Therapeutic Communication: Knowing what to say when. (2nded.). New York: Guilford",
+        "",
+        "\r○ 주교재:",
+        "김선아, 임숙빈, 김성재, 이숙 외. (2020). 정신간호총론 제8판. 서울: 수문사",
+        "",
+        "부교재: ",
+        "Lisa Kennedy Sheldon(2009). Communication for Nurses: Talking with patients. (2nded.). Sudbury: Jones and Bartlett.",
+        "Paul L. Wachtel(2011). Therapeutic Communication: Knowing what to say when. (2nded.). New York: Guilford"
+      ]
+    }
   }
 }

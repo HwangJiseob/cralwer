@@ -7943,7 +7943,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Operations Management : Processes and Supply Chains, 11th Edition, Pearson, 2016, by Krajewski, L., M. Malhotra, and L. Ritzman"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -8634,7 +8639,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Operations Management: Processes and Supply Chains (OMPS), 12th Global Edition, Prentice Hall, 2016, by Krajewski, L., Malhotra, M., and Ritzman, L"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -9464,7 +9474,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "operations management_process and supply chains",
+        "",
+        ": Lee J. Krajewski et al. 12th edition."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -10898,6 +10915,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "생산및운영관리(이인호 저) : YSCEC에 PDF 파일로 업로드 예정"
+      ]
+    }
   }
 }

@@ -910,7 +910,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : 생화학실험교본 (생명대 복사실에서 구입)",
+        "부교재 : Modern Experimental Biochemistry 3rd Ed. (by Rodney F. Boyer)",
+        "부교재 : 실험생화학 개정3판 (한국생화학회저, 탐구당, 구내서점에서 구입)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1040,6 +1047,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : 생화학실험교본 (생명대 복사실에서 구입)",
+        "부교재 : Modern Experimental Biochemistry 3rd Ed. (by Rodney F. Boyer)",
+        "부교재 : 실험생화학 개정3판 (한국생화학회저, 탐구당, 구내서점에서 구입)"
+      ]
+    }
   }
 }

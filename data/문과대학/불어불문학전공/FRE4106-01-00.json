@@ -1334,7 +1334,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Lexicologie - S?mantique, morphologie, lexicographie (2013), A. Lehmann et F. Martin-Berthet, Armand Colin."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1646,6 +1651,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Lexicologie - S?mantique, morphologie, lexicographie 5e ?dition (2018), A. Lehmann et F. Martin-Berthet, Armand Colin.",
+        "",
+        "교재는 개별적으로 준비합니다. 구내서점에서 교재를 구입할 수 없습니다."
+      ]
+    }
   }
 }

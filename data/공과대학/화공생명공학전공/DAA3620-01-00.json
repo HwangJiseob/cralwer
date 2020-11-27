@@ -1805,7 +1805,18 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 :  Polymer Chemistry- An Introduction -, 3rd Ed., Edited by Malcolm ",
+        "          P. Stevens,  Oxford University Press ",
+        "부교재 :  Principle of Polymerization, Eidited by George Odian,",
+        "          published by John Wiley & Sons, Inc.",
+        "          Principles of POLYMER SCIENCE, 2nd Edition, ",
+        "          Edited by P.Bahadur and N.V.Sastry, ",
+        "          published by Alpha Science International Ltd.Oxford, U.K."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2343,6 +2354,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main:  Harry R. Allcock & Frederick W. Lampe, Contemporary Polymer ",
+        "Chemistry, 3rd Edition. ",
+        " Secondary:  ",
+        "1) A. Ravve, Principles of Polymer Chemistry, Plenum",
+        "2) M.P. Stevens, Polymer Chemistry, An Introduction, Oxford Univ. Press, 1990."
+      ]
+    }
   }
 }

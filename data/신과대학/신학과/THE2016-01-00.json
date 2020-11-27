@@ -2905,7 +2905,36 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "[저서]",
+        "닉 보스트롬, 『슈퍼인텔리전스』 (서울: 까치글방, 2017).",
+        "레이 커즈와일, 『마음의 탄생』 (서울: 크레센도, 2016).",
+        "*리처드 니이버, 『그리스도와 문화』(대한기독교서회, 1995).",
+        "*신상규, 『호모 사피엔스의 미래: 포스트휴먼과 트랜스휴머니즘』(서울 : 아카넷, 2014).",
+        "*양명수, 『호모 테크니쿠스: 기술 환경 윤리』(천안: 한국신학연구소, 1995).",
+        "크리스 그레이, 『사이보그 시티즌』 (파주: 김영사, 2016). ",
+        "Jacques Ellul, The Technological Society (New York : Vintage Books, 1964).",
+        "Martin Heidegger, The Question Concerning Technology and Other Essays (New York : Harper & Row, 1977).",
+        "*Noreen L. Herzheld, In Our Image: Artificial Intelligence and the Human Spirit (Minneapolis: Fortress Press, 2002).",
+        "",
+        "",
+        "[논문]",
+        "",
+        "*김동환, “미래 인간은 구원받을 수 있는가?”(2013).",
+        "*______, “테크놀로지 시대의 인간에 대한 신학적 비평”(2016).",
+        "*______, “AI(인공지능)에 대한 신학적 담론의 형성 및 방향 모색”(2016).",
+        "*______, “포스트휴먼으로서의 인간에 관한 철학적 신학의 비평”(2019).",
+        "______, “Comparing Transhumanism with Christian Humanism”(2011).",
+        "______, “Technological Imagination of Artificial Intelligence in the Light of the Decalogue\" (2012).",
+        "Max More, \"Transhumanism\" (1990).",
+        "________, \"On Becoming Posthuman\" (1994).",
+        "*Nick Bostrom, \"In Defence of Posthuman Dignity\" (2005).",
+        "",
+        "#지정도서로 구비되어 있지 않은 저서와 논문 및 그 외 자료들은 YSCEC에서 열람 가능합니다."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3555,6 +3584,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Brown, David. Divine Generosity and Human Creativity: Theology through Symbol, Painting and Architecture, edited by Christopher R. Brewer and Robert MacSwain. Abingdon and New York, NY: Routledge, 2017.",
+        "Vanhoozer, Kevin J. Pictures at a Theological Exhibition: Scenes of the Church's Worship, Witness and Wisdom. Downers Grove, IL: IVP Academic, 2016.",
+        "Reisacher, Evelyne A. Dynamics of Muslim Worlds: Regional, Theological, and Missiological Perspectives. Downers Grove, IL: IVP Academic, 2017.",
+        "Rae, Murray A. Architecture and Theology: The Art of Place. Waco, TX: Baylor, 2017.",
+        "Viladesau, Richard. Theological Aesthetics: God in Imagination, Beauty, and Art. New York: Oxford University Press, 1999."
+      ]
+    }
   }
 }

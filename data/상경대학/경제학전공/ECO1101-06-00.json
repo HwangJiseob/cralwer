@@ -2109,7 +2109,17 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "**Text book (will be provided.)",
+        "",
+        "",
+        "- Anton's Elementary Linear Algebra (10th ed.)",
+        "- Stewart's Essential Calculus(2nd ed.)",
+        "- Mathematics for Economists (by Simon and Blume)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -2225,7 +2235,17 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "**Text book (Pdf file will be provided.)",
+        "",
+        "",
+        "- Mathematics for Economists (Simon and Blume)",
+        "- Stewart's Essential Calculus(2nd edi)",
+        "- Anton's Elementary Linear Algebra"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2350,7 +2370,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "**Text book (Pdf file will be provided.)",
+        "",
+        "",
+        "- Mathematics for Economists (Simon and Blume)",
+        "- Stewart's Essential Calculus(2nd edi)",
+        "- Anton's Elementary Linear Algebra"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2945,6 +2975,15 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "**Text book (Pdf file will be provided.)",
+        "",
+        "- Stewart's Essential Calculus(2nd edi)",
+        "- Anton's Elementary Linear Algebra",
+        "- Mathematics for Economists (Simon and Blume)"
+      ]
+    }
   }
 }

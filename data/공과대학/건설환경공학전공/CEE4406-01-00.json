@@ -2831,7 +2831,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3131,6 +3136,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재 : Principles of Geotechnical Engineering, 7th edition, Braja M. Das 저",
+        "부교재 : 토질역학(이론과 응용), 김상규 저"
+      ]
+    }
   }
 }

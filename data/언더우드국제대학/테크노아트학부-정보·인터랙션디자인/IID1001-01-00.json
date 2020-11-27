@@ -907,7 +907,21 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "There is no textbook to be purchased in this course. Topics and themes are chosen from ",
+        "the following list:",
+        "?  Bill Buxton (2007). Sketching User Experiences",
+        "?  Alan Cooper, Robert Reimann and David Cronin (2007). About Face 3: The Essentials of Interaction Design",
+        "?  Bill Moggridge (2007). Designing Interactions",
+        "?  Kevin Mullet and Darrell Sano (1994). Designing Visual Interfaces",
+        "?  Donald A. Norman (2002). The Design of Everyday Things",
+        "?  Helen Sharp, Yvonne Rogers, and Jenny Preece (2007). Interaction Design: Beyond Human-Computer Interaction",
+        "?  Jane Fulton Suri (2005). Thoughtless Acts? Observations on Intuitive Design",
+        "?  Susan M. Weinschenk (2010). 100 Things Every Designer Need to Know About People"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -997,7 +1011,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "All the course-related documents and materials will be provided at YSCEC. Students are required to check YSCEC on a regular basis and to submit their assignments at YSCEC. There is no textbook to be purchased in this course. Topics and themes are chosen from the following list. ",
+        "- Donald Norman, The Design of Everyday Things",
+        "- Kevin Mullet and Darrell Sano, Designing Visual Interfaces",
+        "- Richard Saul Wurman, Information Anxiety",
+        "- Edward Tufte, Envisioning Information",
+        "- Rob Carter, Ben Day, Phillip Meggs, Typographic Design: Form and Communication",
+        "- Alan Cooper, Robert Reimann and David Cronin, About Face 3: The Essentials of Interaction Design",
+        "- Bill Moggridge, Designing Interactions",
+        "- Bill Buxton, Sketching User Experiences"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1145,7 +1172,21 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "There is no textbook to be purchased in this course. Topics and themes are chosen from ",
+        "the following list:",
+        "?  Bill Buxton (2007). Sketching User Experiences",
+        "?  Alan Cooper, Robert Reimann and David Cronin (2007). About Face 3: The Essentials of Interaction Design",
+        "?  Bill Moggridge (2007). Designing Interactions",
+        "?  Kevin Mullet and Darrell Sano (1994). Designing Visual Interfaces",
+        "?  Donald A. Norman (2002). The Design of Everyday Things",
+        "?  Helen Sharp, Yvonne Rogers, and Jenny Preece (2007). Interaction Design: Beyond Human-Computer Interaction",
+        "?  Jane Fulton Suri (2005). Thoughtless Acts? Observations on Intuitive Design",
+        "?  Susan M. Weinschenk (2010). 100 Things Every Designer Need to Know About People"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1196,6 +1237,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "All the course-related documents and materials will be provided at YSCEC. Students are required to check YSCEC on a regular basis and to submit their assignments at YSCEC. There is no textbook to be purchased in this course. Topics and themes are chosen from the following list. ",
+        "- Donald Norman, The Design of Everyday Things",
+        "- Kevin Mullet and Darrell Sano, Designing Visual Interfaces",
+        "- Richard Saul Wurman, Information Anxiety",
+        "- Edward Tufte, Envisioning Information",
+        "- Rob Carter, Ben Day, Phillip Meggs, Typographic Design: Form and Communication",
+        "- Alan Cooper, Robert Reimann and David Cronin, About Face 3: The Essentials of Interaction Design",
+        "- Bill Moggridge, Designing Interactions",
+        "- Bill Buxton, Sketching User Experiences"
+      ]
+    }
   }
 }

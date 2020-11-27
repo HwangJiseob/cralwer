@@ -200,7 +200,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Quentin Skinner, [Visions of Politics: Volumn 1, Regarding Method (Hereafter, VP)] (Cambridge: Cambridge University Press, 2002); and other assigned readings.",
+        "",
+        "* All additional course readings will be available either in PDF format or as a course packet; details TBA."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -767,7 +774,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Quentin Skinner, [Visions of Politics, Volume I: Regarding Method] (Hereafter, VP) (Cambridge: Cambridge University Press, 2002).",
+        "",
+        "Other course readings (journal articles and book chapters) will be made available at and via YSCEC."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1391,6 +1405,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Quentin Skinner, [Visions of Politics: Volume I, Regarding Method] [Hereafter, VP] (Cambridge: Cambridge University Press, 2002); this is available as an electronic book (E-book) via Yonsei University Library. ",
+        "",
+        "Other course readings (articles and book chapters) will be made accessible via YSCEC."
+      ]
+    }
   }
 }

@@ -267,5 +267,53 @@
         "비고": ""
       }
     ]
+  },
+  "20191": {
+    "LECT_DATA": {
+      "학정번호": "FNS2102-01-02",
+      "과목명": "생화학"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: 생화학, Capmbell, Farrell, 라이프사이언스",
+        "부교재: 하퍼생화학, 범문에듀케이션"
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "FNS2102-01-02",
+      "과목명": "생화학"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "<생화학 강의>",
+        "1)교재명 : Garrett biochemistry 4판",
+        "  저자 : Garrett, Reginald H., Grisham, Charles M.",
+        "  출판사 : Cengage ",
+        "",
+        "2)교재명 : Campbell biochemistry 8판",
+        "  저자 : Mary K. Campbell, Shawn O. Farrell",
+        "  출판사 : Cengage",
+        " ",
+        "3)교재명 : Harper's Illustrated biochemistry",
+        "  저자 : Victor W. RODWELL, David A. BENDER, Kathleen M.BOTHAM, Peter J. ",
+        "  출판사 : Mcgraw-Hill",
+        "",
+        "",
+        "<생화학 실험>",
+        "1)교재명 : 이해하기 쉬운 생화학 실험 (2014)",
+        "  저자 : 신경옥 외 7명",
+        "  출판사 : 파워북",
+        "",
+        "2)교재명 : 생화학 실험서 (2014)",
+        "  저자 : 김해신",
+        "  출판사 : 월드 사이언스",
+        "",
+        "3)교재명 : 생화학 실험 (2015)",
+        "  저자 : 부성희 외 3명",
+        "  출판사 : 청문각"
+      ]
+    }
   }
 }

@@ -3224,7 +3224,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Rocamora A. & Smelik, A. (2015). Thinking through Fashion: A Guide to Key Theorists. I.B.Tauris-Bloomsbury: London."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -4266,6 +4271,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Huggard, E. & Cope, J. (2020). Communicating Fashion Brands: Theoretical and Practical Perspectives. London and New York: Routledge, Taylor & Francis.",
+        "Mair, C. (2018). The Psychology of Fashion. London: Routledge, Taylor & Francis."
+      ]
+    }
   }
 }

@@ -2368,6 +2368,19 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Text Book",
+        "      D.E.Seborg, T.F.Edgar, D.A.Mellichamp, F.J.Doyle, Process Dynamics and Control, 3rd edition, Wiley",
+        "",
+        "Reference Books",
+        "      George Stephanopoulos, Chemical Process Control, Prentice Hall",
+        "      Donald R. Coughanowr and Steven E. LeBlanc, Process Systems Analysis and Control, 3 rd Ed., McGraw Hill, 2009",
+        "      이광순, 이재형, 공정제어 이론과 실무, 도서출판 아진, 2013",
+        "      Thomas E. Marlin, Process Control, 2nd Ed., McGraw Hill",
+        "      C.A. Smith, A.B. Corripio, Principles and Practices of Automatic Process Control, 3rd Ed., John Wiley & Sons"
+      ]
+    }
   }
 }

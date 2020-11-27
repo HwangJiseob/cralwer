@@ -1790,7 +1790,17 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "PPT Handouts (Lecture Notes)",
+        "Reference Books: ",
+        "  - Bioelectromagnetism (http://www.bem.fi/book/ or www.bem.fi/book/book.pdf)",
+        "  - Medical Imaging Signals and Systems ",
+        "  - Medical Instrumentation Application and Design, 4th Edition (John G. Webster)",
+        "  - More to be announced in class"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3041,6 +3051,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "PPT Handouts (Lecture notes; will be provided before classes)",
+        "",
+        "Referencing Books: ",
+        "Medical device technologies a systems based overview using engineering standards, Gail D Baura, Elsevier, Academic Press, 2012",
+        "Principles of Biomedical Instrumentation, Andrew G. Webb, Cambridge University Press, 2018",
+        "Bioelectromagnetism (http://www.bem.fi/book/ or www.bem.fi/book/book.pdf)",
+        "Medical Imaging Signals and Systems ",
+        "Medical Instrumentation Application and Design, 4th Edition (John G. Webster)"
+      ]
+    }
   }
 }

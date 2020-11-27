@@ -1449,7 +1449,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Social research methods/Bryman, Alan/Oxford University Press/2008 / 3rd ed",
+        "\r○ *This is not a required textbook to purchase or borrow. Try reading some if necessary for your own practice of designing your research."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -1595,7 +1601,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Social research methods/Bryman, Alan/Oxford University Press/2008 / 3rd ed",
+        "\r○ *This is not a required textbook to purchase or borrow. Try reading some if necessary for your own practice of designing your research."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1896,7 +1908,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Social research methods/Bryman, Alan/Oxford University Press/2008 / 3rd ed",
+        "\r○ *This is not a required textbook to purchase or borrow. Try reading some if necessary for your own practice of designing your research."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2043,6 +2061,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Social research methods/Bryman, Alan/Oxford University Press/2008 / 3rd ed",
+        "\r○ *This is not a required textbook to purchase or borrow. Try reading some if necessary for your own practice of designing your research."
+      ]
+    }
   }
 }

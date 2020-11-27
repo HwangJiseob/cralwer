@@ -2344,6 +2344,19 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Interaction Design: Beyond Human-Computer Interaction/Yvonne Rogers/Wiley/2015",
+        "\r○ Text Book:Interaction Design: Beyond Human-Computer Interaction 4rd Edition, ",
+        "by Preece, Rogers and Sharp(Wiley & Sons, 2015)",
+        "",
+        "Recommended Book:",
+        " Human Computer Interaction 개론, by 김진우 (안그라픽스, 2005)",
+        " Designing the User Interface, by Ben Shneiderman (Addison-Wesley, 1998)",
+        " User-Centered Design, Karel Vredenburg (Prentice Hall, 2002)",
+        " Usability Engineering, Jakob Nielsen (Morgan Kaufmann, 1993)"
+      ]
+    }
   }
 }

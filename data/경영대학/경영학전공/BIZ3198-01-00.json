@@ -3013,7 +3013,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -3564,7 +3569,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "No textbook required. Class materials will be distributed to students every week.",
+        "Reference for Python programming: ",
+        "-Python tutorial is available online: http://docs.python.org/3/tutorial/",
+        "-Wes McKinney (2012) Python for Data Analysis: Data Wrangling with Pandas, Numpy, and IPython. (파이썬 라이브러리를 활용한 데이터 분석, 한빛미디어)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -4521,7 +4534,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "No textbook required. Class materials will be distributed to students every week.",
+        "Reference for Python programming: ",
+        "-Python tutorial is available online: http://docs.python.org/3/tutorial/",
+        "-Wes McKinney (2012) Python for Data Analysis: Data Wrangling with Pandas, Numpy, and IPython. (파이썬 라이브러리를 활용한 데이터 분석, 한빛미디어)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -5535,6 +5556,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "No textbook required. Class materials will be distributed to students every week.",
+        "Reference for Python programming: ",
+        "-Python tutorial is available online: http://docs.python.org/3/tutorial/",
+        "-Wes McKinney (2012) Python for Data Analysis: Data Wrangling with Pandas, Numpy, and IPython. (파이썬 라이브러리를 활용한 데이터 분석, 한빛미디어)"
+      ]
+    }
   }
 }

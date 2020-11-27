@@ -2136,6 +2136,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Solid State Chemistry and its Applications, 2nd Edition, Student Edition",
+        "Anthony R. West",
+        "ISBN: 978-1-119-94294-8"
+      ]
+    }
   }
 }

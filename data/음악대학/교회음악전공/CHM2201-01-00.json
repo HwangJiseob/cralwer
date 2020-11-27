@@ -323,6 +323,30 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "* 조성음악 및 숫자저음과 관련: , J. B. Christensen",
+        "  * 현대음악의 어법과 관련: , Franck Vaudray, Edition    ",
+        "                            Musicales Rubin",
+        "  * 20 세기 선법 음악과 관련: , Charles Tournemire",
+        "                               volume 5, Bela Bartok"
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "CHM2201-01-00",
+      "과목명": "오르간즉흥연주법(1)"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "* 조성음악 및 숫자저음과 관련: , J. B. Christensen",
+        "  * 현대음악의 어법과 관련: , Franck Vaudray, Edition    ",
+        "                            Musicales Rubin",
+        "  * 20 세기 선법 음악과 관련: , Charles Tournemire",
+        "                               volume 5, Bela Bartok"
+      ]
+    }
   }
 }

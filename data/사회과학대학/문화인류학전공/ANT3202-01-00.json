@@ -841,6 +841,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "매주 읽을 과제는 YSCEC에 업로드 예정 (모든 읽을 거리는 e-journal 혹은 e-book 형태로 연세대 도서관에서 다운로드 가능하므로 교재 구매 필요 없음)",
+        "주요 참고 자료",
+        "Andrew, H. 2005. Tourism Studies and the Social Sciences, London: Routledge. ",
+        "MacCannell, D. 2013 [1976]. The Tourist- A New Theory of the Leisure Class, With a New Introduction. Berkeley: University of California Press. ",
+        "Smith, V. L. (ed.) 1989. Hosts and Guests: The Anthropology of Tourism, The University of Pennsylvania Press (2nd edition).",
+        "Rojek, C. and Urry, J. (eds.) 1997. Touring Cultures: Transformations of Travel and Theory, London and New York: Routledge. ",
+        "그 외에 저널 Annals of Tourism Research에 발표된 글들"
+      ]
+    }
   }
 }

@@ -1940,7 +1940,25 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "There is NO main textbook while my lecture is based on the following textbooks:",
+        "",
+        "1.Gregory Mankiw, Macroeconomics, 9th edition, Worth Publishers, 2015 (only Korean edition is available)",
+        "2.Olivier Blanchard, Macroeconomics, 7th edition, Pearson, 2017",
+        "3.Stephen Williamson, Macroeconomics, after 5th edition, Addison Wesley, 2013",
+        "4.Charles I. Jones, Macroeconomics, after 3rd edition, Norton, 2014 ",
+        "",
+        "For instance, lectures on Keynesian model will be mainly based on Blanchard, Mankiw, and Jones while lectures on Neo-classical models will be mainly based on Williamson. Growth theories can be further studied by choosing any of the above textbooks. ",
+        "",
+        "I do not have a main textbook since none of the existing macro textbooks are perfect. Usually they take one particular view while ignore the other view although none of the theories are perfect. I do not like this approach. Hence, I do not require you to purchase all of the textbooks though I encourage you to get at least one of them for further study. It is not a problem at all even you do not have any of the recommended textbooks. If a student wants to read a textbook written in Korean, I recommend the textbook (1) co-authored by Prof. Jangok Cho and Prof. Chul-In Lee and (2) Prof. Woonchan Jung and Prof. Youngsik Kim.",
+        "",
+        "In order to enhance students' understanding on the materials, a brief (not full!) lecture note will be provided. It contains key concepts and ideas that you will learn throughout the lectures but does not contain detailed explanations.",
+        "",
+        "I further recommend reading various articles from WSJ, Economist, NY Times and etc; whenever necessary, I will provide articles as a further reading."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2112,6 +2130,11 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "N. Gregory Mankiw, \"Macroeconomics\" - 8th Ed. Macmillan"
+      ]
+    }
   }
 }

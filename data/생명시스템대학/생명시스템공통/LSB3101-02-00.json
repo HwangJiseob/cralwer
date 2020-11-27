@@ -3418,7 +3418,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Biochemisrty, 7th Edition",
+        "J. M . Berg",
+        "J. L. Tymoczko",
+        "L. Stryer"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -3884,7 +3892,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 주교재: Lehninger Principles of Biochemistry (sixth edition)\r",
+        "Authors: David L. Nelson and Michael M. Cox Publisher: W. H. Freeman and \r",
+        "Company, NY Study-aid materials (questions, images, videos) from W. H. Freeman"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -4280,7 +4295,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Biochemistry by J. M. Berg, J. L. Tymoczko and L. Stryer (Freeman)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -4874,6 +4894,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Lehninger, Principles of biochemistry; Nelson, Cox: Freeman"
+      ]
+    }
   }
 }

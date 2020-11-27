@@ -2005,7 +2005,32 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(0) Lecture Note  (중도 복사실에서 구매)",
+        "",
+        "",
+        "",
+        "(1) James Evans & William Lindsay,  The Management of Control of Quality,  (참고서적)",
+        "",
+        "",
+        "",
+        "Thomson",
+        "",
+        "",
+        "",
+        "(2) 박성현, 품질공학, 민영사",
+        "",
+        "",
+        "",
+        "(3) Phadke, Quality Engineering Using Robust Design, Prentice Hall",
+        "",
+        "",
+        "",
+        "(4) Montgomery, Introduction to Statistical Quality Control, Wiley"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2892,6 +2917,21 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(0) Lecture Note  (중도 복사실에서 구매/pdf file yscec에 제공 예정)",
+        "",
+        "참고서적",
+        "",
+        "(1) James Evans & William Lindsay,  The Management of Control of Quality, Thomson",
+        "",
+        "(2) 박성현, 품질공학, 민영사",
+        "",
+        "(3) Phadke, Quality Engineering Using Robust Design, Prentice Hall",
+        "",
+        "(4) Montgomery, Introduction to Statistical Quality Control, Wiley"
+      ]
+    }
   }
 }

@@ -2199,7 +2199,25 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "00.Watanabe Naoki(2009),Contemporary Fashion Illustration Techniques,조형사\r",
+        "0.류근종 외(2007), Fashion Illustration 32강,교문사\r",
+        "1.김혜수,Fashion Illustration Work Book,(주)에이픽디자인\r",
+        "2.김성민(1996), 미술과 패션일러스트레이션을 위한 누드포즈, 이즘. \r",
+        "3.빌 테임즈(1996),패션 드로잉, 예경\r",
+        "4.이광훈 외(2001), 패션일러스트레이션을 통한 크리에이티브 디자인의 발상 방법,\r",
+        "전원.\r",
+        "5. Guerre-Lavigne(1979), Methode de dessin figurine de mode\r",
+        "6. Isao Yajima(1998), Fashion Illustration in Europe, Graphic-Sha\r",
+        "7. Drake, N.(1990), Fashion Illustration Today, Thames &Hudson\r",
+        "8. Colin Barnes(1988), The complete guide to fashion illustration, Little \r",
+        "Brown \r",
+        "and Company\r",
+        "9. 각종 패션 잡지"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2485,6 +2503,21 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "00.Watanabe Naoki(2009),Contemporary Fashion Illustration Techniques,조형사",
+        "0.류근종 외(2007), Fashion Illustration 32강,교문사",
+        "1.김혜수,Fashion Illustration Work Book,(주)에이픽디자인",
+        "2.김성민(1996), 미술과 패션일러스트레이션을 위한 누드포즈, 이즘. ",
+        "3.빌 테임즈(1996),패션 드로잉, 예경",
+        "4.이광훈 외(2001), 패션일러스트레이션을 통한 크리에이티브 디자인의 발상 방법,전원.",
+        "5. Guerre-Lavigne(1979), Methode de dessin figurine de mode",
+        "6. Isao Yajima(1998), Fashion Illustration in Europe, Graphic-Sha",
+        "7. Drake, N.(1990), Fashion Illustration Today, Thames &Hudson",
+        "8. Colin Barnes(1988), The complete guide to fashion illustration, Little Brown and Company",
+        "9. 각종 패션 잡지"
+      ]
+    }
   }
 }

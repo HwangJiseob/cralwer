@@ -1428,7 +1428,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1768,6 +1773,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Lecture materials based on the textbooks below",
+        "    - Masteralexis, L. P., Barr, C. A., & Hums, M. A. (6th edition). Principles and Practice of Sport Management. Jones & Bartlett Learning: Sudbury, MA.",
+        "    - Gillentine, A. & Crow, B. (3rd edition). Foundations of Sport Management (3rd ed.). Fit Publishing, WV.",
+        "    - Grewal, D., & Levy, M. Marketing (4th edition). New York: McGraw-Hill.",
+        "    - Mullin, B. J., Hardy, S., & Sutton, W. A. (4th edition). Sport Marketing, Champaign, IL: Human Kinetics.",
+        "2. Additional readings from the instructor"
+      ]
+    }
   }
 }

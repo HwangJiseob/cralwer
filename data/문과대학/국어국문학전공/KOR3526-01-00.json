@@ -1337,6 +1337,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: Understanding Second Language Acquisition, Lourdes Ortega, ( 번역본 파",
+        "일로 제공 ) ",
+        "",
+        "보조교재 : 읽기 자료 제공",
+        "                기타 언어 습득론에 관한 여러가지 책"
+      ]
+    }
   }
 }

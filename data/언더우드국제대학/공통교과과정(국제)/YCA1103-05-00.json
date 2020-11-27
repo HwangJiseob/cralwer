@@ -73,7 +73,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Swenson, Kristin. Bible Babel: Making Sense of the Most Talked About Book of All Time. New York: HarperCollins, 2010. --> Available as an Amazon kindle edition.",
+        "2. The Bible: New Revised Standard Version. --> Available from biblegateway.com."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -163,7 +169,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Swenson, Kristin. Bible Babel: Making Sense of the Most Talked About Book of All Time. New York: HarperCollins, 2010. --> Available as an Amazon kindle edition.",
+        "2. The Bible: New International Version. --> Available from biblegateway.com."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -300,6 +312,23 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Alister McGrath, Christian Theology: An Introduction (Wiley-Blackwell, 2016)",
+        "C.S. Lewis, Mere Christianity (HarperOne, 2015)",
+        "Elizabeth Johnson, Quest for the Living God: Mapping Frontiers in the Theology of God (Continuum, 2011)",
+        "Tish Harrison Warren, Liturgy of the Ordinary: Sacred Practices in Everyday Life (IVP Books, 2016)",
+        "Angela Gorrell, Always On (Baker Academic, 2019)",
+        "B.J.Oropeza, The Gospel According to Superheroes (Peter Lang Publishing, 2005)",
+        "Kevin Vanhoozer, Everyday Theology (Baker Academic, 2007)",
+        "",
+        "For the Book Review",
+        "A. J. Cronin, The Keys of the Kingdom",
+        "Nikos Kazantzakis, Zorba the Greek",
+        "Donald Miller, Blue Like Jazz",
+        "William Romanowski, Eyes Wide Open (Brazos Press, 2007)"
+      ]
+    }
   }
 }

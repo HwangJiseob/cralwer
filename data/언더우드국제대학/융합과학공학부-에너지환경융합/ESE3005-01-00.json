@@ -644,7 +644,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Fundamentals of renewable energy processes/Da Rosa, Aldo Vieira/Elsevier/AP/2013 / 3rd ed",
+        "",
+        "○ Dye-sensitized solar cells/Kalyanasundaram, Kuppuswamy/CRC ; Taylor & Francis [distributor],/2010",
+        "",
+        "○ Electrochemical supercapacitors scientific fundamentals and technological applications/Conway, B. E/Plenum Press/1999",
+        "",
+        "Literature from jounals"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -946,6 +957,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Fundamentals of renewable energy processes/Da Rosa, Aldo Vieira/Elsevier/AP/2013 / 3rd ed",
+        "",
+        "",
+        "Literature from jounals"
+      ]
+    }
   }
 }

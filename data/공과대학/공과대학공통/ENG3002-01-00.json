@@ -14843,7 +14843,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 재무관리 기초 원리/Gitman, Lawrence J./사이텍미디어 : SciTech/2008",
+        "\r○ Principles of managerial finance/Gitman, Lawrence J/Pearson/2015 / 7th ed"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -18377,7 +18383,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 재무관리 기초 원리/Gitman, Lawrence J./사이텍미디어 : SciTech/2008",
+        "\r○ Principles of managerial finance/Gitman, Lawrence J/Pearson/2015 / 7th ed"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -22009,7 +22021,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 재무관리 기초 원리/Gitman, Lawrence J./사이텍미디어 : SciTech/2008",
+        "\r○ Principles of managerial finance/Gitman, Lawrence J/Pearson/2015 / 7th ed"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -25642,6 +25660,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Fundamentals of Corporate Finance / Ross, Westerfield and Jordan / McGraw-Hill / 12th Edition",
+        "2. 재무관리 기초 원리 / Lawrence J. Gitman / 사이텍미디어 /2008"
+      ]
+    }
   }
 }

@@ -1888,7 +1888,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Developmental Biology by Scott F. Gilbert, 11th Edition",
+        "교재는 신촌학술정보원에 본과목 지정도서로 지정되어 있습니다."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2285,6 +2291,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Developmental Biology by Scott F. Gilbert, 12th Edition",
+        "교재는 신촌학술정보원에 본과목 지정도서로 지정되어 있습니다."
+      ]
+    }
   }
 }

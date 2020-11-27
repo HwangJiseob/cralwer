@@ -337,6 +337,41 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "별도의 교재는 없으나 가급적 초반에 참고 문헌을 읽고 개괄적인 개념을 파악하면 사례 중심의 토론에서 수준 높은 참여가 가능할 것이다. ",
+        "",
+        "매주 수업 주제에 관련된 리딩 자료와 영상 자료는 별도로 소개한다. ",
+        "",
+        "주요 참고 문헌: ",
+        " (Johnson & Taylor; Wiley-Blackwell, 2018)",
+        "<6 Rules of Strategic PR: 전략 PR 핵심은 분위기다> (혼다 데쓰야 지음; 이정환 옮김; 나무생각, 2018)",
+        "<공중관계 핸드북: Public Relations 바로보기> (신호창 등 ; 커뮤니케이션북스, 2018)",
+        "",
+        "참고 논문: ",
+        "Betteke van Ruler (2018) Communication Theory: An Underrated Pillar on Which Strategic Communication Rests, International Journal of Strategic Communication, 12:4, 367-381",
+        "http://www.tandfonline.com/doi/full/10.1080/1553118X.2018.1452240",
+        "",
+        "Mats Heide, Sara von Platen, Charlotte Simonsson & Jesper Falkheimer (2018) Expanding the Scope of Strategic Communication: Towards a Holistic Understanding of Organizational Complexity, International Journal of Strategic Communication, 12:4, 452-468",
+        "http://doi.org/10.1080/1553118X.2018.1456434",
+        "",
+        "Maureen Taylor & Michael L. Kent (2014) Dialogic Engagement: Clarifying Foundational Concepts, Journal of Public Relations Research, 26:5, 384-398",
+        "http://doi.org/10.1080/1062726X.2014.956106 ",
+        "",
+        "추가 참고 문헌: ",
+        "<갈등해소와 대체적 분쟁 해결: 협상, 조정, 중재 그리고 다양한 ADR 방법> (김영욱; 이화여자대학교출판문화원, 2015) “갈등과 갈등 해소에 대한 이해 (1장)”",
+        "",
+        "<갈등해결의 지혜> (강영진; 일빛, 2009) “갈등을 푸는 대화법 (2장)”",
+        "<어쩌다 한국인> (허태균, 중앙북스, 2016) “관계주의 (3장)”, “심정중심주의 (4장)”",
+        "",
+        "<이 방에서 가장 지혜로운 사람> (토머스 길로비치, 리 로스 지음; 이경식 옮김; 한국경제신문, 2018)",
+        "“어떻게 갈등을 해결할 것인가(7장)”",
+        "",
+        "<마인드웨어: 생각은 어떻게 작동되는가> (리처드 니스벳 지음; 이창신 옮김, 김영사, 2016) “실재와 해석 (16장)”",
+        "",
+        "<거버넌스, 리스크 관리, 컴플라이언스: Governance, Risk Management and Compliance> ((리처드 M 스타인버그 지음; 노동래 옮김; 연암사, 2013) “GRC란 무엇이며, GRC가 왜 중요한가? (1장)”, “문화, 결정적 동인 (2장)”, “힘은 어디에 놓여 있는가 (15장)"
+      ]
+    }
   }
 }

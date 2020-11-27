@@ -878,6 +878,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Espein. A. S(2007). The intentional teacher : choosing the best strategies for young children`s teaching. 이은해외. 공역. 유아교수방법 : 교육적 의도를 가진 교사. 서울 : 양서원.",
+        "2. Trawick-Smith, J.(1994). Interactions in the classroom : Facilitating play in the early years. 송혜린외 역.(2007). 놀이지도 : 아이들을 사로잡는 상호작용. 서울 : 다음세대.",
+        "3. 연세대학교 어린이생활지도 연구원.(1995, 1996). 연세 개방주의 유아교육과정: 반일제 3, 4세 프로그램 & 반일제 5세 프로그램. 서울: 창지사."
+      ]
+    }
   }
 }

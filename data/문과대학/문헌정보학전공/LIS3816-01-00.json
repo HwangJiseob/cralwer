@@ -961,6 +961,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "o 강의노트 및 관련 논문\r",
+        "o Pomerantz, J. (2015). Metadata. Cambridge: MIT Press.\r",
+        "o 남태우 & 이승민. (2014). 정보자원의 기술과 메타데이터. 서울: 한국도서관협회.\r",
+        "o Caplan, P. (2003). Metadata fundamentals for all librarians. Chicago: \r",
+        "American Library Association."
+      ]
+    }
   }
 }

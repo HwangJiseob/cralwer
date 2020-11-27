@@ -2426,7 +2426,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main textbook:",
+        "1) Solid state physics, Harold T. Stokes (Allyn and Bacon INC., 1987)",
+        "Reference:",
+        "1) Elementary Solid State Physics: Principles and Application, M. Ali Omar (Addison-Wesley Publishing Company 1993)",
+        "2) Electronic properties of materials, Rolf E. Hummel (Springer 2001)",
+        "3) Introduction to solid state physics, C. Kittel (Wiley 1996) 8th Ed.",
+        "4) Introduction to electron theory of metals, U. Mizutani (Cambridge 2001)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2978,6 +2989,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Solid state physics/Stokes, Harold T./Allyn and Bacon/1987",
+        "\r○ Elementary solid state physics : principles and applications/Omar, M. Ali/Addison-Wesley Publ./1975",
+        "\r○ Electronic properties of materials/Hummel, Rolf E./Springer-Verlag/1993"
+      ]
+    }
   }
 }

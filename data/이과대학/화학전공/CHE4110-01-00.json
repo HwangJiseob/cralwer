@@ -1246,7 +1246,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: Introduction to quantum mechanics in chemistry, 저자 Mark A. Ratner & \r",
+        "George C. Schatz (Prentice Hall)\r",
+        "부교재: Physical Chemistry: A molecular approach, 저자 McQuarrie and Simon \r",
+        "(University Science Books)\r",
+        "P. Atkins, J. de Paula and R. Friedman, \"Physical Chemistry: Quanta, Matter, \r",
+        "and Change, 2nd edition \" (Oxford University Press, 2014)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1489,6 +1499,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Ratner와 Schatz의 Introduction to Quantum mechanics in chemistry"
+      ]
+    }
   }
 }

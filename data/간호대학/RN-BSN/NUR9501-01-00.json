@@ -1978,7 +1978,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "O주교재",
+        "-강지연 외 (2019). 간호사를 위한 건강사정 (2판: Bates’ Guide to Physical Examination and History Taking). 파주: 군자출판사.",
+        "",
+        "O부교재",
+        "-임경춘 외 (2017). 건강사정 (7판: Javis Physical Examination & Health Assessment). 서울: 정담미디어",
+        "-송경애 외 (2012). 건강사정 (7판: Mosby’s Guide to Physical Examination). 서울: 엘스비어코리아",
+        "-Bickley. (2017). Bates’ Guide to Physical Examination and History Taking, 12th edition. LWW. ",
+        "-Jarvis, C. (2015). Physical Examination & Health Assessment, 7th edition. St. Louis: Saunders Elsevier.",
+        "-Seidel et al. (2010). Mosby’s Guide to Physical Examination, 7th edition. Mosby.",
+        "",
+        "O DVD",
+        "-Carolyn Jarvis (2008). Physical examination & Health Assessment DVD series. Version 2. Elsevier Korea LLC.",
+        "-기본간호학회 (2008). 건강사정 DVD series. Mosby Elsevier."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2318,6 +2335,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main textbook:",
+        "Jarvis, C. (2015). Physical Examination & Health Assessment, 7thedition.St.Louis:SaundersElsevier.",
+        "",
+        "Other references:",
+        "1. Bickley. (2017). Bates’ Guide to Physical Examination and History Taking, 12thedition.LWW.",
+        "2. Seidel et al. (2010). Mosby’s Guide to Physical Examination, 7thedition.Mosby.",
+        "3. Kang et al. (2019). Health Assessment for Nurses (Bates’ Guide to Physical Examination and History Taking ? Korean version). Gun-ja Publication."
+      ]
+    }
   }
 }

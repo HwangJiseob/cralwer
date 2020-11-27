@@ -1314,7 +1314,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Books",
+        "Required:",
+        "- Douglas West, John Ford, & Essam Ibrahim. Strategic Marketing: Creating Competitive Advantage, 3rd Edition. Oxford Univ. Press, 2015."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1574,6 +1581,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Required:",
+        "-Douglas West, John Ford, & Essam Ibrahim. Strategic Marketing: Creating Competitive Advantage, Oxford Univ. Press."
+      ]
+    }
   }
 }

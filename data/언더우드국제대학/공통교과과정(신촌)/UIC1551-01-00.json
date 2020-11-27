@@ -972,7 +972,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1105,6 +1110,32 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Basic/Background Textbook: Eric Foner: `Give Me Liberty!` 2008, 2nd Seagull Edition",
+        "",
+        "`Going To The Source: The Bedford Reader In American History, Volumes I & II`, 2nd Edition",
+        "(Edited by Timothy J. Shannon & Victoria Bissell Brown)",
+        "",
+        "All textbooks will be available on course reserve in the Central Library."
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "UIC1551-01-00",
+      "과목명": "WORLD HISTORY: GROUP II"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Basic/Background Textbook: Eric Foner: `Give Me Liberty!` 2008, 2nd Seagull Edition",
+        "",
+        "`Going To The Source: The Bedford Reader In American History, Volumes I & II`, 2nd Edition",
+        "(Edited by Timothy J. Shannon & Victoria Bissell Brown)",
+        "",
+        "All textbooks will be available on course reserve in the Central Library."
+      ]
+    }
   }
 }

@@ -655,7 +655,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Social research methods : qualitative and quantitative approaches/Neuman, William Lawrence/Allyn & Bacon/2011 / 7th ed"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -704,7 +709,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Social research methods : qualitative and quantitative approaches/Neuman, William Lawrence/Pearson/Allyn and Bacon/2014 / 7th ed., Pearson new international ed"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -782,7 +792,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Janet Ruane, “Introducing Social Research Methods Essentials for Getting the Edge”, Wiley Blackwell, 2016, available on the Yonsei Library website as an e-book at http://bit.ly/2U2fAgP ",
+        "2. Martyn Denscombe, “The Good Research Guide: For Small-Scale Social Research Projects”, Open University Press, 2014, available on the Yonsei Library website as an e-book at http://bit.ly/2Iu3xTM ",
+        "3. Martyn Denscombe, “Research Proposals, A Practical Guide”, Open University Press, 2012, available on the Yonsei Library website as an e-book at http://bit.ly/3cLiejA ",
+        "4. Neuman, William. Social research methods: qualitative and quantitative approaches, Allyn & Bacon, 2014, “Meanings of Methodology”, pp.92-123, available in the Yonsei Library.",
+        "5. Patrick J. Lewis, “Storytelling as Research/ Research as Storytelling”, Qualitative Inquiry, 17(6), 2011, pp.505?510, available in the Yonsei Library."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -832,6 +851,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

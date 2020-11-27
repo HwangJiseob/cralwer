@@ -685,6 +685,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "-Arnold, Corliss Richard. Organ Literature I: Historical Survey, 3rd ed. 조명자 역, 서울: 도서출판 마루, 1999.",
+        "-자체 프린트물"
+      ]
+    }
   }
 }

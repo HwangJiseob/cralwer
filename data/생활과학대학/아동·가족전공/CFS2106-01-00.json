@@ -1134,7 +1134,19 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주) 전영주 외 (번역). (2013). 가족학의 핵심개념. 시그마프레스\r",
+        "McCarthy, J. R. & Edward, R. (2011). Key concepts in Family Studies. \r",
+        "(Online access)\r",
+        "\r",
+        "가족학 이론: 관점과 쟁점. 유계숙. 하우. 2003\r",
+        "\r",
+        "Marriages and Families: Diversity and Change (6th Edition). Mary Ann & \r",
+        "A.Schwartz. Prentice Hall. 2006"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1636,6 +1648,15 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "0 Howe, T. R. (2017). Marriages and Families in the 21st Century: A bioecological approach. Sage publishing.",
+        "0 Schwartz, M. A. A., & Scott, B. M. (2018). Marriages and Families; Diversity and change. (8th Ed). Pearson.",
+        "0 Stinnett, N., Stinnett, M., DeGenova, M. K., & Rice, F. P. (2016). Intimate Relationships, Marriages, and Families. (9th Ed). Oxford University Press.",
+        "0 White, J. M., Martin, T. F., & Adamsons, K. (2019). Family theories: An introduction. (5th Ed). Sage publishing.",
+        "0 Williams, B. K., Sawyer, S. C., & Wahlstrom, C. M. (2020). Marriages, Families, and Intimate Relationships. (5th Ed). Pearson."
+      ]
+    }
   }
 }

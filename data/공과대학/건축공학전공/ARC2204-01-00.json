@@ -1531,6 +1531,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(1)M. David Egan, Architectural Acoustics, McGraw-Hill, 1988.",
+        "(2)이경회, 건축환경계획, 문운당",
+        "(3)Cavanaugh & Wikes, Architectural Acoustics, JohnWiley & Sons, 2000.",
+        "(4)Architectural Lighting Design, Gary Steffy, John Wiley & Sons, Inc.",
+        "(5)Heating, Cooling, Lighting, Norbert Lechner, John Wiley & Sons, Inc.",
+        "(6)Daylight in architecture, Benjamin H. Evans, McGraw-Hill",
+        "(7)건축조명개론, M. David Egan, 지문당",
+        "(8)건축환경계획, 이정재 외 9인, 시그마프레스"
+      ]
+    }
   }
 }

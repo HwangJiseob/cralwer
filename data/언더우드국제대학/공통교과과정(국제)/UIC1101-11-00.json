@@ -169,7 +169,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Hamid, Mohsin. The Reluctant Fundamentalist (2007) Harvest Books.",
+        "Ishiguro, Kazuo. Never Let Me Go (2005) Vintage Books."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -232,7 +238,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -295,7 +306,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -345,7 +361,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "All required materials will be made available as files on YSCEC (the online classroom). Students are encouraged to check YSCEC regularly for notices and reading materials. Students are also encouraged to look up unfamiliar words in the texts."
+      ]
+    }
   },
   "20182": {
     "LECT_DATA": {

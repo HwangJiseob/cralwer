@@ -7032,7 +7032,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "-\"Computer Networking: A Top Down Approach Featuring the Internet 7th edition\" ",
+        "by J.F. Kurose and K.W. Ross, Addision Wesley",
+        "-\"Computer Networks: A Systems Approach, 5th edition\", by  B.S. Davie and L. ",
+        "Peterson"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -8326,6 +8334,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "James Kurose, Keith Ross \"Computer Networking: A top-down approach\" 7th edition"
+      ]
+    }
   }
 }

@@ -2215,7 +2215,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Measurement and Evaluation in Human Performance With Web Study Guide 5th Edition. ",
+        "by James Morrow Jr. (Author), Dale Mood (Author),James Disch (Author),Minsoo Kang (Author).",
+        "ISBN-13: 978-1450470438",
+        "ISBN-10: 1450470432",
+        "Human Kinetics, Aug 25, 2015."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2891,6 +2900,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Measurement and Evaluation in Human Performance With Web Study Guide 5th Edition. ",
+        "by James Morrow Jr. (Author), Dale Mood (Author),James Disch (Author),Minsoo Kang (Author).",
+        "ISBN-13: 978-1450470438",
+        "ISBN-10: 1450470432",
+        "Human Kinetics, Aug 25, 2015."
+      ]
+    }
   }
 }

@@ -1362,7 +1362,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "천연물의약품 Natural Medicines in Clinical Practice , 동명사 Dong Myeong Publishers"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1828,6 +1833,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "천연물의약품 Natural Medicines in Clinical Practice , 동명사 Dong Myeong Publishers"
+      ]
+    }
   }
 }

@@ -3081,7 +3081,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재: 김영채, 현대통계학, 서울 : 박영사",
+        "Busha, C. H.  Research Methods in Librarianship. New York : Academic Press",
+        "SPSS 10.0 Version"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3743,6 +3750,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재: 김영채, 현대통계학, 서울 : 박영사",
+        "Busha, C. H.  Research Methods in Librarianship. New York : Academic Press",
+        "SPSS 10.0 Version"
+      ]
+    }
   }
 }

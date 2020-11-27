@@ -74,7 +74,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Calculus, Early transcendentals, 7th edition  by James Stewart",
+        "Yonsei University Department of Mathematics version",
+        "(*) Yscec 강의 자료 이용",
+        "(*) 참고 서적 : 기초수학, 김상배,김화정,유천성,최은미, 청문각"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -138,6 +146,43 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Calculus, Early transcendentals, 7th edition  by James Stewart",
+        "Yonsei University Department of Mathematics version",
+        "(*) Yscec 강의 자료 이용",
+        "(*) 참고 서적 : 기초수학, 김상배,김화정,유천성,최은미, 청문각"
+      ]
+    }
+  },
+  "20191": {
+    "LECT_DATA": {
+      "학정번호": "GLC1208-01-00",
+      "과목명": "GLC수학"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 교재명 : 기초수학 ",
+        " 1. 저자 : 김상배,김화정,유천성,최은미",
+        " 2. 출판사: 청문각",
+        " 3. ISBN : 978-89-6364-165-2",
+        "\r○ 참고도서 : 기초대학수학"
+      ]
+    }
+  },
+  "20192": {
+    "LECT_DATA": {
+      "학정번호": "GLC1208-01-00",
+      "과목명": "GLC수학"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Calculus, Early transcendentals, 7th edition  by James Stewart",
+        "Yonsei University Department of Mathematics version",
+        "(*) Yscec 강의 자료 이용",
+        "(*) 참고 서적 : 기초수학, 김상배,김화정,유천성,최은미, 청문각"
+      ]
+    }
   }
 }

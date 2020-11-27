@@ -1,0 +1,48 @@
+{
+  "20192": {
+    "LECT_DATA": {
+      "학정번호-분반-실습": "GLC1301-02-00",
+      "과목명": "GLC태권도의이론과실제"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Kukkiwon(2017). The Textbook of Taekwondo Poomsae.",
+        "Lee, Kyong Myong(2000). Korean Traditional Martial Arts, Taekkwondo ",
+        "     ? Philosophy & Culture. Seoul; Hyung Seul Publishing So.",
+        "Lee, Kyu-Hyung(2010). What is Taekwondo Poomsae. Seoul; OSUNG."
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "GLC1301-02-00",
+      "과목명": "GLC태권도의이론과실제"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. 국기원(2017). 태권도 품새 교본.",
+        "   Kukkiwon(2017). The Textbook of Taekwondo Poomsae.",
+        "2. 이경명(2000). 한국 전통무예의 철학, 태권도. 형설출판사.",
+        "   Lee, Kyong Myong(2000). Korean Traditional Martial Arts, Taekwondo : Philosophy & Culture. Hyung Seul Publishing Co.",
+        "3. 이규형(2010). 태권도 품새란 무엇인가. 오성출판사.",
+        "   Lee, Kyu-Hyung(2010). What is Taekwondo Poomsae. OSUNG."
+      ]
+    }
+  },
+  "20202": {
+    "LECT_DATA": {
+      "학정번호": "GLC1301-02-00",
+      "과목명": "GLC태권도의이론과실제"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. 국기원(2017). 태권도 품새 교본.",
+        "   Kukkiwon(2017). The Textbook of Taekwondo Poomsae.",
+        "2. 이경명(2000). 한국 전통무예의 철학, 태권도. 형설출판사.",
+        "   Lee, Kyong Myong(2000). Korean Traditional Martial Arts, Taekwondo : Philosophy & Culture. Hyung Seul Publishing Co.",
+        "3. 이규형(2010). 태권도 품새란 무엇인가. 오성출판사.",
+        "   Lee, Kyu-Hyung(2010). What is Taekwondo Poomsae. OSUNG."
+      ]
+    }
+  }
+}

@@ -947,7 +947,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: 강의노트",
+        "",
+        "참고문헌:",
+        "- 정동렬,조찬식.(2016). 문헌정보학총론. 서울: 한국도서관협회. ISBN:9788976783486",
+        "- 한국문헌정보학회 최신문헌정보학의 이해 편찬위원회. (2013). 최신 문헌정보학의 이해 (개정증보판 2판). 서울: 한국도서관협회.",
+        "- Davis, C. H., & Shaw, D. (Eds.) (2011). Introduction to information science and technology. (ASIST Monograph Series). Medford, NJ: Information Tody, Inc.",
+        "- Rubin, R.E. (2010 or 2015). Foundations of library and information science (3rd or 4rd Ed.). New York: Neal-Schuman Publishers, Inc."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1175,6 +1186,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 최신 문헌정보학의 이해/한국문헌정보학회 한국도서관협회/한국도서관협회/2013",
+        "\r○ 문헌정보학 입문/구본영/한국도서관협회/2003",
+        "\r○ 문헌정보학개론/Rubin, Richard/한국디지틀도서관포럼/2003",
+        "\r○ 교재 : (첫시간에 안내 예정) ",
+        "<아래 교재는 필수 지참은 아니며, 도서관 지정도서 코너에서 이용할 수 있음>"
+      ]
+    }
   }
 }

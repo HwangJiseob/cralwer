@@ -384,7 +384,34 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main Textbook:",
+        "",
+        "① Daniel H. Bays(2012). A New History of Christianity in China. Wiley-Blackwell.",
+        "② Otis Cary(2008), History of Christianity in Japan: Roman Catholic, Greek Orthodox, and Protestant Missions, Tuttle Publishing.",
+        "③ Lim Heekuk, et al(2010), Christianity in Korea: Historical Movements of Protestant Churches, NCCK. ",
+        "",
+        "Book List for Review (Choose 1)",
+        "",
+        "① Jonathan D. Spence(1996), God's Chinese Son: the Taiping Heavenly Kingdom of Hong Xiuquan, W. W. Norton.",
+        "② Archibald Glover(2014), A Thousand Miles of Miracle in China, Create Space Independent Publishing Platform. ",
+        "③ Yiwu Liao(2011), God Is Red: The Secret Story of How Christianity Survived and Flourished in Communist China, HarperOne.",
+        "④ Shusaku Endo(2016), Silence: A Novel, Picador Modern Classics.",
+        "⑤ Ayako Miura(2011), Shiokari Pass, Tuttle Publishing.",
+        "⑥ Robert D. Schildgen(1988), Toyohiko Kagawa: An Apostle of Love and Social Justice, Centenary Books.",
+        "⑦ James S. Gale(1904), The Vanguard: A Tale of Korea, Fleming H. Revell Company.",
+        "⑧ Dong-Ju Yun(2003), Sky, Wind, and Stars, Asian Humanities Press.",
+        "⑨ Luther Martin(2011), Back to the Jerusalem of the East: The Underground House Church of North Korea, Fifth Estate.",
+        "",
+        "References:",
+        "",
+        "기독교의이해편찬위원회편(2019), 기독교, 묻고 답하다, 서울: 청송미디어. ",
+        "Yamamoto Sumiko(2000), History of Protestantism in China: the Indigenization of Christianity, The Toho Gakkai.",
+        "Jai-Keun Choi(2005), Early Catholicism in Korea, Hanul Pub."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -446,7 +473,46 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Clive Staples Lewis, Mere Christianity (San Francisco: HarperSanFrancisco, ",
+        "2001).",
+        "",
+        "Horace G. Underwood, The Call of Korea: Political-Social-Religious (New York: Fleming H. Revell Company, 1908)",
+        "",
+        "Kathryn Tanner, Economy of grace. (Minneapolis : Fortress Press, 2005)",
+        "",
+        "The birth of the living God : a psychoanalytic study / Ana-Maria Rizzuto. Chicago : University of Chicago Press, 1979.",
+        "",
+        "When science meets religion/Barbour, Ian G./HarperSanFrancisco/2000",
+        "",
+        "Paul Tillich, A History of Christian Thought, ed. Carl E. Braaten, (New York, ",
+        "NY: Harper & Row Publishers, 1968).",
+        "",
+        "Niebuhr, H. Richard (Helmut Richard)HarperSanFrancisco, 2001 / 1st ed",
+        "",
+        "",
+        "Alister E. McGrath, Christianity: an introduction (Oxford: Blackwell Pub., ",
+        "2006).",
+        " ",
+        "Harvey Cox, How  to Read the Bible (San Francisco: Harperone, 2016).",
+        "",
+        "Kristin Swenson, Bible Babel (New York: HarperCollins, 2010).",
+        "",
+        "",
+        "Rosemary R. Ruether, Sexism and God Talk: Toward a Feminist Theology (Beacon Press, 1993)",
+        "",
+        "Hamilton, Adam, Christianity and world religions : wrestling with questions people ask (Nashville, Tenn. : Abingdon Press, 2005.)",
+        "",
+        "John Dominic Crossan, Who Is Jesus?: Answers to Your Questions about the Historical Jesus (Westminster John Knox Press, 1999)",
+        "",
+        "Sallie McFague, A New Climate for Theology: God, the World, and Global ",
+        "Warming (Minneapolis, MN: Fortress Press 2008).",
+        "",
+        "Micheal J. Sandel, Justice: What's the Right Thing to Do? (Farrar, Straus and Giroux, 2010)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -536,7 +602,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 나니아 연대기 사자, 마녀 그리고 옷장 / [비디오녹화자료]/Adamson, Andrew/케이디미디어/2006",
+        "\r○ 트루먼쇼 [비디오녹화자료]/Weir, Peter/Paramount home pictures : 새롬엔터테인먼트/2001",
+        "\r○ 브루스 올마이티 [비디오녹화자료]/Shadyac, Tom/브에나 비스타 홈 엔터테인먼트/2003",
+        "\r○ The language of God : a scientist presents evidence for belief/Collins, Francis S./Free Press/2006",
+        "\r○ Call to commitment : the story of the Church of the Saviour, Washington, D.C/O'Connor, Elizabeth/Harper & Row/1963 / [1st ed.]",
+        "\r○ 맬컴 X Vs. 마틴 루터 킹/Cone, James H/갑인공방/2005",
+        "\r○ Christian theology : an introduction/McGrath, Alister E./Wiley-Blackwell/2011 / 5th ed"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -617,6 +694,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 나니아 연대기 사자, 마녀 그리고 옷장 / [비디오녹화자료]/Adamson, Andrew/케이디미디어/2006",
+        "\r○ 트루먼쇼 [비디오녹화자료]/Weir, Peter/Paramount home pictures : 새롬엔터테인먼트/2001",
+        "\r○ 브루스 올마이티 [비디오녹화자료]/Shadyac, Tom/브에나 비스타 홈 엔터테인먼트/2003",
+        "\r○ The language of God : a scientist presents evidence for belief/Collins, Francis S./Free Press/2006",
+        "\r○ Call to commitment : the story of the Church of the Saviour, Washington, D.C/O'Connor, Elizabeth/Harper & Row/1963 / [1st ed.]",
+        "\r○ 맬컴 X Vs. 마틴 루터 킹/Cone, James H/갑인공방/2005",
+        "\r○ Christian theology : an introduction/McGrath, Alister E./Wiley-Blackwell/2011 / 5th ed"
+      ]
+    }
   }
 }

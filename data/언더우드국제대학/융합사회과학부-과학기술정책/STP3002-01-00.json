@@ -615,7 +615,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Cognitive psychology and its implications/Anderson, John R (John Robert)/Worth Publishers/2015 / 8th ed"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -677,7 +682,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Cognitive psychology and its implications/Anderson, John R (John Robert)/Worth Publishers/2015 / 8th ed"
+      ]
+    }
   },
   "20182": {
     "LECT_DATA": {

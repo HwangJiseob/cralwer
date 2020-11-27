@@ -4084,7 +4084,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -5264,7 +5269,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -5590,7 +5600,22 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Hobbes, Thomas, Leviathan, First published in 1651, Most recent Penguin Classics version, 1985.",
+        "John Locke, Second Treatise of Government, ed. by C.B. Macpherson, Hackett                  Publishing, 1980 (First published in 1690)",
+        "John Stuart Mill, On Liberty,  Penguin Books 1974, (First published 1859).",
+        "John Rawls, Justice as Fairness: A Restatement, (ed. by Erin Kelly), 2001, Harvard              University Press",
+        "I.M.D. Little, Ethics, Economics & Politics, Oxford, 2002 (reprinted 2007)",
+        "Arthur M Okun, Equality and Efficiency, The Brookings Institution, 1975.",
+        "Milton Friedman, Capitalism and Freedom, Univ. of Chicago Press, 1982 (First                   published in 1962).",
+        "Hayek, Friedrich A., The Road to Serfdom, Univ. of Chicago Press 2007 (ed. by Bruce Caldwell) Originally Published in 1944)",
+        "Max Weber, The Protestant Ethic and the Spirit of Capitalism, Unwin University                Book, 1974. First published in 1904-5.",
+        "Henry J. Aaron, Thomas E. Mann, Timothy Taylor (eds.), Values and Public Policy,            The Brookings Institution, 1994.",
+        "Benjamin M. Friedman, The Moral Consequences of Economic Growth, Random                 House, 2005."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -6407,6 +6432,21 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Hobbes, Thomas, Leviathan, First published in 1651, Most recent Penguin Classics version, 1985.",
+        "John Locke, Second Treatise of Government, ed. by C.B. Macpherson, Hackett                  Publishing, 1980 (First published in 1690)",
+        "John Stuart Mill, On Liberty,  Penguin Books 1974, (First published 1859).",
+        "John Rawls, Justice as Fairness: A Restatement, (ed. by Erin Kelly), 2001, Harvard              University Press",
+        "I.M.D. Little, Ethics, Economics & Politics, Oxford, 2002 (reprinted 2007)",
+        "Arthur M Okun, Equality and Efficiency, The Brookings Institution, 1975.",
+        "Milton Friedman, Capitalism and Freedom, Univ. of Chicago Press, 1982 (First                   published in 1962).",
+        "Hayek, Friedrich A., The Road to Serfdom, Univ. of Chicago Press 2007 (ed. by Bruce Caldwell) Originally Published in 1944)",
+        "Max Weber, The Protestant Ethic and the Spirit of Capitalism, Unwin University                Book, 1974. First published in 1904-5.",
+        "Henry J. Aaron, Thomas E. Mann, Timothy Taylor (eds.), Values and Public Policy,            The Brookings Institution, 1994.",
+        "Benjamin M. Friedman, The Moral Consequences of Economic Growth, Random                 House, 2005."
+      ]
+    }
   }
 }

@@ -7052,7 +7052,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Marketing 11/E: An Introduction (Paperback) (An Introduction)/ARMSTRONG/PearsonEducacion/2012",
+        "\r○ Lecture Notes (LN): Contains lecture materials for this course."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -8024,7 +8030,13 @@
         "수강여부": "X",
         "비고": "교환학생"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "*Note: Please do not purchase any textbook before September. The textbook requirement will be determined and announced in the first class. ",
+        "Marketing by Roger A. Kerin and Steven W. Hartley (14th edition) or Marketing in Asia by Kerin, Hartley, Berkowitz, and Rudelius (3rd edition)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -8381,7 +8393,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Marketing 11/E: An Introduction (Paperback) (An Introduction)/ARMSTRONG/PearsonEducacion/2012",
+        "\r○ Lecture Notes (LN): Contains lecture materials for this course."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -10123,6 +10141,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- 주교재:",
+        "강의안(YSCEC 업로드)",
+        "",
+        "- (부)교재:",
+        "1. ‘고객지향적 마케팅’, 안광호 저, 북넷",
+        "2. ‘마케팅’, 박종오, 권오영, 편해수 저, 북넷",
+        "3. ‘마케팅원론’, 오세조, 박충환, 김동훈, 김영찬 저, 박영사"
+      ]
+    }
   }
 }

@@ -1106,7 +1106,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Martine Bracops, Introduction a la pragmatique, de Boeck, 2010 (기본 교재)",
+        "Nathalie Garric et Frederic Calas, Introduction a la pragmatique, Hachette, ",
+        "2007 (경우에 따라 부교재)",
+        "L'analyse du discours, Francine Maziere, Que sais-je, 2017"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1363,6 +1371,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Martine Bracops, Introduction a la pragmatique, de Boeck, 2006",
+        "Nathalie Garric et Frederic Calas, Introduction a la pragmatique, Hachette, ",
+        "2007"
+      ]
+    }
   }
 }

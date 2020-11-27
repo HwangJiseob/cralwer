@@ -2061,6 +2061,26 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "복사교재:",
+        "David Bordwell & Kristin Thompson, <영화예술>, 주진숙 이용관 옮김, 이론과 실천",
+        "Herbert Zettl, <영상제작의 미학적 원리와 방법>, 박덕춘 정우근 옮김, 커뮤니케이션북스",
+        "Jack C. Ellis, <세계 영화사>, 변재란 옮김, 이론과 실천",
+        "Andre Bazin, <영화란 무엇인가?>, 박상규 옮김, 시각과 언어",
+        "Sergei Eisenstein, <이미지의 모험>, 전양준 편역, 열린책들",
+        "Jakob Lothe, , Oxford Univ. Press",
+        "Dziga Vertov, <키노 아이>, 김영란 옮김, 이매진 ",
+        "Michel Foucault, \"다른 공간들\", 이상길 옮김, 문학과지성사 ",
+        "이상길, \"이토록 낯선 공간들\",  8호",
+        "Jean Epstein, \"The Essence of Cinema\"",
+        "Wlater Benjamin, \"사진의 작은 역사\"",
+        "Lev Manovich, <뉴미디어의 언어>, 생각의나무",
+        "",
+        "도서관 지정도서:",
+        "Chris Marker, <북녘사람들>, 눈빛"
+      ]
+    }
   }
 }

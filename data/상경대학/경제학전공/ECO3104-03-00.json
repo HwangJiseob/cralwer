@@ -211,7 +211,19 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Introduction to econometrics/Dougherty, Christopher/Oxford University Press/2016 / 5th ed",
+        "\r○ 다음의 교재를 주교재로 한다.",
+        "",
+        "Stock, J. and Watson, M. (2014) Introduction to Econometrics. 6th Edition.",
+        "",
+        "여러 해에 걸치면서 다양한 판이 출판되었다. 본 수업을 위해서는 기존의 어떤 종류",
+        "의 판을 사용해도 학생들에게 무방하다. 그리고 교재보다도 중요한 것은 수업의 참여",
+        "도이다."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -752,6 +764,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Christiann Heij, et al., Econometric Methods with Applications in Business and Economics, Oxford",
+        "G.S. Maddala, Introduction to Econometrics, Wiley",
+        "J.M. Wooldridge, Introductory Econometrics, Thomson, New York."
+      ]
+    }
   }
 }

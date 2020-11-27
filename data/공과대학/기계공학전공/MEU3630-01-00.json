@@ -3093,7 +3093,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Ansel C. Ugural",
+        "Mechanical Design of Machine Components, Second Edition",
+        "CRC Press"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -4162,6 +4169,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Mechanical Design of Machine Components, 2nd ed., AC, Ugural 저, CRC press"
+      ]
+    }
   }
 }

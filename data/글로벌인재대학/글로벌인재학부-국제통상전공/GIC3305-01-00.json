@@ -283,7 +283,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "-statistics for management and economics (Gerald Keller, Cengage technology  edition): 강의수업 및 예제 풀이",
+        "-켈러의 경영경제통계학(Gerald Keller, Cengage technology edition): 강의수업 및 예제 풀이",
+        "",
+        "참고문헌)",
+        "-현대통계학(강병서 외 3인, 무역경영사): SPSS 및 연습문제 풀이",
+        "-SPSS 관련 서적(사회과학통계분석, 강병서, 김계수, 한나래 / SPSS 18.0 매뉴얼, 이학식, 임지훈, 집현재 등)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -751,7 +761,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "-statistics for management and economics (Gerald Keller, Cengage technology  edition): 강의수업 및 예제 풀이",
+        "-켈러의 경영경제통계학(Gerald Keller, Cengage technology edition): 강의수업 및 예제 풀이",
+        "",
+        "참고문헌)",
+        "-현대통계학(강병서 외 3인, 무역경영사): SPSS 및 연습문제 풀이",
+        "-SPSS 관련 서적(사회과학통계분석, 강병서, 김계수, 한나래 / SPSS 18.0 매뉴얼, 이학식, 임지훈, 집현재 등)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1248,6 +1268,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "-statistics for management and economics (Gerald Keller, Cengage technology  edition): 강의수업 및 예제 풀이",
+        "-켈러의 경영경제통계학(Gerald Keller, Cengage technology edition): 강의수업 및 예제 풀이",
+        "",
+        "참고문헌)",
+        "-현대통계학(강병서 외 3인, 무역경영사): 강의 내용 보충 및 연습문제 풀이"
+      ]
+    }
   }
 }

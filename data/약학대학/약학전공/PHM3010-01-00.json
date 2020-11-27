@@ -117,9 +117,33 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Introduction to spectroscopy/Pavia, Donald L./Cengage Learning/2014 / 5th ed",
+        "\r○ Introduction to Spectroscopy,  Pavia, Lampman, Kriz 공저,  Harcourt ",
+        "Brace College Publshers  최신판",
+        "모든 교과서 및 참고문헌은 불법복사한 책은 수업시간에 퇴출되며 발각시마다 감점 10점씩 ",
+        "할 예정임.  물론 open book test에 불법복사물 사용불가."
+      ]
+    }
   },
   "20182": {
+    "LECT_DATA": {
+      "학정번호": "PHM3010-01-00",
+      "과목명": "의약품기기분석"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Introduction to spectroscopy/Pavia, Donald L./Cengage Learning/2014 / 5th ed",
+        "\r○ Introduction to Spectroscopy,  Pavia, Lampman, Kriz 공저,  Harcourt ",
+        "Brace College Publshers  최신판",
+        "모든 교과서 및 참고문헌은 불법복사한 책은 수업시간에 퇴출되며 발각시마다 감점 10점씩 ",
+        "할 예정임.  물론 open book test에 불법복사물 사용불가."
+      ]
+    }
+  },
+  "20202": {
     "LECT_DATA": {
       "학정번호": "PHM3010-01-00",
       "과목명": "의약품기기분석"

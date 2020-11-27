@@ -496,6 +496,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "P-M. Dupuy & J.E. Vinuales, International Environmental Law, 2nd edition, Cambridge University Press, 2018"
+      ]
+    }
   }
 }

@@ -1,0 +1,15 @@
+{
+  "20202": {
+    "LECT_DATA": {
+      "학정번호-분반-실습": "ARC2501-08-00",
+      "과목명": "기초설계"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Architecture in the digital age : design and manufacturing/Kolarevic, Branko/Taylor & Francis/2005",
+        "\r○ Atlas of novel tectonics/Reiser, Jesse/Princeton Architectural Press/2006",
+        "\r○ Architectural graphics/Ching, Frank/John Wiley & Sons/2003"
+      ]
+    }
+  }
+}

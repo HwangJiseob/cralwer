@@ -1654,7 +1654,32 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "-The interview: from Neutral Stance to Political Involvement, A. Fontana and \r",
+        "J. H. Frey\r",
+        "-Banks, Marcus, Which Films are the ethnographic films? (page 116-130)\r",
+        "-Lutkehaus, Nancy, and Jenny Cool, Paradigm lost and found: the \"crisis of \r",
+        "representation\" and visual anthropology(page 116-139)\r",
+        "-Sontag, Susan, In Plato`s cave. In `On Photograph`(page 3-24)\r",
+        "-Trinh, Minh-ha, Film as translation: a net with no fisherman, In `Framer \r",
+        "Framed`(page 111-136)\r",
+        "-Clifford, J. & Marcus, G. (1986). Writing Culture: The Poetics and Politics \r",
+        "of Ethnography. Berkeley: University of California press.\r",
+        "-민속지학적 상상력과 (미디어)문화연구 – 이기형\r",
+        "-이기중, (2011) 사진 인류학의 연구 방법론, 비교문화연구, 17(2), 125-162 \r",
+        "\r",
+        "<편집 관련 기본 추천서>\r",
+        "\r",
+        "-디지털 사진, by National Geographic, 청어람 미디어\r",
+        "-디지털 영상제작, 한국방송영상산업진흥원\r",
+        "\r",
+        "그 외의 자료들은 수업 진행에 따라 수업 웹 까페(cafe.naver.com/didoc)와 수업 시\r",
+        "간에 제시될 예정임. \r",
+        "영상/시각 자료들과 참고문헌들의 디테일은 상세 수업 진행(아래)를 참고할 것."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1885,6 +1910,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

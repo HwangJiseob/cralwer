@@ -8435,7 +8435,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Applied Linear Regression Models by Kutner et al. (4th Edition, Available in the bookstore)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -10631,7 +10636,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "APPLIED LINEAR REGRESSION MODELS, 4th edition, 2004 by Kutner, Nachtsheim, ",
+        "Neter"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -12931,7 +12942,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Applied Linear Regression Models by Kutner et al. (4th Edition, Available in the bookstore)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -14792,6 +14808,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "APPLIED LINEAR REGRESSION MODELS, 4th edition, 2004 by Kutner, Nachtsheim, ",
+        "Neter"
+      ]
+    }
   }
 }

@@ -58,6 +58,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주 교재: ",
+        "Representative Modern Plays. 서국영 편저. 신아사, 1996. (학교 구내서점 또는 온라인 서점에서 구입)",
+        "기타 e-text 및 동영상 (YSCEC 공지 참조)",
+        "",
+        "참고 문헌:",
+        "Christopher Innes. Modern British Drama: The Twentieth Century. Cambridge: Cambridge UP, 2002 (2nd edition)"
+      ]
+    }
   }
 }

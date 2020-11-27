@@ -269,7 +269,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "이근욱, \"왈츠 이후\"",
+        "박재영, \"국제정치 패러다임\"",
+        "Richard Betts,Conflict After the Cold War (Arguments on Causes of War and Peace",
+        "",
+        "이외 추가지정 도서 및 논문"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -388,6 +397,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "이근욱, \"왈츠 이후\"",
+        "박재영, \"국제정치 패러다임\"",
+        "Richard Betts,Conflict After the Cold War (Arguments on Causes of War and Peace",
+        "",
+        "이외 추가지정 도서 및 논문"
+      ]
+    }
   }
 }

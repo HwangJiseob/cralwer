@@ -829,7 +829,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "L. v. Beethoven : Egmont Overture",
+        "J. Strauss : Fledermaus Ouverture",
+        "G. Verdi : La forza del destino Ouverture"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1086,6 +1093,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "스트라빈스키 : 불새 모음곡(1919) 중 론도 ",
+        "무소르그스키 : 전람회의 그림 중 (라벨 편곡) ",
+        "바르톡 : 오케스트라 협주곡 중 인터메쪼",
+        "",
+        "I. Strawinsky : Rondo from  Fire Bird Suite 1919 ",
+        "M. Mussorgsky : Pictures at an exhibition (Arr. Ravel)",
+        "B. Bartok : Intermezzo from  Orchestral Suite"
+      ]
+    }
   }
 }

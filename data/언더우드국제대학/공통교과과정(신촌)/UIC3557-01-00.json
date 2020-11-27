@@ -410,7 +410,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Sunyoung Park and Jefferson J.A. Gatrall, On the Eve of the Uprising and Other Stories (Ithaca: Cornell University Press, 2010)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -949,7 +954,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Michael J. Pettid, Gregory N. Evon, and Chan Park, Premodern Korean Literary Prose: An Anthology (New York: Columbia University Press, 2018)",
+        "Peter Lee, An Anthology of Traditional Korean Literature (Manoa: Hawai’i: University of Hawai’I Press, 2017)",
+        "David R. McCann, Early Korean Literature: Selections and Introductions (New York: Columbia University Press, 2000)",
+        "Richard Rutt, The Bamboo Grove: An Introduction to Sijo (Ann Arbor: University of Michigan Press, 1998)",
+        "Min Pyong-Su, Korean Poetry in Classical Chinese: Encounters between Man and Nature (Seoul: Somyong Publishing, 1999)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1545,6 +1559,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

@@ -582,6 +582,20 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Course Packet",
+        "Heinz Insu Fenkl, Memories of My Ghost Brother; please ",
+        "purchase on your own from any Korean or ",
+        "overseas bookstore.",
+        "Sang-chi: The Master of Kungfu (comics)",
+        "Documentaries",
+        "Munich",
+        "Mulan",
+        "Last Samurai",
+        "Scooby-Doo, and others"
+      ]
+    }
   }
 }

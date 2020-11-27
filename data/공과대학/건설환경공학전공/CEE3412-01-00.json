@@ -2608,7 +2608,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : 이원환 저 \"수문학\", 문운당\r",
+        "부교재 : 윤용남 저 \"공업수문학\", 청문각, 1993\r",
+        "         Linsley et al. \"Hydrology for Engineers\", McGraw Hill, 1982\r",
+        "         Chow et al. \"Applied Hydrology\", McGraw Hill, 1988"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2936,6 +2944,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Introduction to Hydrology by Margulis",
+        "http://margulis-group.github.io/teaching/"
+      ]
+    }
   }
 }

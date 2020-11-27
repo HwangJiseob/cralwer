@@ -61,6 +61,43 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재",
+        "1. 정옥분, 정순화(2014). 결혼과 가족의 이해. 서울: 학지사",
+        "",
+        "부교재 및 주요 참고문헌",
+        "2. 김양희 외(2011). 결혼과 가족. 서울: 양서원",
+        "3. 권석만(2018). 젊은이를 위한 인간관계의 심리학. 서울: 학지사.",
+        "4. Erber, R., & Erber, M. (2018). Intimate relationships: Issues, theories, and research(3rd Edition). New York: Psychology Press.",
+        "5. Noller, P., & Feeney, J. A. (2006). Close relationship: Functions, forms, and processes. New York: Psychology Press.",
+        "",
+        "개별 보고서를 위한 추천도서(개별보고서를 위하여 추천도서 이외의 도서 및 영화 등의 매체를 이용할 수 있음)",
+        "1) 말을 듣지 않는 남자, 지도를 읽지 못하는 여자",
+        "앨런 피즈, 바바라 피즈 지음 이종인 옮김(2011) 출판사: 김영사; ",
+        "2) 5가지 사랑의 언어",
+        "게리 채프먼 지음 장동숙, 황을호 옮김(2010) 출판사: 생명의 말씀사",
+        "3) 친밀한 관계에서 일어난 외상의 치유-사랑의 상처를 치유하는 6단계 프로그램",
+        "데니스 오트만 지음 최희철, 제오복 옮김(2018) 출판사: 학지사"
+      ]
+    }
+  },
+  "20202": {
+    "LECT_DATA": {
+      "학정번호": "GLC1242-01-00",
+      "과목명": "데이팅과결혼"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재",
+        "1. .정옥분, 정순화(2014). 결혼과 가족의 이해. 서울: 학지사",
+        "",
+        "부교재 및 주요 참고문헌",
+        "2. 권석만(2018). 젊은이를 위한 인간관계의 심리학. 서울: 학지사",
+        "3. Erber, R., & Erber, M. (2018). Intimate relationships: Issues, theories, and research(3rd Edition). New York: Psychology Press.",
+        "4. Noller, P., & Feeney, J. A. (2006). Close relationship: Functions, forms, and processes. New York: Psychology Press."
+      ]
+    }
   }
 }

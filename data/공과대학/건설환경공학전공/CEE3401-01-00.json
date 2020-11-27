@@ -2932,7 +2932,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3497,6 +3502,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Textbook: Structural Analysis by R.C. Hibbeler (Prentice Hall)",
+        "          Structural Analysis (Teaching Materials) by Prof. Sang-Ho Lee",
+        "          ",
+        "References: Structural Analysis and Behavior by F. Arbabi",
+        "            Matrix Analysis of Structures by R. E. Sennett"
+      ]
+    }
   }
 }

@@ -4304,7 +4304,36 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재",
+        "김금순 외 역자(2014). 간호사를 위한 건강사정. 서울 : 군자출판사 ",
+        "",
+        "참고도서",
+        "박지원 외 역 (2013). 건강사정. 서울 : 정담미디어 ",
+        "이강이, 박정숙, 이영휘 역 (2013). 건강사정(5판). 서울 : 현문사",
+        "임경춘 외 역 (2012). 건강사정(6판). 서울 :정담미디어",
+        "송경애, 정승교, 조현숙 역 (2012). 건강사정. 7/E. 서울 : 엘스비어코리아",
+        "Bickley, L.S. (2012). Bates’ guide to physical examination and history ",
+        "taking, (11th Ed.). Wolters Kluwer Health/ Lippincott Williams & Wilkins.  ",
+        "Jarvis, C. (2011). Physical Examination & Health Assessment (6th Ed.). St. ",
+        "Louis: Saunders Elsevier.",
+        "Jane W. Ball (2015). Mosby’s Guide to Physical Examination (8th Ed.). Mosby",
+        " http://www.clinicalkey.com.ssl.ymlproxy.yonsei.ac.kr:8000/#!/browse/book/3-",
+        "s2.0-C20120012203",
+        "Dillon, P.M (2007). Nursing Health Assessment: A critical Thinking, Case ",
+        "Studies Approach. Philadelphia: F.A. Davis Company. ",
+        "",
+        "시청각교재",
+        "Seidel, Ball, Dains, Benedict(2008). Mosby`s physical examination DVD series. ",
+        "Elsevier Korea LLC. ",
+        "Carolyn Jarvis (2008). Physical examination & Health Assessment DVD series. ",
+        "Version 2. Elsevier Korea LLC.",
+        "Lynn S. Bickley (2006). Bates` Visual Guide to Physical Examination. 4th ",
+        "edition. Lippincott Williams & Wilkins."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -5540,6 +5569,28 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main textbook",
+        "",
+        "Jarvis, C. (2015). Physical Examination & Health Assessment (7th Ed.). St. Louis: Saunders Elsevier",
+        "",
+        "Reference",
+        "",
+        "강지연 외 역 (2019). (Bates‘ 간호사를 위한) 건강사정. 파주 : 군자출판사",
+        "박지원 외 역 (2013). 건강사정. 서울 : 정담미디어 ",
+        "이강이, 박정숙, 이영휘 역 (2013). 건강사정(5판). 서울 : 현문사",
+        "임경춘 외 역 (2012). 건강사정(6판). 서울 : 정담미디어",
+        "송경애, 정승교, 조현숙 역 (2012). 건강사정. 7/E. 서울 : 엘스비어코리아",
+        "Bickley, L.S. (2017). Bates’ guide to physical examination and history taking, (12th Ed.). Wolters Kluwer Health/ Lippincott Williams & Wilkins",
+        "Jane W. Ball (2015). Mosby’s Guide to Physical Examination (8th Ed.). Mosby",
+        " http://www.clinicalkey.com.ssl.ymlproxy.yonsei.ac.kr:8000/#!/browse/book/3-s2.0-C20120012203",
+        "Dillon, P.M (2007). Nursing Health Assessment: A critical Thinking, Case Studies Approach. Philadelphia: F.A. Davis Company",
+        "Audio-visual materials",
+        "Seidel, Ball, Dains, Benedict(2008). Mosby's physical examination DVD series. Elsevier Korea LLC. ",
+        "Carolyn Jarvis (2015). Physical examination & Health Assessment DVD series. Version 2. Elsevier Korea LLC."
+      ]
+    }
   }
 }

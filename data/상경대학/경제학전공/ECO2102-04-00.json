@@ -9616,7 +9616,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Pindyck & Rubinfeld, Microeconomics 9th Edition, Pearson, 2017"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -10187,7 +10192,14 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main Textbook: Varian, Hal R. Intermediate microeconomics: a modern approach, W.W. Norton & Co",
+        "",
+        "Reference: David Besanco and Ronald Braeutigam, Microeconomics, Wiley"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -11381,7 +11393,14 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주: 'Intermediate Microeconomics with calculus' Hal Varian (9th 2014)",
+        "부: '미시경제학' 김영산&왕규호 (3판 2020)",
+        "보: 'Microeconomics. Theory and applications with calculus' Jeffrey Perloff (4th 2018)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -12632,6 +12651,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재: 이준구(2019). 미시경제학, 7판(이전 판본도 상관없음), 문우사 ",
+        "참고교재: 이영환(2014). 미시경제학, 4판. 율곡출판사"
+      ]
+    }
   }
 }

@@ -13515,7 +13515,14 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "게임이론 (경문사) 한순구 저",
+        "",
+        "홈페이지  http://web.yonsei.ac.kr/sunkuhahn/FreeTalk.htm"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -15542,7 +15549,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "handouts"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -16183,7 +16195,19 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- The class mainly follows my lecture notes, which will be distributed on YSCEC. ",
+        "- Students are encouraged to refer to the following textbooks.",
+        "",
+        "Myerson, Game Theory: Analysis of Conflict, Harvard Univ. Press, 1991.   ",
+        "Osborne and Rubinstein, A Course in Game Theory, MIT Press, 1994. (available at http://arielrubinstein.tau.ac.il )",
+        "Fudenberg and Tirole, Game Theory, MIT Press, 1991.                     ",
+        "Gibbons, Game Theory for Applied Economists, Princeton Univ. Press, 1992. ",
+        "Osborne, An Introduction to Game Theory, Oxford Univ. Press, 2003."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -20606,6 +20630,11 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "handouts / ppt file will be provided on YSCEC"
+      ]
+    }
   }
 }

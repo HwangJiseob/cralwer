@@ -100,6 +100,26 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "이탈리아 가곡 150곡집 상, 하권, 1977 세광 음악 출판사, 정경순 역",
+        "독일 가곡집, 1985 태림 출판사, 김청자 역",
+        "소프라노, 메조 소프라노 아리아 앨범, 1991, G. Shirmer Inc New York, NY,Complied and  Edited by Robert L. Larsen"
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "VOM1101-09-00",
+      "과목명": "전공실기"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "이탈리아 가곡 150곡집 상, 하권, 1977 세광 음악 출판사, 정경순 역",
+        "독일 가곡집, 1985 태림 출판사, 김청자 역",
+        "소프라노, 메조 소프라노 아리아 앨범, 1991, G. Shirmer Inc New York, NY,Complied and  Edited by Robert L. Larsen"
+      ]
+    }
   }
 }

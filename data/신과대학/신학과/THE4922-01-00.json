@@ -551,6 +551,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. 다음 중 택일",
+        "  1) 캐롤 A. 뉴섬, 샤론 H. 린지(엮은이)/장양미, 박인희, 정혜진(옮긴이). 『여성들을 위한 성서주석: 신약 편』. 대한기독교서회: 2012.",
+        "  2) Newsom, Carol A., Sharon H. Ringe, and Jacqueline E. Lapsley (eds.). Women's Bible Commentary. 3rd ed. Louisville: Westminster John Knox Press, 2012.",
+        "",
+        "2. King, Karen L., “Women in Ancient Christianity: The New Discoveries” available free at ",
+        "                         http://esweb.mcc.edu/~aaron.gulyas/hist151/Women%20in%20Ancient%20Christianity.pdf"
+      ]
+    }
   }
 }

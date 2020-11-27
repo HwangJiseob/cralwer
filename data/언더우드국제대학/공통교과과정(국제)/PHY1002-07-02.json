@@ -117,6 +117,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "The textbook for the course is the Global Edition of *University Physics with Modern Physics*, 14th ed., by Young and Freedman.  Another textbook at the same level is *Principles of Physics*, by Walker.  The calculus textbook by Stewart could be useful as a reference on vector calculus."
+      ]
+    }
   }
 }

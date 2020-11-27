@@ -6847,7 +6847,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: Assembly language for x86 Processors, 7th edition, Pearson, 2015 by Kip R. Irvine.",
+        "",
+        "참고문헌: ARM system-on-chip architecture, Addison-Wesley, by Steve Furber."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -9133,6 +9140,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: Assembly language for x86 Processors, 7th edition, Pearson, 2015 by Kip R. Irvine.",
+        "",
+        "참고문헌: ARM system-on-chip architecture, Addison-Wesley, by Steve Furber."
+      ]
+    }
   }
 }

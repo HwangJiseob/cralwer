@@ -8651,7 +8651,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Introduction to mathematical statistics/Hogg, Robert V./Pearson/2013 / 7th ed"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -10419,7 +10424,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        " by Hogg, McKean, Craig.  7th edition"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -11809,7 +11819,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Introduction to mathematical statistics/Hogg, Robert V./Pearson/2013 / 7th ed"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -13452,6 +13467,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        " by Hogg, McKean, Craig.  7th edition"
+      ]
+    }
   }
 }

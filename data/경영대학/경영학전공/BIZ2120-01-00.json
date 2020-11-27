@@ -4572,7 +4572,12 @@
         "수강여부": "O",
         "비고": "*교환학생"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -5934,7 +5939,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ (고객중심과 시너지 극대화를 위한) 마케팅원론/오세조 吳世祚/박영사/2017 / 제3전정판",
+        "\r○ Principles of marketing/Kotler, Philip/Pearson Education, Inc./2018 / 17th ed",
+        "\r○ 상세한 수업계획서는 `수업계획서 참고자료`에 저장되어 있는 수업계획서 파일을 참",
+        "고하세요."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -6948,7 +6961,16 @@
         "수강여부": "O",
         "비고": "*교환학생"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Textbook:",
+        "",
+        "Mastering Noon Nopi: The Art & Science of Marketing in Asia: Dae Ryun Chang, Yonsei Press, 2015. ebook",
+        "",
+        "Marketing Management, 10th ed., global edition, Kotler and Keller, 2016."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -7362,6 +7384,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "-"
+      ]
+    }
   }
 }

@@ -1585,7 +1585,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Plato (2006). The Being of the Beautiful: Plato’s Theaetetus, Sophist, and Statesman, trans. Seth ",
+        "Benardete, Chicago: University of Chicago Press.",
+        "",
+        "Plato (1998). Four Texts on Socrates: Plato's Euthyphro, Apology, and Crito and Aristophanes' ",
+        "Clouds, trans. Thomas West and Grace West. Ithaca: Cornell University Press.",
+        "",
+        "(강의에 필요한 주요 텍스트는 연희관 복사실에서 구입할 수 있으며 그 외에 추가 리딩자료들은 YSCEC에 업로드될 것임.)"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2611,6 +2622,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Plato (2006). The Being of the Beautiful: Plato’s Theaetetus, Sophist, and Statesman, trans. Seth ",
+        "Benardete, Chicago: University of Chicago Press.",
+        "",
+        "Plato (1998). Four Texts on Socrates: Plato's Euthyphro, Apology, and Crito and Aristophanes' ",
+        "Clouds, trans. Thomas West and Grace West. Ithaca: Cornell University Press.",
+        "",
+        "(강의에 필요한 주요 텍스트는 연희관 복사실에서 구입할 수 있으며 그 외에 추가 리딩자료들은 YSCEC에 업로드될 것임.)"
+      ]
+    }
   }
 }

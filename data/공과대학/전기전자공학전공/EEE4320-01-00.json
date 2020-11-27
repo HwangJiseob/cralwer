@@ -2572,7 +2572,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Text. in English) \r",
+        "Digital control System Analysis and Design, Franklin, Pearson, 4th Edition \r",
+        "Text. in Korean) \r",
+        "디지털 제어시스템 (번역서), 제 4판, 박진배, 김경화, 김은태, 이영일, 최윤호 옮김\r",
+        "퍼스트북, 피어슨. This is the Korean version of the above textbook."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2758,6 +2767,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "아직 미정",
+        "",
+        "\r○ 강의 노트"
+      ]
+    }
   }
 }

@@ -2322,7 +2322,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Lektuere deutscher Texte. Stufe 2"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2957,6 +2962,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Erkundungen B2",
+        "Deutsch als Fremdsprache. Schubert-Verlag 2008.",
+        "",
+        "* 외솔관 지하 복사실에서 위의 교재 발췌편집본 구입함."
+      ]
+    }
   }
 }

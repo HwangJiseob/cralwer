@@ -801,6 +801,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Students are expected to obtain their own copy of Jean-Francois Lyotard's The Libidinal Economy, The Postmodern Condition, and The DIfferend, all of which can be ordered online."
+      ]
+    }
   }
 }

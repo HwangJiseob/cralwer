@@ -415,7 +415,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -478,7 +483,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ How to read a film : movies, media, and beyond : art, technologly, language, history, theory/Monaco, James/Oxford University Press/2009 / 4th ed., completely rev. and expanded",
+        "\r○ Writing about movies/Gocsik, Karen M/W.W. Norton & Company/2016 / 4th ed"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -528,6 +539,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ How to read a film : movies, media, and beyond : art, technologly, language, history, theory/Monaco, James/Oxford University Press/2009 / 4th ed., completely rev. and expanded",
+        "\r○ Writing about movies/Gocsik, Karen M/W.W. Norton & Company/2016 / 4th ed"
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "UIC1101-03-00",
+      "과목명": "FRESHMAN WRITING INTENSIVE SEMINAR"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ How to read a film : movies, media, and beyond : art, technologly, language, history, theory/Monaco, James/Oxford University Press/2009 / 4th ed., completely rev. and expanded",
+        "\r○ Writing about movies/Gocsik, Karen M/W.W. Norton & Company/2016 / 4th ed"
+      ]
+    }
   }
 }

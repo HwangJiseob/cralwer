@@ -915,7 +915,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "지명렬 저, 독일문학사조사, 서울대학교, 2002.",
+        "안삼환: (한국교양인을 위한) 새 독일문학사, 세창출판사 2016.",
+        "Wolf Wucherpfennig: Deutsche Literaturgeschichte. Von den Anf?ngen bis zur Gegenwart, Stuttgart/Leipzig 2010.",
+        "W. Beutin u.a.: Deutsche Literaturgeschichte, Stuttgart/Weimar 2001.",
+        "A. Allkemper/N. O. Eke: Literaturwissenschaft, Paderborn 2006."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1284,6 +1293,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "지명렬 저, 독일문학사조사, 서울대학교, 2002년.",
+        "W. Beutin u.a.: Deutsche Literaturgeschichte, Stuttgart/Weimar 2001.",
+        "A. Allkemper/N. O. Eke: Literaturwissenschaft, Paderborn 2006.",
+        "기타 PPT 자료(담당 교수 작성)"
+      ]
+    }
   }
 }

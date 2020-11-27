@@ -2537,7 +2537,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -2822,7 +2827,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Course materials will be uploaded to YSCEC and/or sent to your via KakaoTalk chat room for our class.  Make sure you have access to Adobe Acrobat Reader, Video playing app, Microsoft Word and PowerPoint. You should bring something to write with and something to write on to take notes during class discussions and lectures. In-class materials will not be provided for you on YSCEC or KakaoTalk.  Occasionally, in class, you will need a notebook computer with Internet access or a smart phone with Kakao Talk to complete the speech scripts, outlines, and audience analysis. KakaoTalk is the most effective way to communicate with me and your classmates both in and out of class."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3275,7 +3285,22 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Course materials will be uploaded to YSCEC and/or sent to your via KakaoTalk chat room for our class. Make sure you have access to Adobe Acrobat Reader as well as Microsoft Word and PowerPoint. You should bring something to write with and something to write on to take notes during class discussions and lectures. You will regularly need a notebook computer with Internet access or a smart phone with Kakao Talk to complete assignments.",
+        "",
+        "In addition, we will also have a Kakao Chatroom for our class. It will be our main means of communication outside of class. This is the place where I will post messages about assignments and where you can ask questions about our course. Please update your contact information (your cell phone number, email address) on YSCEC by Sunday, March 15th to ensure that you are added to the class chatroom. ",
+        "",
+        "As of February 27, Yonsei University announced that during the first two weeks of the semester from March 16 to 29, all courses will be delivered in online education format due to COVID-19 situation. In response to the university’s request, this course will be conducted online using Zoom during our regular scheduled class time until further notice. ",
+        "",
+        "Prior to each class, I will post a ZOOM meeting link on YSCEC and/or our KakaoTalk chatroom for you. Click on the link to join the live online class meeting. You can download ZOOM on your phone or notebook computer and join the meeting from the comfort of your own bedroom. Most notebook computers and smart phones have built-in cameras and microphones so you should not need any additional equipment for this course.",
+        "",
+        "If you have never used ZOOM, please watch the tutorials on YouTube, available in both Korean and English to familiarize yourself with the basic features. We are all new to this situation so do not worry. Get comfortable, stay in your pajamas, and let’s have fun.",
+        "",
+        "Our first Zoom Class will be on Tuesday, March 17, at our regular class time. You will be able to find the Zoom meeting ID on our YSCEC page. See you online!"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3883,6 +3908,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Thank you for arguing : what Aristotle, Lincoln, and Homer Simpson can teach us about the art of persuasion/Heinrichs, Jay/Three Rivers Press/2007 / 1st ed"
+      ]
+    }
   }
 }

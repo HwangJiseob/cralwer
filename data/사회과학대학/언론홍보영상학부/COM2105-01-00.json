@@ -4427,7 +4427,24 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재:통합 마케팅 커뮤니케이션: 광고와 프로모션을 중심으로  (",
+        "                (조지 E. 벨치, 마이클 A. 벨치 지음: 강승구 정걸진 신호창 옮김), 한국방송통신대학교출판부 : 에피스테메",
+        "                ISBN 978-89-20-00273-1 93320",
+        "              그 외 교내 도서관에 있는  광고의 이해 (이혜갑, 2016, 이화출판), 광고의 이해 (양영종,2015 , 미디어북)  등 ",
+        "              혹은 도서관 내 비치 원서로 ",
+        "               Advertising and promotion : an integrated marketing communications perspective (Belch, George E (George Edward)McGraw-Hill/Irwin2012 / 9th ed",
+        "               Integrated marketing communication in advertising and promotion (Shimp, Terence A,  2010  Thomson South-Western)",
+        "               Strategic integrated marketing communication : theory and practice (Percy, Larry Elsevier/Butterworth-Heinemann, 2008 )",
+        "               Integrated marketing communications (Chitty, William, 2015  Cengage Learning)",
+        "               Integrated advertising, promotion, and marketing communications  (Clow, Kenneth EPearson Education 2016 / 7th ed., global ed)",
+        "",
+        "부교재: 디지털 마케팅 4.0:  4차 산업혁명과 마케팅 파라다임의 변화",
+        "           조창환,  청송미디어 ISBN 9791189042004"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -4809,7 +4826,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재:통합 마케팅 커뮤니케이션: 광고와 프로모션을 중심으로  ",
+        "                (조지 E. 벨치, 마이클 A. 벨치 지음: 강승구 정걸진 신호창 옮김), 한국방송통신대학교출판부: 에피스테메",
+        "                ISBN 978-89-20-00273-1 93320",
+        "              그 외 교내 도서관에 있는  광고의 이해 (이혜갑, 2016, 이화출판), 광고의 이해 (양영종, 2015, 미디어북)  등 ",
+        "              혹은 도서관 내 비치 원서로 ",
+        "               Advertising and promotion: an integrated marketing communications perspective (Belch, George E (George Edward)McGraw-Hill/Irwin2012 / 9th ed",
+        "               Integrated marketing communication in advertising and promotion (Shimp, Terence A,  2010  Thomson South-Western)",
+        "               Strategic integrated marketing communication: theory and practice (Percy, Larry Elsevier/Butterworth-Heinemann, 2008 )",
+        "               Integrated marketing communications (Chitty, William, 2015  Cengage Learning)",
+        "               Integrated advertising, promotion, and marketing communications  (Clow, Kenneth E Pearson Education 2016 / 7th ed., global ed)",
+        "",
+        "부교재: 디지털 마케팅 4.0:  4차 산업혁명과 마케팅 파라다임의 변화",
+        "           조창환,  청송미디어 ISBN 9791189042004"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -5192,6 +5226,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: 1) 장대련, 장동련, 박세범 공저(2015), 통합 브랜드 커뮤니케이션 (Integrated Brand Communication), 서울: 북넷 ",
+        "            2) Advertising and promotion: an integrated marketing communications perspective (Belch, George E (George Edward)McGraw-Hill/Irwin2018 / 11th ed",
+        "               통합 마케팅 커뮤니케이션: 광고와 프로모션을 중심으로 (조지 E. 벨치, 마이클 A. 벨치 지음: 강승구 정걸진 신호창 옮김 2010), 한국방송통신대학교출판부 : 에피스테메",
+        "                ISBN 978-89-20-00273-1 93320",
+        "",
+        "부교재:  기타 광고원론, 마케팅 커뮤니케이션 등이 책 제목에 들어간 대부분의 책들을 참고할 수 있음."
+      ]
+    }
   }
 }

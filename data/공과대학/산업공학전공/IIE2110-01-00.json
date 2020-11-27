@@ -2559,7 +2559,18 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Python for Everybody: Exploring Data in Python 3",
+        "by Dr. Charles Russell Severance (Author)",
+        "Paperback: 245 pages",
+        "Publisher: Create Space Independent Publishing Platform (April 9, 2016)",
+        "Language: English",
+        "ISBN-10: 1530051126",
+        "ISBN-13: 978-1530051120"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3769,6 +3780,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Python for Everybody: Exploring Data in Python 3",
+        "by Dr. Charles Russell Severance (Author)",
+        "Paperback: 245 pages",
+        "Publisher: Create Space Independent Publishing Platform (April 9, 2016)",
+        "Language: English",
+        "ISBN-10: 1530051126",
+        "ISBN-13: 978-1530051120"
+      ]
+    }
   }
 }

@@ -2857,6 +2857,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Dryzek, John S. and Dunley, Patrick, The Theories of the Democratic State, 2009, 김욱 옮김. 「민주주의 국가이론」, 서울 : 명인문화사, 2014."
+      ]
+    }
   }
 }

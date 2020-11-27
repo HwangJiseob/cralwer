@@ -2146,6 +2146,18 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "<주교재>",
+        "강현석 외(2014), [사회언어학: 언어와 사회, 그리고 문화], 글로벌콘텐츠.",
+        "",
+        "<참고문헌>",
+        "김하수(2008), <문제로서의 언어 1, 2>, 서울: 커뮤니케이션북스.",
+        "김하수(2014), <문제로서의 언어 3>, 서울: 커뮤니케이션북스.",
+        "Romaine, S.(2002), Language in Society: An Introduction to Sociolinguistics(2nd edition),Oxford: Oxford University Press. 박용한, 김동환 역(2009), <언어와 사회: 사회언어학으로의 초대>, 서울: 소통.",
+        "Bonvillan, N.(2002), Language, Culture, and Communication - The Meaning of Messages, Englewood Cliffs, NJ: Prentice Hall. 한국사회언어학회 역(2002), <문화와 의사소통의 사회언어학>, 서울: 한국문화사."
+      ]
+    }
   }
 }

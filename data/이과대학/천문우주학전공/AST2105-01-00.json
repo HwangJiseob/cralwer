@@ -2481,7 +2481,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Introductory Astronomy and Astrophysics, 4th edition",
+        "by Michael Zeilik and Stephen A. Gregory",
+        "",
+        "참고서적",
+        "Fundamental Astronomy, 6th edition by Hannu Karttunen et al.",
+        "Universe 10th Edition (2014년 판본) by Freedman, Geller, Kaufmann III"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2892,6 +2902,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        " by B. W. Carroll and D. A. Ostlie",
+        "(2nd edition, Pearson)",
+        "",
+        " by M. Zeilik and S. A. Gregory",
+        "(4th edition, Saunders Golden Sunburst Series)"
+      ]
+    }
   }
 }

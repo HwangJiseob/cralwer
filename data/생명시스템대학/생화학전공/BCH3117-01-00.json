@@ -1063,7 +1063,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Genetics: From Genes to Genomes 6th edition by Hartwell, Goldberg, Fischer, Hood, McGrawhill Education"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1389,6 +1394,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Genetics: From Genes to Genomes 6th Edition, by Leland Hartwell, Michael Goldberg, Janice Fischer, and Leroy Hood, McGraw-Hill International Edition",
+        "\r○ Genetics from Genes to Genome\r",
+        "Hartwell, Goldberg, Fisher, Hood, 6th Ed. AcGraw Hill Publishing"
+      ]
+    }
   }
 }

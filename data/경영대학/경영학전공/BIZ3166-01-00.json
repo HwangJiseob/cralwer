@@ -1257,6 +1257,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "● “Service Operations Management: Improving Service Delivery” by Robert Johnston, Graham Clark, Michael Shulver, Pearson, 4th Edition",
+        "● “Service Management: Operations, Strategy, Information Technology” by Fitzsimmons et al., McGrawHill Education, 9th Edition"
+      ]
+    }
   }
 }

@@ -6756,7 +6756,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 1) Main textbook: Contemporary Logic Design, 2016  by Randy Katz and Gaetano Borriello",
+        "",
+        "2) Second Texrbook (reference): Digital Design: a systems approach, William J Dally and R. Curtis Harting, 2013",
+        "",
+        "",
+        "\r○ Contemporary logic design, Pearson Education Korea Ltd, 2016 / Korea ed, by Katz, Randy H."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -8314,6 +8324,16 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 1) Main textbook: Contemporary Logic Design, 2016  by Randy Katz and Gaetano Borriello",
+        "",
+        "2) Second Texrbook (reference): Digital Design: a systems approach, William J Dally and R. Curtis Harting, 2013",
+        "",
+        "",
+        "\r○ Contemporary logic design, Pearson Education Korea Ltd, 2016 / Korea ed, by Katz, Randy H."
+      ]
+    }
   }
 }

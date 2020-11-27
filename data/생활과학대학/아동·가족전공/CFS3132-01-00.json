@@ -1341,6 +1341,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Learning language and loving it : a guide to promoting children's social, language and literacy development in early childhood settings/Weitzman, Elaine/Hanen Centre/2002 / 2nd ed",
+        "\r○ 영유아 언어지도(2판). 2016. 성미영, 권윤정, 유주연 공저. 학지사. (주교재)",
+        "",
+        "영유아 언어교육의 이해_이론과 실제(3판). 2016. 한유미, 김혜선, 권희경, 양연숙, 백은정 공저. 학지사. (부교재)"
+      ]
+    }
   }
 }

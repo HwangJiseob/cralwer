@@ -449,6 +449,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Earth as an Evolving Planetary System (Kent C. Condie, Elsevier, 2013)"
+      ]
+    }
   }
 }

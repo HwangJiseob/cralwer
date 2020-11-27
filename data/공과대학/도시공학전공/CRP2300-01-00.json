@@ -2732,7 +2732,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 도시계획론/대한국토도시계획학회/보성각/2016 / 6정판",
+        "\r○ Contemporary urban planning/Levy, John M/Prentice Hall/2011 / 9th ed",
+        "\r○ Urban land use planning/Chapin, F. Stuart (Francis Stuart)/University of Illinois Press/1979 / 3d ed",
+        "\r○ Urban planning/Catanese, Anthony James/McGraw-Hill Book Co./1988 / 2nd ed"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3562,6 +3570,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 도시계획론/대한국토도시계획학회/보성각/2016 / 6정판",
+        "\r○ Contemporary urban planning/Levy, John M/Prentice Hall/2011 / 9th ed",
+        "\r○ Urban land use planning/Chapin, F. Stuart (Francis Stuart)/University of Illinois Press/1979 / 3d ed",
+        "\r○ Urban planning/Catanese, Anthony James/McGraw-Hill Book Co./1988 / 2nd ed"
+      ]
+    }
   }
 }

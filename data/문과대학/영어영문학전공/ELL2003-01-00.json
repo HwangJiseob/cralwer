@@ -2336,7 +2336,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "\"They Say/I Say\" The Moves That Matter in Academic Writing by Gerald Graff & Cathy Birkenstein",
+        "FOURTH EDITION published 2018. Only this edition has a chapter on writing about literature!"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -2845,7 +2851,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "\"They Say/I Say\" The Moves That Matter in Academic Writing by Gerald Graff & Cathy Birkenstein",
+        "FOURTH EDITION published 2018. Only this edition has a chapter on writing about literature!"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -3242,7 +3254,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "\"They Say/I Say\" The Moves That Matter in Academic Writing by Gerald Graff & Cathy Birkenstein"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3682,6 +3699,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Course materials will be uploaded to YSCEC and/or sent to your via KakaoTalk chat room for our class. Make sure you have access to Adobe Acrobat Reader as well as Microsoft Word and PowerPoint. You should bring something to write with and something to write on to take notes during class discussions and lectures. In-class materials will not be provided for you on YSCEC or KakaoTalk. You will regularly need a notebook computer with Internet access or a smart phone with Kakao Talk to complete assignments. KakaoTalk is the most effective way to communicate with me and your classmates both in and out of class."
+      ]
+    }
   }
 }

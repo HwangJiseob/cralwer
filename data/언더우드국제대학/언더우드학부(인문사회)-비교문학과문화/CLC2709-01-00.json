@@ -695,6 +695,17 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Hong Sun-pyo, Traditional Korean Painting = The Spirit of Korean Cultural Roots, /Seoul : Ewha Womans University Press, 2010",
+        "\r○ Joan Stanley-Baker, Japanese art, New York, New York : Thames ＆ Hudson, 2014.",
+        "\r○ Craig Clunas, Art in China, Oxford ; New York : Oxford University Press, 2009",
+        "\r○ Kang Kyung-sook, Korean ceramics, Seoul : Korea Foundation, 2008.",
+        "\r○ Richard M. Barnhart et al., Three thousand years of Chinese painting, New Haven : Yale University Press ; Beijing : Foreign Languages Press, 1997.",
+        "\r○ Julia K. Murray, Mirror of morality : Chinese narrative illustration and Confucian ideology, University of Hawaii Press, 2007 [E-book]",
+        "\r○ Cahill, James, The painter's practice : how artists lived and worked in traditional China, Columbia University Press, 1994 [E-book]"
+      ]
+    }
   }
 }

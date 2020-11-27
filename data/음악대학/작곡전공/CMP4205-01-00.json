@@ -1091,7 +1091,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Grout 음악사",
+        "작품을 통한 현대음악의 흐름, 백병동",
+        "Salzman, Eric. Twentieth-Century Music: An Introduction",
+        "시청각자료"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1404,6 +1412,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Grout 음악사",
+        "작품을 통한 현대음악의 흐름, 백병동",
+        "Salzman, Eric. Twentieth-Century Music: An Introduction",
+        "시청각자료"
+      ]
+    }
   }
 }

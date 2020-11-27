@@ -393,7 +393,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "재료거동학 교재: \"Mechanical Behavior of Materials\", 4th Ed., Norman E. ",
+        "Dowling, Pearson"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1419,6 +1425,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "\"Mechnical Behavior of Materials\", 4th Ed., Norman D. Dowling"
+      ]
+    }
   }
 }

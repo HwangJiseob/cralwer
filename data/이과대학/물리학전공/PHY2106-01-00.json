@@ -289,6 +289,28 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Textbook for Lab-Class : 핵심이 보이는 전자회로 실험 with PSPICE (저자 : 신경욱)",
+        "",
+        "Supplementary textbook : Horowitz and Hill, \"The Art of Electronics\", 3rd. Ed. Cambridge Univ. Press"
+      ]
+    }
+  },
+  "20192": {
+    "LECT_DATA": {
+      "학정번호": "PHY2106-01-00",
+      "과목명": "물리학실험(A-2)"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Lab. Manual",
+        "",
+        "2. Lecture note",
+        "",
+        "3. The Art of Electronics (Hayes & Horowitz)"
+      ]
+    }
   }
 }

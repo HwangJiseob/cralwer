@@ -4444,7 +4444,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "각 주별 교과내용 참조"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -4869,7 +4874,26 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재: 추후공지",
+        "",
+        "참고문헌:",
+        "강상현,채백 편. 2012. 디지털 시대 미디어의 이해와 활용. 서울: 한나래.",
+        "나은영. 2015. 사회심리학적 관점에서 본 인간커뮤니케이션과 미디어. 서울: 한나래.",
+        "오택섭,강현두,최정호,안재현. 2015. 뉴미디어와 정보사회. 서울: 나남.",
+        "임영호 외. 2012. 커뮤니케이션을 공부하는 당신을 위하여. 서울: 커뮤니케이션북스.",
+        "한국언론정보학회 엮음. 2014. 현대사회와 매스커뮤니케이션. 서울: 한울.",
+        "Stanley J. Baran & Dennis K. Davis. 2015. Mass communication theory: foundations, ferment, and future (7th Ed.). 김훈순, 김경희, 정선호 공역. (2019). 매스 커뮤니케이션 이론: 토대, 논쟁, 미래 (7판). 서울: 이화여자대학교출판문화원.",
+        "Ian Deereux. 2014. Understanding the media (3rd Edition). 심두보 역. 2014. 미디어의 이해 3판. 명인문화사.J",
+        "Em Griffin, Andrew Ledbetter & Glenn Sparks. 2015. A first look at communication theory (9th Ed.). New York: McGrawhill Education. 김동윤, 오소현. (2012). 첫 눈에 반한 커뮤니케이션이론 (5판). 서울: 커뮤니케이션북스.",
+        "Lawrence Grossberg, Ellen Wartella, & D. Charles Whitney. 1998. Mediamaking: Mass media in a popular culture. Sage Publications.",
+        "Dennis McQuail. 2010 or 2005. McQuail's mass communication theory (6th Ed. or 5th Ed.). 양승찬,이강형 공역. (2008). 매스커뮤니케이션이론 (5판). 서울: 나남.",
+        "Werner J. Severin & James W. Tankard. 2000. Communication theories: Origins, method, and uses in the Mass media (5th Ed.). 박천일,강형철,안민호 공역. (2004). 커뮤니케이션이론. 서울:나남출판.",
+        "J. D. Straubhaar, R. LaRose & L. Davenport. 2018. Media now: understanding media, culture, and technology (10th Ed.). Boston, MA: Cengage Learning."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -5854,6 +5878,25 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Straubhaar, J. D., LaRose, R., & Davenport, L. (2016). Media now: Understanding media, culture, and technology (9th Ed.). Wadsworth Cengage Learning: Boston, MA."
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "COM1101-01-00",
+      "과목명": "언론학개론"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재: 미디어 나우,  Joseph Straubhaar, Robert Larose, Lucinda Davenport 공저 / 김도연, 김희진, 손동영, 이숙정, 이혜림, 채영길 공역 | 한경사 | 2016년 08월 25일",
+        "            (원서: Straubhaar, J. D., LaRose, R., & Davenport, L. (2016). Media now: Understanding media, culture, and technology, 9th ed.)      ",
+        "                ",
+        "부교재: 오택섭,강현두,최정호,안재현. 2015. <뉴미디어와 정보사회>. 서울: 나남"
+      ]
+    }
   }
 }

@@ -1308,6 +1308,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ 관광레저경영론/박시범/새로미/2005",
+        "\r○ 스포츠 이벤트 경영전략 : 매니지먼트와 마케팅/Graham, Stedman/보경/1999",
+        "\r○ (조동성) 전략경영/조동성/서울경제경영/2013",
+        "\r○ 리조트 경영학/채용식/현학사/2006",
+        "\r○ Fundamentals of leisure business success : a manager's guide to achieving success in the leisure and recreation industry/Scott, Jonathan (Jonathan T.)/Haworth Press/1998",
+        "\r○ 마케팅의 시크릿 코드 : 잘나가는 최고마케팅경영자(CMO)의 비밀노트/홍성태/위즈덤하우스/2010"
+      ]
+    }
   }
 }

@@ -1291,6 +1291,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재 : 강의 노트와 실용기상기후학(기상청) 부분 발췌본 ",
+        "",
+        "참고문헌",
+        "Stull, R. B., 2015: Practical Meteorology: An Algebra-based Survey of Atmospheric Science",
+        "영국기상청 factsheets 시리즈(http://www.metoffice.gov.uk/learning/library/publications/learn)"
+      ]
+    }
   }
 }

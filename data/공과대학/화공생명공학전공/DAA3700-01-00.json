@@ -1976,7 +1976,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Biochemistry, The Molecular Basis of Life, 5th edition, Oxford University Press, Trudy McKee and James R. McKee",
+        "",
+        "Handouts",
+        "\r○ Biochemistry, The Molecular Basis of Life, 5th edition, Oxford University Pre\r",
+        "Press, Trudy McKee and James R. McKee\r",
+        "\r",
+        "Handouts"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2582,6 +2593,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "i) Principles of Tissue Engineering, 4th edition, Robert Lanza, Robert Langer, and Joseph Vacanti ",
+        "ii)Biochemistry, The Molecular Basis of Life, 5th edition, Oxford University Press, Trudy McKee and James R. McKee",
+        "iii)Handouts"
+      ]
+    }
   }
 }

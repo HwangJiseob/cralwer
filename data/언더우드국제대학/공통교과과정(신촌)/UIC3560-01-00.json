@@ -435,7 +435,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "All required readings are in the course packet."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -708,7 +713,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Keith Wrightson, ed., [A Social History of England, 1500-1700 (Hereafter, SHE)] (Cambridge: Cambridge University Press, 2017) and other assigned readings ",
+        "",
+        "* All additional course readings (articles and book chapters) will be available either in PDF format or as a reading packet; details TBA."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1457,7 +1469,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Book to be purchased individually via Amazon.com:",
+        "",
+        "Keith Wrightson, ed., [A Social History of England, 1500-1700] (Hereafter, SHE) (Cambridge: Cambridge University Press, 2017)",
+        "",
+        "Other course readings (articles and book chapters) will be made available at and via YSCEC."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2123,6 +2144,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Please purchase individually the following book: Keith Wrightson, ed., [A Social History of England, 1500-1750] [Hereafter, SHE] (Cambridge: Cambridge University Press, 2017)",
+        "",
+        "Other course readings (scholarly journal articles) will be made accessible via YSCEC."
+      ]
+    }
   }
 }

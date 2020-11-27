@@ -964,7 +964,23 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1. Justo L. Gonzalez. The Story of Christianity. Vol. 2. New York: HarperSanfrancisco. 2010.",
+        "2. Timothy George. Theology of the Reformers. Nashville, TN: Broadman & Holman Publishers, 2013.",
+        "3. Alister E. McGrath. Reformation Thought. Oxford, UK: Blackwell Publishers, 2012.",
+        "4. Thomas D. McGonigle and James F. Quigley, A History of the Christian Tradition, New York: Paulist Press, 2009.",
+        "5. Steven Ozment. The Age of Reform 1250-1550. New Haven: Yale University Press, 1998.",
+        "6. James M. Kittelson. Luther the Reformer. Minneapolis, MN: Augsburg Press, 2016.",
+        "7. Heiko A. Oberman, The Impact of the Reformation, 1994.",
+        "8. Stephen Neill, A History of the Christian Missions, New York: Penguin Books, 1991.",
+        "9. Martin E. Marty, Pilgrims in Their Own Land, New York: Penguin Books, 1985. ",
+        "10. Harvey G. Cox, Fire from Heaven, New York: Addison-Wesley Company, 2001.  ",
+        "11. 이상훈, 교회의 재탄생, 서울:교회성장연구소, 2017. ",
+        "12. 강영안 외, 한국교회, 개혁의 길을 묻다, 서울:새물결 플러스, 2014."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1235,6 +1251,40 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "<주 교재>",
+        "1. 알리스터 맥그라스, 『기독교의 역사』, 서울: 포이에마, 2016.",
+        "2. 폴 존슨 지음, 김주한 옮김,  『기독교의 역사』, 서울: 포이에마, 2013.",
+        "3. 한스 큉 지음, 이종한 옮김, 『그리스도교. 본질과 역사』,, 칠곡: 분도출판사, 2014. ",
+        "",
+        "<부 교재>",
+        "1. 강남순 지음, 『21세기 페미니스트 신학』, 개정판, 파주: 동녘, 2018.",
+        "2. 김균진 지음, 『루터의 종교개혁』, 서울: 새물결플러스, 2018.",
+        "3. 김용규 지음, 『신. 인문학으로 읽는 하나님과 서양문명 이야기』, 서울: IVP, 2019.",
+        "4. 디아메이드 맥클로흐 지음, 윤영훈 옮김, 『3천년 기독교 역사』 2/3, 서울: 기독교문서선교회, 2013.",
+        "5. 로이 롭슨(Roy R. Robson) 지음, 윤원철ㆍ유요한 옮김, 『세계 종교 산책』, 수정판, 서울: 시그마프레스, 2014.",
+        "6. 마크 A. 놀 지음, 이석우ㆍ강효식 옮김, 『터닝포인트』, 서울: CUP, 2007.",
+        "7. 볼프강 좀머ㆍ데트레프 클라르 지음, 홍지훈ㆍ김문기ㆍ백용기 [공]옮김, 『교회사 무엇을 공부할 것인가』, 개정증보판, 서울: 한국신학연구소, 2008.",
+        "8. 알리스터 맥그라스, 『한 권으로 읽는 기독교』, 개정판 3판, 서울: 생명의 말씀사, 2017.",
+        "9. 한스 큉 지음, 이종한ㆍ오선자 [공]옮김, 『그리스도교 여성사: 2천년 그리스도 교회사, 박탈당한 절반의 진실』, 칠곡: 분도출판사, 2011.",
+        "10. 후스토 L 곤잘레스 지음, 엄성옥 옮김, 『종교개혁사』(개정증보판), 서울: 은성, 2012.",
+        "11. 후스토 L 곤잘레스 지음, 엄성옥 옮김, 『현대교회사』(개정증보판), 서울: 은성, 2012.",
+        "",
+        "* 문학(택 1)",
+        "1. 장 지글러 지음, 유영미 옮김, 『왜 세계의 절반은 굶주리는가?』, 개정증보판, 서울: 갈라파고스, 2016.",
+        "2. 알랭드 보통 지음, 박중서 옮김, 『무신론자를 위한 종교』, 서울: 청미래, 2011.",
+        "3. 나렌드라 자다브 지음, 강수정 옮김, 『신도 버린 사람들』, 파주: 김영사, 2007.",
+        "4. C. S. 루이스 지음, 『고통의 문제』, 서울: 홍성사, 2002;2005;2008;2018.",
+        "5. 헨리 데이비드 소로 지음, 박연옥 옮김, 『월든』, 고양: 위즈덤하우스, 2017.",
+        "",
+        "* 영화(택 1)",
+        "1. ‘사일런스’(Silence, 마틴 스콜세지 감독, 2016) ",
+        "2. ‘미션’(The Mission, 롤랑 조페 감독, 1986)",
+        "3. ‘장미의 이름’(The Name Of The Rose, 장 자크 아노 감독, 1986 제작) => 학술정보원 비디오 대여 가능",
+        "4. ‘라이프 오브 파이’(Life of Pi , 이안 감독, 2012 제작)"
+      ]
+    }
   }
 }

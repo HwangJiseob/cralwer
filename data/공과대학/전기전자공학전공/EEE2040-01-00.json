@@ -3806,7 +3806,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Contemporary Logic design, 2nd Ed (Katz)"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -4315,7 +4320,18 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Text Book: ",
+        "[1] Charles H. Roth, Jr. and Larry L. Kinney, “Fundamentals of Logic ",
+        "Design”, 7th Edition, 2013",
+        "",
+        "or",
+        "",
+        "[2] Charles H. Roth, Jr., “Fundamentals of Logic Design”, 5th Edition, 2006"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -5594,7 +5610,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Fundamentals of logic design/Roth, Charles H./Cengage Learning/2014 / 7th ed",
+        "\r○ Charles H Roth, Jr. “Fundamentals of Logic Circuit”, Thomson, 7th Edition, ",
+        "2014"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -6117,6 +6140,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 : Fundamental of Digital Logic, by Charles H. Roth, Jr. ",
+        "부교재 : Computer Engineering: Hardware Design, by Mano"
+      ]
+    }
   }
 }

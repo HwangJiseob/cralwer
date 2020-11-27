@@ -1548,7 +1548,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "The Norton introduction to literature/Mays, Kelly J/W.W. Norton & Company/2016 / Shorter 12th ed"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -1944,7 +1949,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1) Ailson Booth, J. Paul Hunter, Kelly J. Mays, The Norton Introduction to ",
+        "Literature, Shorter 10th Edition (Norton) (구내 서점)",
+        " ",
+        "2) Sganarelle by Moliere  별도 구입."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2076,7 +2089,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "The Norton introduction to literature/Mays, Kelly J/W.W. Norton & Company/2016 / Shorter 12th ed"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2599,6 +2617,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Mays, Kelly J. The Norton Introduction to Literature, Shorter Thirteenth Edition. W. W. Norton, 2019.",
+        "Shorter Twelfth Edition이 있다면 새로 구입하지 않아도 됩니다.",
+        "(If you have the Shorter Twelfth Edition, no need to purchase the Thirteenth Edition.)"
+      ]
+    }
   }
 }

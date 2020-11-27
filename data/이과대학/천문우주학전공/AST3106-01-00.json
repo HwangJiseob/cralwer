@@ -1766,7 +1766,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Galactic astronomy/Binney, James/Princeton University Press/1998",
+        "\r○ 교재는 없고, 참고문헌은 ",
+        "\"Galactic Astronomy\" by Binney & Merrifield,",
+        "\"구형항성계의 진화\"  안홍배, 이영욱, 천문석 외 3인, 민음사, ",
+        "및 전문학술지 논문"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2135,6 +2144,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Galactic astronomy/Binney, James/Princeton University Press/1998",
+        "\r○ 교재는 없고, 참고문헌은 ",
+        "\"Galactic Astronomy\" by Binney & Merrifield,",
+        "\"구형항성계의 진화\"  안홍배, 이영욱, 천문석 외 3인, 민음사, ",
+        "및 전문학술지 논문"
+      ]
+    }
   }
 }

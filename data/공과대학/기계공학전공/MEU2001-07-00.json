@@ -360,7 +360,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Jet propulsion a simple guide to the aerodynamics and thermodynamic design and performance of jet engines/Cumpsty, N. A/Cambridge University Press/2015 / 3rd ed"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -504,7 +509,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -872,6 +882,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Jet propulsion a simple guide to the aerodynamics and thermodynamic design and performance of jet engines/Cumpsty, N. A/Cambridge University Press/2015 / 3rd ed"
+      ]
+    }
   }
 }

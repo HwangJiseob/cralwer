@@ -1608,7 +1608,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Claire Miquel, Grammaire en dialogues ? niveau Intermediaire, CLE Intenrational. 2018",
+        "(국내 구입의 경우, 프렌치북 사이트 혹은 교보문고 등)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1795,6 +1801,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재 :  Claire Miquel, Grammaire en dialogues ? niveau Intermediaire, CLE Intenrational. 2018",
+        "              (국내 구입의 경우, 프렌치북 사이트 혹은 교보문고 등)  반드시 필요함",
+        "참고교재 : Grammaire progressive du francais niveau avance"
+      ]
+    }
   }
 }

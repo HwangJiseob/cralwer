@@ -1501,7 +1501,23 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- Yoga Sutras of Patanjali translated by Sri Swami Satchidananda- Hatha Yoga \r",
+        "Pradipika translated by Brian Dana Akers\r",
+        "- Light on Yoga by Iyengar\r",
+        "- The Heart of Yoga by Desikachar\r",
+        "- Autobiography of a Yogi by Paramhansa Yogananda\r",
+        " Self-realization Fellowship\r",
+        "- Bringing Yoga to Life: The Everyday Practice of Enlightened Living \r",
+        "by Donna Farhi, Publisher: Harper Collins\r",
+        "- L`esprit du yoga by Yse Tardan-Masquelier, Publisher: Albin Michel\r",
+        "- Yoga Anatomy by Leslie Kaminoff & Amy Matthews, Publisher: Self-realization \r",
+        "Fellowship\r",
+        "- Yoga au bord du ciel. 요가 하늘가에서. Martine Prost.눈빛출판사"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -1674,7 +1690,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1959,7 +1980,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2049,6 +2075,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

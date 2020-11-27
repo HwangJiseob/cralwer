@@ -198,7 +198,46 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Course Packet",
+        "",
+        "[In the course packet:]",
+        "",
+        "Stories for the Feminist Weeks",
+        "Aziz Ansari, “Ladies and Gentlemen” from Master of None",
+        "Charlotte Perkins Gilman, “The Yellow Wallpaper”",
+        "Kristen Roupenian, “Cat Person”",
+        "Brian Forbes, The Stepford Wives (1975 version)",
+        "Ursula Le Guin “Coming of Age in Karhide”",
+        "Jenny Diski, “Vanishing Princess”",
+        "",
+        "Stories for the Dystopian Weeks",
+        "E.M Forster, “The Machine Stops”",
+        "George Saunders, “Escape from Spiderhead”",
+        " “Nosedive” from Black Mirror ",
+        "Margaret Atwood’s The Handmaid’s Tale (1990 version)",
+        "Catherynne Valente, “Fade to White”",
+        "",
+        "Other Readings in class packet:",
+        "Simone de Beauvoir, The Second Sex (“Introduction”)",
+        "Chimamanda Ngozi Adichie, “We Should all be Feminists” (Ted Talk)",
+        " Harriet Martineau, “On Marriage”",
+        "Virginia Woolf, “Professions for Women”",
+        "Laura Mulvey “Visual Pleasure”",
+        "John Berger, Ways of Seeing (excerpt)",
+        "Sharon Preves, “Intersex and the Social Construction of Sex”",
+        "Betty Friedan, The Feminine Mystique (excerpt)",
+        "Michel Foucault, “Panopticism” (excerpt)",
+        "Jan Fernback “Sousveillance Communities of Resistance”",
+        "Thomas Moylan, “The Dystopian Turn”",
+        "Alf Segert, “Technology and the Fleshly Interface”",
+        "Kevin Knight, “Clinical Trials Involving Prisoners”",
+        "Katrin Weigmann, “The Ethics of Global Clinical Trials”",
+        "+other scholarly articles on texts of our interest will also be provided."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -247,7 +286,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -296,7 +340,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20181": {
     "LECT_DATA": {
@@ -317,6 +366,17 @@
     "SYLLABUS_DATA": {
       "교재 및 참고문헌": [
         "A Clockwork Orange (Anthony Burgess; Penguin Classics ISBN : 9780141182605)"
+      ]
+    }
+  },
+  "20202": {
+    "LECT_DATA": {
+      "학정번호": "UIC1101-12-00",
+      "과목명": "FRESHMAN WRITING INTENSIVE SEMINAR"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "All required materials will be made available as files on YSCEC (the online classroom). Students are encouraged to check YSCEC regularly for notices and reading materials. Students are also encouraged to look up unfamiliar words in the texts."
       ]
     }
   }

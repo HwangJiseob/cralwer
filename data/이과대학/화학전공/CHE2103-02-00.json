@@ -1709,7 +1709,16 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Organic Chemistry (5th edition)",
+        "by Janice Gorzynski Smith",
+        "McGraw-Hill Education",
+        "",
+        "ISBN: 0078021553"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1993,6 +2002,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Organic Chemistry",
+        "Janice Corzynski Smith 6th Edition"
+      ]
+    }
   }
 }

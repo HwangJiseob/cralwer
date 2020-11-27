@@ -1201,7 +1201,25 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "The Laboratory Experiment documents can be downloaded from the web site",
+        "               http://web.yonsei.ac.kr/jmc/Lectures.htm ",
+        "* NOTE: You must first register (using your actual name) at",
+        "               http://web.yonsei.ac.kr/jmc ",
+        "        and then the TA must approve your registration before you can ",
+        "        use the lecture contents of the class web site. ",
+        "The following references will be used in the lectures by professor Chung. ",
+        "[1] William Stallings, Data and Computer Communications, 8th Ed., ",
+        "    Upper Saddle River, NJ: Pearson/Prentice Hall, 2007.",
+        "[2] Computer Networking: A Top Down Approach Featuring the Internet, ",
+        "    3rd edition, Jim Kurose & Keith Ross, Addison-Wesley, 2004.",
+        "In addition, students are recommended to find and use various references on ",
+        "the topics of NS2, C programming, and JAVA to learn and problem-solve the ",
+        "laboratory experiments."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1500,6 +1518,27 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "The Laboratory Experiment documents can be downloaded from the web site",
+        "               http://web.yonsei.ac.kr/jmc/Lectures.htm ",
+        "",
+        "* NOTE: You must first register (using your actual name) at",
+        "               http://web.yonsei.ac.kr/jmc ",
+        "        and then the TA must approve your registration before you can ",
+        "        use the lecture contents of the class web site. ",
+        "",
+        "The following references will be used in the lectures by professor Chung. ",
+        "[1] William Stallings, Data and Computer Communications, 10th Ed., Pearson, ",
+        "    2014.",
+        "[2] Computer Networking: A Top Down Approach Featuring the Internet, ",
+        "    3rd edition, Jim Kurose & Keith Ross, Addison-Wesley, 2004.",
+        "",
+        "In addition, students are recommended to find and use various references on ",
+        "the topics of NS2, C programming, and JAVA to learn and problem-solve the ",
+        "laboratory experiments."
+      ]
+    }
   }
 }

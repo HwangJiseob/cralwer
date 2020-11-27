@@ -2452,7 +2452,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Fundamentals of engineering thermodynamics/Moran, Michael J/John Wiley & Sons/2011 / 7th ed"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2821,6 +2826,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Moran's Principles of Engineering Thermodynamics, 9th Edition by Moran, Shapiro, Boettner and Bailey"
+      ]
+    }
   }
 }

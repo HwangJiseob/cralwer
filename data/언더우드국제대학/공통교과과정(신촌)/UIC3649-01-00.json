@@ -1236,6 +1236,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Slavoj ?i?ek, How to Read Lacan (http://www.amazon.com/How-Read-Lacan/dp/0393329550/ref=sr_1_1?ie=UTF8&qid=1547921700&sr=8-1&keywords=how+to+read+lacan)",
+        "",
+        "Slavoj ?i?ek, Enjoy Your Symptom!: Jacques Lacan in Hollywood and Out (http://www.amazon.com/Enjoy-Your-Symptom-Hollywood-Routledge/dp/0415772591/ref=sr_1_1?ie=UTF8&qid=1547921851&sr=8-1&keywords=enjoy+your+symptoms)",
+        "",
+        "Slavoj ?i?ek, Looking Awry: An Introduction to Jacques Lacan through Popular Culture (http://www.amazon.com/Looking-Awry-Introduction-Jacques-through/dp/026274015X/ref=sr_1_1?ie=UTF8&qid=1547921918&sr=8-1&keywords=looking+awry)"
+      ]
+    }
   }
 }

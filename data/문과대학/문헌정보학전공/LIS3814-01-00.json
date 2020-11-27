@@ -1420,7 +1420,20 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Case, Donald O. Looking for Information: a survey of research on information ",
+        "seeking, needs, and behavior. 4th ed. Emerald, 2016",
+        "",
+        "- Aspray, William & Hayers, Barbara M. Everyday Information: the evolution of ",
+        "information seeking in America. MIT Press, 2011",
+        "- Kuhlthau, Carol Collier. Seeking meaning: a process approach to library and ",
+        "information services. 2nd ed. Libraries Unlimited, Inc., 2004",
+        "- Beheshti, Jamshid & Large, Andrew. Information behavior of a new generation. ",
+        "Scarecrow Press, 2013"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1901,6 +1914,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Donald O. Case, Lisa M. Given. Looking for Information: a survey of research on information seeking, needs, and behavior. 4th ed. Bingley, UK : Emerald, 2016."
+      ]
+    }
   }
 }

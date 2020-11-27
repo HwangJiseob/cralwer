@@ -2910,7 +2910,14 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Hole's Essentials of Human Anatomy and Physiology",
+        "13th Edition (2018)",
+        "McGraw-Hill Education International Edition"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3726,6 +3733,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Hole's essentials of human anatomy & physiology/Shier, David/McGraw-Hill Education/2015 / 12th ed"
+      ]
+    }
   }
 }

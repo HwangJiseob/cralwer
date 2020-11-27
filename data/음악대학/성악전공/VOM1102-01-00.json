@@ -225,7 +225,17 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Mozart, Requiem",
+        "민인기 교수의 The Best Choral Collection (비앤비 출판사)",
+        "\r○ 민인기 교수의 The Best Choral Collection\r",
+        "\r",
+        "Beethoven, Symphony # 9. \r",
+        "       4th Mvt.\"An die Freude\" 악보"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -272,6 +282,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Mozart, Vesperae solennes de Confessore KV.339",
+        "",
+        "민인기 교수의 The Best Choral Collection (비앤비 출판사) - 수업이 대면수업으로 전환할 경우에 사용할 예정임."
+      ]
+    }
   }
 }

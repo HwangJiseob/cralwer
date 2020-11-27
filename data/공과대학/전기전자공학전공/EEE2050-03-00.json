@@ -4219,7 +4219,16 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main Text\r",
+        "- lecture notes\r",
+        "\r",
+        "References\r",
+        "- MicroelectronicCircuits byA.S.Sedra and K.C.Smith,OxfordUniv.Press,1998."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -4659,6 +4668,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Fundamentals of microelectronics/Razavi, Behzad/John Wiley & Sons/2008"
+      ]
+    }
   }
 }

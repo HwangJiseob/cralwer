@@ -731,6 +731,21 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "-[Raschka] Sebastian Raschka. (2015) Python Machine Learning, Packt Publishing Ltd.",
+        "-[Lubanovic] Bill Lubanovic. (2014) Introducing Python: Modern Computing in Simple Packages, O’Reilly Media",
+        "-[쿠지라] 쿠지라 히코우즈쿠에 (2017), 파이썬을 이용한 머신러닝, 딥러닝 실전개발 입문, 위키북스 ",
+        "-[Useful Links]",
+        "?http://scikit-learn.org/stable/install.html",
+        "?LDA example in scikit-learn package (http://scikit-learn.org/stable/auto_examples/applications/topics_extraction_with_nmf_lda.html)",
+        "?Getting Started with Latent Dirichlet Allocation in Python (http://chrisstrelioff.ws/sandbox/2014/11/13/getting_started_with_latent_dirichlet_allocation_in_python.html)",
+        "?Example: Demonstration of k-means assumptions (http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_assumptions.html#example-cluster-plot-kmeans-assumptions-py)",
+        "?Example: A demo of K-Means clustering on the handwritten digits data (http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html#example-cluster-plot-kmeans-digits-py)",
+        "?Example: Comparison of Calibration of Classifiers (http://scikit-learn.org/stable/auto_examples/calibration/plot_compare_calibration.html)",
+        "?http://www.tensorflow.org/"
+      ]
+    }
   }
 }

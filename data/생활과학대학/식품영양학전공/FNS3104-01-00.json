@@ -2293,7 +2293,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "The Latest of Meal Management / 광문각",
+        "Sustainable Meal Management / 파워북",
+        "21st Century Meal Management / 교문사"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2746,6 +2753,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "References",
+        "",
+        "1. Fundamentals of Meal Management. Margaret McWilliams. Pearson PrenticeHall, 5th edition, 2005. ",
+        "2. Meals in science and practice : interdisciplinary research and business applications. CRC Press, 2009.",
+        "3. What I eat : around the world in 80 diets. Menzel P and D`aluisio F. Material World Books/Ten Speed Press, 2010. ",
+        "4. Hungry Planet : what the world eats. Menzel P and D`aluisio F. Material World Books/Ten Speed Press, 2005."
+      ]
+    }
   }
 }

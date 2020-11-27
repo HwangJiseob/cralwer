@@ -4383,7 +4383,22 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재",
+        "1. 김금순 외(2017). 성인간호학 I, II (8thed.). 서울: 수문사",
+        "2. 김희순 외(2017). 아동청소년간호학 I, II. 서울: 수문사.",
+        "3. 이영휘 외(2017). 성인간호학 I, II.(제 8판). 서울: 정담미디어. ",
+        "",
+        "부교재",
+        "1. NANDA (2018). NURSING DIAGNOSES ? Definition and Classification(11th ed.). Thieme.",
+        "2. Hockenberry, M.J., & Wilson, D. (2016). Wong's Essentials of Pediatric Nursing(10th ed.). Elsevier Science Health Science div.",
+        "3. Lewis, Dirksen & Heitkempher(2014). Medical-Surgical Nursing(9th ed.). St Louis : Mosby. ",
+        "4. Hinkle, J.L., & Cheever, K.H.(2017). Brunner & Suddarth’s Textbook of Medical-Surgical Nursing(14thed.). Philadelphia: Lippincott Williams & Wilkins, a Wolters Kluwer business.",
+        "5. Touhy, T.A., Jett, K.F., & Ebersole, P.(2017). Ebersole and Hess' Gerontological Nursing & Healthy Aging(5thed.). Elsevier Health Sciences."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -5631,6 +5646,21 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재",
+        "1. 김금순 외(2019). 성인간호학 I, II (제 9판). 서울: 수문사.",
+        "2. 김희순 외(2019). 아동청소년간호학 I, II. 서울: 수문사.",
+        "3. 이영휘 외(2017). 성인간호학 I, II (제 8판). 서울: 정담미디어.",
+        "",
+        "",
+        "부교재",
+        "1. NANDA (2018). NURSING DIAGNOSES.  Definition and Clasification(11th ed.). 학지사메디컬",
+        "2. Hockenberry, M.J., & Wilson, D. (2016). Wong's Essentials of Pediatric Nursing(10th ed.). Elsevier Science Health Science div.",
+        "3. Hinkle, J.L., & Cheever, K.H.(2017). Brunner & Suddarth’s Textbook of Medical-Surgical Nursing(14thed.). Philadelphia: Lippincott Williams & Wilkins, a Wolters Kluwer business.",
+        "4. Touhy, T.A., Jett, K.F., & Ebersole, P.(2017). Ebersole and Hess' Gerontological Nursing & Healthy Aging(5thed.). Elsevier Health Sciences."
+      ]
+    }
   }
 }

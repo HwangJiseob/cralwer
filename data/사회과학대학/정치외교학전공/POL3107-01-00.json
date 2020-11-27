@@ -1809,6 +1809,24 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "추천 교재:최근 출판된 책을 찾기 어려워 기 출판된 책을 추천 교재로 활용하고자 한다. 그 목록은 아래와 같으며 반드시 구입할 피요는 없다. 각 강의주제에 따라 추천 교재와 관련된 내용을 주별 계획에 기록했다. 최근 사례에 대해서는 주로 학술 논문을 사용하며 이들에 대한 정보 또한 주별 계획에 기재되어 있다. 강의 주별 계획 등재된 자료들은 기본 및 추가 연구를 위한 자료이다. 강의 주요 교재로는 PPT가 사용된다.",
+        "    추천 교재",
+        "이고리 이바노프.「새로운 러시아의 외교」. 이항재 역. 서을: 단국대학교 출판부, 2003.",
+        "강봉구.「현대 러시아 대외정책의 이해」. 서울: 한양대학교 출판부, 1999.",
+        "강원식.「러시아는 우리에게 무엇인가」. 서울: 일신사, 1998.",
+        "김의곤 역저.「소련외교정책론, 1945-1991」. 인천: 인하대학교,1995.",
+        "안드리아노프, V. P.「러시아 대외경제론」. 서울: 동명사,1999.",
+        "최종기.「러시아 외교정책」.서울: 서울대학교 출판부, 2005.",
+        "현대러시아연구회.「현대러시아의 이해」.서울: 퇴설당, 2001.",
+        "Baranovsky, Vladimir. Russia and Europe: The Emerging Security Agenda. New York: Oxford University Press,1997.",
+        "Donaldson, Robert H. and Joseph Nogee. The Foreign Policy of Russia: Changing Systems, Enduring Interest. 4th ed. New York: M. E. Sharpe,2009.",
+        "Gvosdov, Nikolas K. and Christopher Marsh. Russian Foreign Policy: Interest, Vectors, and Sectors. L. A.: SAGE, 2014.",
+        "Mankoff, Jeffrey. Russian Foreign Policy: The Return of Great Power Politics. 2nd. Lanham, MD: Roman & Littlefield, 2012.",
+        "Tsygankov, Andrei P. Russia's Foreign Policy: Change and Continuity in the National Identity. 3rd. Lanham, MD: Rowman & Littlefield, 2013"
+      ]
+    }
   }
 }

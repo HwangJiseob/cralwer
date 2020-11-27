@@ -4077,6 +4077,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Dahl, Robert. On Democracy. New Heaven: Yale University Press, 1998/2015.",
+        "Dryzek, John S. & Patrick Dunleavy. Theories of the Democratic State. New York: Palgrave Macmillan, 2009."
+      ]
+    }
   }
 }

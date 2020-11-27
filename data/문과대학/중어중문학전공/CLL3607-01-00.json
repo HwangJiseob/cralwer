@@ -2399,7 +2399,19 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "ㅇ 주교재",
+        "吳勇毅 등 저, 김현철 등 역, <실용한어어법(實用漢語語法)>, YBM. ",
+        "http://book.naver.com/bookdb/book_detail.nhn?bid=13299188",
+        "",
+        "ㅇ 참고문헌",
+        "《現代漢語(增訂本)》- 北京大學中文系現代漢語??室編著",
+        "강의록 : http://ccl.pku.edu.cn/course/5_jiaocai.Asp?Folder=%2Fcourse%2Flecturenotes%2F3%D3%EF%B7%A8&MyOrderBy=%B1%EA%CC%E2",
+        "번역서 : http://book.naver.com/bookdb/book_detail.nhn?bid=2881458"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2782,6 +2794,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "교재 : ",
+        "①실용한어어법, 吳勇毅 외 主篇, 김현철 외 편역, YBM.",
+        "",
+        "참고문헌:",
+        "①실용현대한어어법(상/하), 김현철 외 역, 송산출판사.",
+        "②現代漢語(增訂版) 下冊, 黃伯榮 廖序東 主編, 高等敎育出版社."
+      ]
+    }
   }
 }

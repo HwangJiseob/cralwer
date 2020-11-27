@@ -2114,7 +2114,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1.Stephen Greenblatt, gen. ed. The Norton Anthology of English Literature. 9th ed. Volume A. New York: Norton, 2012. ",
+        "2.Course Reader"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2664,6 +2670,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1.Stephen Greenblatt, gen. ed. The Norton Anthology of English Literature. 9th ed. Volume A. New York: Norton, 2012. ",
+        "2.Course Reader"
+      ]
+    }
   }
 }

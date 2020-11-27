@@ -5100,7 +5100,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Caye. C.B.(2010).The Complete Guide to Service Learning. Free Sprit Publishing.",
+        "Lima M., Oakes, W.C.(2014). Service Learning. Oxford University Press."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -5387,7 +5393,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Caye. C.B.(2010).The Complete Guide to Service Learning. Free Sprit Publishing.",
+        "Lima M., Oakes, W.C.(2014). Service Learning. Oxford University Press."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -5759,6 +5771,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Caye. C.B.(2010).The Complete Guide to Service Learning. Free Sprit Publishing.",
+        "Lima M., Oakes, W.C.(2014). Service Learning. Oxford University Press."
+      ]
+    }
   }
 }

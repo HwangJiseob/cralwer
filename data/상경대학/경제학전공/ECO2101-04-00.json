@@ -5687,7 +5687,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Any Macroeconomics Textbook"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -5908,7 +5913,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Macroeconomics/N. Gregory Mankiw/Worth Publishers/2015"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -6501,6 +6511,28 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Williamson, Stephen D., Macroeconomics, Sixth Edition, Pearson, 2018."
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "ECO2101-04-00",
+      "과목명": "거시경제학"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(1) Textbook: Gregory Mankiw, Macroeconomics, 6th edition, Worth Publisher, \r",
+        "2007 (can use previous editions)\r",
+        "(2) Supplemental lecture notes (can download from the class website, \r",
+        "http://yscec.yonsei.ac.kr)\r",
+        "(3) Articles from Slate.com, Fortune, New York Times and others\r",
+        "(4) Paul Krugman, Peddling Prosperity: Economic Sense and Nonsense in an Age of \r",
+        "Diminished Expectations, W.W. Norton & Company, 1995."
+      ]
+    }
   }
 }

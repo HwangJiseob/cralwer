@@ -3500,7 +3500,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "주교재:",
+        "Hibbler, R,C., Statics and Mechanics of Materials, 3rd, 4th, or 5th ed., Prentice ",
+        "Hall."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -4807,6 +4814,19 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Textbook:",
+        "Hibbler, R.C.",
+        "Statics and Mechanics of Materials (3rd, 4th, 5th ed., SI units)",
+        "Pearson",
+        "",
+        "References:",
+        "Gere, J.M. and Goodno, B.J.",
+        "Mechanics of Materials (7th ed, SI units)",
+        "Cengate Learning, 2009"
+      ]
+    }
   }
 }

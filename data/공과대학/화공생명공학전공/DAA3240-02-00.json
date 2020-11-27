@@ -3787,7 +3787,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main book :  Organic Chemistry: A Brief Course, the newest edition, ",
+        "Hart/Hadad/Craine/Hart"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -4408,6 +4414,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Main book:  Organic Chemistry: A Brief Course, the newest edition, ",
+        "Hart/Hadad/Craine/Hart",
+        "",
+        "Sub-textbook: Organic Chemistry, John McMurry"
+      ]
+    }
   }
 }

@@ -652,6 +652,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "[Required textbook]",
+        "영문판: Kinesiology of the Musculoskeletal System: Foundation for Rehabilitation(3rd Ed.) by Donal A. Neumann. ELSEVIER",
+        "국문판: 근육뼈대계통의 기능해부학 및 운동학 (3판) 범문에듀케이션"
+      ]
+    }
   }
 }

@@ -1253,7 +1253,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- Frank, Robert H., and Ben S. Bernanke. 2016. Principles of Microeconomics. 6th ed. Boston, MA: McGraw-Hill/Irwin. 곽노선, 왕규호(역). 2016. 버냉키, 프랭크 경제학. 제6판. 박영사. [FB]",
+        "- Pindyck, Robert, and Daniel Rubinfeld. 2018. Microeconomics. 9th ed. New York, NY: Pearson. 박원규(역). 2016. 미시경제학. 제8판. 시그마프레스. [PR]",
+        "- O’Sullivan, Arthur. 2011. Urban Economics. 8th ed. Boston, MA: McGraw-Hill/Irwin. 이번송, 홍성효, 김석영(역). 2015. 오설리반의 도시경제학. 제8판. 박영사. [OS]",
+        "- McCann, Philip. 2013. Modern Urban and Regional Economics. 2nd ed. Oxford, UK: Oxford University Press. [MC]"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1425,6 +1433,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- Frank, Robert H., and Ben S. Bernanke. 2016. Principles of Microeconomics. 6th ed. Boston, MA: McGraw-Hill/Irwin. 곽노선, 왕규호(역). 2016. 버냉키, 프랭크 경제학. 제6판. 박영사. [FB]",
+        "- O’Sullivan, Arthur. 2019. Urban Economics. 9th ed. Boston, MA: McGraw-Hill/Irwin. 이번송, 홍성효, 김석영(역). 2015. 오설리반의 도시경제학. 제8판. 박영사. [OS]"
+      ]
+    }
   }
 }

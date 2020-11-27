@@ -1865,7 +1865,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -2025,7 +2030,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -2479,7 +2489,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Required Text:",
+        "Collins, Alan (ed.) (2015), Contemporary Security Studies (4th revised edition), Oxford: Oxford University Press.",
+        "Note: There is a 5th edition of the textbook, and the chapter contents are basically the same if you want to buy (or otherwise acquire) that. Because there are more copies of the 4th edition available in the library (on course reserve), I thought it would easier to assign the 4th edition. If you get a different edition of the text, focus on the titles of the chapters, because sometimes the chapter numbers change from one edition to the next. Use your common sense, and if that fails, ask me."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3004,6 +3021,11 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

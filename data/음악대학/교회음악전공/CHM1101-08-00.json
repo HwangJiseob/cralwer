@@ -1,0 +1,36 @@
+{
+  "20201": {
+    "LECT_DATA": {
+      "학정번호-분반-실습": "CHM1101-08-00",
+      "과목명": "전공실기"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "학생의 과제곡에 대한 악보(서문)와 문헌",
+        "-Johann Sebastian Bach의 오르간곡",
+        "-독일낭만곡/프랑스낭만곡",
+        "-Pre-Bach의 바로크/르네상스 레퍼토리",
+        "-현대곡",
+        "",
+        "(참고문헌)",
+        "- Historical Performance Practice in Organ Playing, Laukvik, Jon, Carus",
+        "    Part 1. Baroque and Classical Era",
+        "    Part 2. The Romantic Era",
+        "- Keyboard Interpretation From the 14th to the 19th Century, Ferguson, Howard, Oxford University Press, 1975."
+      ]
+    }
+  },
+  "20202": {
+    "LECT_DATA": {
+      "학정번호": "CHM1101-08-00",
+      "과목명": "전공실기"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "참고문헌",
+        "- Die Orgel (Kal-Heinz G?ttert 저, 출판사 Baerenreiter)",
+        "- 오르간 음악의 해석 (Viktor Lukas 저, 출판사 음악춘추사)"
+      ]
+    }
+  }
+}

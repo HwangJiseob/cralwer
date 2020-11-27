@@ -138,6 +138,29 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
+  },
+  "20192": {
+    "LECT_DATA": {
+      "학정번호": "BSP3226-01-00",
+      "과목명": "관악문헌"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(교재)",
+        "Dropbox 또는 YSCEC에 강의자료 업로드 예정",
+        "",
+        "(참고문헌)",
+        "차호성·오희숙. 들으며 배우는 관현악문헌 실내악 1-2, 서울: 심설당, 2011.",
+        "Weisberg, Arthur. The Art of Wind Playing, Galesvile, MD: Meredith Music Publications, 2007.",
+        "Toff, Nancy. Flute Book. New York, N.Y: Oxford University Press, 2012.",
+        "김정덕. 금관악기를 위한 크리닉, 서울: 아브라함음악사, 2008."
+      ]
+    }
   }
 }

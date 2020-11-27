@@ -617,6 +617,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- Richard Arum, Irenee R. Beattie and Karly Ford. 2015. The Structure of Schooling: Readings in the Sociology of Education (3rd edition). Sage Publications.",
+        "- 케빈 캐리 2016[2015] [대학의 미래: 어디서나 닿을 수 있는 열린 교육의 탄생] 지식의 날개.",
+        "- 아만다 리플리 2014[2013] [무엇이 이 나라 학생들을 똑똑하게 만드는가] 부키.",
+        "- 그 외 강의자가 선별한 잡지/신문 기사 및 학술 논문들(구체적인 리딩 목록은 학기 시작하면서 공지 예정)"
+      ]
+    }
   }
 }

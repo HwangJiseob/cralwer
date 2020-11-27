@@ -43,6 +43,43 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "1학년 박시온 ",
+        "",
+        "D. Buxtehude, Praeludium g-moll, BuxWV 149",
+        "J. S. Bach, Fuge e-moll, BWV538",
+        "L. Vierne, Carillon de Westminster",
+        "",
+        "",
+        "4학년 김세연 ",
+        "",
+        "",
+        "J. S. Bach, Canonic variations on Vom Himmel hoch da komm ich her, BWV769",
+        "",
+        "L. Vierne, 6eme Symphonie, Op. 59 중",
+        "",
+        "I. Introduction et Allegro",
+        "V. Final"
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "CHM1101-13-00",
+      "과목명": "전공실기"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ C.P.E.바흐의 올바른 피아노 연주법 (C.P.E. Bach, 예솔 2014) ",
+        "○ 오르간 연주자로서의 J.S. Bach : 그의 악기 음악 그리고 연주관습 (George B Stauffer, 음악 춘추사, 2000)",
+        "○ 오르간 음악의 해석 (Viktor Lucas, 음악춘추사, 2000)",
+        "○ Playing the organ works of C?sar Franck (Rollin Smith, Pendragon Press, 1997)",
+        "○ The registration of J. S. Bach's organ works : a study of german organ-building and registration practices of th late Baroque era (Thomas Harmon, Frits Knuf, 1981)",
+        "○ Max Reger and Karl Straube : Perspectives on an organ performing tradition (Christopher Anderson, Ashgate, 2003)",
+        "○ The Language of the classical French organ : a musical tradition before 1800 (Fenner Douglass, Yale University Press, 1969/1995)"
+      ]
+    }
   }
 }

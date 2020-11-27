@@ -1279,7 +1279,27 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(참고문헌)",
+        "Barnes, J.W. (1981). Basic Geological Mapping (2nd Edition).  John Wiley & ",
+        "Sons Ltd, England, 118 p.",
+        "Barnes, J.W. and Lisle, R.J. (2004). Basic Geological Mapping (4th Edition).  ",
+        "John Wiley & Sons Ltd., England, 184 p.",
+        "Compton, R.R. (1985).  Geology in the Field.  John Wiley and Sons, New York, ",
+        "398 p.",
+        "Lisle, R.J. (1995).  Geological Structures and Maps: A Practical Guide (2nd ",
+        "Edition).  Butterworth-Heinemann Ltd., Oxford, 104 p.",
+        "Marshak, S and Mitra, G. (1988). Basin Method of Structural Geology.  Prentice ",
+        "Hall, New Jersey, 446 p.",
+        "Roberts, J.L. (1982).  Introduction to Geological Maps and Structures.  ",
+        "Pergamon Press, Oxford. 332 p.",
+        "Spencer, E.W. (1993).  Geological Maps: A Practical Guide to the ",
+        "Interpretation and Preparation of Geological Maps.",
+        "Van der Pluijm B.A. and Marshak, S. (2003).  Earth Structure (2nd Edition)."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -1508,6 +1528,26 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "(참고문헌)",
+        "Barnes, J.W. (1981). Basic Geological Mapping (2nd Edition).  John Wiley & ",
+        "Sons Ltd, England, 118 p.",
+        "Barnes, J.W. and Lisle, R.J. (2004). Basic Geological Mapping (4th Edition).  ",
+        "John Wiley & Sons Ltd., England, 184 p.",
+        "Compton, R.R. (1985).  Geology in the Field.  John Wiley and Sons, New York, ",
+        "398 p.",
+        "Lisle, R.J. (1995).  Geological Structures and Maps: A Practical Guide (2nd ",
+        "Edition).  Butterworth-Heinemann Ltd., Oxford, 104 p.",
+        "Marshak, S and Mitra, G. (1988). Basin Method of Structural Geology.  Prentice ",
+        "Hall, New Jersey, 446 p.",
+        "Roberts, J.L. (1982).  Introduction to Geological Maps and Structures.  ",
+        "Pergamon Press, Oxford. 332 p.",
+        "Spencer, E.W. (1993).  Geological Maps: A Practical Guide to the ",
+        "Interpretation and Preparation of Geological Maps.",
+        "Van der Pluijm B.A. and Marshak, S. (2003).  Earth Structure (2nd Edition)."
+      ]
+    }
   }
 }

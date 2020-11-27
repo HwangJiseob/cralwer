@@ -13862,7 +13862,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Introduction to Mathematical Statistics, 7th Edition by Hogg, Mckean, Craig."
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -17052,7 +17057,20 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "* Required textbook *\r",
+        "Hogg, McKean, and Craig (2012). Introduction to Mathematical Statistics, 7th \r",
+        "Edition, Prentice Hall.\r",
+        "http://www.amazon.com/Introduction-Mathematical-Statistics-Edition-\r",
+        "Hardcover/dp/B0084UZNHI\r",
+        "* Optional textbook *\r",
+        "박태영 (2012). 수리통계학 개론, 경문사.\r",
+        "http://book.interpark.com/product/BookDisplay.do?\r",
+        "_method=Detail&sc.shopNo=0000400000&dispNo=&sc.prdNo=211834816"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -19822,7 +19840,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Introduction to Mathematical Statistics, 7th Edition by Hogg, Mckean, Craig."
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -25407,6 +25430,15 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "* Required textbook *",
+        "Hogg, McKean, and Craig (2018). Introduction to Mathematical Statistics, 8th Edition, Pearson. (http://amzn.to/2ZZ2tkD)",
+        "",
+        "* Optional textbook *",
+        "박태영 (2018). 수리통계학 개론 (번역판), 경문사. (http://bit.ly/3hCRSl4)"
+      ]
+    }
   }
 }

@@ -1653,7 +1653,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "E. Etzioni-Halevy, 1985, Bureaucracy and democracy : a political dilemma. (윤재풍 역: <관료제와 민주주의>, 대영문화사)",
+        "B. Guy Peters, 1995, the Politics of Bureaucracy. 4th edition. London:Lonman",
+        "기타 관련 논문"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2469,6 +2476,13 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "E. Etzioni-Halevy, 1985, Bureaucracy and democracy : a political dilemma. (윤재풍 역: <관료제와 민주주의>, 대영문화사)",
+        "B. Guy Peters, 1995, the Politics of Bureaucracy. 4th edition. London:Lonman",
+        "기타 관련 논문"
+      ]
+    }
   }
 }

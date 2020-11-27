@@ -5436,7 +5436,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Intermediate microeconomics : a modern approach/Varian, Hal R./W.W. Norton & Co./2014 / 9th ed"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -7422,7 +7427,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Intermediate microeconomics : a modern approach/Varian, Hal R./W.W. Norton & Co./2014 / 9th ed"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -9296,7 +9306,12 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Intermediate microeconomics : a modern approach/Varian, Hal R./W.W. Norton & Co./2014 / 9th ed"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -11186,6 +11201,11 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Intermediate microeconomics : a modern approach/Varian, Hal R./W.W. Norton & Co./2014 / 9th ed"
+      ]
+    }
   }
 }

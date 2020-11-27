@@ -905,7 +905,22 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "TEXTBOOKS(S) AND/OR OTHER REQUIRED MATERIAL\r",
+        "Required Textbook: \r",
+        "1. Frank R. Dagostino and Leslie Feigenbaum (2003) “Estimating in Building \r",
+        "Construction, 6th Edition.” Prentice Hall, New Jersey, 2003.\r",
+        "2. 조준현 외 (2007). “건축적산실습.” 기문당. : Cho. et al. (2007)\r",
+        "Additional Reference:\r",
+        "1. Alphonse J. Dell’lsola and Stephen J. Kirk, Life Cycle Costing for \r",
+        "Facilities, Reed Construction Data, Construction Publishers & Consultants, \r",
+        "2003.\r",
+        "2. Daniel. W. Halpin and Ronald W. Woodhead. Construction Management (3rd \r",
+        "Edition). John Wiley & Sons, New York."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1231,6 +1246,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "조준현 외 (2016). “건축적산실습.” 기문당."
+      ]
+    }
   }
 }

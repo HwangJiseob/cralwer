@@ -1511,7 +1511,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1655,6 +1660,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "참고문헌: Henri Coulet, Le Roman jusqu'a la Revolution, Armand Colin, 2000 (9eme edition)."
+      ]
+    }
   }
 }

@@ -349,6 +349,21 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Convivial design toolbox generative research for the front end of design/Sanders, Elizabeth B.-N/Bis/2012",
+        "",
+        "○ Business dynamics : systems thinking and modeling for a complex world/Sterman, John/Irwin/McGraw-Hill/2000",
+        "",
+        "○ Speculative everything : design, fiction, and social dreaming/Dunne, Anthony/MIT Press/2013",
+        "",
+        "○ Understanding context : environment, language, and information architecture/Hinton, Andrew/O'Reilly Media/2015",
+        "",
+        "○ The user's journey : storymapping products that people love/Lichaw, Donna/Rosenfeld Media/2016",
+        "",
+        "○ Morecroft, J. D. (2015). Strategic modelling and business dynamics: A feedback systems approach. Hoboken, NJ: John Wiley & Sons."
+      ]
+    }
   }
 }

@@ -2857,7 +2857,13 @@
         "수강여부": "O",
         "비고": "*"
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "김병섭 외 (2013), 정책수단론, 법문사",
+        "Lester Salamon (2002) Tools of Government. Oxford University Press"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -3516,7 +3522,17 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Reading packet will be prepared for purchase at the copy center in Yonhee Hall. The reading packet includes materials from different sources including the followings:",
+        "Salomon's book",
+        "Hood and Margretts's book",
+        "Howlett's book",
+        "Eliadis, Hill, and Howlett' book",
+        "Bemelams-Videc and Vedung's book"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -3751,6 +3767,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "The Tools of Government: A Guide to the new Government (Lester M. Salamon)",
+        "Carrots, Sticks & Sermons  (Marie-Louis Bemelmans-Videc, Ray C. Rist, and Evert Vedung)",
+        "",
+        "기타 관련논문"
+      ]
+    }
   }
 }

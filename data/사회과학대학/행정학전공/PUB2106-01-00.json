@@ -1362,7 +1362,16 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "- 스마트 전자정부론  정보체계와 전자정부의 이론과 실제 명승환 지음, 최신 개정판인 3판(2018년) (율곡출판사)",
+        "- 전면개정판(2018년) 전자정부론 정충식 (서울경제경영)",
+        "- The Fourth Industrial Revolution by Klaus Schwab [클라우스 슈밥의 제4차 산업혁명/송경진 역, 새로운현재]",
+        "- Public Administration and Information Technology by Christopher G. Reddick, Jones & Bartlett Learning",
+        "- The Honest Broker by Roger A. Pielke Jr."
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -1520,6 +1529,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
   }
 }

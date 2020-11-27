@@ -4066,7 +4066,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Principles of Mathematical Analysis"
+      ]
+    }
   },
   "20192": {
     "CAUTION": {
@@ -5065,7 +5070,12 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Elementary classical analysis/Marsden, Jerrold E./W.H. Freeman/1993 / 2nd ed"
+      ]
+    }
   },
   "20201": {
     "CAUTION": {
@@ -6008,7 +6018,13 @@
         "수강여부": "X",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "루딘책 1장-8장",
+        "\r○ Walter Rudin  Principle of mathematical analysis"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -6363,6 +6379,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Principles of Mathematical Analysis"
+      ]
+    }
   }
 }

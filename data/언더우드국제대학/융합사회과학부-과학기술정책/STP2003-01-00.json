@@ -576,7 +576,14 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Campbell Essential Biology with Physiology 6th Edition",
+        "registered in the Underwood Library under this course.",
+        "\r○ Campbell Essential Biology with Physiology 6th Edition"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -850,6 +857,15 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Campbell Essential Biology with Physiology 6th Edition",
+        "The Body: a Guide for Occupants by Bill Bryson 2019",
+        "registered in the Underwood Library under this course.",
+        "",
+        "\r○"
+      ]
+    }
   }
 }

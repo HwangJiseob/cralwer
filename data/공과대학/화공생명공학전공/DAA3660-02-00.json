@@ -1981,7 +1981,12 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Yunus A. Cengel, Heat Transfer - A practical Approach, 2nd ed, McGraw-Hill (변경 가능성 큼)"
+      ]
+    }
   },
   "20202": {
     "CAUTION": {
@@ -2518,6 +2523,11 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Heat and Mass Transfer - Fundamentals & Applications 5/E (ISBN: 9789814595278)  Yunus Cengel, Afshin Ghajar"
+      ]
+    }
   }
 }

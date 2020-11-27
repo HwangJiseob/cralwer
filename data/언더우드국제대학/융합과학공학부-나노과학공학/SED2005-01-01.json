@@ -566,5 +566,17 @@
         "비고": ""
       }
     ]
+  },
+  "20192": {
+    "LECT_DATA": {
+      "학정번호": "SED2005-01-01",
+      "과목명": "COMPUTER PROGRAMMING FOR ISED"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "○ Introduction to computer science using Python : a computational problem-solving focus/Dierbach, Charles/John Wiley & Sons/2013",
+        "\r○ Learning Python/Lutz, Mark/O'Reilly/2013 / 5th ed"
+      ]
+    }
   }
 }

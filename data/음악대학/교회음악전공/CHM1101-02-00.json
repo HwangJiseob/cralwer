@@ -113,6 +113,28 @@
         "수강여부": "O",
         "비고": ""
       }
-    ]
+    ],
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        ""
+      ]
+    }
+  },
+  "20201": {
+    "LECT_DATA": {
+      "학정번호": "CHM1101-02-00",
+      "과목명": "전공실기"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "Free works by  Buxtehude/",
+        "Free works, Chorale preludes by J. S. Bach/",
+        "Selected pieces by Couperin/",
+        "Selected pieces by Franck, Guilmant, Vierne, Dupre, and Messiaen/",
+        "Second organ sonata by Hindemith/",
+        "",
+        "annotated editions 외에 국, 내외 학술 자료, 문헌 등"
+      ]
+    }
   }
 }

@@ -1,0 +1,18 @@
+{
+  "20202": {
+    "LECT_DATA": {
+      "학정번호-분반-실습": "GLC1246-01-00",
+      "과목명": "대학생을위한지속가능한식생활관리"
+    },
+    "SYLLABUS_DATA": {
+      "교재 및 참고문헌": [
+        "References",
+        "",
+        "1. Fundamentals of Meal Management. Margaret McWilliams. Pearson PrenticeHall, 5th edition, 2005. ",
+        "2. Meals in science and practice : interdisciplinary research and business applications. CRC Press, 2009.",
+        "3. What I eat : around the world in 80 diets. Menzel P and D`aluisio F. Material World Books/Ten Speed Press, 2010. ",
+        "4. Hungry Planet : what the world eats. Menzel P and D`aluisio F. Material World Books/Ten Speed Press, 2005."
+      ]
+    }
+  }
+}
